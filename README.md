@@ -10,6 +10,8 @@ You can also make them with **a lot less code**.
 - https://github.com/sw-yx/svelte-data-fetching
 - Given at conference: https://sveltesociety.dev/
 
+![sveltetalk](https://user-images.githubusercontent.com/6764957/80290785-6fd1c600-877a-11ea-9878-1a7c2191fb49.gif)
+
 ## Lesson Plan
 
 - Fetching on mount
