@@ -1,8 +1,8 @@
 <script>
   export let idx;
-  import records from "./records.json";
-
-  $: record = records[idx];
+  import { fetchData } from "./fetchData";
+  let record;
+  $: fetchData(idx).then(x => (record = x));
 </script>
 
 <style>
@@ -47,19 +47,21 @@
 </style>
 
 <div>
+  {#if record}
+    <article>
+      <div
+        class="thumbnail"
+        style={`background-image: url(${record.images.thumbnail})`} />
 
-  <article>
-    <div
-      class="thumbnail"
-      style={`background-image: url(${record.images.thumbnail})`} />
+      <div class="content">
+        <h3 class="title">{record.superName}</h3>
 
-    <div class="content">
-      <h3 class="title">{record.superName}</h3>
-
-      <div>
-        <p>{record.description}</p>
+        <div>
+          <p>{record.description}</p>
+        </div>
       </div>
-    </div>
-  </article>
-
+    </article>
+  {:else}
+    <div>Loading...</div>
+  {/if}
 </div>
