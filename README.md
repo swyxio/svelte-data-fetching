@@ -4,6 +4,12 @@ Here at the Svelte Society For Developers Who Are New to Svelte And Wanna Learn 
 
 You can also make them with **a lot less code**.
 
+## Demo
+
+- https://svelte-data-fetching.netlify.app/
+- https://github.com/sw-yx/svelte-data-fetching
+- Given at conference: https://sveltesociety.dev/
+
 ## Lesson Plan
 
 - Fetching on mount
