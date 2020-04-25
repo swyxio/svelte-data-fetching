@@ -10,48 +10,38 @@ body {
   margin: 0;
   padding: 8px;
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; */
+  font-family: "Comic Sans MS";
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-input[type="number"] {
-  position: relative;
-  margin: 0 0 1rem;
-  border: 1px solid #bbb;
-  border-color: #bbb #ececec #ececec #bbb;
-  padding: 0.2rem;
-  width: 3rem;
-  font-size: 1.5rem;
-}
-
-input[type="number"]::-webkit-outer-spin-button,
-input[type="number"]::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  background: #fff
-    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAKUlEQVQYlWNgwAT/sYhhKPiPT+F/LJgEsHv37v+EMGkmkuImoh2NoQAANlcun/q4OoYAAAAASUVORK5CYII=)
-    no-repeat center center;
-  width: 1rem;
-  border-left: 1px solid #bbb;
-  opacity: 0.5; /* shows Spin Buttons per default (Chrome >= 39) */
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-}
-input[type="number"]::-webkit-inner-spin-button:hover,
-input[type="number"]::-webkit-inner-spin-button:active {
-  box-shadow: 0 0 2px #0cf;
-  opacity: 0.8;
-}
-
 .App {
   /* width: 400px; */
+
   margin: 0 auto;
   transition: all 0.5s ease;
+}
+
+pre {
+  text-align: left;
+  background-color: #ccc;
+  border-radius: 0px 10px 10px 0px;
+  border-left: 3px solid blue;
+  overflow: scroll;
+}
+pre.stale {
+  background-color: #ddd;
+  color: #999;
+}
+blockquote {
+  background-color: papayawhip;
+  padding: 1em;
+  border-radius: 0px 10px 10px 0px;
+  border-left: 3px solid red;
 }
 
 a {
@@ -108,4 +98,129 @@ button:not(:disabled):active {
 
 button:focus {
   border-color: #666;
+}
+
+main {
+  text-align: center;
+  padding: 1em;
+  /* max-width: 240px; */
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+}
+.controls {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+label {
+  display: inline;
+}
+
+input[type="number"] {
+  position: relative;
+  /* margin: 0 0 1rem; */
+  border: 1px solid #bbb;
+  border-color: #bbb #ececec #ececec #bbb;
+  padding: 0.2rem;
+  width: 3rem;
+  font-size: 1.5rem;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  background: #fff
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAKUlEQVQYlWNgwAT/sYhhKPiPT+F/LJgEsHv37v+EMGkmkuImoh2NoQAANlcun/q4OoYAAAAASUVORK5CYII=)
+    no-repeat center center;
+  width: 1rem;
+  border-left: 1px solid #bbb;
+  opacity: 0.5; /* shows Spin Buttons per default (Chrome >= 39) */
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+input[type="number"]::-webkit-inner-spin-button:hover,
+input[type="number"]::-webkit-inner-spin-button:active {
+  box-shadow: 0 0 2px #0cf;
+  opacity: 0.8;
+}
+
+/* https://css-tricks.com/the-checkbox-hack/ */
+/* Base for label styling */
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+  position: absolute;
+  left: -9999px;
+}
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+  position: relative;
+  padding-left: 1.95em;
+  cursor: pointer;
+}
+
+/* checkbox aspect */
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.25em;
+  height: 1.25em;
+  border: 2px solid #ccc;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+/* checked mark aspect */
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+  content: "\2713\0020";
+  position: absolute;
+  top: 0.15em;
+  left: 0.22em;
+  font-size: 1.3em;
+  line-height: 0.8;
+  color: #09ad7e;
+  transition: all 0.2s;
+  font-family: "Lucida Sans Unicode", "Arial Unicode MS", Arial;
+}
+/* checked mark aspect changes */
+[type="checkbox"]:not(:checked) + label:after {
+  opacity: 0;
+  transform: scale(0);
+}
+[type="checkbox"]:checked + label:after {
+  opacity: 1;
+  transform: scale(1);
+}
+/* disabled checkbox */
+[type="checkbox"]:disabled:not(:checked) + label:before,
+[type="checkbox"]:disabled:checked + label:before {
+  box-shadow: none;
+  border-color: #bbb;
+  background-color: #ddd;
+}
+[type="checkbox"]:disabled:checked + label:after {
+  color: #999;
+}
+[type="checkbox"]:disabled + label {
+  color: #aaa;
+}
+/* accessibility */
+[type="checkbox"]:checked:focus + label:before,
+[type="checkbox"]:not(:checked):focus + label:before {
+  border: 2px dotted blue;
+}
+
+/* hover style just for information */
+label:hover:before {
+  border: 2px solid #4778d9 !important;
 }

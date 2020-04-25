@@ -1,9 +1,32 @@
 <script>
+  import { data, getCharacter } from "./fetchData";
+  import Spinner from "./Spinner.svelte";
   export let idx;
-  import { fetchData } from "./fetchData";
-  let record;
-  $: fetchData(idx).then(x => (record = x));
+  $: getCharacter(idx);
 </script>
+
+<div>
+  {#if $data[idx]}
+    <article>
+      <div
+        class="thumbnail"
+        style={`background-image: url(${$data[idx].images.thumbnail})`}
+      />
+
+      <div class="content">
+        <h3 class="title">{$data[idx].superName}</h3>
+
+        <div>
+          <p>{$data[idx].description}</p>
+        </div>
+      </div>
+    </article>
+  {:else}
+    <article>
+      <Spinner />
+    </article>
+  {/if}
+</div>
 
 <style>
   div {
@@ -24,7 +47,7 @@
     box-shadow: 0 1px 0 #c5cad8, 0 2px 3px #d4d8e3;
     display: flex;
     flex-flow: row nowrap;
-    cursor: pointer;
+    /* cursor: pointer; */
   }
   .thumbnail {
     flex: 0 1 33%;
@@ -45,23 +68,3 @@
     font-size: 0.75rem;
   }
 </style>
-
-<div>
-  {#if record}
-    <article>
-      <div
-        class="thumbnail"
-        style={`background-image: url(${record.images.thumbnail})`} />
-
-      <div class="content">
-        <h3 class="title">{record.superName}</h3>
-
-        <div>
-          <p>{record.description}</p>
-        </div>
-      </div>
-    </article>
-  {:else}
-    <div>Loading...</div>
-  {/if}
-</div>
