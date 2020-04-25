@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Magician"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Robert Kirkman",
+    "Stan Lee",
+    "Tom Raney"
+  ],
+  "description": "Magician (Elliot Boggs) is a fictional character in the Ultimate Marvel imprint of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMEN_Magician.jpg"
+  },
+  "mainColor": null,
+  "name": "Magician",
+  "partners": [
+  ],
+  "powers": [
+    "Expert animal trainer",
+    "Hypnosis",
+    "Illusionist",
+    "Master pickpocket",
+    "Skilled stage magician",
+    "Trickster",
+    "Use of motorized cane"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 613,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elliot Boggs",
+    "Lee Guardineer"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Magician",
+  "teams": [
+    "Ultimate X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Magician_(comics)"
+  }
+}

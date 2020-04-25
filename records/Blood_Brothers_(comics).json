@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "The Blood Brothers"
+  ],
+  "authors": [
+    "Jim Starlin",
+    "Mike Friedrich"
+  ],
+  "description": "The Blood Brothers are fictional characters that appear in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Iron_Man_v1_055_-_00.jpg/250px-Iron_Man_v1_055_-_00.jpg"
+  },
+  "mainColor": null,
+  "name": "Blood Brothers",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 585,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Blood Brothers",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blood_Brothers_(comics)"
+  }
+}

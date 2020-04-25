@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Breeze Barton"
+  ],
+  "authors": [
+    "Jack Binder"
+  ],
+  "description": "Breeze Barton is a fictional character who appears in comics published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Breeze_Barton.jpg/200px-Breeze_Barton.jpg"
+  },
+  "mainColor": null,
+  "name": "Breeze Barton",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced endurance",
+    "Marksman",
+    "Ray guns",
+    "Use of jetpacks"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 283,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kurt Barton"
+  ],
+  "species": [
+  ],
+  "superName": "Breeze Barton",
+  "teams": [
+    "A.R.M.O.R",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Breeze_Barton"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Doc Occulus",
+    "Occulus",
+    "the Unforgiving One"
+  ],
+  "authors": [
+    "Paul Ryan",
+    "Tom DeFalco"
+  ],
+  "description": "Occulus is a fictional character in the Marvel Universe.Occulus is an enemy of the Fantastic Four.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Occulus",
+  "partners": [
+  ],
+  "powers": [
+    "Can form force fields",
+    "Project energy blasts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 437,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Occulus"
+  ],
+  "species": [
+    "Extradimensional  mutant",
+    "mutate"
+  ],
+  "superName": "Occulus",
+  "teams": [
+    "The Gem Guild"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Occulus"
+  }
+}

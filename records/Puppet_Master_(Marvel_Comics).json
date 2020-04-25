@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Puppet Master"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Puppet Master (real name Phillip Masters) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.The Puppet Master uses radioactive clay to make puppets of people that he can then control, attaching them to strings and moving them as puppets; presumably he has some sort of psionic ability that enables him to do this.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/4c003c738f74c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Puppet Master",
+  "partners": [
+    "Alicia Masters",
+    "Doctor Doom",
+    "Egghead",
+    "Krang",
+    "Mad Thinker",
+    "Warlord Krang",
+    "Wizard"
+  ],
+  "powers": [
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 1,
+    "pageviewCount": 1475,
+    "serieCount": 14,
+    "storyCount": 28
+  },
+  "secretIdentities": [
+    "Phillip Masters"
+  ],
+  "species": [
+  ],
+  "superName": "Puppet Master",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2742/puppet_master",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puppet_Master_(Marvel_Comics)"
+  }
+}

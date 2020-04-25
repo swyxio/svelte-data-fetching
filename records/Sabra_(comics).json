@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Sabra",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Sal Buscema"
+  ],
+  "description": "Ruth Bat-Seraph is an Israeli national who, along with her family, was taken to a special community by the Israeli government when her genetic mutation manifested.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sabramu0.jpg/229px-Sabramu0.jpg"
+  },
+  "mainColor": null,
+  "name": "Sabra",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Paralyzing quills",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 14,
+    "eventCount": 0,
+    "pageviewCount": 1127,
+    "serieCount": 9,
+    "storyCount": 12
+  },
+  "secretIdentities": [
+    "Ruth Bat-Seraph"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sabra",
+  "teams": [
+    "Mossad",
+    "X-Corporation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1972/sabra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabra_(comics)"
+  }
+}

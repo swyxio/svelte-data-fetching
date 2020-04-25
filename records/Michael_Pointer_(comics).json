@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Captain Canada",
+    "Omega",
+    "The Collective",
+    "Weapon Omega"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Steve McNiven"
+  ],
+  "description": "Michael Pointer is a fictional character code-named Omega, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mcp4.jpg/250px-Mcp4.jpg"
+  },
+  "mainColor": null,
+  "name": "Michael Pointer",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Manipulation",
+    "Mutant energy absorption"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1074,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Michael Pointer"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Michael Pointer",
+  "teams": [
+    "Dark X-Men",
+    "Omega Flight"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Pointer_(comics)"
+  }
+}

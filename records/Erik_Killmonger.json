@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Erik Killmonger"
+  ],
+  "authors": [
+    "Don McGregor",
+    "Rich Buckler"
+  ],
+  "description": "Erik Killmonger is a fictional supervillain published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Erik Killmonger",
+  "partners": [
+  ],
+  "powers": [
+    "Expert martial artist",
+    "Genius level intellect",
+    "Peak human strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1585,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "N'Jadaka"
+  ],
+  "species": [
+  ],
+  "superName": "Erik Killmonger",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Killmonger"
+  }
+}

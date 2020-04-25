@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Lord of Chaos",
+    "Shuma-Gorath"
+  ],
+  "authors": [
+    "Frank Brunner",
+    "Robert E. Howard",
+    "Steve Englehart"
+  ],
+  "description": "Shuma-Gorath is a fictional character first mentioned in a short story by author Robert E.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Shuma_Gorath.jpg/250px-Shuma_Gorath.jpg"
+  },
+  "mainColor": null,
+  "name": "Shuma-Gorath",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality",
+    "Reality warping",
+    "Shapeshifting",
+    "Telepathy",
+    "Teleportation",
+    "Vast mystical powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5636,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Shuma-Gorath",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shuma-Gorath"
+  }
+}

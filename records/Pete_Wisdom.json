@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Pete Wisdom",
+    "Winston"
+  ],
+  "authors": [
+    "Ken Lashley",
+    "Ken Lashley (artist)",
+    "Warren Ellis"
+  ],
+  "description": "Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027/standard_xlarge.png"
+  },
+  "mainColor": null,
+  "name": "Pete Wisdom",
+  "partners": [
+  ],
+  "powers": [
+    "Experienced spy",
+    "Great leaping"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 1288,
+    "serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Pete",
+    "Peter Paul Wisdom"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Pete Wisdom",
+  "teams": [
+    "Black Air",
+    "Excalibur",
+    "MI-13",
+    "MI6",
+    "New Excalibur",
+    "Secret Intelligence Service",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2825/pete_wisdom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Wisdom"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Andrea von Strucker",
+    "Andreas von Strucker",
+    "Baron Strucker",
+    "Fenris",
+    "Swordsman"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Andrea von Strucker and Andreas von Strucker are two fictional characters from the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Fenris",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Force blasts",
+    "Hand-to-hand combatant",
+    "Phenomenal acrobat",
+    "Sword usage"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1573,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Andrea von Strucker",
+    "Andrea von Strucker (female)",
+    "Andreas von Strucker",
+    "Andreas von Strucker (male)"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Fenris",
+  "teams": [
+    "Assembly of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fenris_(comics)"
+  }
+}

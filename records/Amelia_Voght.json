@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Amelia Voght"
+  ],
+  "authors": [
+    "John Romita Jr",
+    "John Romita Jr.",
+    "Scott Lobdell"
+  ],
+  "description": "Amelia C.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg"
+  },
+  "mainColor": null,
+  "name": "Amelia Voght",
+  "partners": [
+  ],
+  "powers": [
+    "Can turn herself",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 795,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Amelia C. Voght"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Amelia Voght",
+  "teams": [
+    "Acolytes",
+    "Genosha",
+    "Genoshan Cabinet"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Voght"
+  }
+}

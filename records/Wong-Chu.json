@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Wong-Chu"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jack Kirby",
+    "Larry Lieber"
+  ],
+  "description": "Wong-Chu is a fictional character, a comic book supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Wong-Chu",
+  "partners": [
+  ],
+  "powers": [
+    "Expert martial artist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 642,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Wong-Chu",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wong-Chu"
+  }
+}

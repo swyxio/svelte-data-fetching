@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Cameron Hodge",
+    "The Commander"
+  ],
+  "authors": [
+    "Bob Layton",
+    "Jackson Guice"
+  ],
+  "description": "Cameron Hodge is a fictional comic book supervillain and opponent of the X-Men, as seen in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg"
+  },
+  "mainColor": null,
+  "name": "Cameron Hodge",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1472,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Cameron Hodge",
+  "teams": [
+    "Genosha",
+    "Genoshan Cabinet",
+    "N'astirh",
+    "Phalanx",
+    "Purifiers",
+    "The Right",
+    "X-Factor"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Hodge"
+  }
+}

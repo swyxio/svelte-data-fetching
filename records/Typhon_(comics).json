@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Typhaon",
+    "Typhon",
+    "Typhoon"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Typhon is a fictional character, a supervillain in the Marvel Universe, most commonly associated with the hero Hercules.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Typhon.jpg/250px-Typhon.jpg"
+  },
+  "mainColor": null,
+  "name": "Typhon",
+  "partners": [
+  ],
+  "powers": [
+    "Healing factor",
+    "Immortality",
+    "Superhuman agility",
+    "Superhuman reflexes",
+    "Superhuman stamina",
+    "Superhuman strength",
+    "Weather modification"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 378,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Typhon"
+  ],
+  "species": [
+  ],
+  "superName": "Typhon",
+  "teams": [
+    "Titans of Olympus"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Typhon_(comics)"
+  }
+}

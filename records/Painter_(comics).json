@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Painter",
+    "Painter of 1000 Perils"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Robert Bernstein",
+    "Stan Lee"
+  ],
+  "description": "Wilhelm van Vile, better known as The Painter, is a fictional character, a supervillain appearing in Marvel Comics-published comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Strang_Tales_108_cover.jpg/250px-Strang_Tales_108_cover.jpg"
+  },
+  "mainColor": null,
+  "name": "Painter",
+  "partners": [
+  ],
+  "powers": [
+    "Matter manipulation",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 94,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wilhelm van Vile"
+  ],
+  "species": [
+  ],
+  "superName": "Painter",
+  "teams": [
+    "Avant Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Painter_(comics)"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Kraven the Hunter",
+    "Spider-Man"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Kraven the Hunter is a fictional supervillain who appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/527410063de71/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Kraven the Hunter",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Gifted tactician",
+    "Hand-to-hand combatant",
+    "Hunter",
+    "Longevity",
+    "Olympic-level athlete",
+    "Reflexes",
+    "Senses",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 23,
+    "eventCount": 0,
+    "pageviewCount": 7585,
+    "serieCount": 18,
+    "storyCount": 27
+  },
+  "secretIdentities": [
+    "Sergei Nikolaevich Kravinoff"
+  ],
+  "species": [
+  ],
+  "superName": "Kraven the Hunter",
+  "teams": [
+    "Avengers\" (1959)",
+    "Kravinoff Family",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1174/kraven_the_hunter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kraven_the_Hunter"
+  }
+}

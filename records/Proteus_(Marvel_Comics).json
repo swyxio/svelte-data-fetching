@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Mutant X",
+    "Proteus"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Kevin MacTaggert, best known as Proteus and also called Mutant X, is a Marvel Comics character, associated with the X-Men.Kevin was the mutant son of Scottish genetic researcher Moira MacTaggert and politician Joseph MacTaggert.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/535fedc85b486/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Proteus",
+  "partners": [
+  ],
+  "powers": [
+    "Body possession",
+    "Reality warping"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 1,
+    "pageviewCount": 3328,
+    "serieCount": 7,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Kevin MacTaggert"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Proteus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1816/proteus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Proteus_(Marvel_Comics)"
+  }
+}

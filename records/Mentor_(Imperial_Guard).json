@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Mentor"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Mentor is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg"
+  },
+  "mainColor": null,
+  "name": "Mentor (Imperial Guard)",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman intellect",
+    "Tactical ability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 315,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Cyborg"
+  ],
+  "superName": "Mentor",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mentor_(Imperial_Guard)"
+  }
+}

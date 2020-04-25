@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Gaia",
+    "Guardian of the Universal Amalgamator"
+  ],
+  "authors": [
+    "Andy Smith",
+    "Larry Hama"
+  ],
+  "description": "Gaia, also known as the Guardian of the Universal Amalgamator, is a fictional comic book superhero in the Marvel Comics universe, possibly a mutant or extraterrestrial.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/GaiaX.jpg/250px-GaiaX.jpg"
+  },
+  "mainColor": null,
+  "name": "Gaia",
+  "partners": [
+  ],
+  "powers": [
+    "Psychokinesis",
+    "Reality warping",
+    "Reshape any matter",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 458,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unknown"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gaia",
+  "teams": [
+    "Generation X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaia_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Americop",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Dave Hoover",
+    "Mark Gruenwald"
+  ],
+  "description": "Americop (Bartholomew Gallows) is a fictional vigilante published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg"
+  },
+  "mainColor": null,
+  "name": "Americop",
+  "partners": [
+  ],
+  "powers": [
+    "Marksman",
+    "Martial artist",
+    "Trained",
+    "Trained marksman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 407,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bart",
+    "Bartholomew Gallows"
+  ],
+  "species": [
+  ],
+  "superName": "Americop",
+  "teams": [
+    "Houston Police Department"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Americop"
+  }
+}

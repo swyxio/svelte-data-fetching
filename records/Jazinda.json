@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Jazinda"
+  ],
+  "authors": [
+    "Peter David"
+  ],
+  "description": "Jazinda is a Marvel Comics supporting character.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4c002e3dbc0b3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Jazinda",
+  "partners": [
+  ],
+  "powers": [
+    "Bounty hunter",
+    "Shapeshifting",
+    "Trained infiltrator"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 478,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Jazinda",
+  "teams": [
+    "Lady Liberators"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1085/jazinda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jazinda"
+  }
+}

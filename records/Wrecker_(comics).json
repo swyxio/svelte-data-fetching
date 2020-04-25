@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "The Wrecker",
+    "Wrecker"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Dirk Garthwaite, the son of a construction worker and abusive father and husband, grew up filled with resentment and anger toward his father, who abandoned the family, and quickly turned to crime, in which he used a crowbar as a reminder of his father, destroying each place he robbed.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/Wreck3.png"
+  },
+  "mainColor": null,
+  "name": "Wrecker",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy absorption",
+    "Force field generation",
+    "Illusion casting",
+    "Mind control",
+    "Projection",
+    "Stamina",
+    "Superhuman strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 1252,
+    "serieCount": 3,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Dirk Garthwaite"
+  ],
+  "species": [
+  ],
+  "superName": "Wrecker",
+  "teams": [
+    "Frightful Four",
+    "Legion Accursed",
+    "Masters of Evil",
+    "Wrecking Crew"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2597/wrecker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wrecker_(comics)"
+  }
+}

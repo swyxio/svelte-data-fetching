@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Daedalus",
+    "Iceberg\" Ike Harris",
+    "Ikaris",
+    "Ike",
+    "Isaac Harris",
+    "Sovereign"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Ikaris is a fictional character, a member of an alien race known as the Eternals in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4c0030d8df78e/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ikaris",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Flight",
+    "Healing factor",
+    "Matter transmutation",
+    "Psionic powers",
+    "Reflexes",
+    "Regenerative",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2349,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ikaris"
+  ],
+  "species": [
+  ],
+  "superName": "Ikaris",
+  "teams": [
+    "Eternals",
+    "UCWF",
+    "Unlimited Class Wrestling Federation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1020/ikaris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ikaris"
+  }
+}

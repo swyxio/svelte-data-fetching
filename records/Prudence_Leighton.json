@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Agent 16",
+    "Quiet Man"
+  ],
+  "authors": [
+    "Brian K. Vaughan",
+    "Jorge Lucas"
+  ],
+  "description": "Prudence Leighton is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Prudence Leighton",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 225,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Prudence Leighton / Steinbeck"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Prudence Leighton",
+  "teams": [
+    "X-Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Prudence_Leighton"
+  }
+}

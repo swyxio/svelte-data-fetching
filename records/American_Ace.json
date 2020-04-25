@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "American Ace"
+  ],
+  "authors": [
+    "Paul Lauretta"
+  ],
+  "description": "American Ace (Perry Webb) is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "American Ace",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 439,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Perry Webb"
+  ],
+  "species": [
+  ],
+  "superName": "American Ace",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Ace"
+  }
+}

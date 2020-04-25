@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Leech",
+    "The Cure"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Romita Jr",
+    "John Romita Jr."
+  ],
+  "description": "Leech is a character in the Marvel Comics Universe.Leech made his first appearance in Uncanny X-Men as a Morlock, a group of mutants whose deformities force them to live in the sewers under Manhattan.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/X198leech.jpg/250px-X198leech.jpg"
+  },
+  "mainColor": null,
+  "name": "Leech",
+  "partners": [
+  ],
+  "powers": [
+    "Power negation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4116,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James 'Jimmy'"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Leech",
+  "teams": [
+    "Daydreamers",
+    "Future Foundation",
+    "Generation X",
+    "Morlocks",
+    "The 198",
+    "Weapon X",
+    "X-Factor",
+    "X-Terminators"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Leech_(comics)"
+  }
+}

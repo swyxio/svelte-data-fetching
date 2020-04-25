@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Mother Night",
+    "Suprema"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Stan Lee"
+  ],
+  "description": "Mother Night is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mother Night",
+  "partners": [
+  ],
+  "powers": [
+    "Hypnosis",
+    "Illusions",
+    "Martial arts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 387,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Susan Scarbo"
+  ],
+  "species": [
+  ],
+  "superName": "Mother Night",
+  "teams": [
+    "Sisters of Sin",
+    "Skeleton Crew"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mother_Night_(comics)"
+  }
+}

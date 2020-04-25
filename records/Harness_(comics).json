@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Harness"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Guang Yap"
+  ],
+  "description": "Harness (Erika Benson) is a fictional mutant character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
+  },
+  "mainColor": null,
+  "name": "Harness",
+  "partners": [
+  ],
+  "powers": [
+    "Causing intense pain"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 398,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Erika Benson"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Harness",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Alliance of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Harness_(comics)"
+  }
+}

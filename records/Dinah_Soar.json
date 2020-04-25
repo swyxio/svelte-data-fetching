@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Dinah Soar"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Dinah Soar is a fictional superheroine in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dinah_Soar.jpg/250px-Dinah_Soar.jpg"
+  },
+  "mainColor": null,
+  "name": "Dinah Soar",
+  "partners": [
+  ],
+  "powers": [
+    "Agelessness",
+    "Empathic calming",
+    "Limited sonic powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 732,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Dinah Soar",
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dinah_Soar"
+  }
+}

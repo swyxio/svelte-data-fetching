@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Ghost Rider"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Mike Ploog",
+    "Roy Thomas"
+  ],
+  "description": "Ghost Rider is the name of several fictional supernatural antiheroes whenappearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52696ba1353e7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ghost Rider",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Along any surface",
+    "Durability",
+    "Enchanted hellfire chain",
+    "Endurance",
+    "Flames",
+    "Heat",
+    "Immortality",
+    "Invulnerability to fire",
+    "Lava",
+    "Motorcycle",
+    "Penance stare",
+    "Reflexes",
+    "Regeneration",
+    "Resurrection",
+    "Shotgun",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 217,
+    "eventCount": 6,
+    "pageviewCount": 14171,
+    "serieCount": 60,
+    "storyCount": 312
+  },
+  "secretIdentities": [
+    "Alejandra",
+    "Carter Slade",
+    "Danny Ketch",
+    "Ghost Rider",
+    "Ghost Rider (Danny Ketch)",
+    "Ghost Rider (Johnny Blaze)",
+    "Johnny Blaze",
+    "Phantom Rider",
+    "Robbie Reyes"
+  ],
+  "species": [
+  ],
+  "superName": "Ghost Rider",
+  "teams": [
+    "Champions of Los Angeles",
+    "Dark Avengers",
+    "Ghost Riders",
+    "New Avengers",
+    "New Fantastic Four",
+    "The Defenders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Rider_(comics)"
+  }
+}

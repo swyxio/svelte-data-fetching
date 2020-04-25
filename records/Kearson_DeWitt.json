@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Kearson Z. DeWitt",
+    "Overlord"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Len Kaminski"
+  ],
+  "description": "Kearson DeWitt is a Marvel Comics supervillain (mostly of Iron Man).",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kearson DeWitt",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 119,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kearson DeWitt"
+  ],
+  "species": [
+  ],
+  "superName": "Kearson DeWitt",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kearson_DeWitt"
+  }
+}

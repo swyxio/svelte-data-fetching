@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Paralyzer",
+    "Randall Darby",
+    "Shocker"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Paralyzer (Randall Darby), also known as the second Shocker, is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Randall Darby",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 268,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Randall Darby"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Randall Darby",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Mutant Force",
+    "Resistants",
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Randall_Darby"
+  }
+}

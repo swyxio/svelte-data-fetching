@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Bombshell"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Bombshell (Wendy Conrad) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Bombshell",
+  "partners": [
+  ],
+  "powers": [
+    "Explosives expert",
+    "Master juggler"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 732,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wendy Conrad"
+  ],
+  "species": [
+  ],
+  "superName": "Bombshell",
+  "teams": [
+    "Death-Throws",
+    "Femizons"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bombshell_(Marvel_Comics)"
+  }
+}

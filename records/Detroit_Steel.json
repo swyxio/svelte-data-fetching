@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Detroit Steel"
+  ],
+  "authors": [
+    "Matt Fraction",
+    "Salvador Larocca",
+    "Salvador Larroca"
+  ],
+  "description": "Detroit Steel is a fictional suit of powered armor appearing in books published by Marvel Comics, usually as an adversary or rival to Iron Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DetroitSteel.jpg/250px-DetroitSteel.jpg"
+  },
+  "mainColor": null,
+  "name": "Detroit Steel",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Giant chainsaw",
+    "Rockets",
+    "Rotary cannon",
+    "Super-strength",
+    "Variety of offensive"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 640,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Doug Johnson III",
+    "Fear Itself",
+    "Jayce",
+    "Keaton",
+    "Keaton ( storyline)",
+    "Lt",
+    "Lt. Doug Johnson III",
+    "Sasha Hammer"
+  ],
+  "species": [
+  ],
+  "superName": "Detroit Steel",
+  "teams": [
+    "Hammer Industries",
+    "Justin Hammer"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Detroit_Steel"
+  }
+}

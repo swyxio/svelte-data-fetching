@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Helmut Gruler",
+    "Iron Cross"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Iron Cross",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Flight via boot jets",
+    "Limited longevity",
+    "Several offensive weapons",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 807,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Helmut Gruler"
+  ],
+  "species": [
+  ],
+  "superName": "Iron Cross",
+  "teams": [
+    "V-Battalion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Cross_(Marvel_Comics)"
+  }
+}

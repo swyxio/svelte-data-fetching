@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Death Locket"
+  ],
+  "authors": [
+    "Dennis Hopeless",
+    "Kev Walker"
+  ],
+  "description": "Death Locket (Rebecca Ryker) is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Death Locket",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 357,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rebecca Ryker"
+  ],
+  "species": [
+  ],
+  "superName": "Death Locket",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_Locket"
+  }
+}

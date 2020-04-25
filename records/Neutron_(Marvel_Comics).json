@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Neutron",
+    "Quasar"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Neutron is a fictional character, an extraterrestrial superhero that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Nuetronwiki.jpg/250px-Nuetronwiki.jpg"
+  },
+  "mainColor": null,
+  "name": "Neutron",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced durability",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 477,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Stygian"
+  ],
+  "superName": "Neutron",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Neutron_(Marvel_Comics)"
+  }
+}

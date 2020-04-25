@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Heather Hudson",
+    "Sasquatch"
+  ],
+  "authors": [
+    "Judd Winick",
+    "Mike McKone"
+  ],
+  "description": "Heather Hudson is a fictional character created by Marvel Comics for their series called Exiles.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Heather Hudson (Exiles)",
+  "partners": [
+  ],
+  "powers": [
+    "Resistance",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 288,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Heather McDaniel Hudson"
+  ],
+  "species": [
+  ],
+  "superName": "Heather Hudson",
+  "teams": [
+    "Alpha Flight",
+    "Exiles"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Heather_Hudson_(Exiles)"
+  }
+}

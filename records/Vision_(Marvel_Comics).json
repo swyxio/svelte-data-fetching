@@ -1,0 +1,68 @@
+{
+  "aliases": [
+    "Aarkus",
+    "Jonas",
+    "Victor Shade",
+    "Vision"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Joe Simon",
+    "John Buscema",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bc9726c6d1.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/90/537bc9381fd1d/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Vision",
+  "partners": [
+  ],
+  "powers": [
+    "Density control",
+    "Flight",
+    "Intangibility",
+    "Intelligence",
+    "Mass manipulation",
+    "Regeneration",
+    "Shapeshifting",
+    "Solar energy projection",
+    "Speed",
+    "Strength",
+    "Superhuman agility",
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 268,
+    "eventCount": 11,
+    "pageviewCount": 65673,
+    "serieCount": 93,
+    "storyCount": 303
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Vision",
+  "teams": [
+    "Avengers",
+    "Avengers A.I",
+    "Defenders",
+    "Mighty Avengers",
+    "The Mighty Avengers",
+    "West Coast Avengers",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/64/vision",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+  }
+}

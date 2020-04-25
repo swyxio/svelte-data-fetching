@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Angel Jones",
+    "Angelica Jones",
+    "His Amazing Friends",
+    "Spider-Man"
+  ],
+  "authors": [
+    "Christy Marx",
+    "Dan Spiegle",
+    "Dennis Marks",
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Rick Hoberg"
+  ],
+  "description": "Firestar (Angelica \"Angel\" Jones) is a fictional mutant superheroine in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/526032b8247e8/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Firestar",
+  "partners": [
+  ],
+  "powers": [
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 82,
+    "eventCount": 4,
+    "pageviewCount": 4935,
+    "serieCount": 32,
+    "storyCount": 97
+  },
+  "secretIdentities": [
+    "Angel",
+    "Angelica Jones"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Firestar",
+  "teams": [
+    "Avengers",
+    "Hellions",
+    "New Warriors",
+    "The 198",
+    "X-Men",
+    "Young Allies",
+    "Young Allies (Heroic Age)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/703/firestar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Firestar"
+  }
+}

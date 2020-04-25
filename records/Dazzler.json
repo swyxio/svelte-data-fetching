@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Alison Blaire",
+    "Dazzler",
+    "Disco Dazzler",
+    "The Disco Dazzler"
+  ],
+  "authors": [
+    "Group of",
+    "John Romita, Jr.",
+    "Louise Simonson",
+    "Marvel Comics",
+    "Roger Stern",
+    "Tom DeFalco"
+  ],
+  "description": "Dazzler (Alison Blaire) is a fictional superheroine appearing in American comic books published by Marvel Comics, usually associated with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dazzler",
+  "partners": [
+  ],
+  "powers": [
+    "Actress",
+    "Dancer",
+    "Highly skilled athlete",
+    "Intensity",
+    "Trained singer"
+  ],
+  "ranking": {
+    "comicCount": 157,
+    "eventCount": 6,
+    "pageviewCount": 6039,
+    "serieCount": 51,
+    "storyCount": 200
+  },
+  "secretIdentities": [
+    "Ali",
+    "Alison Blaire"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Dazzler",
+  "teams": [
+    "A-Force",
+    "Excalibur",
+    "Gladiators",
+    "New Excalibur",
+    "S.H.I.E.L.D",
+    "The 198",
+    "Wildways Rebellion",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/516/dazzler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dazzler"
+  }
+}

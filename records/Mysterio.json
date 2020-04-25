@@ -1,0 +1,67 @@
+{
+  "aliases": [
+    "Daniel Berkhart",
+    "Dr. Ludwig Rinehart",
+    "Francis Klum",
+    "Jack O'Lantern",
+    "Mysterio"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Kevin Smith",
+    "Ross Andru",
+    "Stan Lee",
+    "Steve Ditko",
+    "Terry Dodson"
+  ],
+  "description": "Mysterio is a fictional supervillain and enemy of Spider-Man that appears in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Mysterio",
+  "partners": [
+    "J. Jonah Jameson"
+  ],
+  "powers": [
+    "Amateur chemist",
+    "Amateur chemist and",
+    "Expert",
+    "Hypnotist",
+    "Illusion",
+    "Illusion expert",
+    "Magician",
+    "Master",
+    "Master hypnotist",
+    "Psychokinesis",
+    "Roboticist",
+    "Special effects",
+    "Telepathy",
+    "Teleportation",
+    "Use of weapons"
+  ],
+  "ranking": {
+    "comicCount": 41,
+    "eventCount": 0,
+    "pageviewCount": 7945,
+    "serieCount": 19,
+    "storyCount": 49
+  },
+  "secretIdentities": [
+    "Francis Klum",
+    "Quentin Beck"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mysterio",
+  "teams": [
+    "Maggia",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1550/mysterio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mysterio"
+  }
+}

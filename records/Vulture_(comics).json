@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Vulture"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "John Romita Sr.",
+    "Mark Waid",
+    "Ross Andru",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Adrian Toomes is a former electronics engineer who employs a special harness of his own design that allows him to fly and endows him with enhanced strength.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c003a7929d28/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Vulture",
+  "partners": [
+    "Adrian Toomes"
+  ],
+  "powers": [
+    "Acid spitting",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 50,
+    "eventCount": 0,
+    "pageviewCount": 5374,
+    "serieCount": 23,
+    "storyCount": 51
+  },
+  "secretIdentities": [
+    "Adrian Toomes",
+    "Blackie",
+    "Clifton Shallot",
+    "Jimmy Natale",
+    "Raniero Drago"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Vulture",
+  "teams": [
+    "Empire State University",
+    "Legion Accursed",
+    "Sinister Six",
+    "Sinister Twelve"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2510/vulture",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vulture_(comics)"
+  }
+}

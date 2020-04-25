@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Gibbon"
+  ],
+  "authors": [
+    "John Romita Sr.",
+    "Stan Lee"
+  ],
+  "description": "Gibbon is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/93/GibbonMarvelApes.png"
+  },
+  "mainColor": null,
+  "name": "Gibbon",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 600,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Martin Blank"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gibbon",
+  "teams": [
+    "Ape-Vengers",
+    "Legion of Losers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gibbon_(comics)"
+  }
+}

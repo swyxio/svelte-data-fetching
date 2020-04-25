@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Amos Moses",
+    "Richmond Wagner",
+    "The Living Hulk",
+    "Xemnu the Hulk",
+    "Xemnu the Titan"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Xemnu the Titan, also known as Xemnu the Hulk, is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Xemnu",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Gifted intellect",
+    "Psionic powers",
+    "Self-recreation",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 757,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Xemnu"
+  ],
+  "species": [
+    "Unknown extraterrestrial"
+  ],
+  "superName": "Xemnu",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Xemnu"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Graydon Creed",
+    "Tribune"
+  ],
+  "authors": [
+    "Brandon Peterson",
+    "Scott Lobdell"
+  ],
+  "description": "Graydon Creed is a fictional character created by writer Scott Lobdell and artist Brandon Peterson.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Graydon_Creed.jpg/250px-Graydon_Creed.jpg"
+  },
+  "mainColor": null,
+  "name": "Graydon Creed",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3843,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Graydon Creed"
+  ],
+  "species": [
+  ],
+  "superName": "Graydon Creed",
+  "teams": [
+    "Features of the Marvel Universe",
+    "Friends of Humanity",
+    "Purifiers",
+    "Upstarts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Graydon_Creed"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "aliases": [
+    "Ant-Man",
+    "Dr Henry Pym",
+    "Giant-Man",
+    "Goliath",
+    "Hank Pym",
+    "Henry",
+    "Pym",
+    "Scientist Supreme",
+    "Ultron",
+    "Wasp",
+    "Yellowjacket"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Larry Lieber",
+    "Stan Lee"
+  ],
+  "description": "Dr. Henry \"Hank\" Pym is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/20/537bac992da2a.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/535ff34c0544d/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Hank Pym",
+  "partners": [
+    "Wasp",
+    "Wasp (Janet van Dyne)"
+  ],
+  "powers": [
+    "Also known as a bio-sting",
+    "Bio-energy projection",
+    "Genius-level intellect",
+    "Mass in giant form",
+    "Objects",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 231,
+    "eventCount": 8,
+    "pageviewCount": 39620,
+    "serieCount": 84,
+    "storyCount": 301
+  },
+  "secretIdentities": [
+    "Hank",
+    "Henry Jonathan Pym"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Hank Pym",
+  "teams": [
+    "Avengers",
+    "Avengers A.I",
+    "Avengers Academy",
+    "Defenders",
+    "Illuminati",
+    "Mighty Avengers",
+    "Secret Avengers",
+    "Secret Defenders",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/21/hank_pym",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hank_Pym"
+  }
+}

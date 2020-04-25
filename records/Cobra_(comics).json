@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Cobra",
+    "Cobra II",
+    "Human Cobra",
+    "King Cobra"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee",
+    "Tamora Pierce",
+    "Timothy Liebe"
+  ],
+  "description": "Cobra is the name of different characters that appear in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cobra",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Endurance",
+    "Enhanced olfactory senses",
+    "Project \"cobra venom",
+    "Reflexes & reactions",
+    "Slithery body",
+    "Superhuman strength",
+    "Various poisonous gadgets",
+    "Very flexible",
+    "Wall crawling"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1382,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Klaus Voorhees",
+    "Piet Voorhees"
+  ],
+  "species": [
+  ],
+  "superName": "Cobra",
+  "teams": [
+    "Chaeyi",
+    "Hydra",
+    "Serpent Society",
+    "Serpent Squad",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cobra_(comics)"
+  }
+}

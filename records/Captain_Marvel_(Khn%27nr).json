@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Captain Marvel",
+    "Mar-Vell"
+  ],
+  "authors": [
+    "Paul Jenkins",
+    "Tom Raney"
+  ],
+  "description": null,
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/526032048d1a1/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Captain Marvel (Khn'nr)",
+  "partners": [
+  ],
+  "powers": [
+    "Devices",
+    "Master unarmed combatant",
+    "Shapeshifting",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 152,
+    "eventCount": 5,
+    "pageviewCount": 1424,
+    "serieCount": 53,
+    "storyCount": 229
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Captain Marvel",
+  "teams": [
+    "Church of Hala",
+    "Skrull Empire"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1009224/captain_marvel_mar-vell/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Marvel_(Khn%27nr)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Aquarius",
+    "Virgo"
+  ],
+  "authors": [
+    "Dennis O'Neil",
+    "Luke McDonnell",
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "Aquarius is the name of different fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Aquarius",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 283,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Darren Bentley",
+    "Zachary Drebb"
+  ],
+  "species": [
+  ],
+  "superName": "Aquarius",
+  "teams": [
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Aquarius_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Margaret Carter",
+    "Peggy",
+    "Peggy Carter"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Margaret \"Peggy\" Carter is a fictional character appearing in comic books published by Marvel Comics, usually as a supporting character in books featuring Captain America.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/PeggyCarter.jpg/200px-PeggyCarter.jpg"
+  },
+  "mainColor": null,
+  "name": "Peggy Carter",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 19844,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Margaret Carter",
+    "Peggy"
+  ],
+  "species": [
+  ],
+  "superName": "Peggy Carter",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Carter"
+  }
+}

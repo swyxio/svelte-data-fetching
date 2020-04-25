@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "The Angel",
+    "Thomas Halloway",
+    "Tom Halloway"
+  ],
+  "authors": [
+    "Paul Gustavson",
+    "Writer unconfirmed"
+  ],
+  "description": "The Angel (Thomas Halloway, often shortened to Tom Halloway) is a fictional character, a superhero in Marvel Comics Universe.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/537b9f24ab731.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Angel (Thomas Halloway)",
+  "partners": [
+  ],
+  "powers": [
+    "Excellent acrobat",
+    "Flight via mystic cape",
+    "Hand to hand combatant",
+    "Occult scholar",
+    "Other weapons",
+    "Pilot",
+    "Skilled detective",
+    "Use of knives"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 1078,
+    "serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Simon Halloway",
+    "Thomas Halloway"
+  ],
+  "species": [
+  ],
+  "superName": "Angel",
+  "teams": [
+    "All-Winners Squad",
+    "Scourge of the Underworld",
+    "Scourges of the Underworld",
+    "V-Battalion"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1/angel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angel_(Thomas_Halloway)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Dweller in Darkness",
+    "Dweller-in-Darkness",
+    "He Who Dwells in Darkness"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Rich Buckler",
+    "Roger Stern",
+    "Tom Sutton"
+  ],
+  "description": "The Dweller-in-Darkness is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/Dwellerdarkness.jpg"
+  },
+  "mainColor": null,
+  "name": "Dweller-in-Darkness",
+  "partners": [
+  ],
+  "powers": [
+    "Fear generation",
+    "Immortality",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 995,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Dweller-in-Darkness",
+  "teams": [
+    "Fear Lords"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dweller-in-Darkness"
+  }
+}

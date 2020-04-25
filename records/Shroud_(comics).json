@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Master of Darkness",
+    "Michael Wyatt",
+    "Shroud"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Steve Englehart"
+  ],
+  "description": "The Shroud (Maximillian Quincy Coleridge) is a fictional superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg"
+  },
+  "mainColor": null,
+  "name": "Shroud",
+  "partners": [
+  ],
+  "powers": [
+    "Adept acrobat",
+    "Darkness",
+    "Flight at walking speed",
+    "Infiltrator",
+    "Olympic-level athlete",
+    "See\" through walls",
+    "Trained martial artist",
+    "Use of one-man aircraft"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1247,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maximillian Quincy Coleridge"
+  ],
+  "species": [
+  ],
+  "superName": "Shroud",
+  "teams": [
+    "Cult of Kali",
+    "Heroes for Hire",
+    "Night Shift"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shroud_(comics)"
+  }
+}

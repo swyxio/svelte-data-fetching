@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Angel Dust",
+    "Christine",
+    "Dusty"
+  ],
+  "authors": [
+    "Geoff Johns",
+    "Shawn Martinbrough"
+  ],
+  "description": "Angel Dust (Christine) is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Angel Dust",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 67651,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Christina",
+    "Christine"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Angel Dust",
+  "teams": [
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Angel_Dust_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Madman",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Jeff Purves",
+    "Jeff Purves (pencils)",
+    "Peter David"
+  ],
+  "description": "Madman (Philip Sterns) is a supervillain within the fictional Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Madman_%28Marvel_Comics%29.jpg/250px-Madman_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Madman",
+  "partners": [
+    "Leader",
+    "The Leader"
+  ],
+  "powers": [
+    "Density control",
+    "Shapeshifting",
+    "Size manipulation",
+    "Vast superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 735,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Phillip Sterns"
+  ],
+  "species": [
+  ],
+  "superName": "Madman",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Madman_(Marvel_Comics)"
+  }
+}

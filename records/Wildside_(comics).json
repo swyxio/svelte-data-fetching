@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Wildside"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Rob Liefeld"
+  ],
+  "description": "Wildside (Richard Gill) is a fictional mutant villain and sadist in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Wildside",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered",
+    "Enhanced athletic ability",
+    "Fangs",
+    "Sharp claws"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 468,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Richard Gill"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wildside",
+  "teams": [
+    "Mutant Liberation Front",
+    "Weapon X",
+    "Weapon X Program"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wildside_(comics)"
+  }
+}

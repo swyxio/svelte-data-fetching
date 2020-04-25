@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Kirigi"
+  ],
+  "authors": [
+    "Frank Miller"
+  ],
+  "description": "Kirigi is a fictional ninja assassin in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kirigi",
+  "partners": [
+  ],
+  "powers": [
+    "Resistance to injury",
+    "Superhuman strength",
+    "Weapons master"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1294,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kirigi"
+  ],
+  "species": [
+  ],
+  "superName": "Kirigi",
+  "teams": [
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirigi"
+  }
+}

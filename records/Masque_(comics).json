@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Masque"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Paul Smith"
+  ],
+  "description": "Masque is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Masquewiki.jpg/250px-Masquewiki.jpg"
+  },
+  "mainColor": null,
+  "name": "Masque",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 728,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Masque",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Morlocks",
+    "The Arena"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Masque_(comics)"
+  }
+}

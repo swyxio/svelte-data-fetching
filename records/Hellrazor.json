@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Black Panther",
+    "Hellrazor"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Steven Grant"
+  ],
+  "description": "Hellrazor is a fictional assassin character in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b6/Hellrazor_Marvel_Comics.png"
+  },
+  "mainColor": null,
+  "name": "Hellrazor",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 163,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Hellrazor",
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hellrazor"
+  }
+}

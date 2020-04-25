@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Electron"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Electron is a fictional character in the Marvel Universe.Electron is a warrior serving in the Royal Elite of the Shi'ar Imperial Guard.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Electron",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 278,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Shi'ar"
+  ],
+  "superName": "Electron",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Electron_(comics)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Ozymandias"
+  ],
+  "authors": [
+    "Joe Madureira",
+    "Scott Lobdell"
+  ],
+  "description": "Ozymandias is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png"
+  },
+  "mainColor": null,
+  "name": "Ozymandias",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality",
+    "Psychic powers",
+    "Superhuman durability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 16144,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ozymandias"
+  ],
+  "species": [
+  ],
+  "superName": "Ozymandias",
+  "teams": [
+    "Clan Akkaba"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozymandias_(Marvel_Comics)"
+  }
+}

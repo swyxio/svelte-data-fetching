@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Lyra",
+    "Lyra Walters",
+    "She-Hulk"
+  ],
+  "authors": [
+    "Jeff Parker",
+    "Mitch Breitweiser",
+    "Mitch Breitweiser (artist)"
+  ],
+  "description": "She-Hulk (Lyra) is a fictional superheroine appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/03/527413f4341f7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "She-Hulk (Lyra)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Great leaping",
+    "History",
+    "Killer",
+    "Knowledge of future tech",
+    "Stamina",
+    "Superhuman speed",
+    "Vast superhuman strength",
+    "Venom symbiote"
+  ],
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 2,
+    "pageviewCount": 2022,
+    "serieCount": 4,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Lyra"
+  ],
+  "species": [
+  ],
+  "superName": "She-Hulk",
+  "teams": [
+    "A.R.M.O.R",
+    "Avengers Academy",
+    "Defenders",
+    "Frightful Four",
+    "S.H.I.E.L.D",
+    "The Sisterhood"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1011392/she-hulk_lyra/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/She-Hulk_(Lyra)"
+  }
+}

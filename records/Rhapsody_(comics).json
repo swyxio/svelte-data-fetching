@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Rhapsody"
+  ],
+  "authors": [
+    "Jim Fern",
+    "Peter David"
+  ],
+  "description": "Rhapsody (real name Rachel Argosy) is a  fictional character, a mutant supervillainess in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Rhapsody",
+  "partners": [
+  ],
+  "powers": [
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 114,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rachel Argosy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Rhapsody",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhapsody_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "King Bedlam",
+    "Terry Aaronson"
+  ],
+  "authors": [
+    "Jim Cheung",
+    "John Francis",
+    "John Francis and"
+  ],
+  "description": "King Bedlam (Christopher Aaronson) is a fictional mutant character in the Marvel Comics Universe, created for their comic book series X-Force.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/KingBedlam_X-Force_88.jpg/200px-KingBedlam_X-Force_88.jpg"
+  },
+  "mainColor": null,
+  "name": "King Bedlam",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 230,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Christopher Terrence Aaronson"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "King Bedlam",
+  "teams": [
+    "Hellions",
+    "New Hellions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/King_Bedlam"
+  }
+}

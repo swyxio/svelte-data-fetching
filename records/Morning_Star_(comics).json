@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Morning Star",
+    "Schuyler Belial"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Doug Moench"
+  ],
+  "description": "This article is about the occultist Morning Star.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d7/Schuyler_Belial.png"
+  },
+  "mainColor": null,
+  "name": "Morning Star",
+  "partners": [
+  ],
+  "powers": [
+    "Arm-mounted energy weapon"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 129,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Schuyler Belial"
+  ],
+  "species": [
+  ],
+  "superName": "Morning Star",
+  "teams": [
+    "The Followers of the Left Hand Path"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Morning_Star_(comics)"
+  }
+}

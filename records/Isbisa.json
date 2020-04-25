@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Dr. I.S. Bishoff",
+    "Dr. Sanderson",
+    "Isbisa"
+  ],
+  "authors": [
+    "; artist co-creator unknown",
+    "Bill Finger",
+    "Writer",
+    "Writer Bill Finger; artist co-creator unknown"
+  ],
+  "description": "Isbisa is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/60/AllWinners19.jpg"
+  },
+  "mainColor": null,
+  "name": "Isbisa",
+  "partners": [
+    "Black Patch",
+    "Calcium Master",
+    "James Flore",
+    "Porky",
+    "Shut-Eye"
+  ],
+  "powers": [
+    "Expertise in chemistry",
+    "Radioactivity"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 164,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Simon Meke",
+    "Simon Meke (also given as Merton Meke)"
+  ],
+  "species": [
+  ],
+  "superName": "Isbisa",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Isbisa"
+  }
+}

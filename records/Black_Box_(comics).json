@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Black Box",
+    "Commcast"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Joe Madureira"
+  ],
+  "description": "Black Box (Garabed Bashur), formerly known as Commcast, is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Black Box",
+  "partners": [
+  ],
+  "powers": [
+    "Brain–computer interface",
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 633,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Garabed Bashur",
+    "Gareb"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Black Box",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Box_(comics)"
+  }
+}

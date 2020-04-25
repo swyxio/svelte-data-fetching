@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Zealot"
+  ],
+  "authors": [
+    "Brandon Peterson",
+    "Joe Pruett"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Zealot",
+  "partners": [
+  ],
+  "powers": [
+    "Direct rock",
+    "Soil at his will"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 188,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Philip Moreau"
+  ],
+  "species": [
+  ],
+  "superName": "Zealot",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Zealot_(Marvel_Comics)"
+  }
+}

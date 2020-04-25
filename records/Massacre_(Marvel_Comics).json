@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Massacre"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Marcos Martin",
+    "Marcos Martín"
+  ],
+  "description": "Massacre is a fictional supervillain in the Marvel Comics Universe and is primarily distinguished as an enemy of both Spider-Man (Peter Parker) and the Superior Spider-Man and primarily appears in Spider-Man related publications.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg/204px-Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg"
+  },
+  "mainColor": null,
+  "name": "Massacre",
+  "partners": [
+  ],
+  "powers": [
+    "Genius level intellect",
+    "Lack of emotion"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 406,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Marcus Lyman"
+  ],
+  "species": [
+  ],
+  "superName": "Massacre",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Massacre_(Marvel_Comics)"
+  }
+}

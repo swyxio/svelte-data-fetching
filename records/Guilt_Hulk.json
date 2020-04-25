@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Brian Banner",
+    "Guilt Hulk",
+    "The Beast"
+  ],
+  "authors": [
+    "Dale Keown",
+    "Peter David"
+  ],
+  "description": "Guilt Hulk is a fictional comic book supervillain appearing in books published Marvel Comics, usually as an antagonist to the Hulk.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/GuiltHulk.gif/250px-GuiltHulk.gif"
+  },
+  "mainColor": null,
+  "name": "Guilt Hulk",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 515,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Doctor Robert Bruce Banner"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Guilt Hulk",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Guilt_Hulk"
+  }
+}

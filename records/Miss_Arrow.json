@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Miss Arrow",
+    "The Other"
+  ],
+  "authors": [
+    "Mike Wieringo",
+    "Peter David",
+    "Todd Nauck"
+  ],
+  "description": "Miss Arrow is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Miss Arrow",
+  "partners": [
+  ],
+  "powers": [
+    "Control of spiders"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 534,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ero"
+  ],
+  "species": [
+  ],
+  "superName": "Miss Arrow",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Miss_Arrow"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Primus",
+    "Steve Rogers"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Jack Kirby",
+    "John Byrne",
+    "Steve Ditko"
+  ],
+  "description": "Primus is the name of three characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Primus",
+  "partners": [
+  ],
+  "powers": [
+    "Shapeshifting",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 366,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Primus"
+  ],
+  "species": [
+    "Android (robot)",
+    "Flb'Dbi"
+  ],
+  "superName": "Primus",
+  "teams": [
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Primus_(Marvel_Comics)"
+  }
+}

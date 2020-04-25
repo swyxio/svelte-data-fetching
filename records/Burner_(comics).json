@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Burner",
+    "Crucible"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Burner (Byron Calley), also known as Crucible is a fictional mutant character in the Marvel Comics Universe whose first appearance was in Captain America Annual #4.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Burner",
+  "partners": [
+  ],
+  "powers": [
+    "Pyrokinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 291,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Byron Calley"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Burner",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Mutant Force/Resistants",
+    "Resistants",
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Burner_(comics)"
+  }
+}

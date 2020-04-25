@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Spider-Man",
+    "Spider-Woman"
+  ],
+  "authors": [
+    "John Byrne",
+    "Rafael Kayanan"
+  ],
+  "description": "Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father's place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/c0/537bc50e40e1c.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/531771c2ab020/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Spider-Woman (Mattie Franklin)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Coordination",
+    "Flight",
+    "Psionic spider legs",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy",
+    "Webbing"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 1848,
+    "serieCount": 2,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Martha Franklin",
+    "Mattie"
+  ],
+  "species": [
+  ],
+  "superName": "Spider-Woman",
+  "teams": [
+    "Loner",
+    "Loners"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/55/spider-woman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Woman_(Mattie_Franklin)"
+  }
+}

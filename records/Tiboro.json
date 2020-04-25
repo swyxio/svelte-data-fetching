@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Tiboro"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Tiboro is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tiboro",
+  "partners": [
+  ],
+  "powers": [
+    "Powerful magic sorcerer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 335,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tiboro"
+  ],
+  "species": [
+    "Extradimensional Sorcerer"
+  ],
+  "superName": "Tiboro",
+  "teams": [
+    "Lords of the Netherwords"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiboro"
+  }
+}

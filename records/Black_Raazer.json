@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Black Raazer"
+  ],
+  "authors": [
+    "Bill Mantlo"
+  ],
+  "description": "Black Raazer is a fictional character in Marvel Comics who first appeared in the first Alpha Flight series. (The character's name has been spelled or misspelled as Raazar and Razaar.).",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Black Raazer",
+  "partners": [
+  ],
+  "powers": [
+    "Limited sorcery",
+    "Wraith powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 366,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "human sorcerer wraith"
+  ],
+  "superName": "Black Raazer",
+  "teams": [
+    "Desert Sword"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Raazer"
+  }
+}

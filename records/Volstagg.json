@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Lion of Asgard",
+    "Volstagg",
+    "Volstagg the Enormous",
+    "Volstagg the Valiant",
+    "Volstagg the Voluminous"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Volstagg is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg"
+  },
+  "mainColor": null,
+  "name": "Volstagg",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3153,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Volstagg"
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Volstagg",
+  "teams": [
+    "Thor Corps",
+    "Warriors Three"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Volstagg"
+  }
+}

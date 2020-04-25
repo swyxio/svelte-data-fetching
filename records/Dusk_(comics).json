@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Dusk"
+  ],
+  "authors": [
+    "Adam Pollina",
+    "Joseph Harris"
+  ],
+  "description": "Dusk was an identity used by several fictional superheroes in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg"
+  },
+  "mainColor": null,
+  "name": "Dusk",
+  "partners": [
+  ],
+  "powers": [
+    "Clairvoyance",
+    "Darkforce",
+    "Darkforce projection",
+    "Projection",
+    "Shadow manipulation",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 812,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cassie St. Commons"
+  ],
+  "species": [
+  ],
+  "superName": "Dusk",
+  "teams": [
+    "Slingers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusk_(comics)"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Aries",
+    "Lucifer"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Bob Brown",
+    "Brian Michael Bendis",
+    "David Anthony Kraft",
+    "Dennis O'Neil",
+    "Duncan Rouleau",
+    "Keith Giffen",
+    "Luke McDonnell",
+    "Mark Bagley",
+    "Steve Englehart",
+    "Steven T. Seagle"
+  ],
+  "description": "The incarnations of Aries are Marvel Comics supervillains who were members of incarnations of the supervillain group, the Zodiac.In the history of the Marvel Universe, seven different characters have assumed the role of Aries.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Aries",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Had horns",
+    "Shapshifting ability",
+    "Wielded a gun",
+    "Zodiac key"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 391,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Grover Raymond",
+    "Marcus Lassiter",
+    "Unrevealed"
+  ],
+  "species": [
+  ],
+  "superName": "Aries",
+  "teams": [
+    "Scorpio",
+    "Zodiac",
+    "Zodiac Cartel"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Aries_(comics)"
+  }
+}

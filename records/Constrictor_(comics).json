@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Constrictor",
+    "Frank Schlicting"
+  ],
+  "authors": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "description": "Constrictor (Frank Payne) is a fictional character, a supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/b0/4c004065a3a78/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Constrictor",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled street fighter",
+    "Unarmed combatant",
+    "Vibranium"
+  ],
+  "ranking": {
+    "comicCount": 27,
+    "eventCount": 5,
+    "pageviewCount": 1567,
+    "serieCount": 9,
+    "storyCount": 33
+  },
+  "secretIdentities": [
+    "Frank Payne"
+  ],
+  "species": [
+  ],
+  "superName": "Constrictor",
+  "teams": [
+    "Corporation",
+    "Frightful Four",
+    "Initiative",
+    "Masters of Evil",
+    "S.H.I.E.L.D",
+    "Shadow Initiative",
+    "Sinister Syndicate",
+    "Six Pack",
+    "Six-Pack",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/455/constrictor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Constrictor_(comics)"
+  }
+}

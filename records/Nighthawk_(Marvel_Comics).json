@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Nighthawk"
+  ],
+  "authors": [
+    "Jim Muniz",
+    "Joe Casey",
+    "Keith Giffen",
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "Nighthawk is the name of several fictional characters that appear in publications published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00391ba3a93/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nighthawk",
+  "partners": [
+  ],
+  "powers": [
+    "Advanced weaponry",
+    "Artificial claw tips",
+    "Enhanced agility",
+    "Genius-level intellect",
+    "Kyle",
+    "Kyle (earth-712)",
+    "Mild superhuman strength",
+    "Olympic-level athlete",
+    "Projectile weapons",
+    "Superb athlete",
+    "Use of lasers"
+  ],
+  "ranking": {
+    "comicCount": 29,
+    "eventCount": 1,
+    "pageviewCount": 10346,
+    "serieCount": 15,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Joaquin Pennysworth",
+    "Joaquin Pennysworth (616)",
+    "Kyle Richmond",
+    "Kyle Richmond (616)"
+  ],
+  "species": [
+  ],
+  "superName": "Nighthawk",
+  "teams": [
+    "America Redeemers",
+    "Defenders",
+    "Fearsome Four",
+    "Legion of the Unliving",
+    "Squadron Sinister",
+    "Squadron Supreme",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1604/nighthawk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nighthawk_(Marvel_Comics)"
+  }
+}

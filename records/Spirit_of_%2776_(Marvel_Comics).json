@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Captain America",
+    "Spirit of '76"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/07/Spiritof76-comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Spirit of '76",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant athlete",
+    "Carries a steel shield",
+    "Fireproof material"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 664,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Naslund"
+  ],
+  "species": [
+  ],
+  "superName": "Spirit of '76",
+  "teams": [
+    "All-Winners Squad",
+    "Crusaders",
+    "Invaders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spirit_of_%2776_(Marvel_Comics)"
+  }
+}

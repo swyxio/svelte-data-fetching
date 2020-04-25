@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Sunpyre"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Salvador Larroca",
+    "Scott Lobdell"
+  ],
+  "description": "Sunpyre (Leyu Yoshida (吉田 玲優, Yoshida Reyu)) is a fictional character of the Marvel Universe associated with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sunpyre1.jpg/250px-Sunpyre1.jpg"
+  },
+  "mainColor": null,
+  "name": "Sunpyre",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Heat manipulation",
+    "Plasma blasts",
+    "Radiation immunity"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1035,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Leyu Yoshida",
+    "Lumina of Coronar"
+  ],
+  "species": [
+    "Coronarian",
+    "Mutant"
+  ],
+  "superName": "Sunpyre",
+  "teams": [
+    "Big Hero 6",
+    "Genoshan Assault X-Men",
+    "X-Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunpyre"
+  }
+}

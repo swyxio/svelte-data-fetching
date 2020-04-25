@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Dead Girl"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Dead Girl (Moonbeam) is a fictional character, a  mutant superheroine in Marvel Comics' X-Statix series.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/20/4c0030c61eb15/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dead Girl",
+  "partners": [
+  ],
+  "powers": [
+    "Acclerated healing factor",
+    "Agility",
+    "Intangibility",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Telepathy with the dead"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 0,
+    "pageviewCount": 549,
+    "serieCount": 7,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Moonbeam",
+    "Moonbeam (surname unrevealed)"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Dead Girl",
+  "teams": [
+    "X-Force",
+    "X-Statix"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/518/dead_girl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dead_Girl"
+  }
+}

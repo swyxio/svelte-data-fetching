@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Bolivar Trask"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Bolivar Trask is a fictional supervillain appearing in publications by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png"
+  },
+  "mainColor": null,
+  "name": "Bolivar Trask",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7312,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Bolivar Trask",
+  "teams": [
+    "Purifiers",
+    "Sentinel",
+    "Sentinels"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bolivar_Trask"
+  }
+}

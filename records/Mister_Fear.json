@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Mister Fear"
+  ],
+  "authors": [
+    "Carmine Infantino",
+    "Gene Colan",
+    "Gerry Conway",
+    "Stan Lee",
+    "Steven Grant",
+    "Wally Wood"
+  ],
+  "description": "Mister Fear is the name of multiple fictional characters, all supervillains in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg"
+  },
+  "mainColor": null,
+  "name": "Mister Fear",
+  "partners": [
+    "Lucia von Bardas"
+  ],
+  "powers": [
+    "Accomplished wax sculptor",
+    "Gifted intellect",
+    "Highly adept businessman",
+    "Occasionally by syringe",
+    "Skilled lawyer",
+    "Talented amateur chemist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1398,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alan Fagan",
+    "Larry",
+    "Lawrence Cranston",
+    "Zoltan Drago"
+  ],
+  "species": [
+  ],
+  "superName": "Mister Fear",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fear"
+  }
+}

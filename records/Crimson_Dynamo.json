@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Crimson Dynamo",
+    "Ivan Vanko"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "The Crimson Dynamo (Russian: Багровый Динамо, Bagrovyj Dinamo; also Красный Динамо (Krasný Dinamo) ) is the name of several fictional characters in the Marvel Comics Universe, most of whom have been supervillains.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/526955e3c7c41/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Crimson Dynamo",
+  "partners": [
+  ],
+  "powers": [
+    "Computer",
+    "Durability",
+    "Flight via boot jets",
+    "Hand-blasters",
+    "Radio transmitter",
+    "Receiver",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 29,
+    "eventCount": 1,
+    "pageviewCount": 5554,
+    "serieCount": 20,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Anton Vanko"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Crimson Dynamo",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2697/crimson_dynamo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Dynamo"
+  }
+}

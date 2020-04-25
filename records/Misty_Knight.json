@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Colleen Wing",
+    "Control",
+    "Maya Corday",
+    "Misty Knight"
+  ],
+  "authors": [
+    "Arvell Jones",
+    "Tony Isabella"
+  ],
+  "description": "Misty Knight is a fictional character in Marvel Comics' Marvel Universe.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bb605ded59.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/10/537bb5ba2f274/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Misty Knight",
+  "partners": [
+    "Colleen Wing",
+    "Iron Fist",
+    "Luke Cage"
+  ],
+  "powers": [
+    "Concussive blasts",
+    "Magnetism",
+    "Near perfect aim",
+    "Superb detective",
+    "Superhuman strength",
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 31,
+    "eventCount": 5,
+    "pageviewCount": 17794,
+    "serieCount": 16,
+    "storyCount": 28
+  },
+  "secretIdentities": [
+    "Mercedes Knight",
+    "Misty"
+  ],
+  "species": [
+  ],
+  "superName": "Misty Knight",
+  "teams": [
+    "Daughters of the Dragon",
+    "Heroes for Hire",
+    "New York City Police Department",
+    "New York Police Department",
+    "Nightwing Restorations Ltd"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/37/misty_knight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Misty_Knight"
+  }
+}

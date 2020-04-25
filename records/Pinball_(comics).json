@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Pinball"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Pinball is a character from Marvel Comics' original Squadron Supreme series.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Pinball",
+  "partners": [
+  ],
+  "powers": [
+    "Inflatable"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 101,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Pinball",
+  "teams": [
+    "Institute of Evil",
+    "Redeemers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pinball_(comics)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "General Ross",
+    "The Living Dynamo",
+    "Thunderbolt",
+    "Zzzax"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Steve Englehart"
+  ],
+  "description": "A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans' brains, granting the explosion of energy a rudimentary sentience.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Zzzax",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Heat generation",
+    "Manipulation",
+    "Projection"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 2239,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Zzzax",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2682/zzzax",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zzzax"
+  }
+}

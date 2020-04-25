@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Access"
+  ],
+  "authors": [
+  ],
+  "description": "Access (Axel Asher) is a fictional character owned by both DC Comics and Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8c/DCM_AllAccess.jpg"
+  },
+  "mainColor": null,
+  "name": "Access",
+  "partners": [
+  ],
+  "powers": [
+    "Merge",
+    "Time travel"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1229,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Axel Asher"
+  ],
+  "species": [
+  ],
+  "superName": "Access",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Access_(comics)"
+  }
+}

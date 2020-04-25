@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Blonde Phantom",
+    "Louise Mason",
+    "Weezie"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Syd Shores"
+  ],
+  "description": "The Blonde Phantom (Louise Grant Mason) is a fictional masked crime fighter in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4ce5a77360c30/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Blonde Phantom",
+  "partners": [
+  ],
+  "powers": [
+    "Excellent secretary",
+    "Fine markswoman",
+    "High-level athlete"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 0,
+    "pageviewCount": 1137,
+    "serieCount": 3,
+    "storyCount": 22
+  },
+  "secretIdentities": [
+    "Louise Grant Mason"
+  ],
+  "species": [
+  ],
+  "superName": "Blonde Phantom",
+  "teams": [
+    "All-Winners Squad",
+    "Avengers\" (1959)",
+    "Invaders"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/312/blonde_phantom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blonde_Phantom"
+  }
+}

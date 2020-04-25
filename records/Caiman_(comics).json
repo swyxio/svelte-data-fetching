@@ -1,0 +1,35 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/DeciMation.png"
+  },
+  "mainColor": null,
+  "name": "Caiman",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 123,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Caiman",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Caiman_(comics)"
+  }
+}

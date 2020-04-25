@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Fafnir"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Fafnir is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Thorvs.Fafnir.jpg/260px-Thorvs.Fafnir.jpg"
+  },
+  "mainColor": null,
+  "name": "Fafnir",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Fire breath",
+    "Illusion casting",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 607,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Fafnir",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fafnir_(Marvel_Comics)"
+  }
+}

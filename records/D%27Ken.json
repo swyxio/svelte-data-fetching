@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "D'Ken"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/D%27Ken_40956_2.jpg/250px-D%27Ken_40956_2.jpg"
+  },
+  "mainColor": null,
+  "name": "D'Ken",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Peak human strength",
+    "Reflexes",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 800,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "D'Ken Neramari"
+  ],
+  "species": [
+  ],
+  "superName": "D'Ken",
+  "teams": [
+    "Secret Order",
+    "Shi'ar Imperium"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/D%27Ken"
+  }
+}

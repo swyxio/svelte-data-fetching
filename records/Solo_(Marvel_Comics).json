@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Solo"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Marc Silvestri"
+  ],
+  "description": "James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Solo",
+  "partners": [
+  ],
+  "powers": [
+    "Expert marksman",
+    "Expert marksmanship",
+    "Firearms",
+    "Gifted intellect",
+    "Limited teleportation",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 795,
+    "serieCount": 1,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "James Bourne"
+  ],
+  "species": [
+  ],
+  "superName": "Solo",
+  "teams": [
+    "Heroes for Hire",
+    "Mercs for Money",
+    "Omega Strike",
+    "Six Pack"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2155/solo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Solo_(Marvel_Comics)"
+  }
+}

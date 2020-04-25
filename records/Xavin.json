@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Xavin"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "Brian K. Vaughan"
+  ],
+  "description": "Xavin is a fictional superhero in the Marvel Comics Runaways.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4ce5a49743462/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Xavin",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Elasticity",
+    "Fire manipulation",
+    "Flight",
+    "Force field projection",
+    "Invisibility",
+    "Shapeshifting",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1503,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Xavin"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Xavin",
+  "teams": [
+    "Runaways"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2626/xavin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xavin"
+  }
+}

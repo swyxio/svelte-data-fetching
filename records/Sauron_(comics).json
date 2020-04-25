@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Sauron"
+  ],
+  "authors": [
+    "Neal Adams",
+    "Roy Thomas"
+  ],
+  "description": "Sauron is a comic book character, a supervillain in Marvel Comics' main shared universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003c3d85554/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sauron",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Fire-breath",
+    "Flight",
+    "Geneticist",
+    "Hypnotic eyes",
+    "Intelligence",
+    "Mutant powers",
+    "Psychotherapist",
+    "Razor-sharp claws",
+    "Sense mutants",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 40,
+    "eventCount": 0,
+    "pageviewCount": 3699,
+    "serieCount": 22,
+    "storyCount": 41
+  },
+  "secretIdentities": [
+    "Karl Lykos"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Sauron",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Savage Land Mutates",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2002/sauron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sauron_(comics)"
+  }
+}

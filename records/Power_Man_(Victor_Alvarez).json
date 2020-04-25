@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Iron Fist",
+    "Power Man",
+    "Power Man (Victor Alvarez)"
+  ],
+  "authors": [
+    "Fred Van Lente",
+    "Mahmud A. Asrar",
+    "Mahmud Asrar"
+  ],
+  "description": "Victor Alvarez is a fictional comic book superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Power_man.jpg/250px-Power_man.jpg"
+  },
+  "mainColor": null,
+  "name": "Power Man (Victor Alvarez)",
+  "partners": [
+    "Iron Fist"
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3897,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Victor Alvarez"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Power Man",
+  "teams": [
+    "Avengers Academy",
+    "Avengers Idea Mechanics",
+    "Heroes for Hire",
+    "Mighty Avengers",
+    "The Chosen",
+    "The Mighty Avengers",
+    "The New Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Power_Man_(Victor_Alvarez)"
+  }
+}

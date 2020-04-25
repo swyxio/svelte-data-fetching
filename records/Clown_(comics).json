@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Crafty",
+    "Crafty Clown",
+    "Funny Man",
+    "Griffin",
+    "The Clown"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Clown is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Clown",
+  "partners": [
+  ],
+  "powers": [
+    "Sharp claws",
+    "Talons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 455,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eliot Franklin"
+  ],
+  "species": [
+  ],
+  "superName": "Clown",
+  "teams": [
+    "Circus of Crime",
+    "Gamma Corps",
+    "The Masters of Menace"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Clown_(comics)"
+  }
+}

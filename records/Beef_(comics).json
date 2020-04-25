@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Beef",
+    "Buford Wilson"
+  ],
+  "authors": [
+  ],
+  "description": "Beef (Buford Wilson) is a fictional character from Marvel Comics, a mutant from the Hellions group created as the antithesis to the X-Men's junior team of mutants, the New Mutants.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
+  },
+  "mainColor": null,
+  "name": "Beef",
+  "partners": [
+  ],
+  "powers": [
+    "Stamina",
+    "Super-human strength"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 262,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Buford Wilson"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Beef",
+  "teams": [
+    "Hellions"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/253/beef",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beef_(comics)"
+  }
+}

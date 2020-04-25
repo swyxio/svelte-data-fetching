@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Answer"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Dan Jurgens",
+    "Jim Mooney"
+  ],
+  "description": "The Answer is the name of three fictional comic book characters, owned by Marvel Comics and appearing in that company's Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Answer",
+  "partners": [
+    "Crimson Dynamo"
+  ],
+  "powers": [
+    "Intuition",
+    "Superhuman intelligence",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 586,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aaron Nicholson",
+    "David Ferrari"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Answer",
+  "teams": [
+    "Furnace",
+    "HYDRA",
+    "Hydra",
+    "S.H.I.E.L.D",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Answer_(comics)"
+  }
+}

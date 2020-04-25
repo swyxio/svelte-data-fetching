@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Amphibion"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Amphibion is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg"
+  },
+  "mainColor": null,
+  "name": "Amphibion",
+  "partners": [
+  ],
+  "powers": [
+    "On the surface",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 378,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Qnax"
+  ],
+  "species": [
+  ],
+  "superName": "Amphibion",
+  "teams": [
+    "Hulk-Hunters"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Amphibion"
+  }
+}

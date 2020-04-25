@@ -1,0 +1,81 @@
+{
+  "aliases": [
+    "13th Baron Zemo",
+    "Baron",
+    "Citizen V",
+    "Hackett Zemo",
+    "Hademar Zemo",
+    "Harbin Zemo",
+    "Hartwig Zemo",
+    "Heinrich Zemo",
+    "Heller Zemo",
+    "Helmuth Zemo",
+    "Hemlut Zemo",
+    "Herbert Zemo",
+    "Herman Zemo",
+    "Hilliard Zemo",
+    "Hobart Zemo",
+    "Hoffman Zemo",
+    "Iron Cross",
+    "Mark Evanier",
+    "Phoenix",
+    "Zemo"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Sal Buscema",
+    "Stan Lee",
+    "Tony Isabella"
+  ],
+  "description": "Baron Zemo is the name of two fictional characters, both supervillains, in various Marvel Comics comic books, notably Captain America and the Avengers.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4c/Baron-zemo.jpg"
+  },
+  "mainColor": null,
+  "name": "Baron Zemo",
+  "partners": [
+    "Mother Superior",
+    "Primus",
+    "Red Skull",
+    "Sin"
+  ],
+  "powers": [
+    "Agility",
+    "Hand-to-hand combatant",
+    "Master swordsman",
+    "Possesses the moonstones",
+    "Scientific genius",
+    "Skilled strategist",
+    "Slowed aging",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 43682,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Heinrich Zemo",
+    "Helmut J. Zemo"
+  ],
+  "species": [
+  ],
+  "superName": "Baron Zemo",
+  "teams": [
+    "Features of the Marvel Universe",
+    "Hydra",
+    "Legion of the Unliving",
+    "Masters of Evil",
+    "Nazi Party",
+    "Secret Empire",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Baron_Zemo"
+  }
+}

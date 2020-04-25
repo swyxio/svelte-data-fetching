@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Zom"
+  ],
+  "authors": [
+    "Marie Severin",
+    "Stan Lee"
+  ],
+  "description": "Zom is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Zom",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1272,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zom"
+  ],
+  "species": [
+  ],
+  "superName": "Zom",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Zom"
+  }
+}

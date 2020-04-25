@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Dorrek VIII",
+    "Hulkling",
+    "Teddy",
+    "Teddy Altman",
+    "Theodore Altman"
+  ],
+  "authors": [
+    "Allan Heinberg",
+    "Jim Cheung"
+  ],
+  "description": "Hulkling (Dorrek VIII, also known as Theodore \"Teddy\" Altman) is a fictional comic book superhero and a member of the Young Avengers, a team of superheroes in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/20/4c003ed070fa0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hulkling",
+  "partners": [
+    "Billy Kaplan",
+    "Wiccan"
+  ],
+  "powers": [
+    "Metamorphic adaptation",
+    "Shapeshifting",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 3,
+    "pageviewCount": 9861,
+    "serieCount": 9,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Dorrek VIII"
+  ],
+  "species": [
+    "Kree",
+    "Skrull hybrid"
+  ],
+  "superName": "Hulkling",
+  "teams": [
+    "Avengers Idea Mechanics",
+    "The New Avengers",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/988/hulkling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hulkling"
+  }
+}

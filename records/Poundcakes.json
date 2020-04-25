@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Poundcakes"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio"
+  ],
+  "description": "Poundcakes (Marian Pouncy) is a supervillainess in the Marvel Comics Universe and former member of the female villain team, the Grapplers.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Poundcakes_%28Marvel_Comics%29.jpg/200px-Poundcakes_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Poundcakes",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Wrestler"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 286,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Marian Pouncy"
+  ],
+  "species": [
+  ],
+  "superName": "Poundcakes",
+  "teams": [
+    "Femizons",
+    "Grapplers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Poundcakes"
+  }
+}

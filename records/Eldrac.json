@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Eldrac",
+    "Eldrac the Door"
+  ],
+  "authors": [
+    "Dale Eaglesham",
+    "Jonathan Hickman"
+  ],
+  "description": "Eldrac is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Eldrac",
+  "partners": [
+  ],
+  "powers": [
+    "Can teleport anyone"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 355,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eldrac"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Eldrac",
+  "teams": [
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Eldrac"
+  }
+}

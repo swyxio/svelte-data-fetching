@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Steppin' Razor"
+  ],
+  "authors": [
+    "Douglas H. Wheatley",
+    "Ian Edginton",
+    "artist",
+    "writer"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Steppin' Razor",
+  "partners": [
+  ],
+  "powers": [
+    "Typical vampire powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 249,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Xedric Demacherlier"
+  ],
+  "species": [
+  ],
+  "superName": "Steppin' Razor",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Steppin%27_Razor_(comics)"
+  }
+}

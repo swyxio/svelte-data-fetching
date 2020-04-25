@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Big Blue",
+    "Century",
+    "Deliverer"
+  ],
+  "authors": [
+    "Andy Lanning",
+    "Dan Abnett",
+    "Tom Tenney"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/29/Centuryfw5.jpg"
+  },
+  "mainColor": null,
+  "name": "Century",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Greatly enhanced strength",
+    "Longevity"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 452,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Century"
+  ],
+  "species": [
+  ],
+  "superName": "Century",
+  "teams": [
+    "Force Works",
+    "Revengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Century_(comics)"
+  }
+}

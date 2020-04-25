@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Jonas Harrow"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "John Romita Sr.",
+    "John Romita, Sr."
+  ],
+  "description": "Jonas Harrow is a fictional character, a supervillain in the Marvel Comics Universe, in which he is an enemy of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jonas Harrow",
+  "partners": [
+  ],
+  "powers": [
+    "Cyberneticist",
+    "Geneticist",
+    "Genius surgeon",
+    "Machinesmith"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 306,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonas Harrow"
+  ],
+  "species": [
+  ],
+  "superName": "Jonas Harrow",
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Harrow"
+  }
+}

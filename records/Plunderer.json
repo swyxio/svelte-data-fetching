@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Plunderer"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Plunderer is a fictional character, owned by Marvel Comics who exists in that company's shared universe, known as the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Daredevil_cover_-_number_14.jpg/250px-Daredevil_cover_-_number_14.jpg"
+  },
+  "mainColor": null,
+  "name": "Plunderer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 501,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Parnival Plunder"
+  ],
+  "species": [
+  ],
+  "superName": "Plunderer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Plunderer"
+  }
+}

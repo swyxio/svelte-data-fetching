@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Rattler",
+    "Whirlo"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "John Romita Sr.",
+    "Mark Gruenwald",
+    "Paul Neary",
+    "Stan Lee"
+  ],
+  "description": "The Rattler (Gustav Krueger) is a fictional character from the Marvel Comics Universe, and is a member of the Serpent Society.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Rattler",
+  "partners": [
+  ],
+  "powers": [
+    "Deflect projectiles",
+    "Disorientation",
+    "Fang-like teeth",
+    "Internal hemorrhaging",
+    "Or inducing vertigo",
+    "Possible death to people",
+    "Skilled athlete",
+    "Speed",
+    "Superhuman strength",
+    "Unconsciousness"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 303,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gustav Krueger",
+    "Heath Benson",
+    "Henry Bingham",
+    "Unrevealed"
+  ],
+  "species": [
+    "Bionically-enhanced Human"
+  ],
+  "superName": "Rattler",
+  "teams": [
+    "Serpent Society",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rattler_(comics)"
+  }
+}

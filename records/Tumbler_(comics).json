@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Tumbler"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Tumbler is the name of four fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tumbler",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 164,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Robert Keane"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Tumbler",
+  "teams": [
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tumbler_(comics)"
+  }
+}

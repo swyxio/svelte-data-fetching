@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Golem"
+  ],
+  "authors": [
+    "Brian K. Vaughan",
+    "Eric Powell",
+    "Frank Robbins",
+    "Frank Springer",
+    "John Buscema",
+    "Kyle Hotz",
+    "Len Wein",
+    "Roy Thomas"
+  ],
+  "description": "In the Marvel Universe, there have been a number of fictional characters known as Golem.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Strange_Tales_174.jpg/200px-Strange_Tales_174.jpg"
+  },
+  "mainColor": null,
+  "name": "Golem",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 418,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dennis Golembuski",
+    "Jacob Goldstein",
+    "not applicable"
+  ],
+  "species": [
+  ],
+  "superName": "Golem",
+  "teams": [
+    "Howling Commandos",
+    "Invaders",
+    "Kingpin",
+    "Nick Fury's Howling Commandos",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Golem_(comics)"
+  }
+}

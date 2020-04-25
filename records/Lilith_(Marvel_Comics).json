@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Angel O'Hara",
+    "Bat Zuge",
+    "Kiskillilla",
+    "Lilith",
+    "Lilith Drake",
+    "Mother of the Lilin"
+  ],
+  "authors": [
+    "Andy Kubert",
+    "Gene Colan",
+    "Howard Mackie",
+    "Marv Wolfman"
+  ],
+  "description": "Lilith is the name of two fictional American comic book characters owned by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/e0/52740fe6287e4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Lilith",
+  "partners": [
+  ],
+  "powers": [
+    "Although a vampire",
+    "Not repelled by the cross"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 1395,
+    "serieCount": 5,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Lilith Dracul"
+  ],
+  "species": [
+  ],
+  "superName": "Lilith",
+  "teams": [
+    "Nick Fury's Howling Commandos",
+    "S.H.I.E.L.D",
+    "S.H.I.E.L.D.'s Paranormal Containment Unit"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1250/lilith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lilith_(Marvel_Comics)"
+  }
+}

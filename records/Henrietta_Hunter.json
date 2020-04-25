@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Henrietta Hunter"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Henrietta Hunter is a fictional character in the X-Statix series.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Henrietta Hunter",
+  "partners": [
+  ],
+  "powers": [
+    "Empathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 317,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Henrietta Hunter"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Henrietta Hunter",
+  "teams": [
+    "X-Statix"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrietta_Hunter"
+  }
+}

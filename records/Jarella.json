@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Jarella"
+  ],
+  "authors": [
+    "Harlan Ellison",
+    "Herb Trimpe",
+    "Roy Thomas"
+  ],
+  "description": "Jarella is a fictional character that appears in publications by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Jarella_001.jpg"
+  },
+  "mainColor": null,
+  "name": "Jarella",
+  "partners": [
+  ],
+  "powers": [
+    "Equestrian",
+    "Rides horse-like steeds",
+    "Skilled swordswoman",
+    "Strategist",
+    "Winged serpent-creatures"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 909,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Jarella",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jarella"
+  }
+}

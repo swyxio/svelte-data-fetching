@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Protector"
+  ],
+  "authors": [
+    "Joe Sinnott",
+    "Keith Pollard",
+    "Marv Wolfman"
+  ],
+  "description": "Protector is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Protector",
+  "partners": [
+  ],
+  "powers": [
+    "Various psionic powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 165,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thoral Rul"
+  ],
+  "species": [
+    "Xandarian"
+  ],
+  "superName": "Protector",
+  "teams": [
+    "Champions of Xandar"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Protector_(Marvel_Comics)"
+  }
+}

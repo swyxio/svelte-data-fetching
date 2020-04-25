@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Jack Frost",
+    "The God in the Ice"
+  ],
+  "authors": [
+    "Frank Giacoia",
+    "Stan Lee"
+  ],
+  "description": "Jack Frost is the name of two unrelated fictional characters in comic books published by the Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/JackFrost_Marvel.jpg/150px-JackFrost_Marvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Jack Frost",
+  "partners": [
+  ],
+  "powers": [
+    "Cold",
+    "Durability",
+    "Ice manipulation",
+    "Superhuman stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1234,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "<small> (possibly Jack Frost)</small>",
+    "unrevealed"
+  ],
+  "species": [
+  ],
+  "superName": "Jack Frost",
+  "teams": [
+    "Liberty Legion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Frost_(Marvel_Comics)"
+  }
+}

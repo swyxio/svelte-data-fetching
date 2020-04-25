@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Cyclone",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Don Hudson",
+    "Gerry Conway",
+    "Kurt Busiek",
+    "Mark Bagley",
+    "Ross Andru",
+    "Sholly Fisch",
+    "Vince Russell"
+  ],
+  "description": "Cyclone is the alias of a number of fictional characters appearing in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cyclone",
+  "partners": [
+    "Hood"
+  ],
+  "powers": [
+    "Expert engineer",
+    "Gifted intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 604,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "André Gerard",
+    "Gregory Stevens",
+    "Pierre Fresson"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Cyclone",
+  "teams": [
+    "Cyclone's criminal gang",
+    "Justin Hammer Industries/Hammer's operatives",
+    "Maggia",
+    "Masters of Evil",
+    "NATO",
+    "Sinister Six",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyclone_(Marvel_Comics)"
+  }
+}

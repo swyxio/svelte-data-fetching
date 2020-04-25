@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Cobalt Man"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Werner Roth"
+  ],
+  "description": "Cobalt Man (Ralph Roberts) is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg"
+  },
+  "mainColor": null,
+  "name": "Cobalt Man",
+  "partners": [
+  ],
+  "powers": [
+    "Power armor"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 679,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ralph Roberts"
+  ],
+  "species": [
+  ],
+  "superName": "Cobalt Man",
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cobalt_Man"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Aegis",
+    "Lady of All Sorrows",
+    "She of All Sorrows"
+  ],
+  "authors": [
+    "Keith Giffen",
+    "Renato Arlem"
+  ],
+  "description": "Aegis is a fictional character, a comic book cosmic entity published by Marvel Comics and appearing as an enemy of Galactus.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ee/Aegis1.JPG"
+  },
+  "mainColor": null,
+  "name": "Aegis (Lady of All Sorrows)",
+  "partners": [
+  ],
+  "powers": [
+    "Nigh",
+    "Nigh omnipotence",
+    "Omnipotence"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 912,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Aegis",
+  "teams": [
+    "Proemial Gods"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Aegis_(Lady_of_All_Sorrows)"
+  }
+}

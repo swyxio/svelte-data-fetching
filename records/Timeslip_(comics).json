@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Timeslip"
+  ],
+  "authors": [
+    "Evan Skolnick",
+    "Patrick Zircher"
+  ],
+  "description": "As a young child, Rina Patel experienced visions of her future, though she eventually learned to control this, triggering visions of specific times, and she realized she was swapping her consciousness across time.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/64/Timeslip_001.jpg"
+  },
+  "mainColor": null,
+  "name": "Timeslip",
+  "partners": [
+  ],
+  "powers": [
+    "Limited time travel",
+    "Time manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 332,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rina Patel"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Timeslip",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2379/timeslip",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timeslip_(comics)"
+  }
+}

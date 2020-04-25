@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Human Torch",
+    "Jim Hammond",
+    "The Original Human Torch",
+    "The Torch"
+  ],
+  "authors": [
+    "Carl Burgos"
+  ],
+  "description": "The Human Torch, also known as Jim Hammond, is a fictional superhero that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/70/53176bed3fe4c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Human Torch (android)",
+  "partners": [
+  ],
+  "powers": [
+    "Fire manipulation",
+    "Flight",
+    "Resistance",
+    "Skilled unarmed combatant"
+  ],
+  "ranking": {
+    "comicCount": 18,
+    "eventCount": 0,
+    "pageviewCount": 4700,
+    "serieCount": 15,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Human Torch",
+    "Jim Hammond"
+  ],
+  "species": [
+  ],
+  "superName": "Human Torch",
+  "teams": [
+    "All-Winners Squad",
+    "Heroes for Hire",
+    "Invaders",
+    "Legion of the Unliving",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "The Descendants",
+    "V-Battalion",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1010932/human_torch_jim_hammond/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Torch_(android)"
+  }
+}

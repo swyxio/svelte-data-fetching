@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Martinex"
+  ],
+  "authors": [
+    "Arnold Drake",
+    "Gene Colan"
+  ],
+  "description": "Martinex T'Naga is a fictional character, a superhero from an alternate future version of Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Martinex",
+  "partners": [
+  ],
+  "powers": [
+    "Cold blasts from his left"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 940,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Martinex T'Naga"
+  ],
+  "species": [
+  ],
+  "superName": "Martinex",
+  "teams": [
+    "Avengers",
+    "Galactic Guardians",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Martinex"
+  }
+}

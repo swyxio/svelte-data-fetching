@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Hammer"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Jim Cheung",
+    "John Romita, Jr.",
+    "Jorge Gonzalez"
+  ],
+  "description": "See also Hammer and Anvil (comics), Justin Hammer and H.A.M.M.E.R..Hammer is the name of various different characters in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hammer",
+  "partners": [
+  ],
+  "powers": [
+    "Ionically-charged mallet",
+    "Peak human strength",
+    "Reflexes",
+    "Technological genius"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 237,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Boris Lubov",
+    "Eisenhower Canty"
+  ],
+  "species": [
+  ],
+  "superName": "Hammer",
+  "teams": [
+    "Six Pack",
+    "Six Pack/Wild Pack",
+    "Wild Pack",
+    "none"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hammer_(comics)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Whiteout"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "Whiteout is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Whiteout",
+  "partners": [
+  ],
+  "powers": [
+    "Blinding flash"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 119,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Savage Land Mutates"
+  ],
+  "superName": "Whiteout",
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Whiteout_(Marvel_Comics)"
+  }
+}

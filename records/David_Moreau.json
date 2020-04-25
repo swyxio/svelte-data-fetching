@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "The Genegineer"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "David Moreau, also known as the Genegineer, is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "David Moreau",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 285,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "David Moreau"
+  ],
+  "species": [
+  ],
+  "superName": "David Moreau",
+  "teams": [
+    "Press Gang"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Moreau"
+  }
+}

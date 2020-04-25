@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Master Mold"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Master Mold is a fictional character, a robot supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG"
+  },
+  "mainColor": null,
+  "name": "Master Mold",
+  "partners": [
+  ],
+  "powers": [
+    "Concussive blasts",
+    "Durability",
+    "Flight",
+    "Plasma discharges",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2353,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Master Mold",
+  "teams": [
+    "Armageddon",
+    "Sentinels"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Mold"
+  }
+}

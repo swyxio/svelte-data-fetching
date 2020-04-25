@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Bambi Long",
+    "Gamora",
+    "The Most Dangerous Woman in the Universe"
+  ],
+  "authors": [
+    "Jim Starlin"
+  ],
+  "description": "Gamora is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/537bab90b6c0e.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/537bab57b84d4/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "hexa": "17250B",
+    "red": 23
+  },
+  "name": "Gamora",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Gymnast",
+    "Highly skilled assassin",
+    "Skilled martial artist",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 3,
+    "pageviewCount": 12490,
+    "serieCount": 5,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Gamora"
+  ],
+  "species": [
+    "Zen-Whoberis"
+  ],
+  "superName": "Gamora",
+  "teams": [
+    "Annihilation",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Infinity Watch",
+    "Phalanx",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/20/gamora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gamora"
+  }
+}

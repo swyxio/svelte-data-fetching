@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Nightmask"
+  ],
+  "authors": [
+    "Archie Goodwin"
+  ],
+  "description": "Nightmask is a name and identity used by several fictional characters who appear in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Nightmask",
+  "partners": [
+  ],
+  "powers": [
+    "Able to enter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1282,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Keith Remsen"
+  ],
+  "species": [
+  ],
+  "superName": "Nightmask",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightmask"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Star Thief",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": "Star Thief (Ditmal Pirval) is a fictional Marvel Comics character.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Star Thief",
+  "partners": [
+  ],
+  "powers": [
+    "Energy projection",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 136,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ditmal Pirval"
+  ],
+  "species": [
+  ],
+  "superName": "Star Thief",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Star_Thief"
+  }
+}

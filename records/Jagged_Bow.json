@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Jagged Arrow",
+    "Jagged Bow"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Jerry Bingham"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jagged Bow",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 0,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Joseph Emberlin"
+  ],
+  "species": [
+  ],
+  "superName": "Jagged Bow",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jagged_Bow"
+  }
+}

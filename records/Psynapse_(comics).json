@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Psynapse"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Jim Lee",
+    "Whilce Portacio",
+    "and Whilce Portacio"
+  ],
+  "description": "Psynapse is a comic book villain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Psynapse.jpg/150px-Psynapse.jpg"
+  },
+  "mainColor": null,
+  "name": "Psynapse",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 374,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Psynapse",
+  "teams": [
+    "Dark Riders",
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Psynapse_(comics)"
+  }
+}

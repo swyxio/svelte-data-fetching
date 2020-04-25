@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Gideon"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Gideon is a fictional character, a mutant supervillain appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4c00311236811/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Gideon",
+  "partners": [
+  ],
+  "powers": [
+    "Redirect them",
+    "Talents"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 1,
+    "pageviewCount": 1241,
+    "serieCount": 2,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Gideon"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gideon",
+  "teams": [
+    "Externals",
+    "High Lords"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/803/gideon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gideon_(comics)"
+  }
+}

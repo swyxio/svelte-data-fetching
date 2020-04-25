@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Bug",
+    "Galactic Warrior",
+    "Lover Bug"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Michael Golden"
+  ],
+  "description": "Bug is a fictional character, a superhero in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c00323e50dda/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Bug",
+  "partners": [
+  ],
+  "powers": [
+    "Exceptional agility",
+    "Extraordinary sight"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 1197,
+    "serieCount": 2,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Bug",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Micronauts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/364/bug",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bug_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "The Chronomancer",
+    "Trevor Fitzroy",
+    "White Rook"
+  ],
+  "authors": [
+    "Jim Lee",
+    "John Byrne",
+    "Whilce Portacio"
+  ],
+  "description": "Trevor Fitzroy is a Marvel Comics supervillain, an enemy of the X-Men, in particular Bishop.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fitzroy%27s_picture.jpg"
+  },
+  "mainColor": null,
+  "name": "Trevor Fitzroy",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1047,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Trevor Fitzroy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Trevor Fitzroy",
+  "teams": [
+    "Hellfire Club",
+    "Summers Rebellion",
+    "Upstarts",
+    "Xavier's Security Enforcers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Fitzroy"
+  }
+}

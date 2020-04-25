@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "The Fin"
+  ],
+  "authors": [
+  ],
+  "description": "For the British comic strip character, see Finn (comics).The Fin is the name of two characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Fin-comics.jpg/250px-Fin-comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Fin",
+  "partners": [
+  ],
+  "powers": [
+    "Speed",
+    "Stops aging process",
+    "Superhuman strength",
+    "Underwater adaptation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 611,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter Noble"
+  ],
+  "species": [
+  ],
+  "superName": "Fin",
+  "teams": [
+    "Fifty State Initiative",
+    "Initiative",
+    "Invaders",
+    "United States Navy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fin_(comics)"
+  }
+}

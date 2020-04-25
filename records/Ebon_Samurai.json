@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Ebon Samurai"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Scott Lobdell"
+  ],
+  "description": "Ebon Samurai is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Ebon_Samurai_%28Marvel_Comics%29.jpg/250px-Ebon_Samurai_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Ebon Samurai",
+  "partners": [
+  ],
+  "powers": [
+    "Ant",
+    "Hand-to-hand combat",
+    "Superb"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 870,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kioshi Keishicho"
+  ],
+  "species": [
+    "Undead human"
+  ],
+  "superName": "Ebon Samurai",
+  "teams": [
+    "Big Hero 6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ebon_Samurai"
+  }
+}

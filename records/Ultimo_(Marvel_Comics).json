@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Doomsday Machine",
+    "The Living Holocaust",
+    "Ultimo"
+  ],
+  "authors": [
+    "Stan Lee"
+  ],
+  "description": "Ultimo was a robotic construct that was developed several thousand years ago on an unknown world, which the Mandarin eventually discovered and claimed as his own creation.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e5d2432b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ultimo",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Heat absorption",
+    "Self-repair",
+    "Size manipulation",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1143,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ultimo"
+  ],
+  "species": [
+  ],
+  "superName": "Ultimo",
+  "teams": [
+    "Mandarin's Minions"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2440/ultimo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ultimo_(Marvel_Comics)"
+  }
+}

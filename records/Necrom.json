@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Necrom",
+    "The Anti-Phoenix",
+    "The Anti-Phoenix (host)"
+  ],
+  "authors": [
+    "Alan Davis"
+  ],
+  "description": "Necrom is a fictional character created by Alan Davis for Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Necrom",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Energy vampire",
+    "Immortal",
+    "Necromancy",
+    "Shape-shifting",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 446,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Necrom"
+  ],
+  "species": [
+  ],
+  "superName": "Necrom",
+  "teams": [
+    "none"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Necrom"
+  }
+}

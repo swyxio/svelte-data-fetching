@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Hybrid"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Sal Buscema",
+    "and artist",
+    "artist Sal Buscema"
+  ],
+  "description": "Hybrid (real name James \"Jimmy\" Marks) is a fictional character, a supervillain appearing in publications in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hybrid (Jimmy Marks)",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "Telekinesis",
+    "Telepathy",
+    "Transformation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 380,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Marks",
+    "Jimmy"
+  ],
+  "species": [
+    "Dire Wraith",
+    "Human hybrid"
+  ],
+  "superName": "Hybrid",
+  "teams": [
+    "Avengers Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hybrid_(Jimmy_Marks)"
+  }
+}

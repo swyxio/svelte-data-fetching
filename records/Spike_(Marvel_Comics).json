@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Spike",
+    "The Spike"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Spike is the names of several fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spike",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1188,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Darian Elliott"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Spike",
+  "teams": [
+    "X-Force",
+    "X-Statix"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spike_(Marvel_Comics)"
+  }
+}

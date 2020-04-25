@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Klara Prast",
+    "Rose Red",
+    "Tower of Flower"
+  ],
+  "authors": [
+    "Joss Whedon",
+    "Michael Ryan"
+  ],
+  "description": "Klara Prast (also known as Tower of Flower or Rose Red) is a fictional character that appears in the Marvel Comics Runaways.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Klara_Prast.jpg/250px-Klara_Prast.jpg"
+  },
+  "mainColor": null,
+  "name": "Klara Prast",
+  "partners": [
+  ],
+  "powers": [
+    "Chlorokinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1094,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Klara Prast"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Klara Prast",
+  "teams": [
+    "Runaways"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Klara_Prast"
+  }
+}

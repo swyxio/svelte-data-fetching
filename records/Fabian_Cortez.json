@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Fabian Cortez"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Jim Lee"
+  ],
+  "description": "Fabian Cortez is a fictional character, a mutant comic book supervillain from the Marvel Comics universe and an adversary of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c0040603dda1/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Fabian Cortez",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1274,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fabian Cortez"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Fabian Cortez",
+  "teams": [
+    "Acolytes",
+    "Genosha",
+    "Genoshan",
+    "Upstarts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2695/fabian_cortez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabian_Cortez"
+  }
+}

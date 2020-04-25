@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Smasher"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Smasher is a member of the Imperial Guard, a multi-ethnic group of super-powered alien beings who act as enforcers of the laws of the Shi'ar Empire.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ae66139c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Smasher",
+  "partners": [
+  ],
+  "powers": [
+    "Flight patches",
+    "Flight via anti-gravity"
+  ],
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 0,
+    "pageviewCount": 552,
+    "serieCount": 11,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Isabel Kane",
+    "Isabel Kane (IV)",
+    "Izzy",
+    "Salac Tuur",
+    "Salac Tuur (II)",
+    "Unrevealed",
+    "Unrevealed (III)",
+    "Vril Rokk",
+    "Vril Rokk (I)"
+  ],
+  "species": [
+    "Alien",
+    "Human"
+  ],
+  "superName": "Smasher",
+  "teams": [
+    "Avengers",
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2148/smasher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smasher"
+  }
+}

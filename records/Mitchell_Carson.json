@@ -1,0 +1,39 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Andy Kuhn",
+    "Robert Kirkman"
+  ],
+  "description": "Agent Mitchell \"Mitch\" Carson is a fictional character appearing in comic books published by Marvel Comics, existing within the mainstream Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Mitchell_Carson.jpg/250px-Mitchell_Carson.jpg"
+  },
+  "mainColor": null,
+  "name": "Mitchell Carson",
+  "partners": [
+  ],
+  "powers": [
+    "S.h.i.e.l.d. training"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8404,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mitch Carson"
+  ],
+  "species": [
+  ],
+  "superName": "Mitchell Carson",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Carson"
+  }
+}

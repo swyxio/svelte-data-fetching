@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Peace Monger"
+  ],
+  "authors": [
+  ],
+  "description": "Peace Monger (Dr. Cobbleskill) is a fictional character, a mutant in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Peace Monger",
+  "partners": [
+  ],
+  "powers": [
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 95,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Cobbleskill"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Peace Monger",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Peace_Monger"
+  }
+}

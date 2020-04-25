@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Adaptoid",
+    "Alessandro Brannex",
+    "Super-Adaptoid"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Super-Adaptoid was created by the organization known as A.I.M. using a piece of the Cosmic Cube.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c00325af279c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Super-Adaptoid",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 1543,
+    "serieCount": 7,
+    "storyCount": 8
+  },
+  "secretIdentities": [
+    "Super-Adaptoid"
+  ],
+  "species": [
+  ],
+  "superName": "Super-Adaptoid",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Heavy Metal",
+    "Phalanx"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2256/super-adaptoid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Super-Adaptoid"
+  }
+}

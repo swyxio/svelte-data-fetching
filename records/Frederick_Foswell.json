@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Big Man",
+    "Frederick Foswell",
+    "Patch",
+    "Patch; Big Man"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Frederick Foswell, also known as the Big Man and Patch, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Frederick Foswell",
+  "partners": [
+  ],
+  "powers": [
+    "He was adept at disguise"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 573,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frederick Foswell"
+  ],
+  "species": [
+  ],
+  "superName": "Frederick Foswell",
+  "teams": [
+    "Daily Bugle",
+    "Enforcers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Foswell"
+  }
+}

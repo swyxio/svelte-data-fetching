@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Overdrive"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Phil Jimenez"
+  ],
+  "description": "Overdrive is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Overdrive_Marvel.jpg/231px-Overdrive_Marvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Overdrive",
+  "partners": [
+  ],
+  "powers": [
+    "Vehicle"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 670,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Overdrive",
+  "teams": [
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Overdrive_(comics)"
+  }
+}

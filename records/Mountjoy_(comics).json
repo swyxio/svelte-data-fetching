@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Mountjoy",
+    "Scribe"
+  ],
+  "authors": [
+    "Carlos Pacheco",
+    "John Ostrander"
+  ],
+  "description": "Mountjoy is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mountjoy",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 141,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mountebank"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mountjoy",
+  "teams": [
+    "Hellfire Club",
+    "Lifers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountjoy_(comics)"
+  }
+}

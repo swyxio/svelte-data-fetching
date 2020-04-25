@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Blindfold"
+  ],
+  "authors": [
+    "John Cassaday",
+    "Joss Whedon"
+  ],
+  "description": "Blindfold (Ruth Aldine) is a fictional character, a mutant and a member of the student body of the Xavier Institute in Marvel Comics' X-Men-related comic books.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/10/4ce5a5f7cabea/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Blindfold",
+  "partners": [
+  ],
+  "powers": [
+    "Accelerated probability",
+    "Chaos manipulation",
+    "Clairvoyance",
+    "Precognition",
+    "Reality anchoring",
+    "Retrocognition",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1429,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ruth Aldine"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Blindfold",
+  "teams": [
+    "Jean Grey School Students",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute",
+    "Young X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/300/blindfold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blindfold_(comics)"
+  }
+}

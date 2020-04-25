@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Terraformer"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Larry Mahlstedt",
+    "Mark Bagley"
+  ],
+  "description": "Terraformer is the name of a supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Terraformer",
+  "partners": [
+  ],
+  "powers": [
+    "Plant manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 211,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Terraformer",
+  "teams": [
+    "Force of Nature"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Terraformer_(comics)"
+  }
+}

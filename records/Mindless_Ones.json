@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Mindless Ones"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Mindless Ones are fictional monsters appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mindless_One.jpg/250px-Mindless_One.jpg"
+  },
+  "mainColor": null,
+  "name": "Mindless Ones",
+  "partners": [
+  ],
+  "powers": [
+    "Durabillity",
+    "Energy blasts",
+    "Energy projection",
+    "Resistance to injury",
+    "Strength",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1929,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Mindless Ones",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mindless_Ones"
+  }
+}

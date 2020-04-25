@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Collector",
+    "The Collector"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "The Collector (Taneleer Tivan) is a fictional comic book character that has appeared in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_119.jpg/250px-Avengers_119.jpg"
+  },
+  "mainColor": null,
+  "name": "Collector",
+  "partners": [
+  ],
+  "powers": [
+    "Armored suit",
+    "Effective immortality",
+    "Limited shape-shifting",
+    "Power primordial",
+    "Precognition",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 17419,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Taneleer Tivan"
+  ],
+  "species": [
+  ],
+  "superName": "Collector",
+  "teams": [
+    "Elders of the Universe"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Collector_(comics)"
+  }
+}

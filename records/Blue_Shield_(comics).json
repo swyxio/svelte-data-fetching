@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Blue Shield"
+  ],
+  "authors": [
+    "Frank Springer",
+    "Tom DeFalco"
+  ],
+  "description": "The Blue Shield is a fictional superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Blue_shield.jpg/250px-Blue_shield.jpg"
+  },
+  "mainColor": null,
+  "name": "Blue Shield",
+  "partners": [
+  ],
+  "powers": [
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 263,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Joseph Cartelli"
+  ],
+  "species": [
+  ],
+  "superName": "Blue Shield",
+  "teams": [
+    "Features of the Marvel Universe",
+    "Fifty State Initiative",
+    "Project Pegasus",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Shield_(comics)"
+  }
+}

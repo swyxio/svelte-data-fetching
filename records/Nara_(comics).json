@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Nara"
+  ],
+  "authors": [
+    "Dennis Hopeless",
+    "Kev Walker"
+  ],
+  "description": "Nara is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Nara",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 222,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nara",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nara_(comics)"
+  }
+}

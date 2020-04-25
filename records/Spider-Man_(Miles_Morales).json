@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Spider-Man",
+    "Ultimate Spider-Man"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Sara Pichelli"
+  ],
+  "description": "Teenager Miles Morales grew up in Brooklyn, New York. Recently, Miles took on the controversial and pressured role of Spider-Man shortly after the death of the original. Morales made his debut against The Kangaroo, much to the surprise and disapproval of many present at the confrontation.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/537bcfa1eed73/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Spider-Man (Miles Morales)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Camouflage",
+    "Electricity",
+    "Endurance",
+    "Healing factor",
+    "Precognitive",
+    "Precognitive spider-sense",
+    "Reflexes",
+    "Reflexes and",
+    "Regenerative",
+    "Speed",
+    "Spider-sense",
+    "Stamina",
+    "Superhuman strength",
+    "Venom blast"
+  ],
+  "ranking": {
+    "comicCount": 18,
+    "eventCount": 0,
+    "pageviewCount": 21228,
+    "serieCount": 4,
+    "storyCount": 26
+  },
+  "secretIdentities": [
+    "Miles Morales"
+  ],
+  "species": [
+  ],
+  "superName": "Spider-Man",
+  "teams": [
+    "Avengers",
+    "The Ultimates",
+    "Ultimates",
+    "Web Warriors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/54/spider-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man_(Miles_Morales)"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Red Hulk",
+    "Rulk",
+    "The Thing (Future Imperfect)"
+  ],
+  "authors": [
+    "Ed McGuiness",
+    "Ed McGuinness",
+    "Jack Kirby",
+    "Jeph Loeb",
+    "Red Hulk:Jeph Loeb",
+    "Stan Lee"
+  ],
+  "description": "General Thaddeus E. \"Thunderbolt\" Ross (alias Red Hulk) is a fictional character who appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/f0/4ce59e13db02c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Thunderbolt Ross",
+  "partners": [
+  ],
+  "powers": [
+    "Armies",
+    "Durability",
+    "Energy absorption",
+    "Healing factor",
+    "Heat generation",
+    "Stamina",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 36956,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Thaddeus E. Ross",
+    "Thunderbolt"
+  ],
+  "species": [
+  ],
+  "superName": "Thunderbolt Ross",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Hulkbusters",
+    "Offenders",
+    "Thunderbolts",
+    "United States Air Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3389/thunderbolt_ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderbolt_Ross"
+  }
+}

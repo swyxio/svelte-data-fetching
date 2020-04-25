@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Phone Ranger"
+  ],
+  "authors": [
+    "James Fry",
+    "Kurt Busiek"
+  ],
+  "description": "Phone Ranger is a superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Phone Ranger",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 134,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "A. G. Bell"
+  ],
+  "species": [
+  ],
+  "superName": "Phone Ranger",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phone_Ranger"
+  }
+}

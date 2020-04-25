@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Polestar"
+  ],
+  "authors": [
+    "Mark Bagley",
+    "Tom DeFalco"
+  ],
+  "description": "Polestar is the name used by a pair of mercenaries and antagonists of Spider-Man, closely associated with the Great Game.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Polestar",
+  "partners": [
+  ],
+  "powers": [
+    "Costume",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 104,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Patrick Trettel",
+    "Patrick Trettel (Polestar II)",
+    "Thomas Duffy",
+    "Thomas Duffy (Polestar I)"
+  ],
+  "species": [
+  ],
+  "superName": "Polestar",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Polestar_(comics)"
+  }
+}

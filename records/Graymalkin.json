@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Graymalkin"
+  ],
+  "authors": [
+    "Marc Guggenheim",
+    "Yanick Paquette"
+  ],
+  "description": "Graymalkin is a fictional character appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg"
+  },
+  "mainColor": null,
+  "name": "Graymalkin",
+  "partners": [
+  ],
+  "powers": [
+    "Invulnerability",
+    "Longevity",
+    "Night vision",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 833,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonas Graymalkin"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Graymalkin",
+  "teams": [
+    "Jean Grey School Students",
+    "X-Men-In-Training",
+    "Young X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Graymalkin"
+  }
+}

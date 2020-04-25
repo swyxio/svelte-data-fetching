@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Zero"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Rob Liefeld"
+  ],
+  "description": "Zero is the name of several characters in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Zero",
+  "partners": [
+  ],
+  "powers": [
+    "Absorption",
+    "Computerized intelligence",
+    "Energy damping",
+    "Enhanced strength",
+    "Neutralize them",
+    "Scan for bio-mechanical",
+    "Technological weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 859,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "ADAM unit Zero"
+  ],
+  "species": [
+  ],
+  "superName": "Zero",
+  "teams": [
+    "Mutant Liberation Front",
+    "New Canaanites"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Zero_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Death",
+    "Gambit",
+    "Le Diable Blanc",
+    "Ragin' Cajun",
+    "Robert Lord",
+    "Rémy LeBeau"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Jim Lee"
+  ],
+  "description": "Gambit is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537bab0026996.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537baad144c79/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 25,
+    "green": 11,
+    "hexa": "2A0B19",
+    "red": 42
+  },
+  "name": "Gambit",
+  "partners": [
+  ],
+  "powers": [
+    "Acceleration",
+    "Acrobat",
+    "Disintegration",
+    "Foresight via tarot cards",
+    "Kinetic conversion",
+    "Kinetic energy control",
+    "Manipulation",
+    "Martial artist",
+    "Skilled card-thrower",
+    "Static generation"
+  ],
+  "ranking": {
+    "comicCount": 299,
+    "eventCount": 11,
+    "pageviewCount": 28419,
+    "serieCount": 85,
+    "storyCount": 375
+  },
+  "secretIdentities": [
+    "Remy Etienne LeBeau"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gambit",
+  "teams": [
+    "All-New X-Factor",
+    "Crimson Pirates",
+    "Horsemen of Apocalypse",
+    "Jean Grey School",
+    "LeBeau Clan",
+    "Marauders",
+    "Thieves' Guild",
+    "Thieves' guild",
+    "X-Factor",
+    "X-Mansion",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "XSE"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/19/gambit",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gambit_(comics)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Count Julio Scarlotti",
+    "Flip Mason",
+    "Jacques LaPoint",
+    "Nick Fury",
+    "Scorpio"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Don Heck",
+    "Howard Chaykin",
+    "Jim Steranko",
+    "Steve Englehart"
+  ],
+  "description": "Scorpio is the name of several fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/NickFuryScorpioTPB.jpg/175px-NickFuryScorpioTPB.jpg"
+  },
+  "mainColor": null,
+  "name": "Scorpio",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1199,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jacob Fury",
+    "Jacques LaPoint",
+    "Jake",
+    "Mikel Fury"
+  ],
+  "species": [
+  ],
+  "superName": "Scorpio",
+  "teams": [
+    "Great Wheel",
+    "HYDRA",
+    "Hydra",
+    "S.H.I.E.L.D",
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scorpio_(comics)"
+  }
+}

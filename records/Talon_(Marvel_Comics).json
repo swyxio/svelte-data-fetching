@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Talon"
+  ],
+  "authors": [
+    "Jim Valentino"
+  ],
+  "description": "Talon is a feline Inhuman in the Earth-691 timeline of the fictional Marvel Universe, sorcerer apprentice to Krugarr.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Talon",
+  "partners": [
+    "Sorcerer Supreme",
+    "The Sorcerer Supreme"
+  ],
+  "powers": [
+    "Feline attributes"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 600,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans",
+    "Werecat"
+  ],
+  "superName": "Talon",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Talon_(Marvel_Comics)"
+  }
+}

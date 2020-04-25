@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Avatar of Death",
+    "Thanos",
+    "The Mad Titan"
+  ],
+  "authors": [
+    "Jim Starlin"
+  ],
+  "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/2/50/537bc6be6cafc.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/a/10/537bc68747ccf/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "hexa": "23192A",
+    "red": 35
+  },
+  "name": "Thanos",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Energy manipulation",
+    "Longevity",
+    "Superhuman strength",
+    "Telekinesis",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 75,
+    "eventCount": 4,
+    "pageviewCount": 66741,
+    "serieCount": 41,
+    "storyCount": 72
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Eternals"
+  ],
+  "superName": "Thanos",
+  "teams": [
+    "Annihilation",
+    "Annihilation Wave",
+    "Cabal",
+    "Cull Obsidian",
+    "Cull Obsidian (The Black Order)",
+    "Defenders",
+    "Infinity Watch",
+    "Secret Defenders"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/58/thanos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thanos"
+  }
+}

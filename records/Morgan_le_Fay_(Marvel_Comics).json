@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Morgan le Fay",
+    "Morganna Le Fay"
+  ],
+  "authors": [
+    "Joe Maneely",
+    "Stan Lee"
+  ],
+  "description": "Morgan le Fay is a fictional supervillain in Marvel Comics who is loosely based on the Morgan le Fay of Arthurian legend.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Morgan_le_Fay.jpg/250px-Morgan_le_Fay.jpg"
+  },
+  "mainColor": null,
+  "name": "Morgan le Fay",
+  "partners": [
+  ],
+  "powers": [
+    "Gifted intellect",
+    "Magic manipulation",
+    "Virtual immortality"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3902,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Morgan le Fay"
+  ],
+  "species": [
+    "Half-faerie"
+  ],
+  "superName": "Morgan le Fay",
+  "teams": [
+    "Darkhold",
+    "Darkholders",
+    "ers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_le_Fay_(Marvel_Comics)"
+  }
+}

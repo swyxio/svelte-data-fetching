@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Frenzy",
+    "Joanna Cargill"
+  ],
+  "authors": [
+    "Bob Layton",
+    "Keith Pollard"
+  ],
+  "description": "Joanna Cargill, also known as Frenzy, is a fictional character, a mutant superhuman in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fd/Cargill_1.jpg"
+  },
+  "mainColor": null,
+  "name": "Joanna Cargill",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1401,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Joanna Cargill"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Joanna Cargill",
+  "teams": [
+    "Acolytes",
+    "Alliance of Evil",
+    "Femizons",
+    "Genoshan Assault X-Men",
+    "Jean Grey School",
+    "X-Mansion",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Joanna_Cargill"
+  }
+}

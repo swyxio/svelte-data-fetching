@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Ariel Fagan",
+    "Mistress of Fear",
+    "Shock"
+  ],
+  "authors": [
+    "D. G. Chichester",
+    "Dan G. Chichester",
+    "Scott McDaniel"
+  ],
+  "description": "Shock aka Ariel Tremmore is a fictional character, and a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Shock",
+  "partners": [
+  ],
+  "powers": [
+    "Razor-sharp teeth",
+    "Talons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 102,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ariel Tremmore"
+  ],
+  "species": [
+  ],
+  "superName": "Shock",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shock_(comics)"
+  }
+}

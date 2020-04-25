@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Scarlet Scarab"
+  ],
+  "authors": [
+    "Alan Kupperberg",
+    "Archie Goodwin",
+    "Doug Moench",
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": "Scarlet Scarab is the name of two fictional characters in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Scarlet Scarab",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 139,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Abdul Faoul",
+    "Mehemet Faoul"
+  ],
+  "species": [
+  ],
+  "superName": "Scarlet Scarab",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scarlet_Scarab"
+  }
+}

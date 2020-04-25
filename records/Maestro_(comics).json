@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Maestro",
+    "The Maestro"
+  ],
+  "authors": [
+    "George Pérez",
+    "Peter David"
+  ],
+  "description": "The Maestro is a fictional comic book supervillain in Marvel Comics and is a version of the Hulk from an alternate future (designated by Marvel Comics as Earth-9200).",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4d278ee344785/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Maestro",
+  "partners": [
+  ],
+  "powers": [
+    "Astral forms",
+    "Durability",
+    "Radiation absorption",
+    "Speed",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5437,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Robert Bruce Banner"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Maestro",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1321/maestro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maestro_(comics)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Ariel",
+    "Widget"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Chris Claremont"
+  ],
+  "description": "Widget, alias Katherine \"Kate\" Anne Pryde-Rasputin is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Widget",
+  "partners": [
+  ],
+  "powers": [
+    "Intangibility"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 376,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kate",
+    "Katherine Anne Pryde-Rasputin"
+  ],
+  "species": [
+  ],
+  "superName": "Widget",
+  "teams": [
+    "Excalibur",
+    "X-Men",
+    "X-Men (Earth-815)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Widget_(Marvel_Comics)"
+  }
+}

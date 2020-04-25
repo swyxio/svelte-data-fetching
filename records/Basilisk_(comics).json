@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Basilisk"
+  ],
+  "authors": [
+    "Frank Quitely",
+    "Gil Kane",
+    "Grant Morrison",
+    "Len Wein"
+  ],
+  "description": "The Basilisk is the name of four fictional characters that appear in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png"
+  },
+  "mainColor": null,
+  "name": "Basilisk",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Energy projection",
+    "Enhanced strength",
+    "Flight",
+    "Molecular manipulation",
+    "Paralyzing pulse",
+    "Paralyzing stare",
+    "Reflexes",
+    "Stamina",
+    "Superhuman strength",
+    "Temperature",
+    "Volcano generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 657,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "(Mutant) Mike Columbus",
+    "(Mutate) Wayne Gifford",
+    "(Supervillain) Basil Elks",
+    "Basil Elks",
+    "Mike Columbus",
+    "Xavier's Institute entry</ref>"
+  ],
+  "species": [
+  ],
+  "superName": "Basilisk",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Xavier Institute student body"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Basilisk_(comics)"
+  }
+}

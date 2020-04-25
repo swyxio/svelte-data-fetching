@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Deadalus"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "Sylvester Deadalus (Sly) is a fictional character, a supervillain that appears in the  NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Deadalus",
+  "partners": [
+  ],
+  "powers": [
+    "Brain–computer interface",
+    "Super strength",
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 82,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sly",
+    "Sylvester Deadalus"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Deadalus",
+  "teams": [
+    "MetalMites"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Deadalus_(comics)"
+  }
+}

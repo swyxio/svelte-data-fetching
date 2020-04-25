@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Shreck",
+    "Terror",
+    "Terror Inc"
+  ],
+  "authors": [
+    "D. G. Chichester",
+    "Klaus Janson",
+    "Margaret Clark"
+  ],
+  "description": "Terror Inc. was an American comic-book horror series from Marvel Comics starring the antihero Terror.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Terror_Inc_01_cover.jpg/250px-Terror_Inc_01_cover.jpg"
+  },
+  "mainColor": null,
+  "name": "Terror Inc.",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality",
+    "Skilled in unarmed combat",
+    "Skilled unarmed combatant"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 672,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Terror Inc.",
+  "teams": [
+    "Heroes for Hire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Terror_Inc."
+  }
+}

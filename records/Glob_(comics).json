@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Glob",
+    "Glob II",
+    "The Golden Brain"
+  ],
+  "authors": [
+    "Gary Barker",
+    "Herb Trimpe",
+    "Roy Thomas",
+    "Tom Field"
+  ],
+  "description": "Glob is the name of multiple fictional characters in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Glob1.jpg/250px-Glob1.jpg"
+  },
+  "mainColor": null,
+  "name": "Glob",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Skilled geneticist",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 607,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Joseph Timms",
+    "Sumner Samuel Beckwith"
+  ],
+  "species": [
+  ],
+  "superName": "Glob",
+  "teams": [
+    "Nick Fury's Howling Commandos",
+    "Pantheon",
+    "S.H.I.E.L.D. Paranormal Containment Unit"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Glob_(comics)"
+  }
+}

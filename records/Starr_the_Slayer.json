@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Starr",
+    "Starr the Slayer",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Barry Windsor-Smith",
+    "Roy Thomas"
+  ],
+  "description": "Starr the Slayer is a fictional character published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Starr.jpg/246px-Starr.jpg"
+  },
+  "mainColor": null,
+  "name": "Starr the Slayer",
+  "partners": [
+  ],
+  "powers": [
+    "Expert",
+    "Expert swordsman",
+    "Swordsman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 451,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Starr"
+  ],
+  "species": [
+  ],
+  "superName": "Starr the Slayer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Starr_the_Slayer"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Matthew Risman"
+  ],
+  "authors": [
+    "Christopher Yost",
+    "Craig Kyle",
+    "Mark Brooks"
+  ],
+  "description": "Matthew Risman is a fictional character, in the Marvel Universe and a deadly enemy of mutants including the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Matthewrisman.jpg"
+  },
+  "mainColor": null,
+  "name": "Matthew Risman",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 213,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Matthew Risman"
+  ],
+  "species": [
+  ],
+  "superName": "Matthew Risman",
+  "teams": [
+    "Purifiers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Risman"
+  }
+}

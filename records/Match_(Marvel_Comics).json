@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Match"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Match (Ben Hamill) is a fictional character appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Match%28NXM_39%29.jpg/250px-Match%28NXM_39%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Match",
+  "partners": [
+  ],
+  "powers": [
+    "Fire manipulation",
+    "Immunity to extreme heat",
+    "Pyric form"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 335,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ben",
+    "Benjamin Hamill"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Match",
+  "teams": [
+    "Jean Grey School Students",
+    "Paragons",
+    "Paragons training squad",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Match_(Marvel_Comics)"
+  }
+}

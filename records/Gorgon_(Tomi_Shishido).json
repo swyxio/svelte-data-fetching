@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "The Gorgon",
+    "Wolverine"
+  ],
+  "authors": [
+    "John Romita Jr.",
+    "John Romita, Jr.",
+    "Mark Millar"
+  ],
+  "description": "For the Inhuman, see Gorgon.The Gorgon (Tomi Shishido) is a character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Wolverine30.jpg/250px-Wolverine30.jpg"
+  },
+  "mainColor": null,
+  "name": "Gorgon (Tomi Shishido)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Expert swordsman",
+    "Healing factor",
+    "Reflexes/reactions",
+    "Regenerative",
+    "Speed",
+    "Superhuman strength",
+    "Telepathy",
+    "Teleportation device"
+  ],
+  "ranking": {
+    "comicCount": 47,
+    "eventCount": 3,
+    "pageviewCount": 2847,
+    "serieCount": 23,
+    "storyCount": 48
+  },
+  "secretIdentities": [
+    "Tomi Shishido"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gorgon",
+  "teams": [
+    "Dark Avengers",
+    "Dawn of the White Light",
+    "H.A.M.M.E.R",
+    "Hand",
+    "Hydra",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/837/gorgon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorgon_(Tomi_Shishido)"
+  }
+}

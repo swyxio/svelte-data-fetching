@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Brute",
+    "Mister Fantastic"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Roy Thomas"
+  ],
+  "description": "Brute is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Brute (Reed Richards)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 581,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Reed Richards"
+  ],
+  "species": [
+  ],
+  "superName": "Brute",
+  "teams": [
+    "Frightful Four"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Brute_(Reed_Richards)"
+  }
+}

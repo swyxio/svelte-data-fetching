@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Goliath",
+    "Thomas Foster",
+    "Tom Foster"
+  ],
+  "authors": [
+    "Greg Pak",
+    "Koi Turnbull",
+    "Reginald Hudlin"
+  ],
+  "description": "Thomas Foster is a fictional comic book superhero published by Marvel Comics, and is the fifth person to hold the mantle of Goliath.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/TomFoster.jpg/250px-TomFoster.jpg"
+  },
+  "mainColor": null,
+  "name": "Goliath (Tom Foster)",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Mass manipulation",
+    "Size",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 976,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Foster",
+    "Tom"
+  ],
+  "species": [
+  ],
+  "superName": "Goliath",
+  "teams": [
+    "Damage Control",
+    "M.I.T",
+    "Massachusetts Institute of Technology",
+    "Revengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Goliath_(Tom_Foster)"
+  }
+}

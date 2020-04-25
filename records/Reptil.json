@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Reptil"
+  ],
+  "authors": [
+    "Christos Gage",
+    "Steve Uy"
+  ],
+  "description": "Reptil is a character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ce5a6ff4202c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Reptil",
+  "partners": [
+  ],
+  "powers": [
+    "Minimal empathic senses"
+  ],
+  "ranking": {
+    "comicCount": 31,
+    "eventCount": 2,
+    "pageviewCount": 2804,
+    "serieCount": 4,
+    "storyCount": 36
+  },
+  "secretIdentities": [
+    "Humberto Lopez"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Reptil",
+  "teams": [
+    "Avengers Academy",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1910/reptil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reptil"
+  }
+}

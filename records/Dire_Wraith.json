@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Dire Wraith"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Bill Mantlo"
+  ],
+  "description": "The Dire Wraiths are a fictional extraterrestrial species published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Dire_Wraith.jpg/180px-Dire_Wraith.jpg"
+  },
+  "mainColor": null,
+  "name": "Dire Wraith",
+  "partners": [
+  ],
+  "powers": [
+    "Magic",
+    "Shapeshifting",
+    "Super strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1647,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Dire Wraith",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dire_Wraith"
+  }
+}

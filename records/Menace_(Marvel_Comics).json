@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Grey Goblin",
+    "Menace",
+    "Queen Cat"
+  ],
+  "authors": [
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Salvador Larroca"
+  ],
+  "description": "Menace (Lily Hollister) is a fictional character, a Marvel Comics villainess and enemy of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/20/4c002f01b93c0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Menace",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 29,
+    "eventCount": 1,
+    "pageviewCount": 1054,
+    "serieCount": 2,
+    "storyCount": 37
+  },
+  "secretIdentities": [
+    "Lily Hollister"
+  ],
+  "species": [
+  ],
+  "superName": "Menace",
+  "teams": [
+    "Goblin Nation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1422/menace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Menace_(Marvel_Comics)"
+  }
+}

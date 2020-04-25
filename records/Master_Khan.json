@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Master Khan"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Master Khan is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Master Khan",
+  "partners": [
+  ],
+  "powers": [
+    "Beings",
+    "Leviate",
+    "Magical powers",
+    "Shrink objects"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1207,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Khan"
+  ],
+  "species": [
+    "Human magic user"
+  ],
+  "superName": "Master Khan",
+  "teams": [
+    "The House of Thysslia"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Khan"
+  }
+}

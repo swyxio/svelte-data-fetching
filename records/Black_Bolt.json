@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Black Bolt"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Black Bolt (Blackagar Boltagon) is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/4/03/537ba46030785.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/20/52696929dc721/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Black Bolt",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Limited telepathy",
+    "Molecular manipulation",
+    "Particle manipulation"
+  ],
+  "ranking": {
+    "comicCount": 68,
+    "eventCount": 5,
+    "pageviewCount": 21138,
+    "serieCount": 37,
+    "storyCount": 63
+  },
+  "secretIdentities": [
+    "Blackagar Boltagon"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Black Bolt",
+  "teams": [
+    "Illuminati",
+    "Inhuman Royal Family",
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/4/black_bolt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Bolt"
+  }
+}

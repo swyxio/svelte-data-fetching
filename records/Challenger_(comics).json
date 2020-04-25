@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Challenger"
+  ],
+  "authors": [
+    "George Klein",
+    "Ray Gill"
+  ],
+  "description": "The Challenger is a fictional superhero in comic books published by Marvel Comics, beginning with the company's 1940s iteration as Timely Comics during the period fans and historians call the Golden Age of Comic Books.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5c/Challenger-DaringMystery7.jpg"
+  },
+  "mainColor": null,
+  "name": "Challenger",
+  "partners": [
+  ],
+  "powers": [
+    "Boxer",
+    "Chemistry",
+    "Immunity to pain",
+    "Pilot",
+    "Skilled marksman",
+    "Swordsmanship",
+    "Weaponry"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 225,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bill",
+    "William Waring"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Challenger",
+  "teams": [
+    "Fifty State Initiative",
+    "Freedom Force",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Challenger_(comics)"
+  }
+}

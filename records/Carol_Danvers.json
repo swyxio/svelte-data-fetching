@@ -1,0 +1,74 @@
+{
+  "aliases": [
+    "Binary",
+    "Captail Marvel",
+    "Captain Marvel",
+    "Catherine Donovan",
+    "Ms. Marvel",
+    "Warbird"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Roy Thomas"
+  ],
+  "description": "Carol Danvers is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5269608c1be7a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Captain Marvel (Carol Danvers)",
+  "partners": [
+    "Anya Corazon",
+    "Araña"
+  ],
+  "powers": [
+    "Absorption",
+    "Durability",
+    "Energy projection",
+    "Flight",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 321,
+    "eventCount": 14,
+    "pageviewCount": 66074,
+    "serieCount": 82,
+    "storyCount": 453
+  },
+  "secretIdentities": [
+    "Carol Susan Jane Danvers"
+  ],
+  "species": [
+    "Human",
+    "Kree hybrid"
+  ],
+  "superName": "Captain Marvel",
+  "teams": [
+    "A-Force",
+    "Alpha Flight Space Program",
+    "Avengers",
+    "Defenders",
+    "Defenders for a Day",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Lightning Storm",
+    "Mighty Avengers",
+    "NASA",
+    "New Avengers",
+    "S.H.I.E.L.D",
+    "Starjammers",
+    "The Mighty Avengers",
+    "The New Avengers",
+    "Ultimates",
+    "Ultimates (2015 team)",
+    "United States Air Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/9/captain_marvel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Danvers"
+  }
+}

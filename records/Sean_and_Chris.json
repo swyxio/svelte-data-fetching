@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Chris",
+    "Sean",
+    "Sean and Chris"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "Sean and Chris Daniels are a pair of characters that appear in the  NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b2/Twins_new_gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Sean and Chris",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 41,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Chris Daniels",
+    "Sean Daniels"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Sean and Chris",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_and_Chris"
+  }
+}

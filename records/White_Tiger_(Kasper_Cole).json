@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Black Panther",
+    "White Tiger"
+  ],
+  "authors": [
+    "Christopher Priest",
+    "Dan Fraga"
+  ],
+  "description": "Kevin \"Kasper\" Cole is a fictional character in Marvel Comics' shared universe, the Marvel Universe, and the third to use the name White Tiger.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Kaspercole.png/250px-Kaspercole.png"
+  },
+  "mainColor": null,
+  "name": "White Tiger (Kasper Cole)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Night vision",
+    "Reactions",
+    "Reflexes",
+    "Speed",
+    "Superhuman eyesight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 712,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kasper",
+    "Kevin Cole"
+  ],
+  "species": [
+  ],
+  "superName": "White Tiger",
+  "teams": [
+    "NYPD",
+    "New York City Police Department",
+    "The Crew"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Kasper_Cole)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Hobgoblin",
+    "Shapeshifter",
+    "Shift",
+    "Shifter"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Hobgoblin is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Hobgoblin_%28Imperial_Guard%29.jpg/175px-Hobgoblin_%28Imperial_Guard%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Hobgoblin (Imperial Guard)",
+  "partners": [
+  ],
+  "powers": [
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 219,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Hobgoblin",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hobgoblin_(Imperial_Guard)"
+  }
+}

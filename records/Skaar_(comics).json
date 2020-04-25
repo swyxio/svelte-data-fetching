@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Hulk",
+    "Killer of Killers",
+    "Sakaarson",
+    "Skaar",
+    "Son of Hulk",
+    "World Breaker"
+  ],
+  "authors": [
+    "Greg Pak",
+    "John Romita, Jr."
+  ],
+  "description": "The Hulk fathered a son while on the planet Sakaar, but thought him killed while still in his mother's womb; he was wrong.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce18a92c7a50/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Skaar",
+  "partners": [
+    "Hulk"
+  ],
+  "powers": [
+    "Durability",
+    "High temperatures",
+    "Immunity to fire",
+    "Skilled swordsman",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 0,
+    "pageviewCount": 242,
+    "serieCount": 4,
+    "storyCount": 16
+  },
+  "secretIdentities": [
+    "Skaar Banner"
+  ],
+  "species": [
+  ],
+  "superName": "Skaar",
+  "teams": [
+    "Dark Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2121/skaar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Skaar_(comics)"
+  }
+}

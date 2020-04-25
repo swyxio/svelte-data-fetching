@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "The Growing Man"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Growing Man is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg"
+  },
+  "mainColor": null,
+  "name": "Growing Man",
+  "partners": [
+  ],
+  "powers": [
+    "Mass manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 257,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Growing Man"
+  ],
+  "species": [
+  ],
+  "superName": "Growing Man",
+  "teams": [
+    "HYDRA",
+    "Hydra"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Growing_Man"
+  }
+}

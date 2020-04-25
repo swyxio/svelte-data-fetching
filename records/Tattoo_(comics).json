@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Longstrike",
+    "Tattoo"
+  ],
+  "authors": [
+    "Frank Quitely",
+    "Grant Morrison"
+  ],
+  "description": "Tattoo, later Longstrike, is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg"
+  },
+  "mainColor": null,
+  "name": "Tattoo",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered",
+    "Enhance her strength",
+    "Stilt-man"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 807,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Christine Cord"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tattoo",
+  "teams": [
+    "New Warriors",
+    "Omega Gang",
+    "Quentin Quire",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tattoo_(comics)"
+  }
+}

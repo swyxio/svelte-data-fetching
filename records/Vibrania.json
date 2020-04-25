@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Vibrania"
+  ],
+  "authors": [
+    "Don Perlin",
+    "Ron Wilson",
+    "Scott Lobdell"
+  ],
+  "description": "Vibrania is a Marvel Comics superheroine character from the fictional country of Kwarrai, Africa.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Vibrania",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 304,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Vibrania",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vibrania"
+  }
+}

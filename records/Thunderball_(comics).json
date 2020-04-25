@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Thunderball"
+  ],
+  "authors": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "description": "Dr. Eliot Franklin was a genius-level physicist who was forced to turn to crime and helped form the Wrecking Crew alongside the Wrecker, Bulldozer and Piledriver.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Thunderball_001-1-.jpg/250px-Thunderball_001-1-.jpg"
+  },
+  "mainColor": null,
+  "name": "Thunderball",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Experienced planner",
+    "Gifted physicist",
+    "High-level intellect",
+    "Superhuman strength",
+    "Tactician"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 1745,
+    "serieCount": 3,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Eliot Franklin"
+  ],
+  "species": [
+  ],
+  "superName": "Thunderball",
+  "teams": [
+    "Frightful Four",
+    "Illuminati",
+    "Masters of Evil",
+    "Secret Empire",
+    "Wrecking Crew"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2363/thunderball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderball_(comics)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Juston Seyfert"
+  ],
+  "authors": [
+  ],
+  "description": "Juston Seyfert is a fictional character appearing in comic books from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Juston Seyfert",
+  "partners": [
+  ],
+  "powers": [
+    "Gifted",
+    "Gifted mechanic",
+    "Mechanic",
+    "Programmer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 433,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Juston Seyfert",
+  "teams": [
+    "Avengers Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Juston_Seyfert"
+  }
+}

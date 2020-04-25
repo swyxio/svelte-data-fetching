@@ -1,0 +1,72 @@
+{
+  "aliases": [
+    "Charles Fort",
+    "Frank Castiglione",
+    "Frank Castle",
+    "Frank Rook",
+    "Johnny Tower",
+    "Mr. Smith",
+    "Punisher",
+    "The Punisher"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Ross Andru"
+  ],
+  "description": "The Punisher is a fictional antihero that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/2/10/537bbfbac70ee.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/90/537bbf74c34f4/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "hexa": "0D2628",
+    "red": 13
+  },
+  "name": "Punisher",
+  "partners": [
+  ],
+  "powers": [
+    "Close quarters combat",
+    "Demolition",
+    "Demolitions",
+    "Expert in military",
+    "Guerrilla tactics",
+    "Infiltration",
+    "Marksmanship",
+    "Special forces",
+    "Special forces training",
+    "Training"
+  ],
+  "ranking": {
+    "comicCount": 378,
+    "eventCount": 9,
+    "pageviewCount": 45340,
+    "serieCount": 80,
+    "storyCount": 538
+  },
+  "secretIdentities": [
+    "Frank Castle"
+  ],
+  "species": [
+  ],
+  "superName": "Punisher",
+  "teams": [
+    "Code Red",
+    "Defenders",
+    "Force Reconnaissance",
+    "Heroes for Hire",
+    "Marvel Knights",
+    "Secret Defenders",
+    "Thunderbolts",
+    "United States Marine Corps",
+    "United States Marine Corps Force Reconnaissance"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/43/punisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Punisher"
+  }
+}

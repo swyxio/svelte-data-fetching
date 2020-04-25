@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Snapdragon"
+  ],
+  "authors": [
+    "Brent Anderson",
+    "Peter B. Gillis"
+  ],
+  "description": "Snapdragon (Lorna Leigh Raeburn) is a fictional character, a superhero of Marvel Comics, member of the Strikeforce: Morituri.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Snapdragon_Morituri.jpg/250px-Snapdragon_Morituri.jpg"
+  },
+  "mainColor": null,
+  "name": "Snapdragon (Morituri)",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Plasma bursts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 91,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lorna Leigh Raeburn"
+  ],
+  "species": [
+  ],
+  "superName": "Snapdragon",
+  "teams": [
+    "Morituri"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Snapdragon_(Morituri)"
+  }
+}

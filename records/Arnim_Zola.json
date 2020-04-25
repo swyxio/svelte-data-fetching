@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "The Bio-Fanatic"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world's leading biochemist and genetic engineer.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00393a4cb7c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Arnim Zola",
+  "partners": [
+    "Red Skull"
+  ],
+  "powers": [
+    "Esp box",
+    "Genius biochemist",
+    "Mind control",
+    "Mind ray",
+    "Mind transfer",
+    "Scientist"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 1,
+    "pageviewCount": 8290,
+    "serieCount": 5,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Arnim Zola",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2790/arnim_zola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnim_Zola"
+  }
+}

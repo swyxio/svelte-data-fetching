@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Modular Man"
+  ],
+  "authors": [
+    "John Warner",
+    "Val Mayerik"
+  ],
+  "description": "The Modular Man is a fictional character, a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Marvel_Team_Up_90.png/200px-Marvel_Team_Up_90.png"
+  },
+  "mainColor": null,
+  "name": "Modular Man",
+  "partners": [
+  ],
+  "powers": [
+    "Detachable"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 123,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Stephen Weems"
+  ],
+  "species": [
+  ],
+  "superName": "Modular Man",
+  "teams": [
+    "Killer Shrike",
+    "Roxxon Energy Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Modular_Man"
+  }
+}

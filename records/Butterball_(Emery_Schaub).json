@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Boulder",
+    "Butterball",
+    "Emery Schaub"
+  ],
+  "authors": [
+    "Christos Gage",
+    "Christos N. Gage",
+    "Steve Uy"
+  ],
+  "description": "Butterball (Emery Schaub) is a fictional character of the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg"
+  },
+  "mainColor": null,
+  "name": "Butterball (Emery Schaub)",
+  "partners": [
+  ],
+  "powers": [
+    "Total invulnerability",
+    "Unlimited stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 732,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Emery Schaub"
+  ],
+  "species": [
+  ],
+  "superName": "Butterball",
+  "teams": [
+    "Avengers Academy",
+    "Fifty State Initiative",
+    "Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Butterball_(Emery_Schaub)"
+  }
+}

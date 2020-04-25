@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Exodus",
+    "Paris Bennet"
+  ],
+  "authors": [
+    "Joe Quesada",
+    "Scott Lobdell"
+  ],
+  "description": "Exodus is a fictional comic book supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52695589e1721/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Exodus",
+  "partners": [
+  ],
+  "powers": [
+    "Healing factor",
+    "Immortality",
+    "Telekinesis",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 3,
+    "pageviewCount": 6099,
+    "serieCount": 11,
+    "storyCount": 21
+  },
+  "secretIdentities": [
+    "Bennet du Paris"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Exodus",
+  "teams": [
+    "Acolytes",
+    "Brotherhood of Mutants",
+    "Crusaders",
+    "Crusades",
+    "Marauders",
+    "The 198"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/648/exodus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Exodus_(comics)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Titannus"
+  ],
+  "authors": [
+    "Robert Kirkman",
+    "Scott Kolins"
+  ],
+  "description": "Titannus is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg"
+  },
+  "mainColor": null,
+  "name": "Titannus",
+  "partners": [
+  ],
+  "powers": [
+    "Energy projection",
+    "Flight",
+    "Healing factor",
+    "Invulnerability",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 442,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Titannus"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Titannus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Titannus"
+  }
+}

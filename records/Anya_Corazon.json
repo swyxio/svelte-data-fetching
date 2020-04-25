@@ -1,0 +1,66 @@
+{
+  "aliases": [
+    "Anya Corazon",
+    "Araña",
+    "Arañita",
+    "Spider-Girl",
+    "the Hunter"
+  ],
+  "authors": [
+    "Fiona Avery",
+    "Mark Brooks"
+  ],
+  "description": "Anya Sofia Corazon is a fictional half Mexican and half Puerto Rican superheroine in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Spider-Girl (Anya Corazon)",
+  "partners": [
+    "Ms. Marvel",
+    "Spider-Man",
+    "Spider-Woman",
+    "Spider-Woman (Jessica Drew)"
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Create a blue",
+    "Endurance",
+    "Reflexes/reactions",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Symbiote"
+  ],
+  "ranking": {
+    "comicCount": 34,
+    "eventCount": 1,
+    "pageviewCount": 3582,
+    "serieCount": 8,
+    "storyCount": 43
+  },
+  "secretIdentities": [
+    "Anya Sofia Corazon"
+  ],
+  "species": [
+  ],
+  "superName": "Spider-Girl",
+  "teams": [
+    "Avengers Academy",
+    "Civil War",
+    "SHRA Training Program",
+    "Spider-Verse",
+    "The Spider Society",
+    "Web Warriors",
+    "WebCorps",
+    "Young Allies",
+    "Young Allies (Heroic Age)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2171/spider-girl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anya_Corazon"
+  }
+}

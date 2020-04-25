@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Beatrice Thurman",
+    "Christina Elizabeth Alioso",
+    "Domino",
+    "Elena Vladescu",
+    "Hope Eldridge",
+    "Jessica Marie Costello",
+    "Luisa Mendoza",
+    "Neena Beatrice Thurman",
+    "Neena Thurman",
+    "Priscilla Sutherland",
+    "Samantha Wu",
+    "Tamara Winter"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Domino (Neena Thurman)  is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Domino",
+  "partners": [
+    "Cable",
+    "Deadpool"
+  ],
+  "powers": [
+    "Enhanced reflexes",
+    "Expert markswoman",
+    "Probability manipulation",
+    "Subconscious",
+    "Telekinetic"
+  ],
+  "ranking": {
+    "comicCount": 124,
+    "eventCount": 5,
+    "pageviewCount": 14203,
+    "serieCount": 28,
+    "storyCount": 150
+  },
+  "secretIdentities": [
+    "Neena Thurman"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Domino",
+  "teams": [
+    "Six Pack",
+    "The 198",
+    "Underground",
+    "X-Corporation",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/569/domino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domino_(comics)"
+  }
+}

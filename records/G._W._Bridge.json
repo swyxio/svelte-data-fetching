@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Bridge",
+    "G. W",
+    "G.W. Bridge"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "George Washington \"G.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg"
+  },
+  "mainColor": null,
+  "name": "G. W. Bridge",
+  "partners": [
+  ],
+  "powers": [
+    "Firearms",
+    "Skilled strategist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 844,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "George Washington Bridge"
+  ],
+  "species": [
+  ],
+  "superName": "G. W. Bridge",
+  "teams": [
+    "S.H.I.E.L.D",
+    "Six Pack",
+    "Weapon P.R.I.M.E"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/G._W._Bridge"
+  }
+}

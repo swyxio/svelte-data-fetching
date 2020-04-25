@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Lucia von Bardas"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Gabriele Dell'Otto"
+  ],
+  "description": "Lucia von Bardas is a fictional character, a supervillainess in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lucia von Bardas",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Force field generation",
+    "Skilled diplomat"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1087,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lucia von Bardas"
+  ],
+  "species": [
+  ],
+  "superName": "Lucia von Bardas",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucia_von_Bardas"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Ezekiel",
+    "Ezekiel Sims",
+    "Zeke"
+  ],
+  "authors": [
+    "J. Michael Straczynski",
+    "J. Michael StraczynskiJohn Romita, Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Ezekiel Sims was a fictional character appearing in American comic books published by Marvel Comics, usually as a supporting character in stories featuring Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c002f2268bd4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ezekiel",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Extrasensory perception",
+    "Reaction time",
+    "Resistance to injury",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 1557,
+    "serieCount": 3,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Ezekiel Sims"
+  ],
+  "species": [
+  ],
+  "superName": "Ezekiel",
+  "teams": [
+    "The Spider Society"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/654/ezekiel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezekiel_(comics)"
+  }
+}

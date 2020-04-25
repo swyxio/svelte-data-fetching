@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Asylum",
+    "Darkling"
+  ],
+  "authors": [
+  ],
+  "description": "Asylum is the name of two characters in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg"
+  },
+  "mainColor": null,
+  "name": "Asylum",
+  "partners": [
+  ],
+  "powers": [
+    "Create weapons",
+    "Harness darkforce",
+    "Teleport"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 363,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Henrique Manuel Gallante",
+    "Unknown"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Asylum",
+  "teams": [
+    "Psionex"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Asylum_(comics)"
+  }
+}

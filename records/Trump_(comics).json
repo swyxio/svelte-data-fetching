@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Trump"
+  ],
+  "authors": [
+    "Geof Isherwood",
+    "Steven Grant"
+  ],
+  "description": "Trump is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Trump",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 97,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carlton Sanders"
+  ],
+  "species": [
+  ],
+  "superName": "Trump",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Trump_(comics)"
+  }
+}

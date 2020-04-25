@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Maximus Lobo"
+  ],
+  "authors": [
+    "Chuck Austen",
+    "Kia Asamiya"
+  ],
+  "description": "Maximus Lobo is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Maximus Lobo",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced senses",
+    "Lupine form"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 392,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maximus Lobo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Maximus Lobo",
+  "teams": [
+    "Dominant Species"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximus_Lobo"
+  }
+}

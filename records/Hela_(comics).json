@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Hela"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Hela is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg"
+  },
+  "mainColor": null,
+  "name": "Hela",
+  "partners": [
+  ],
+  "powers": [
+    "Black magic",
+    "Deadly touch",
+    "Durability",
+    "Life expansion",
+    "Reincarnation",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4359,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hela"
+  ],
+  "species": [
+  ],
+  "superName": "Hela",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hela_(comics)"
+  }
+}

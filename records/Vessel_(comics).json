@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Snow",
+    "Vessel"
+  ],
+  "authors": [
+    "Bryan Hitch",
+    "Scott Lobdell"
+  ],
+  "description": "Vessel is a fictional villain created by Marvel Comics for their team called Gene Nation.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/Vessel2.jpg"
+  },
+  "mainColor": null,
+  "name": "Vessel",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Healing ability to",
+    "Proportions",
+    "Resistance to injury",
+    "Strength",
+    "Superhuman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 90,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Vessel",
+  "teams": [
+    "Gene Nation",
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vessel_(comics)"
+  }
+}

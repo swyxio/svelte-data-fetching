@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "The Mighty Destroyer",
+    "Union Jack"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": "Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c0038d27694a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Union Jack",
+  "partners": [
+  ],
+  "powers": [
+    "A handgun",
+    "Espionage training",
+    "Superb athlete"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 0,
+    "pageviewCount": 3261,
+    "serieCount": 10,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Joseph Chapman"
+  ],
+  "species": [
+  ],
+  "superName": "Union Jack",
+  "teams": [
+    "British Army",
+    "British army",
+    "Freedom's Five",
+    "Invaders",
+    "V-Battalion"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2451/union_jack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Union_Jack_(comics)"
+  }
+}

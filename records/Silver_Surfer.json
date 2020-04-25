@@ -1,0 +1,47 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "When Zenn-La was threatened by the world-devouring entity known as Galactus, Norrin Radd stood up for his home planet and offered to work for Galactus, finding him new planets to eat, in exchange for saving his own. Years later, the Surfer has protected Earth and many other planets, becoming one of the greatest heroes in the universe.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/7/10/537bc3b796f74.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/60/537bc3836e152/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Silver Surfer",
+  "partners": [
+  ],
+  "powers": [
+    "Power cosmic"
+  ],
+  "ranking": {
+    "comicCount": 355,
+    "eventCount": 13,
+    "pageviewCount": 19326,
+    "serieCount": 94,
+    "storyCount": 521
+  },
+  "secretIdentities": [
+    "Norrin Radd"
+  ],
+  "species": [
+  ],
+  "superName": "Silver Surfer",
+  "teams": [
+    "Annihilators",
+    "Galactus",
+    "God Squad",
+    "Heralds of Galactus",
+    "Star Masters",
+    "The Defenders",
+    "The Order",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/53/silver_surfer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver_Surfer"
+  }
+}

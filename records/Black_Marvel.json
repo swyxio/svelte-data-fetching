@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Black Marvel"
+  ],
+  "authors": [
+    "Al Gabriele"
+  ],
+  "description": "The Black Marvel (Daniel Lyons) is a fictional superhero in  comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/MysticComics5.jpg/220px-MysticComics5.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Marvel",
+  "partners": [
+  ],
+  "powers": [
+    "Peak physical condition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1087,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dan Lyons"
+  ],
+  "species": [
+  ],
+  "superName": "Black Marvel",
+  "teams": [
+    "Slingers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Marvel"
+  }
+}

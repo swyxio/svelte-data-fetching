@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Bloodshed"
+  ],
+  "authors": [
+    "Kurt Busiek",
+    "Patrick Butler"
+  ],
+  "description": "Bloodshed (real name Wyndell Dichinson) is a fictional comic-book supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Bloodshed",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength",
+    "Trained mercenary"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 174,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wyndell Dichinson"
+  ],
+  "species": [
+  ],
+  "superName": "Bloodshed",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloodshed_(comics)"
+  }
+}

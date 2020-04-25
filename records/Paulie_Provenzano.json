@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Omertà"
+  ],
+  "authors": [
+    "Salvador Larroca",
+    "Scott Lobdell"
+  ],
+  "description": "Omertà (Paul \"Paulie\" Provenzano) is a fictional character, a mutant in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/OmertaX-Men.JPG"
+  },
+  "mainColor": null,
+  "name": "Paulie Provenzano",
+  "partners": [
+  ],
+  "powers": [
+    "Invulnerability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 115,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Paul Provenzano"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Paulie Provenzano",
+  "teams": [
+    "Genoshan Assault X-Men",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulie_Provenzano"
+  }
+}

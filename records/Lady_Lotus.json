@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Lady Lotus"
+  ],
+  "authors": [
+    "Alan Kupperberg",
+    "Chic Stone",
+    "Don Glut",
+    "Rick Hoberg"
+  ],
+  "description": "Lady Lotus (also known as Lotus Newmark) is a fictional supervillainess from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg"
+  },
+  "mainColor": null,
+  "name": "Lady Lotus",
+  "partners": [
+    "Yellow Claw"
+  ],
+  "powers": [
+    "Casts illusions",
+    "Illusion casting",
+    "Limited precognition",
+    "Mind control",
+    "Slow aging"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 273,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Lady Lotus",
+  "teams": [
+    "Super-Axis"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Lotus"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Archie Goodwin"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PsiForce1.jpg/250px-PsiForce1.jpg"
+  },
+  "mainColor": null,
+  "name": "Rodstvow",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 45,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Rodstvow",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodstvow"
+  }
+}

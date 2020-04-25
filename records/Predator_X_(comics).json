@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Predator X"
+  ],
+  "authors": [
+    "Christopher Yost",
+    "Craig Kyle",
+    "Paco Medina"
+  ],
+  "description": "Predator X is a comic book character, in Marvel Comics'  main shared universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg"
+  },
+  "mainColor": null,
+  "name": "Predator X",
+  "partners": [
+  ],
+  "powers": [
+    "Accelerated healing",
+    "Mercury",
+    "Sharp claws",
+    "Speed",
+    "Superhuman strength",
+    "Teeth",
+    "Toxic saliva"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1242,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Predator X",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "The Facility",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Predator_X_(comics)"
+  }
+}

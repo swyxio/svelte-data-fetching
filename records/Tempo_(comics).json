@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Harriet Solomon",
+    "Tempo"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Rob Liefeld"
+  ],
+  "description": "Tempo, a fictional character, is an African-American mutant in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Tempo_A.JPG/250px-Tempo_A.JPG"
+  },
+  "mainColor": null,
+  "name": "Tempo",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Time manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 459,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Heather Tucker"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tempo",
+  "teams": [
+    "Acolytes",
+    "Mutant Liberation Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tempo_(comics)"
+  }
+}

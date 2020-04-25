@@ -1,0 +1,86 @@
+{
+  "aliases": [
+    "Amora",
+    "Amora Incantare",
+    "Amora Lorelei",
+    "Amora the Enchantress",
+    "Christine Collins",
+    "Enchantress",
+    "Helen Eve",
+    "Leena Moran",
+    "Valkyrie"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Mark Brooks",
+    "Paul Cornell",
+    "Stan Lee"
+  ],
+  "description": "The Enchantress is the common primary alias of two fictional characters, supervillains in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/52740e0f3c733/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Enchantress",
+  "partners": [
+    "Arkon",
+    "Doctor Doom",
+    "Erik Josten",
+    "Executioner",
+    "Loki",
+    "Power Man",
+    "Wonder Man"
+  ],
+  "powers": [
+    "Agility",
+    "Dimensional travel",
+    "Durability",
+    "Energy blasts",
+    "Healing factor",
+    "Illusions",
+    "Levitation",
+    "Longevity",
+    "Mind control",
+    "Possesses superhuman",
+    "Reflexes",
+    "Reflexes and",
+    "Speed",
+    "Stamina",
+    "Strength",
+    "Telepathy",
+    "Teleportation",
+    "Time manipulation",
+    "Transmutation"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 8948,
+    "serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Amora",
+    "Sylvie Lushton"
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Enchantress",
+  "teams": [
+    "Asgard",
+    "Astonishing Avengers",
+    "Brotherhood of Mutants",
+    "Illuminati",
+    "Lady Liberators",
+    "Mandarin's Minions",
+    "Masters of Evil",
+    "Sisterhood of Mutants",
+    "Young Masters"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Enchantress_(Marvel_Comics)"
+  }
+}

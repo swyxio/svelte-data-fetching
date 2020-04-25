@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Carl Stricker",
+    "Egghead",
+    "Elihas Starr"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Larry Lieber",
+    "Stan Lee"
+  ],
+  "description": "Egghead is the name of two fictional Marvel Comics villains.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Egghead_comics.jpg/250px-Egghead_comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Egghead",
+  "partners": [
+    "Mad Thinker",
+    "Puppet Master"
+  ],
+  "powers": [
+    "Genius intelligence",
+    "Technological disciplines"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1813,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elihas Starr"
+  ],
+  "species": [
+  ],
+  "superName": "Egghead",
+  "teams": [
+    "Emissaries of Evil",
+    "Intelligencia",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Egghead_(Marvel_Comics)"
+  }
+}

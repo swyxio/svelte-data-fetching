@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Kaine Parker",
+    "Peter Parker",
+    "Scarlet Spider",
+    "Tarantula",
+    "The Other"
+  ],
+  "authors": [
+    "Steven Butler",
+    "Terry Kavanagh"
+  ],
+  "description": "Kaine Parker is a fictional character, a superhero and former supervillain in the Marvel Comics who serves as an ally, an enemy, and a foil of Spider-Man and Ben Reilly.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4ed7bd3756650/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Scarlet Spider (Kaine)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Arthropod communication",
+    "Durability",
+    "Enhanced strength",
+    "Equilibrium",
+    "Forearm stingers",
+    "Four large spider legs",
+    "Invisibility",
+    "Mark of kaine",
+    "Night vision",
+    "Precognitive spider sense",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Two retractable stingers"
+  ],
+  "ranking": {
+    "comicCount": 21,
+    "eventCount": 0,
+    "pageviewCount": 4937,
+    "serieCount": 4,
+    "storyCount": 23
+  },
+  "secretIdentities": [
+    "Kaine Parker"
+  ],
+  "species": [
+  ],
+  "superName": "Scarlet Spider",
+  "teams": [
+    "New Warriors",
+    "New Warriors vol. 5"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2014/scarlet_spider",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaine"
+  }
+}

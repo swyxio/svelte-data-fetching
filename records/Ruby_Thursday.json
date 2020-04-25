@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Ruby Thursday"
+  ],
+  "authors": [
+    "Jim Mooney",
+    "Sal Buscema",
+    "Steve Gerber"
+  ],
+  "description": "Ruby Thursday (Thursday Rubinstein) is a fictional character in the Marvel Comics Universe and a member of the Headmen.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ruby Thursday",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Fire projectiles",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 497,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thursday Rubinstein"
+  ],
+  "species": [
+  ],
+  "superName": "Ruby Thursday",
+  "teams": [
+    "Headmen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Thursday"
+  }
+}

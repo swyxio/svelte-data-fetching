@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Shooting Star"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Sal Buscema"
+  ],
+  "description": "Shooting Star is a comic book superheroine appearing in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Shootingstarh265.jpg/225px-Shootingstarh265.jpg"
+  },
+  "mainColor": null,
+  "name": "Shooting Star",
+  "partners": [
+  ],
+  "powers": [
+    "Expert markswoman",
+    "Gyroscope",
+    "Rodeo rider"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 238,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Victoria Star"
+  ],
+  "species": [
+  ],
+  "superName": "Shooting Star",
+  "teams": [
+    "Rangers",
+    "The Rangers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shooting_Star_(comics)"
+  }
+}

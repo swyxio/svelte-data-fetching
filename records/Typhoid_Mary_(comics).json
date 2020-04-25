@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Bloody Mary",
+    "Innocent Mary",
+    "Lyla Hughes",
+    "Mary Mezinis",
+    "Mary Walker",
+    "Mutant Zero",
+    "Siryn",
+    "Typhoid",
+    "Typhoid Mary",
+    "Virgin Mary",
+    "Walker"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Typhoid Mary, an enemy and former lover of Daredevil with psionic powers, including telekinesis, is also truly gravely mentally ill and not entirely responsible for her actions.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4c00390aa2403/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Typhoid Mary",
+  "partners": [
+    "Kingpin"
+  ],
+  "powers": [
+    "Arsenal of bladed weapons",
+    "Enhanced strength",
+    "Exceptional swordswoman",
+    "Highly skilled athlete",
+    "Limited mind control",
+    "Peak-level agility",
+    "Pyrokinesis",
+    "Reflexes",
+    "Telekinesis",
+    "Trained martial artist"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 1,
+    "pageviewCount": 5631,
+    "serieCount": 12,
+    "storyCount": 26
+  },
+  "secretIdentities": [
+    "Mary Walker"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Typhoid Mary",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Hand",
+    "Shadow Initiative",
+    "Sisterhood of Mutants",
+    "The Hand",
+    "The Initiative",
+    "Woman's Action Movement"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2893/typhoid_mary",
+    "wikipedia": "https://en.wikipedia.org/wiki/Typhoid_Mary_(comics)"
+  }
+}

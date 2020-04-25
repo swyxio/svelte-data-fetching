@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Tremolo"
+  ],
+  "authors": [
+  ],
+  "description": "Tremolo is a fictional mutant character in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tremolo",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered",
+    "Flight",
+    "Sound control"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 113,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tremolo",
+  "teams": [
+    "Hell's Belles"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tremolo_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Kimura"
+  ],
+  "authors": [
+    "Christopher Yost",
+    "Craig Kyle",
+    "Paco Medina"
+  ],
+  "description": "Kimura is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/20/X23VOL2005.jpg"
+  },
+  "mainColor": null,
+  "name": "Kimura",
+  "partners": [
+  ],
+  "powers": [
+    "Density control",
+    "Invulnerability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 907,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Kimura",
+  "teams": [
+    "The Facility",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kimura_(comics)"
+  }
+}

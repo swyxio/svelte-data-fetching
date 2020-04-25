@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Neal Shaara",
+    "Thunderbird"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Leinil Francis Yu"
+  ],
+  "description": "Coming from an affluent family and the son of a Calcuttan police chief, Indian national Neal Shaara has not been a follower of Charles Xavier's philosophies for long, but appears to be one of their most dedicated supporters, nonetheless.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4c003aa0d9cf9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Thunderbird (Neal Shaara)",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Speed",
+    "Stamina",
+    "Superstrengh"
+  ],
+  "ranking": {
+    "comicCount": 38,
+    "eventCount": 1,
+    "pageviewCount": 775,
+    "serieCount": 10,
+    "storyCount": 42
+  },
+  "secretIdentities": [
+    "Neal Shaara"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Thunderbird",
+  "teams": [
+    "X-Corporation",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2364/thunderbird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)"
+  }
+}

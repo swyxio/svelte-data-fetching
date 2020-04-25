@@ -1,0 +1,36 @@
+{
+  "aliases": [
+    "Ronin"
+  ],
+  "authors": [
+  ],
+  "description": "Ronin is an alias used by multiple characters in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Ronin_Marvel_Comics.jpg/250px-Ronin_Marvel_Comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Ronin",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4510,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Ronin",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronin_(Marvel_Comics)"
+  }
+}

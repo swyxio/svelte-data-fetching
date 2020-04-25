@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Huntsman",
+    "Weapon XII"
+  ],
+  "authors": [
+    "Grant Morrison",
+    "Igor Kordey"
+  ],
+  "description": "Huntsman, also known as Weapon XII, is a supervillain in the Marvel Universe and enemy of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Huntsman",
+  "partners": [
+  ],
+  "powers": [
+    "Psychic immunity",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 936,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zona Cluster-6"
+  ],
+  "species": [
+    "Human-Sentinel hybrid"
+  ],
+  "superName": "Huntsman",
+  "teams": [
+    "Super-Sentinels",
+    "Weapon Plus",
+    "Weapon Plus Program"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Huntsman_(comics)"
+  }
+}

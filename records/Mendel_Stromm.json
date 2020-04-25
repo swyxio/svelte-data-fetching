@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Dr. Mendel Stromm",
+    "Gaunt",
+    "Robot-Master"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Dr. Mendel Stromm is a fictional character in the Marvel Universe that has also been known as Robot Master and Gaunt.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Stromm.jpg/249px-Stromm.jpg"
+  },
+  "mainColor": null,
+  "name": "Mendel Stromm",
+  "partners": [
+  ],
+  "powers": [
+    "Regenerative powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 908,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mendel Stromn"
+  ],
+  "species": [
+  ],
+  "superName": "Mendel Stromm",
+  "teams": [
+    "Oscorp"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mendel_Stromm"
+  }
+}

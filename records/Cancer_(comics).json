@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Cancer"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "Cancer is the name of three fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cancer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 264,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Klevano"
+  ],
+  "species": [
+  ],
+  "superName": "Cancer",
+  "teams": [
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cancer_(comics)"
+  }
+}

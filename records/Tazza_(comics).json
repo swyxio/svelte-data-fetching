@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Tazza"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Steve Ditko"
+  ],
+  "description": "Lord Tazza, better known as Tazza, is a fictional character, a super villain who appears in comics published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tazza",
+  "partners": [
+  ],
+  "powers": [
+    "Energy projection",
+    "Sorcery"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 246,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lord Tazza"
+  ],
+  "species": [
+  ],
+  "superName": "Tazza",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tazza_(comics)"
+  }
+}

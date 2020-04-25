@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Libra",
+    "Lloyd Willoughby",
+    "Master of the Balance"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "For the DC Comics version, see Libra.Libra is the name of different characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Libra",
+  "partners": [
+  ],
+  "powers": [
+    "Psychic senses"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 414,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gustav Brandt"
+  ],
+  "species": [
+  ],
+  "superName": "Libra",
+  "teams": [
+    "Avengers",
+    "The Zodiac",
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Libra_(Marvel_Comics)"
+  }
+}

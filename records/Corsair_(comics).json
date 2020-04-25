@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Corsair"
+  ],
+  "authors": [
+    "Dave Cockrum"
+  ],
+  "description": "Corsair (Major Christopher Summers, USAF) is a fictional character, a star-faring hero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c004062d89bd/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Corsair",
+  "partners": [
+  ],
+  "powers": [
+    "Highly skilled pilot",
+    "Marksman",
+    "Swordsman"
+  ],
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 0,
+    "pageviewCount": 3665,
+    "serieCount": 13,
+    "storyCount": 19
+  },
+  "secretIdentities": [
+    "Christopher Summers"
+  ],
+  "species": [
+  ],
+  "superName": "Corsair",
+  "teams": [
+    "Shi'ar",
+    "Shi'ar Empire",
+    "Starjammers",
+    "United States Air Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/465/corsair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corsair_(comics)"
+  }
+}

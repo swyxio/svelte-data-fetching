@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Jack Russell",
+    "Jack Russell (adopted name)",
+    "Werewolf By Night"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Mike Ploog",
+    "Roy Thomas"
+  ],
+  "description": "Werewolf by Night (birth name Jacob Russoff, legal name Jacob Russell, nicknamed Jack) is a fictional character, an antiheroic werewolf in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Werewolf_by_Night_cover.JPG/190px-Werewolf_by_Night_cover.JPG"
+  },
+  "mainColor": null,
+  "name": "Werewolf by Night",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Razor sharp claws",
+    "Reflexes",
+    "Sense of smell",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2754,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jacob Russoff",
+    "Jacob Russoff (given name)"
+  ],
+  "species": [
+  ],
+  "superName": "Werewolf by Night",
+  "teams": [
+    "Legion of Monsters",
+    "Midnight Sons",
+    "Night Shift"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Werewolf_by_Night"
+  }
+}

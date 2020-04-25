@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Pinky Pinkerton"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Percival \"Pinky\" Pinkerton is a fictional character, a soldier in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Pinky Pinkerton",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 636,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Percival Pinkerton"
+  ],
+  "species": [
+  ],
+  "superName": "Pinky Pinkerton",
+  "teams": [
+    "Howling Commandos",
+    "S.H.I.E.L.D",
+    "Sgt. Fury",
+    "his Howling Commandos"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pinky_Pinkerton"
+  }
+}

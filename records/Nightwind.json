@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Nightwind"
+  ],
+  "authors": [
+    "(writer) and",
+    "Jay Faerber",
+    "Terry Dodson"
+  ],
+  "description": "Nightwind is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Nightwind",
+  "partners": [
+  ],
+  "powers": [
+    "Darkforce manipulation",
+    "Depowered"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 191,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Nightwind",
+  "teams": [
+    "Rising Sons"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightwind"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Midas",
+    "Midas II",
+    "Midas the Golden Man"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "George Tuska",
+    "Gerry Conway",
+    "Jim Mooney"
+  ],
+  "description": "Midas is the name of two fictional characters in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Midas",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 262,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Malcolm J. Meriwell",
+    "Mordecai Midas"
+  ],
+  "species": [
+  ],
+  "superName": "Midas",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Midas_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Nitro"
+  ],
+  "authors": [
+    "Jim Starlin",
+    "Steve Englehart"
+  ],
+  "description": "Nitro is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00372e0847c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nitro",
+  "partners": [
+  ],
+  "powers": [
+    "Immense self-detonation"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 1,
+    "pageviewCount": 4120,
+    "serieCount": 3,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Robert Hunter"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Nitro",
+  "teams": [
+    "Defenders",
+    "Hardcore",
+    "Hardcore's Untouchables"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1614/nitro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nitro_(comics)"
+  }
+}

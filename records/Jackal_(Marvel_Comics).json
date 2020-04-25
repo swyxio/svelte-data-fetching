@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Jackal"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Ross Andru",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Jackal is a fictional supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4c002e7012876/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Jackal",
+  "partners": [
+    "Grizzly",
+    "Punisher",
+    "Spidercide",
+    "Tarantula"
+  ],
+  "powers": [
+    "Agility",
+    "Biochemist",
+    "Cloner",
+    "Genius geneticist",
+    "Gymnast",
+    "Speed",
+    "Superhuman strength",
+    "Talented martial artist"
+  ],
+  "ranking": {
+    "comicCount": 15,
+    "eventCount": 1,
+    "pageviewCount": 3108,
+    "serieCount": 5,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Miles Warren"
+  ],
+  "species": [
+  ],
+  "superName": "Jackal",
+  "teams": [
+    "Empire State University"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1074/jackal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackal_(Marvel_Comics)"
+  }
+}

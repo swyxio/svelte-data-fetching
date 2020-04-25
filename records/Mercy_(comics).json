@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Abigail Mercy Wright",
+    "Angel of Mercy",
+    "Mercy"
+  ],
+  "authors": [
+    "Peter David",
+    "Todd McFarlane"
+  ],
+  "description": "Mercy (Abigail Mercy Wright) is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Mercyhulk.jpg/249px-Mercyhulk.jpg"
+  },
+  "mainColor": null,
+  "name": "Mercy",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Energy projection",
+    "Extrasensory perceptions",
+    "Flight",
+    "In spear form",
+    "Intangibility",
+    "Invisibility",
+    "Shapeshifting",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1051,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Abigail Mercy Wright"
+  ],
+  "species": [
+    "Unknown"
+  ],
+  "superName": "Mercy",
+  "teams": [
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercy_(comics)"
+  }
+}

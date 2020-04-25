@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Derek Sullivan",
+    "Eric O'Grady",
+    "G.I. Ant-Man",
+    "Slaying Mantis"
+  ],
+  "authors": [
+    "Phil Hester",
+    "Robert Kirkman"
+  ],
+  "description": null,
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ant-Man (Eric O'Grady)",
+  "partners": [
+  ],
+  "powers": [
+    "Flight via jetpack",
+    "Insect communication",
+    "Size manipulation"
+  ],
+  "ranking": {
+    "comicCount": 32,
+    "eventCount": 7,
+    "pageviewCount": 3651,
+    "serieCount": 13,
+    "storyCount": 32
+  },
+  "secretIdentities": [
+    "Eric O'Grady"
+  ],
+  "species": [
+  ],
+  "superName": "Ant-Man",
+  "teams": [
+    "Damage Control",
+    "Illuminati",
+    "Initiative",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "Shadow Initiative",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1010802/ant-man_eric_ogrady/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_O%27Grady"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Captain Midlands",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Paul Cornell",
+    "Trevor Hairsine"
+  ],
+  "description": "Captain Midlands, real name \"Rambling\" Sid Ridley, is a fictional comic book character within Marvel Comics' shared universe the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png"
+  },
+  "mainColor": null,
+  "name": "Captain Midlands",
+  "partners": [
+  ],
+  "powers": [
+    "All terrain acrobatics",
+    "Captain america's shield",
+    "Expert",
+    "Expert martial artist",
+    "Field commander",
+    "Hand-to-hand combatant",
+    "Martial artist",
+    "Master",
+    "Master tactician",
+    "Tactician"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 322,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sid Ridley"
+  ],
+  "species": [
+    "Enhanced human"
+  ],
+  "superName": "Captain Midlands",
+  "teams": [
+    "British Army",
+    "MI-13"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Midlands"
+  }
+}

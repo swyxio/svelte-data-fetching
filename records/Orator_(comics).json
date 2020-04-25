@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Orator"
+  ],
+  "authors": [
+    "Jorge Gonzales",
+    "Kelley Jones",
+    "Peter Milligan"
+  ],
+  "description": "Orator (Victor Ludwig) was a minor fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Orator",
+  "partners": [
+  ],
+  "powers": [
+    "Empathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 85,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Victor Ludwig"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Orator",
+  "teams": [
+    "Acolytes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Orator_(comics)"
+  }
+}

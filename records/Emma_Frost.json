@@ -1,0 +1,83 @@
+{
+  "aliases": [
+    "Black Queen",
+    "Emma",
+    "Emma Frost",
+    "Emma Grace Frost",
+    "Frost",
+    "The Black Queen",
+    "The White Queen",
+    "White Queen"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Emma Grace Frost is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/b/e0/537baa3e1a92e.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/537ba9fe1c75a/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "hexa": "0D2628",
+    "red": 13
+  },
+  "name": "Emma Frost",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Capable of",
+    "Control",
+    "Diamond",
+    "Durability",
+    "Illusion casting",
+    "Including mind control",
+    "Induced paralysis",
+    "Into a solid",
+    "Memory alteration",
+    "Mental bolts",
+    "Mind reading",
+    "Psychic immunity",
+    "Shapeshifting",
+    "Stamina",
+    "Telepathic abilities",
+    "Telepathy",
+    "Vast",
+    "With superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 222,
+    "eventCount": 7,
+    "pageviewCount": 22006,
+    "serieCount": 84,
+    "storyCount": 209
+  },
+  "secretIdentities": [
+    "Emma Grace Frost"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Emma Frost",
+  "teams": [
+    "Cabal",
+    "Dark X-Men",
+    "Frost International",
+    "Generation X",
+    "Hellfire Club",
+    "Hellions",
+    "Phoenix Five",
+    "Phoenix Force",
+    "The Cabal",
+    "X-Mansion",
+    "X-Men",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/17/emma_frost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Frost"
+  }
+}

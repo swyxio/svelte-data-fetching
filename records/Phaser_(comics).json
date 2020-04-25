@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Phaser",
+    "Radian"
+  ],
+  "authors": [
+    "Frank Quitely",
+    "Grant Morrison"
+  ],
+  "description": "Christian Cord codenamed Radian and later Phaser is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Phaser.jpg/250px-Phaser.jpg"
+  },
+  "mainColor": null,
+  "name": "Phaser",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 364,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Christian Cord"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Phaser",
+  "teams": [
+    "New Warriors",
+    "Omega Gang",
+    "Quentin Quire",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phaser_(comics)"
+  }
+}

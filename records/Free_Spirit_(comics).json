@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Coachwhip",
+    "Free Spirit"
+  ],
+  "authors": [
+    "Dave Hoover",
+    "Mark Gruenwald"
+  ],
+  "description": "Free Spirit is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Freespiritmu0.jpg/200px-Freespiritmu0.jpg"
+  },
+  "mainColor": null,
+  "name": "Free Spirit",
+  "partners": [
+    "Captain America"
+  ],
+  "powers": [
+    "Peak human strength",
+    "Physical resistance",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 608,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cathy Webster"
+  ],
+  "species": [
+  ],
+  "superName": "Free Spirit",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Free_Spirit_(comics)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Arsenic",
+    "Gertrude Yorkes",
+    "Heroine"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "Brian K. Vaughan"
+  ],
+  "description": "Gertrude Yorkes (self-referred to as Arsenic), is a fictional character in the Marvel Comics Runaways.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Gertrude Yorkes",
+  "partners": [
+  ],
+  "powers": [
+    "Deinonychus"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 1512,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Gertrude Yorkes"
+  ],
+  "species": [
+  ],
+  "superName": "Gertrude Yorkes",
+  "teams": [
+    "Runaways"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2817/gertrude_yorkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Yorkes"
+  }
+}

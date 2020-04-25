@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Brynocki"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Paul Gulacy"
+  ],
+  "description": "Brynocki is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Brynocki",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 119,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Terrestrial robot"
+  ],
+  "superName": "Brynocki",
+  "teams": [
+    "MI-6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Brynocki"
+  }
+}

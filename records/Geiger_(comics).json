@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Geiger"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Ken Lashley"
+  ],
+  "description": "Geiger is not to be confused with \"Count Geiger\", the superhero title character of Michael Bishop's novel Count Geiger's Blues.Geiger (Delilah \"Dee Dee\" Dearborn) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/52740dec5e17a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Geiger",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 324,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Delilah Dearborn"
+  ],
+  "species": [
+  ],
+  "superName": "Geiger",
+  "teams": [
+    "Empire State University",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/776/geiger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geiger_(comics)"
+  }
+}

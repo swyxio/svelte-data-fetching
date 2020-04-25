@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Steeplejack",
+    "Steeplejack II"
+  ],
+  "authors": [
+    "Carmine Infantino",
+    "Chris Claremont",
+    "George Tuska",
+    "Len Wein"
+  ],
+  "description": "Steeplejack is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Steeplejack",
+  "partners": [
+  ],
+  "powers": [
+    "A wire slipknot",
+    "Energy blasts",
+    "Heat/light"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 283,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jake Mallard",
+    "Maxwell Plumm"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Steeplejack",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Steeplejack_(Marvel_Comics)"
+  }
+}

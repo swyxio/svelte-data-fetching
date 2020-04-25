@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "GoGo Tomago"
+  ],
+  "authors": [
+    "Duncan Rouleau",
+    "Steven T. Seagle"
+  ],
+  "description": "GoGo Tomago (Leiko Tanaka) is a fictional character, a superhero in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/GoGo_Tomago_%28Marvel_Comics%29.jpg/250px-GoGo_Tomago_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "GoGo Tomago",
+  "partners": [
+  ],
+  "powers": [
+    "Accomplished racer",
+    "Skilled motorcyclist",
+    "Stunt driver"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4747,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Leiko Tanaka"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "GoGo Tomago",
+  "teams": [
+    "Big Hero 6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/GoGo_Tomago"
+  }
+}

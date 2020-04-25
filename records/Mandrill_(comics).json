@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Hensley Fargus",
+    "Mandrill",
+    "Monkey Face"
+  ],
+  "authors": [
+    "Carole Seuling",
+    "Ross Andru"
+  ],
+  "description": "Mandrill is a fictional character, a mutant supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002efee8164/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Mandrill",
+  "partners": [
+    "Nekra"
+  ],
+  "powers": [
+    "Above-normal intellect",
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Flexibility",
+    "Gifted planner",
+    "Hand to hand combatant",
+    "Manipulation",
+    "Reflexes",
+    "Sex pheromones generation",
+    "Skilled acrobat",
+    "Speed",
+    "Strategist",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 676,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jerome Beechman"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mandrill",
+  "teams": [
+    "Black Spectre",
+    "Mutant Force",
+    "Resistants"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1357/mandrill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mandrill_(comics)"
+  }
+}

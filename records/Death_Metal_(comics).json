@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Death Metal",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Dan Abnett",
+    "Dell Barras"
+  ],
+  "description": "Death Metal is a character from the Marvel UK imprint of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DeathMetal1.png/200px-DeathMetal1.png"
+  },
+  "mainColor": null,
+  "name": "Death Metal",
+  "partners": [
+  ],
+  "powers": [
+    "Personalities of others",
+    "Resistant to injury",
+    "Shape-changing",
+    "Superstrength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 200,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Death Metal"
+  ],
+  "species": [
+    "Robot"
+  ],
+  "superName": "Death Metal",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_Metal_(comics)"
+  }
+}

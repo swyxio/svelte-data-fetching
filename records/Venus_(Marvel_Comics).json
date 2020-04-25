@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Aphrodite",
+    "Goddess",
+    "Venus",
+    "Victoria Nutley Starr",
+    "others"
+  ],
+  "authors": [
+    "Carlo Pagulayan",
+    "Jeff Parker"
+  ],
+  "description": "Venus is the name of two fictional characters appearing in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Venus-comics-leonardkirk.jpg/250px-Venus-comics-leonardkirk.jpg"
+  },
+  "mainColor": null,
+  "name": "Venus",
+  "partners": [
+  ],
+  "powers": [
+    "Emotion control",
+    "Flight",
+    "Illusion generation",
+    "Immortality",
+    "Levitation",
+    "Superhuman reflexes",
+    "Superhuman speed",
+    "Superhuman strength",
+    "Supherhuman durability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1435,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aphrodite Pandemos"
+  ],
+  "species": [
+    "Olympians",
+    "Siren (mythology)"
+  ],
+  "superName": "Venus",
+  "teams": [
+    "Agents of Atlas",
+    "G-Men",
+    "God Squad"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
+  }
+}

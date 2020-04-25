@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "White Tiger"
+  ],
+  "authors": [
+    "Alex Maleev",
+    "Brian Michael Bendis"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WhiteTigerDT.jpg/250px-WhiteTigerDT.jpg"
+  },
+  "mainColor": null,
+  "name": "White Tiger (Angela del Toro)",
+  "partners": [
+    "Daredevil",
+    "Iron Fist"
+  ],
+  "powers": [
+    "Camouflage",
+    "Expert markswoman",
+    "Trained investigator"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6297,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Angela del Toro"
+  ],
+  "species": [
+  ],
+  "superName": "White Tiger",
+  "teams": [
+    "FBI",
+    "New Revengers",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Angela_del_Toro)"
+  }
+}

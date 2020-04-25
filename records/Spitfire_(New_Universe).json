@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Spitfire",
+    "the Troubleshooters"
+  ],
+  "authors": [
+    "Eliot R. Brown",
+    "Eliot R. BrownJack Morelli",
+    "Jack Morelli"
+  ],
+  "description": "Spitfire and the Troubleshooters (renamed to Spitfire with issue #8 and to Codename: Spitfire with issue #10) was a short-lived comic book series from Marvel Comics' New Universe line.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/SpitfireTroubleshooters1.jpg/250px-SpitfireTroubleshooters1.jpg"
+  },
+  "mainColor": null,
+  "name": "Spitfire (New Universe)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 14,
+    "eventCount": 0,
+    "pageviewCount": 286,
+    "serieCount": 10,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Spitfire",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2181/spitfire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spitfire_(New_Universe)"
+  }
+}

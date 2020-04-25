@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Die-Cut",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Glenn Dakin",
+    "John Royle"
+  ],
+  "description": "Die-Cut (real name: Czorn Yson) is a fictional character who appears in comic books published by the Marvel UK imprint of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Die-Cut",
+  "partners": [
+  ],
+  "powers": [
+    "Pscythe"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 133,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Czorn Yson"
+  ],
+  "species": [
+  ],
+  "superName": "Die-Cut",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Die-Cut_(comics)"
+  }
+}

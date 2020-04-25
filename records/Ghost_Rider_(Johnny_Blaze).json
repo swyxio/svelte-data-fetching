@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Frank Ryder",
+    "Ghost Rider",
+    "Johnny Blaze"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Mike Ploog",
+    "Roy Thomas"
+  ],
+  "description": "Ghost Rider is a fictional superhero that appears in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52696ba1353e7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ghost Rider (Johnny Blaze)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Along any surface",
+    "Durability",
+    "Endurance",
+    "Ethereal flame",
+    "Immortality",
+    "Penance stare",
+    "Reflexes",
+    "Regeneration",
+    "Resurrection",
+    "Rides flaming motorcycle",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Wields enchanted chain"
+  ],
+  "ranking": {
+    "comicCount": 217,
+    "eventCount": 6,
+    "pageviewCount": 6271,
+    "serieCount": 60,
+    "storyCount": 312
+  },
+  "secretIdentities": [
+    "Johnny Blaze"
+  ],
+  "species": [
+  ],
+  "superName": "Ghost Rider",
+  "teams": [
+    "Avengers of the Supernatural",
+    "Champions",
+    "Defenders",
+    "Heroes for Hire",
+    "Legion of Monsters",
+    "Midnight Sons",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Rider_(Johnny_Blaze)"
+  }
+}

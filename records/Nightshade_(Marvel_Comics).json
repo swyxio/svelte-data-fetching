@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Deadly Nightshade",
+    "Deadly Nightshade, Doctor Nightshade, Queen of the Werewolves",
+    "Doctor Nightshade",
+    "Nightshade",
+    "Queen of the Werewolves"
+  ],
+  "authors": [
+    "Alan Lee Weiss",
+    "Steve Englehart"
+  ],
+  "description": "Nightshade (Tilda Johnson), formerly known as Dr. Nightshade and Deadly Nightshade is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg"
+  },
+  "mainColor": null,
+  "name": "Nightshade",
+  "partners": [
+    "Yellow Claw"
+  ],
+  "powers": [
+    "Extraordinary genius",
+    "Humanoid robots",
+    "Including silver spikes",
+    "Including werewolves"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 712,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tilda Johnson"
+  ],
+  "species": [
+  ],
+  "superName": "Nightshade",
+  "teams": [
+    "Femizons",
+    "MODOK's 11"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightshade_(Marvel_Comics)"
+  }
+}

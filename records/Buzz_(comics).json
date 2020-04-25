@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Buzz",
+    "JJ",
+    "Jack \"JJ\" Jameson",
+    "The Buzz"
+  ],
+  "authors": [
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "The Buzz (Jack \"JJ\" Jameson) is a fictional character in the Spider-Girl comic book series, published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Buzz",
+  "partners": [
+    "Spider-Girl"
+  ],
+  "powers": [
+    "360",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 273,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Benjamin Jameson"
+  ],
+  "species": [
+  ],
+  "superName": "Buzz",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Buzz_(comics)"
+  }
+}

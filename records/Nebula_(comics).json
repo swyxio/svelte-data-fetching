@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Captain Nebula",
+    "Ms. Peale",
+    "Nebula"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roger Stern"
+  ],
+  "description": "Nebula is a fictional character, an alien supervillain appearing in the Marvel Comics universe.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/80/537bbe7d45119.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/528d339973337/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "hexa": "0D2628",
+    "red": 13
+  },
+  "name": "Nebula",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 11110,
+    "serieCount": 5,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nebula",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/40/nebula",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nebula_(comics)"
+  }
+}

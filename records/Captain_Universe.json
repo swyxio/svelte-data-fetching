@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Captain Universe",
+    "Guardian of Eternity",
+    "The Avenging Angel",
+    "The Hero That Could Be You"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Michael Golden"
+  ],
+  "description": "Captain Universe is a fictional character, a superhero in Marvel Comics' universe who was created by Bill Mantlo and Michael Golden, and first appeared in Micronauts vol. 1 #8.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Captain Universe",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Energy blasts",
+    "Flight",
+    "Power enhancement",
+    "Senses",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Telekinesis",
+    "Time travel"
+  ],
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 1,
+    "pageviewCount": 2905,
+    "serieCount": 10,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Various hosts"
+  ],
+  "species": [
+  ],
+  "superName": "Captain Universe",
+  "teams": [
+    "Avengers",
+    "Badoon",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)",
+    "Kree",
+    "Micronauts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/392/captain_universe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Universe"
+  }
+}

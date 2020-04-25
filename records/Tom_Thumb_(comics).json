@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Tom Thumb"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Tom Thumb is the name of two fictional characters (both with the real name Thomas Thompson) who are owned by Marvel Comics and appear in the comic books published by that company.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Tom_thumb_sqsup001.jpg/200px-Tom_thumb_sqsup001.jpg"
+  },
+  "mainColor": null,
+  "name": "Tom Thumb",
+  "partners": [
+  ],
+  "powers": [
+    "Permanently reduced size",
+    "Scientific genius"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 421,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Thompson"
+  ],
+  "species": [
+  ],
+  "superName": "Tom Thumb",
+  "teams": [
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Thumb_(comics)"
+  }
+}

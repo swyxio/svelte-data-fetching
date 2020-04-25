@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Gypsy Moth",
+    "Skein",
+    "Sybarite"
+  ],
+  "authors": [
+    "Carmine Infantino",
+    "Mark Gruenwald"
+  ],
+  "description": "Skein (real name Sybil Dvorak, formerly known as Gypsy Moth and Sybarite) is a fictional character, a mutant supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Skein.png/250px-Skein.png"
+  },
+  "mainColor": null,
+  "name": "Skein",
+  "partners": [
+  ],
+  "powers": [
+    "Levitation",
+    "Psychokinesis",
+    "Telekinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 534,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sybil Dvorak"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Skein",
+  "teams": [
+    "Masters of Evil",
+    "Night Shift",
+    "Thunderbolts",
+    "Women Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Skein_(comics)"
+  }
+}

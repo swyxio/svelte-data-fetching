@@ -1,0 +1,38 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Alex Maleev",
+    "Brian Michael Bendis"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Secret_Warriors_Vol_1_12.jpg/250px-Secret_Warriors_Vol_1_12.jpg"
+  },
+  "mainColor": null,
+  "name": "Hive",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 0,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Hive",
+  "teams": [
+    "Hydra"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hive_(comics)"
+  }
+}

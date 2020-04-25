@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Spyder"
+  ],
+  "authors": [
+    "Bret Blevins",
+    "Louise Simonson"
+  ],
+  "description": "Spyder is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spyder",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 120,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Spyder"
+  ],
+  "species": [
+  ],
+  "superName": "Spyder",
+  "teams": [
+    "The Webb"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spyder_(comics)"
+  }
+}

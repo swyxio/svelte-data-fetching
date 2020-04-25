@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Gamesmaster",
+    "Harold Smith"
+  ],
+  "authors": [
+    "Whilce Portacio"
+  ],
+  "description": "Gamesmaster (Jeremy Stevens) is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gamesmaster",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 415,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jeremy Stevens"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gamesmaster",
+  "teams": [
+    "Upstarts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gamesmaster_(comics)"
+  }
+}

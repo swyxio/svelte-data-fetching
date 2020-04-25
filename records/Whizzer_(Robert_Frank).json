@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Whizzer"
+  ],
+  "authors": [
+    "Al Avison"
+  ],
+  "description": "The Whizzer is a fictional character, a superhero in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg"
+  },
+  "mainColor": null,
+  "name": "Whizzer (Robert Frank)",
+  "partners": [
+  ],
+  "powers": [
+    "Reflexes",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2086,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert L. Frank"
+  ],
+  "species": [
+  ],
+  "superName": "Whizzer",
+  "teams": [
+    "All-Winners Squad",
+    "Avengers",
+    "Invaders",
+    "Liberty Legion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Whizzer_(Robert_Frank)"
+  }
+}

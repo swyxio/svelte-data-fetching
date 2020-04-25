@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Atlas",
+    "Erik Josten",
+    "Goliath",
+    "Power Man",
+    "Smuggler"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Atlas (Erik Stephan Josten), formerly Power Man, Smuggler and Goliath, is a fictional character, a supervillain in the Marvel Comics universe and a former member of the Thunderbolts.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Atlas_Marvel_Comics.jpg/240px-Atlas_Marvel_Comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Erik Josten",
+  "partners": [
+    "Swordsman"
+  ],
+  "powers": [
+    "Durability",
+    "Mass manipulation",
+    "Size",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2747,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Erik Stephan Josten"
+  ],
+  "species": [
+  ],
+  "superName": "Erik Josten",
+  "teams": [
+    "Defenders",
+    "Emissaries of Evil",
+    "Lethal Legion",
+    "Masters of Evil",
+    "Revengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Josten"
+  }
+}

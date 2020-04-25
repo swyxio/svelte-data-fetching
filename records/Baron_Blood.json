@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Baron Blood",
+    "Jr."
+  ],
+  "authors": [
+    "<small>(as Baron & Baroness Blood)</small>",
+    "<small>(as Kenneth & Lilly)</small>",
+    "Ben Raab",
+    "Frank Robbins",
+    "Jackson Guice",
+    "John Byrne",
+    "John Cassaday",
+    "Roger Stern",
+    "Roy Thomas",
+    "Roy Thomas &",
+    "Roy Thomas & Jackson Guice"
+  ],
+  "description": "Baron Blood is the name of a series fictional super-villains appearing in the Marvel Universe comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg"
+  },
+  "mainColor": null,
+  "name": "Baron Blood",
+  "partners": [
+  ],
+  "powers": [
+    "Animal",
+    "Durability",
+    "Flight",
+    "Hypnosis",
+    "Superhuman strength",
+    "Weather control"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 912,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Baron Blood",
+  "teams": [
+    "Super-Axis"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Baron_Blood"
+  }
+}

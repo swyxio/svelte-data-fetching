@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Geno",
+    "Puck"
+  ],
+  "authors": [
+    "John Byrne",
+    "Scott Lobdell"
+  ],
+  "description": "Puck is the codename of two fictional characters appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003c7cc0d8f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Puck",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Coordination",
+    "Durability",
+    "Endurance",
+    "Reflexes",
+    "Skilled fighter",
+    "Speed",
+    "Superhuman longevity",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 49,
+    "eventCount": 2,
+    "pageviewCount": 1966,
+    "serieCount": 14,
+    "storyCount": 58
+  },
+  "secretIdentities": [
+    "Eugene Milton Judd",
+    "Zuzha Yu"
+  ],
+  "species": [
+    "Human",
+    "Mutant"
+  ],
+  "superName": "Puck",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Gamma Flight",
+    "Uncanny X-Force",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1827/puck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puck_(comics)"
+  }
+}

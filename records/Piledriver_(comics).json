@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Piledriver"
+  ],
+  "authors": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "description": "Piledriver (Brian Philip Calusky) is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/e/e0/4ce5a3bf4b3c4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Piledriver",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Oversized hands",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 728,
+    "serieCount": 3,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Brian Philip Calusky"
+  ],
+  "species": [
+  ],
+  "superName": "Piledriver",
+  "teams": [
+    "Masters of Evil",
+    "Wrecking Crew"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1748/piledriver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piledriver_(comics)"
+  }
+}

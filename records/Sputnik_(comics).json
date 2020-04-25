@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Sputnik",
+    "Vostok"
+  ],
+  "authors": [
+    "Kieron Dwyer",
+    "Mark Gruenwald"
+  ],
+  "description": "Sputnik is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sputnik_-_captain_america_353.png"
+  },
+  "mainColor": null,
+  "name": "Sputnik",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 386,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Sputnik",
+  "teams": [
+    "Supreme Soviets",
+    "Winter Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sputnik_(comics)"
+  }
+}

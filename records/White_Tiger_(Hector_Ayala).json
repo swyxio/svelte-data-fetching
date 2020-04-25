@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "El Tigre Blanco",
+    "White Tiger"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "George Pérez"
+  ],
+  "description": "White Tiger is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/WhiteTigerhector.jpg/200px-WhiteTigerhector.jpg"
+  },
+  "mainColor": null,
+  "name": "White Tiger (Hector Ayala)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1326,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hector Ayala"
+  ],
+  "species": [
+  ],
+  "superName": "White Tiger",
+  "teams": [
+    "Defenders",
+    "Sons of the Tiger"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Hector_Ayala)"
+  }
+}

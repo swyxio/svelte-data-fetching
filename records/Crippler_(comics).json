@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Crippler"
+  ],
+  "authors": [
+    "Gregory Wright",
+    "Jackson Guice"
+  ],
+  "description": "Crippler is a fictional character in the Marvel Universe.Crippler is a mercenary who was once a member of HYDRA, but later quit to become a vigilante and later member of Silver Sable's Wild Pack.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Crippler",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 231,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carl Striklan"
+  ],
+  "species": [
+  ],
+  "superName": "Crippler",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Wild Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Crippler_(comics)"
+  }
+}

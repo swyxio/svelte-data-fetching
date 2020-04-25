@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Master Mold",
+    "Steven Lang",
+    "Template"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Chris Claremont, Dave Cockrum",
+    "Dave Cockrum"
+  ],
+  "description": "Steven Lang (sometimes spelled Stephen Lang) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMN_StevenLang.jpg"
+  },
+  "mainColor": null,
+  "name": "Steven Lang",
+  "partners": [
+  ],
+  "powers": [
+    "Cybernetic organism"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 829,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Steven Lang"
+  ],
+  "species": [
+  ],
+  "superName": "Steven Lang",
+  "teams": [
+    "Armageddon",
+    "Department of Defense",
+    "Human Council",
+    "Phalanx",
+    "Purifiers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Lang_(comics)"
+  }
+}

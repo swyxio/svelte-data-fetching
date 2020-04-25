@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "American Son",
+    "Iron Patriot"
+  ],
+  "authors": [
+  ],
+  "description": "Iron Patriot is a fictional powered exoskeleton used by several characters in Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/d/03/537bb26775545.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/537bb23511f8f/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Iron Patriot",
+  "partners": [
+    "Iron Man",
+    "War Machine"
+  ],
+  "powers": [
+    "Durability",
+    "Energy repulsors",
+    "Flamethrowers",
+    "Flight",
+    "Heat seeking missiles",
+    "Magnetic impact blasts",
+    "Miniaturized lasers",
+    "Missiles",
+    "Regenerative life support",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6256,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Iron Patriot",
+  "teams": [
+    "Dark Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/30/iron_patriot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Patriot"
+  }
+}

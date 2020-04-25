@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Purple Man",
+    "Zebediah Kilgrave"
+  ],
+  "authors": [
+    "Joe Orlando",
+    "Stan Lee"
+  ],
+  "description": "The Purple Man (real name Dr. Zebediah Killgrave) is a fictional character, a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003c7030b39/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Purple Man",
+  "partners": [
+  ],
+  "powers": [
+    "High-level intellect",
+    "Mind control",
+    "Skilled manipulator"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 1,
+    "pageviewCount": 229304,
+    "serieCount": 5,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Zebediah Killgrave"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Purple Man",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1834/purple_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Purple_Man"
+  }
+}

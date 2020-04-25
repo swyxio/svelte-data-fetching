@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Centurious",
+    "The Man Without a Soul"
+  ],
+  "authors": [
+    "Bob Budiansky",
+    "J. M. DeMatteis"
+  ],
+  "description": "Centurious is a fictional character in the Marvel Universe.Centurious was a servant of Mephisto and an enemy of Zarathos.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg"
+  },
+  "mainColor": null,
+  "name": "Centurious",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 541,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Centurious",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Centurious"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Nicholas Scratch"
+  ],
+  "authors": [
+    "George Pérez",
+    "Len Wein"
+  ],
+  "description": "Nicholas Scratch is a fictional wizard in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg"
+  },
+  "mainColor": null,
+  "name": "Nicholas Scratch",
+  "partners": [
+    "Dormammu",
+    "Salem's Seven"
+  ],
+  "powers": [
+    "Vast magical powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 560,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nicholas Scratch",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Scratch"
+  }
+}

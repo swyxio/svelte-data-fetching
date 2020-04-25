@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "(I) Boris the Merciless",
+    "Boris the Merciless",
+    "Titanium Man",
+    "the Commander",
+    "the Other"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "The Titanium Man (\"Chelovek-Titan\") is the name of two fictional supervillains in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Titanium Man",
+  "partners": [
+  ],
+  "powers": [
+    "Concussive blasts",
+    "Enhanced strength",
+    "Superhuman intelligence",
+    "Superhuman strength",
+    "Supersonic flight",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 1,
+    "pageviewCount": 2301,
+    "serieCount": 13,
+    "storyCount": 31
+  },
+  "secretIdentities": [
+    "(I) Boris Bullski",
+    "(II) Kondrati Topolov",
+    "Boris Bullski",
+    "Gremlin",
+    "Kondrati Topolov"
+  ],
+  "species": [
+  ],
+  "superName": "Titanium Man",
+  "teams": [
+    "Defenders",
+    "Green Liberation Front",
+    "KGB",
+    "Secret Defenders",
+    "Soviet Super-Soldiers",
+    "Titanic Three"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2385/titanium_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Titanium_Man"
+  }
+}

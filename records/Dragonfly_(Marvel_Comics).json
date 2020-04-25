@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Dragonfly",
+    "Veronica Dultry"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Len Wein"
+  ],
+  "description": "Dragonfly (Veronica Dultry) is a fictional supervillainess in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Dragonfly",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Hypnotic gaze"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 468,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Veronica Dultry"
+  ],
+  "species": [
+  ],
+  "superName": "Dragonfly",
+  "teams": [
+    "Ani-Men",
+    "Femizons",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dragonfly_(Marvel_Comics)"
+  }
+}

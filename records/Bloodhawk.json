@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Bloodhawk"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Ron Lim"
+  ],
+  "description": "Bloodhawk (Lemuel) is a fictional character owned by Marvel Comics, who was featured in X-Men 2099, one of the tites of Marvel's Marvel 2099 imprint.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg"
+  },
+  "mainColor": null,
+  "name": "Bloodhawk",
+  "partners": [
+  ],
+  "powers": [
+    "Accelerated healing",
+    "Flight",
+    "Hawk",
+    "Heightened senses",
+    "Radiation immunity",
+    "Razor-sharp claws",
+    "Teeth",
+    "Transmorph into"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 420,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lemuel"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Bloodhawk",
+  "teams": [
+    "Halo City Protectorate",
+    "X-Men 2099"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloodhawk"
+  }
+}

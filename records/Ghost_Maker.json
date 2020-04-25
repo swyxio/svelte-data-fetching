@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Ghost Maker"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Gene Day"
+  ],
+  "description": "Ghost Maker is a fictional character, a supervillain appearing in Marvel Comics' main shared universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ghost Maker",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled martial artist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 170,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Grigori Sovchencko"
+  ],
+  "species": [
+  ],
+  "superName": "Ghost Maker",
+  "teams": [
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Maker"
+  }
+}

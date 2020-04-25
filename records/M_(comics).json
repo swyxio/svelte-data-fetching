@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "M-Plate",
+    "Monet Yvette Clarisse Maria Therese St. Croix",
+    "Penance"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "M (Monet Yvette Clarisse Maria Therese St. Croix) is a fictional comic book superheroine, a mutant who appears in the X-Men family of books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4c0030eabc66f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "M",
+  "partners": [
+  ],
+  "powers": [
+    "Accelerated",
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Genius level intellect",
+    "Healing factor",
+    "Hearing",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Supersonic flight",
+    "Telekinesis",
+    "Telepathy",
+    "Vision"
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 2503,
+    "serieCount": 3,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Monet Yvette Clarisse Maria Therese St. Croix"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "M",
+  "teams": [
+    "Generation X",
+    "Paris",
+    "X-Corporation",
+    "X-Corps",
+    "X-Factor Investigations",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1297/m",
+    "wikipedia": "https://en.wikipedia.org/wiki/M_(comics)"
+  }
+}

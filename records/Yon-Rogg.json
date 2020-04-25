@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Annihilus"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Stan Lee"
+  ],
+  "description": "Yon-Rogg is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Yon-Rogg",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Stamina",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 555,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Kree"
+  ],
+  "superName": "Yon-Rogg",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Yon-Rogg"
+  }
+}

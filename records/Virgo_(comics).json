@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Elaine McLaughlin",
+    "Virgo"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "Virgo is the name of several fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Virgo",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 148,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elaine McLaughlin"
+  ],
+  "species": [
+  ],
+  "superName": "Virgo",
+  "teams": [
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Virgo_(comics)"
+  }
+}

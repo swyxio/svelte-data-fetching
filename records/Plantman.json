@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Blackheath",
+    "Plantman"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Jerry Siegel",
+    "Stan Lee"
+  ],
+  "description": "Plantman (Samuel Smithers) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Plant_man.jpg/200px-Plant_man.jpg"
+  },
+  "mainColor": null,
+  "name": "Plantman",
+  "partners": [
+  ],
+  "powers": [
+    "Plant manipulation",
+    "Plant-based weaponry"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 679,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Smithers"
+  ],
+  "species": [
+  ],
+  "superName": "Plantman",
+  "teams": [
+    "Maggia",
+    "New Enforcers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Plantman"
+  }
+}

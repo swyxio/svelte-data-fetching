@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "El Águila"
+  ],
+  "authors": [
+    "Dave Cockrum",
+    "Mary Jo Duffy"
+  ],
+  "description": "El Águila (Alejandro Montoya) is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "El Aguila",
+  "partners": [
+  ],
+  "powers": [
+    "Electrical generation",
+    "Excellent acrobat",
+    "Skilled fencer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 458,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alejandro Montoya"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "El Aguila",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/El_Aguila"
+  }
+}

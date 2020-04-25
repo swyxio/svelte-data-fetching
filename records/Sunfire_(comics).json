@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Famine",
+    "Shiro Yoshida",
+    "Sunfire"
+  ],
+  "authors": [
+    "Don Heck",
+    "Roy Thomas"
+  ],
+  "description": "Shiro Yoshida’s mother was exposed to the atomic devastation of Hiroshima during World War II and died giving birth to him.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/00/53629b9e24ef5/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sunfire",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Plasma blasts",
+    "Radiation immunity"
+  ],
+  "ranking": {
+    "comicCount": 68,
+    "eventCount": 5,
+    "pageviewCount": 6135,
+    "serieCount": 34,
+    "storyCount": 69
+  },
+  "secretIdentities": [
+    "Shiro Yoshida"
+  ],
+  "species": [
+    "Human Mutant",
+    "Human Mutate"
+  ],
+  "superName": "Sunfire",
+  "teams": [
+    "Avengers Unity Squad",
+    "Big Hero 6",
+    "Death's Champions",
+    "Horsemen of Apocalypse",
+    "Marauders",
+    "Marvel Super Hero Contest of Champions",
+    "Pacific Overlords",
+    "The Twelve",
+    "Uncanny Avengers",
+    "X-Corporation",
+    "X-Corporation Mumbai",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2250/sunfire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunfire_(comics)"
+  }
+}

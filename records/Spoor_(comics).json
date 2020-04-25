@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Amos",
+    "Spoor"
+  ],
+  "authors": [
+    "John Romita Jr.",
+    "John Romita, Jr.",
+    "Scott Lobdell"
+  ],
+  "description": "Spoor (Andrew Hamish Graves) is a fictional comic book character appearing in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spoor",
+  "partners": [
+  ],
+  "powers": [
+    "Generates",
+    "Hatred in others",
+    "Pheromone manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 134,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Andrew Hamish Graves"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Spoor",
+  "teams": [
+    "Acolytes",
+    "Renegade Faction"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spoor_(comics)"
+  }
+}

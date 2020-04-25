@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Hrimhari",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Art Adams",
+    "Arthur Adams",
+    "Chris Claremont"
+  ],
+  "description": "Hrimhari is a fictional character published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hrimhari",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to",
+    "Between human",
+    "Shapeshift"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 510,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hrimhari"
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Hrimhari",
+  "teams": [
+    "Asgard",
+    "New Mutants",
+    "X-Force",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hrimhari"
+  }
+}

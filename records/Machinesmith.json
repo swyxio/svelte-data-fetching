@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Machinesmith",
+    "Mister Fear"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Stan Lee"
+  ],
+  "description": "Machinesmith (born Samuel \"Starr\" Saxon) is a fictional supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg"
+  },
+  "mainColor": null,
+  "name": "Machinesmith",
+  "partners": [
+  ],
+  "powers": [
+    "Robotic genius",
+    "Robotic suits",
+    "Scientific"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 532,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Saxon",
+    "Starr"
+  ],
+  "species": [
+  ],
+  "superName": "Machinesmith",
+  "teams": [
+    "Masters of Evil",
+    "Skeleton Crew"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Machinesmith"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Caretaker",
+    "Sara"
+  ],
+  "authors": [
+    "Andy Kubert",
+    "Howard Mackie"
+  ],
+  "description": "Caretaker is a fictional Marvel Comics character.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Caretaker",
+  "partners": [
+  ],
+  "powers": [
+    "Conventional disease",
+    "Immune/resistant to aging",
+    "Vengeance simultaneously",
+    "When needed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 971,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sister Sara"
+  ],
+  "species": [
+    "Blood",
+    "The Blood"
+  ],
+  "superName": "Caretaker",
+  "teams": [
+    "The Blood",
+    "The Sacred Heart Convent for the Sisters of the Holy Sepulcher"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Caretaker_(comics)"
+  }
+}

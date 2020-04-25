@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Russian",
+    "The Ivan",
+    "The Russian"
+  ],
+  "authors": [
+    "Garth Ennis",
+    "Steve Dillon"
+  ],
+  "description": "The Russian is a fictional supervillain, and enemy of the Marvel Comics antihero the Punisher.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/10/4c003c4af200f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Russian",
+  "partners": [
+  ],
+  "powers": [
+    "Considerable strength",
+    "Durability",
+    "Enhanced smell",
+    "Nigh-invulnerability",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2097,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human Cyborg"
+  ],
+  "superName": "Russian",
+  "teams": [
+    "General Kreigkopf's Army",
+    "Gnucci Family"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1964/russian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russian_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Old Lace"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "Brian K. Vaughan"
+  ],
+  "description": "Old Lace (often nicknamed as OL) is a fictional character, a superheroine in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Old Lace",
+  "partners": [
+  ],
+  "powers": [
+    "Good intelligence",
+    "Razor-sharp claws"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 884,
+    "serieCount": 5,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Genetically-Engineered Deinonychus"
+  ],
+  "superName": "Old Lace",
+  "teams": [
+    "Runaways"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2844/old_lace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Old_Lace_(comics)"
+  }
+}

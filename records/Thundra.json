@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Thundra"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Roy Thomas"
+  ],
+  "description": "Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Thundra",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Carries a sword",
+    "Peak level speed",
+    "Reflexes",
+    "Resistance to injury",
+    "Stamina",
+    "Vast superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 2591,
+    "serieCount": 1,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Thundra"
+  ],
+  "species": [
+  ],
+  "superName": "Thundra",
+  "teams": [
+    "Code Red",
+    "Frightful Four",
+    "Grapplers",
+    "Lady Liberators",
+    "Roxxon Energy Corporation",
+    "Roxxon Oil",
+    "Squadron Supreme",
+    "The Grapplers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2370/thundra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thundra"
+  }
+}

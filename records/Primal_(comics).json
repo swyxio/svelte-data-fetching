@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Instinct",
+    "Primal",
+    "The Fourth Light",
+    "The Modern Primitive"
+  ],
+  "authors": [
+    "Kieron Gillen",
+    "Matt Fraction"
+  ],
+  "description": "Primal (Teon Macik) is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/XMEN-Primal.jpg"
+  },
+  "mainColor": null,
+  "name": "Primal",
+  "partners": [
+  ],
+  "powers": [
+    "Hyperinstinct"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 630,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Teon Macik"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Primal",
+  "teams": [
+    "Hope Summers",
+    "Jean Grey School Students",
+    "The Lights",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Primal_(comics)"
+  }
+}

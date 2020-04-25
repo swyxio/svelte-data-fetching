@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Javelynn"
+  ],
+  "authors": [
+    "Chuck Dixon",
+    "Scott Kolins"
+  ],
+  "description": "Javelynn is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Javelynn.jpg/100px-Javelynn.jpg"
+  },
+  "mainColor": null,
+  "name": "Javelynn",
+  "partners": [
+  ],
+  "powers": [
+    "Gymnast"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 198,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Javelynn",
+  "teams": [
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Javelynn_(comics)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Happy Sam Sawyer"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "General Samuel \"Happy Sam\" Sawyer is a fictional character in Marvel Comics Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Samsawyer.jpg/150px-Samsawyer.jpg"
+  },
+  "mainColor": null,
+  "name": "Happy Sam Sawyer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 590,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Sawyer"
+  ],
+  "species": [
+  ],
+  "superName": "Happy Sam Sawyer",
+  "teams": [
+    "Howling Commandos",
+    "Sgt. Fury",
+    "United States Army",
+    "his Howling Commandos"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Happy_Sam_Sawyer"
+  }
+}

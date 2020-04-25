@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Shamrock"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "John Romita, Jr.",
+    "Mark Gruenwald",
+    "Steven Grant"
+  ],
+  "description": "Shamrock is a fictional comic book superheroine appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Shamrock",
+  "partners": [
+  ],
+  "powers": [
+    "Probability manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 371,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Molly Fitzgerald"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Shamrock",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shamrock_(comics)"
+  }
+}

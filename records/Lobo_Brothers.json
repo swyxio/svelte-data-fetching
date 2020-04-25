@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Lobo Brothers",
+    "Los Hermanos de Luna"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Sal Buscema"
+  ],
+  "description": "The Lobo Brothers are two supervillains from Marvel Comics: Carlos and Eduardo.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lobo Brothers",
+  "partners": [
+  ],
+  "powers": [
+    "Lycanthropy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 271,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carlos",
+    "Carlos and Eduardo Lobo",
+    "Eduardo Lobo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Lobo Brothers",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lobo_Brothers"
+  }
+}

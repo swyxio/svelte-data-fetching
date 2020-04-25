@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Trick Shot"
+  ],
+  "authors": [
+    "M. D. Bright",
+    "Mark Bright",
+    "Tom DeFalco"
+  ],
+  "description": "Trick Shot (Buck Chisholm) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Soloavengers5.jpeg/250px-Soloavengers5.jpeg"
+  },
+  "mainColor": null,
+  "name": "Trick Shot",
+  "partners": [
+  ],
+  "powers": [
+    "Highly skilled archer",
+    "Trick arrows",
+    "Uses a variety of"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1404,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Buck Chisholm"
+  ],
+  "species": [
+  ],
+  "superName": "Trick Shot",
+  "teams": [
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Trick_Shot_(comics)"
+  }
+}

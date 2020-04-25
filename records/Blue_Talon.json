@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Blue Talon"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Gerry Conway"
+  ],
+  "description": "Blue Talon aka Itto Yamura is a fictional character, and a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Blue Talon",
+  "partners": [
+  ],
+  "powers": [
+    "Mercenary"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 239,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Itto Yamura"
+  ],
+  "species": [
+  ],
+  "superName": "Blue Talon",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Talon"
+  }
+}

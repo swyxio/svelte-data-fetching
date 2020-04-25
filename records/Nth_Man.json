@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Nth Man"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Ron Wilson"
+  ],
+  "description": "Nth Man is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Nth Man",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 305,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Lightner"
+  ],
+  "species": [
+  ],
+  "superName": "Nth Man",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nth_Man"
+  }
+}

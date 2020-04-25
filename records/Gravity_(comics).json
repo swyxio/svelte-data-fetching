@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Gravity",
+    "Greg Willis",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Mike Norton",
+    "Sean McKeever"
+  ],
+  "description": "Gravity is a fictional character, a superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/526033d50fa1b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Gravity",
+  "partners": [
+  ],
+  "powers": [
+    "Gravity manipulation"
+  ],
+  "ranking": {
+    "comicCount": 23,
+    "eventCount": 4,
+    "pageviewCount": 1103,
+    "serieCount": 11,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+    "Gregory Willis"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Gravity",
+  "teams": [
+    "Great Lakes Avengers",
+    "Heavy Hitters",
+    "New Warriors",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/848/gravity",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gravity_(comics)"
+  }
+}

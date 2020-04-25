@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Silhouette",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": "Silhouette Chord is a descendant of the Dragon's Breadth cult, which spent centuries trying to master the Well of All Things, a hidden interdimensional mystic energy breach in Cambodia.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png"
+  },
+  "mainColor": null,
+  "name": "Silhouette",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced strength",
+    "Expert martial artist",
+    "Shadow teleportation",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 680,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Silhouette Chord",
+    "Silhouette Chord (Silhouette is the English translation of her Cambodian name)"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Silhouette",
+  "teams": [
+    "Civil War",
+    "Concrete Dragons",
+    "Folding Circle",
+    "New Warriors",
+    "Secret Avengers (Civil War)",
+    "The Concrete Carrion Gang"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2096/silhouette",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silhouette_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Everyman",
+    "Zeitgeist"
+  ],
+  "authors": [
+    "J. M. DeMatteis",
+    "Mike Zeck"
+  ],
+  "description": "Everyman (Larry Ekler) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Everyman",
+  "partners": [
+  ],
+  "powers": [
+    "Invisibility",
+    "Shapeshifting",
+    "Shield",
+    "The absorbascann",
+    "Use of sword"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 438,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Larry Ekler"
+  ],
+  "species": [
+  ],
+  "superName": "Everyman",
+  "teams": [
+    "Schutz Heiliggruppe",
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Everyman_(Marvel_Comics)"
+  }
+}

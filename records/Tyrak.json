@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Tyrak",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "George Pérez",
+    "Gerry Conway"
+  ],
+  "description": "Tyrak is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tyrak",
+  "partners": [
+  ],
+  "powers": [
+    "Size-shifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 330,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tyrak"
+  ],
+  "species": [
+    "Homo mermanus"
+  ],
+  "superName": "Tyrak",
+  "teams": [
+    "Servant of Attuma"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyrak"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Slab"
+  ],
+  "authors": [
+    "Larry Stroman",
+    "Peter David"
+  ],
+  "description": "Slab (Christopher Anderson), a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Slab",
+  "partners": [
+  ],
+  "powers": [
+    "Resistance to injury",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 261,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Christopher Anderson"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Slab",
+  "teams": [
+    "Mutant Liberation Front",
+    "Nasty Boys"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Slab_(comics)"
+  }
+}

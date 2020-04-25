@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Magus"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Jack Kirby",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Warlock_9.jpg/250px-Warlock_9.jpg"
+  },
+  "mainColor": null,
+  "name": "Goddess",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 774,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "originally Him; changed to Adam Warlock"
+  ],
+  "species": [
+  ],
+  "superName": "Goddess",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Infinity Watch"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Goddess_(comics)"
+  }
+}

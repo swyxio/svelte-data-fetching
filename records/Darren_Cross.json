@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Darren Cross"
+  ],
+  "authors": [
+    "David Michelinie",
+    "John Byrne"
+  ],
+  "description": "Darren Agonistes Cross is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Darren Cross",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 13400,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Darren Cross",
+  "teams": [
+    "Cross Technological Enterprises"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_Cross"
+  }
+}

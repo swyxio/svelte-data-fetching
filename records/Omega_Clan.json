@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Arkady Gregorivich",
+    "Omega Red",
+    "Vasyliev Arkady"
+  ],
+  "authors": [
+    "Jim Lee",
+    "John Byrne"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Xmen18omegared.jpg/250px-Xmen18omegared.jpg"
+  },
+  "mainColor": null,
+  "name": "Omega Clan",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Carbonadium",
+    "Death",
+    "Durability",
+    "High-level intellect",
+    "Life force absorption",
+    "Military tactician",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 41,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arkady Rossovich"
+  ],
+  "species": [
+  ],
+  "superName": "Omega Clan",
+  "teams": [
+    "Red Mafia",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Omega_Clan"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Larry Trask"
+  ],
+  "authors": [
+    "Neal Adams",
+    "Roy Thomas"
+  ],
+  "description": "Larry Trask is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Larry Trask",
+  "partners": [
+  ],
+  "powers": [
+    "Genius level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1114,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lawrence Trask"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Larry Trask",
+  "teams": [
+    "Sentinel",
+    "Sentinels"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Trask_(comics)"
+  }
+}

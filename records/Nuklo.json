@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Nuklo"
+  ],
+  "authors": [
+    "Dan Adkins",
+    "Rich Buckler",
+    "Roy Thomas"
+  ],
+  "description": "Nuklo (Robert Frank, Jr.) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Nuklo.jpg/249px-Nuklo.jpg"
+  },
+  "mainColor": null,
+  "name": "Nuklo",
+  "partners": [
+  ],
+  "powers": [
+    "(formerly) growth",
+    "Growth",
+    "Radiation generation",
+    "Self-duplication",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 285,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jr",
+    "Robert Frank"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Nuklo",
+  "teams": [
+    "V-Battalion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nuklo"
+  }
+}

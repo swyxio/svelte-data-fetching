@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Sway"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Pete Woods"
+  ],
+  "description": "Suzanne Chan saw her parents gunned down in front of her, though she remained unscathed due to her manifesting mutant ability to stop time.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003266ccbab/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sway",
+  "partners": [
+  ],
+  "powers": [
+    "Psychometry (paranormal)",
+    "Time manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1486,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Suzanne Chan"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sway",
+  "teams": [
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2273/sway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sway_(comics)"
+  }
+}

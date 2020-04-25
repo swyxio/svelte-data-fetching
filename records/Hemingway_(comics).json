@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Hemingway",
+    "Pain"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Hemingway is a fictional villain created by Marvel Comics for their team called Gene Nation.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hemingway",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Exoskeletal",
+    "Strength",
+    "Superhuman",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 156,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Hemingway",
+  "teams": [
+    "Gene Nation",
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hemingway_(comics)"
+  }
+}

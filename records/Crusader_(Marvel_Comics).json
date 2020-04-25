@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Aubrey Thompson",
+    "Crusader"
+  ],
+  "authors": [
+    "Alan Zelenetz",
+    "Andy Kuhn",
+    "Bob Hall",
+    "Robert Kirkman"
+  ],
+  "description": "Crusader is the name of multiple fictional characters created and published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cruseder.jpg/200px-Cruseder.jpg"
+  },
+  "mainColor": null,
+  "name": "Crusader",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Dexterity",
+    "Jouster",
+    "Master swordsman",
+    "Reflexes/reactions",
+    "Resistance to injury",
+    "Shapeshifting",
+    "Shield",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Use of mystical sword",
+    "Wears mystical body armor"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 537,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arthur Charles Blackwood",
+    "Z'Reg"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Crusader",
+  "teams": [
+    "Fifty State Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Crusader_(Marvel_Comics)"
+  }
+}

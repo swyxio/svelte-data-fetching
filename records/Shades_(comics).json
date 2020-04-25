@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Shades"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "George Tuska"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Shades",
+  "partners": [
+  ],
+  "powers": [
+    "Hand-to-hand combat"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Shades",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shades_(comics)"
+  }
+}

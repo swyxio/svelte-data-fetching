@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Ronan",
+    "Ronan the Accuser"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Ronan the Accuser is a fictional character that appears in American comic books published by Marvel Comics, as well as in a number of licensed movie, television, and video game adaptations.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/80/RonantheAccuser.jpg"
+  },
+  "mainColor": null,
+  "name": "Ronan the Accuser",
+  "partners": [
+  ],
+  "powers": [
+    "Cosmic energy projection",
+    "Endurance",
+    "Energy absorption",
+    "Enhance endurance",
+    "Flight",
+    "Force field generation",
+    "Invisible field creation",
+    "Molecular manipulation",
+    "Projection",
+    "Reflexes",
+    "Speed",
+    "Strength",
+    "Super-human strength",
+    "Superhuman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 16985,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ronan"
+  ],
+  "species": [
+    "Kree"
+  ],
+  "superName": "Ronan the Accuser",
+  "teams": [
+    "Annihilation",
+    "Annihilators",
+    "Kree Empire",
+    "Phalanx",
+    "Starforce",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronan_the_Accuser"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Dorma",
+    "Mr. Nebul",
+    "Nebulon",
+    "The Celestial Man"
+  ],
+  "authors": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "description": "Nebulon is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg"
+  },
+  "mainColor": null,
+  "name": "Nebulon",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 360,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nebulon",
+  "teams": [
+    "Former leader of the Celestial Mind Control Movement"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nebulon_(comics)"
+  }
+}

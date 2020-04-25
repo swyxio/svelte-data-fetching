@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Dr. Theodore Sallis",
+    "Man-Thing",
+    "Ted Sallis",
+    "Vorgornus Koth"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Gray Morrow",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": "The Man-Thing (Dr. Theodore \"Ted\" Sallis) is a fictional monster appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Man-Thing",
+  "partners": [
+    "Howard the Duck"
+  ],
+  "powers": [
+    "A counter agent",
+    "Durability",
+    "Empathic senses",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 57,
+    "eventCount": 3,
+    "pageviewCount": 6074,
+    "serieCount": 24,
+    "storyCount": 74
+  },
+  "secretIdentities": [
+    "Dr. Theodore Sallis",
+    "Ted",
+    "Theodore Sallis"
+  ],
+  "species": [
+  ],
+  "superName": "Man-Thing",
+  "teams": [
+    "Ancient Order of the Shield",
+    "Avengers of the Supernatural",
+    "Daydreamers",
+    "Howling Commandos",
+    "Legion of Monsters",
+    "Nexus of All Realities",
+    "S.T.A.K.E",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1353/man-thing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Thing"
+  }
+}

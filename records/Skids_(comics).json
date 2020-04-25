@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Skids"
+  ],
+  "authors": [
+    "Jackson Guice",
+    "Louise Simonson"
+  ],
+  "description": "Skids (Sally Blevins) is a Marvel Comics mutant.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/Skids.jpg"
+  },
+  "mainColor": null,
+  "name": "Skids",
+  "partners": [
+  ],
+  "powers": [
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1265,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sally Blevins"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Skids",
+  "teams": [
+    "Acolytes",
+    "Morlocks",
+    "Mutant Liberation Front",
+    "New Mutants",
+    "S.H.I.E.L.D",
+    "The 198",
+    "X-Corporation",
+    "X-Terminators"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Skids_(comics)"
+  }
+}

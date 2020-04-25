@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Glowworm",
+    "Race Killer",
+    "White Devil"
+  ],
+  "authors": [
+    "Christopher Priest",
+    "Jackson Guise",
+    "Jerry Acerno",
+    "Jim Owsley",
+    "Louise Simonson",
+    "M. D. Bright",
+    "Mark Bright"
+  ],
+  "description": "Glowworm is the name of two unrelated fictional characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Glowworm",
+  "partners": [
+  ],
+  "powers": [
+    "Generate",
+    "Shrug off double",
+    "Steel hard skin",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 116,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Blake"
+  ],
+  "species": [
+    "Human mutate",
+    "Mutant"
+  ],
+  "superName": "Glowworm",
+  "teams": [
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Glowworm_(comics)"
+  }
+}

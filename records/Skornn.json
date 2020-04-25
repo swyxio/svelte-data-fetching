@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Skornn"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "The Skornn is a fictional character created by writer Fabian Nicieza for Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Skornn",
+  "partners": [
+  ],
+  "powers": [
+    "Heightened strength",
+    "Monstrous appearance",
+    "Razorsharp claws"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 143,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Skornn"
+  ],
+  "species": [
+  ],
+  "superName": "Skornn",
+  "teams": [
+    "Helix"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Skornn"
+  }
+}

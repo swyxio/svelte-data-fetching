@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Gremlin",
+    "Titanium Man"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Steve Englehart"
+  ],
+  "description": "Gremlin (born Kondrati Topolov) is a fictional character appearing in the Marvel Comics universe.Although initially an adversary of the Hulk, Gremlin is killed in battle with Iron Man during the Armor Wars.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gremlin",
+  "partners": [
+  ],
+  "powers": [
+    "Concussive blasts",
+    "Superhuman intelligence",
+    "Superhuman strength",
+    "Supersonic flight",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 708,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kondrati Yurivich Topolov"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gremlin",
+  "teams": [
+    "Soviet Super-Soldiers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gremlin_(comics)"
+  }
+}

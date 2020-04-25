@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "D-Man",
+    "Demolition Dunphy",
+    "Demolition Man",
+    "Scourge of the Underworld"
+  ],
+  "authors": [
+    "Mike Carlin",
+    "Ron Wilson"
+  ],
+  "description": "Demolition Man (Dennis Dunphy), also known as D-Man, is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif"
+  },
+  "mainColor": null,
+  "name": "Demolition Man",
+  "partners": [
+    "Captain America"
+  ],
+  "powers": [
+    "Durability",
+    "Skilled aircraft pilot",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2365,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dennis Dunphy"
+  ],
+  "species": [
+  ],
+  "superName": "Demolition Man",
+  "teams": [
+    "Avengers",
+    "Demolition Man",
+    "Inuit",
+    "Inuit Tribe",
+    "Night People",
+    "Revengers",
+    "US Military",
+    "United States Armed Forces",
+    "Unlimited Class Wrestling Federation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Demolition_Man_(comics)"
+  }
+}

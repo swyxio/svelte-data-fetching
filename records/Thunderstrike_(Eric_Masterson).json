@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Eric Masterson",
+    "Thor",
+    "Thunderstrike"
+  ],
+  "authors": [
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "Eric Masterson is a fictional character in the Marvel Comics Universe, a superhero that has appeared as Thor and later Thunderstrike.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Thunderstrike.jpg/250px-Thunderstrike.jpg"
+  },
+  "mainColor": null,
+  "name": "Thunderstrike (Eric Masterson)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Dimensional travel",
+    "Durability",
+    "Endurance",
+    "Energy blasts",
+    "Flight",
+    "Highly skilled architect",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2818,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eric Kevin Masterson"
+  ],
+  "species": [
+  ],
+  "superName": "Thunderstrike",
+  "teams": [
+    "Asgard",
+    "Avengers",
+    "Defenders",
+    "Legion of the Unliving",
+    "Secret Defenders",
+    "Thor Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderstrike_(Eric_Masterson)"
+  }
+}

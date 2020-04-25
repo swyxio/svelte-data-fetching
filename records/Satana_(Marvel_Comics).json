@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Judith Camber",
+    "Melissa Ramos",
+    "Satana",
+    "The Devil's Daughter"
+  ],
+  "authors": [
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Roy Thomas"
+  ],
+  "description": "Satana is a fictional character, a comic book half-demon appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/a0/4ce5a46882aa9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Satana",
+  "partners": [
+  ],
+  "powers": [
+    "Fire manipulation",
+    "Magic"
+  ],
+  "ranking": {
+    "comicCount": 11,
+    "eventCount": 0,
+    "pageviewCount": 2019,
+    "serieCount": 9,
+    "storyCount": 16
+  },
+  "secretIdentities": [
+    "Satana Hellstrom"
+  ],
+  "species": [
+    "Demon Hybrid",
+    "Human"
+  ],
+  "superName": "Satana",
+  "teams": [
+    "Avengers of the Supernatural",
+    "Legion of Monsters",
+    "Nick Fury's Howling Commandos",
+    "Thunderbolts",
+    "Witches"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1997/satana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Satana_(Marvel_Comics)"
+  }
+}

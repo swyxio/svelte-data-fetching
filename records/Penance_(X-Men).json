@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Hollow",
+    "Penance",
+    "Penny",
+    "Yvette"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Hollow (formerly called Penance) is an apparently mindless body which three members of the St Croix family, all members of the Marvel Comics superhero team Generation X, had been trapped in at some time.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/XMEN_Hollow.jpg/200px-XMEN_Hollow.jpg"
+  },
+  "mainColor": null,
+  "name": "Penance (X-Men)",
+  "partners": [
+  ],
+  "powers": [
+    "Exceptionally tough skin",
+    "Feet",
+    "Hair",
+    "Has long claws for hands",
+    "Razor-sharp"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1138,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Penance",
+  "teams": [
+    "Avengers Academy",
+    "Generation X",
+    "Loner",
+    "The Loners"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Penance_(X-Men)"
+  }
+}

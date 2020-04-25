@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Chance"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Jo Duffy",
+    "Kerry Gammill",
+    "Mike Harris"
+  ],
+  "description": "Chance is the name of two unrelated fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Chance",
+  "partners": [
+  ],
+  "powers": [
+    "Flight via ankle jets",
+    "Wrist-mounted blasters"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 557,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nicholas Powell",
+    "unrevealed"
+  ],
+  "species": [
+    "Human",
+    "Mutant"
+  ],
+  "superName": "Chance",
+  "teams": [
+    "Fallen Angels"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chance_(comics)"
+  }
+}

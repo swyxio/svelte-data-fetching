@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Cypher"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Sal Buscema"
+  ],
+  "description": "Cypher (Douglas \"Doug\" Ramsey) is a fictional superhero that appears in comic books published by Marvel Comics, usually in the X-Men family of books, in particular those featuring The New Mutants, of which Cypher has been a member.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4ce5a70abf6fb/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Cypher",
+  "partners": [
+  ],
+  "powers": [
+    "Body language",
+    "Computer",
+    "Including written",
+    "Or",
+    "Semi-telepathic",
+    "Spoken"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 2,
+    "pageviewCount": 1765,
+    "serieCount": 2,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Doug",
+    "Douglas Aaron Ramsey"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Cypher",
+  "teams": [
+    "Hellions",
+    "New Mutants",
+    "Official Handbook of the Marvel Universe A to Z",
+    "X-Factor",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/491/cypher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)"
+  }
+}

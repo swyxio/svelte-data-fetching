@@ -1,0 +1,79 @@
+{
+  "aliases": [
+    "Aleksander Lukin",
+    "Bettman P. Lyles",
+    "Cyrus Fenton",
+    "Dell Rusk",
+    "Der Rote Schädel",
+    "Der Rote Schädel (German name)",
+    "John Smith",
+    "Red Skull",
+    "Teacher",
+    "The Man",
+    "The Man (head of the People's Militia)",
+    "Tod March",
+    "Tod March (president and owner of Galactic Pictures)",
+    "White Skull",
+    "the Agent of a Thousand Faces",
+    "the Agent of a Thousand Faces (impersonated in Europe during World War II)"
+  ],
+  "authors": [
+    "France Herron",
+    "Jack Kirby",
+    "Joe Simon"
+  ],
+  "description": "The Red Skull is a fictional supervillain appearing in American comic books published by Marvel Comics, and is the archenemy of the superhero Captain America.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Red Skull",
+  "partners": [
+    "Baron Helmut Zemo",
+    "Baron Strucker",
+    "Baron Zemo",
+    "Crossbones",
+    "Sin",
+    "The Viper",
+    "Viper (Madame Hydra)"
+  ],
+  "powers": [
+    "Captain america",
+    "Expert marksman",
+    "Political mastermind",
+    "Possesses cloned body of",
+    "Strategic genius"
+  ],
+  "ranking": {
+    "comicCount": 103,
+    "eventCount": 4,
+    "pageviewCount": 17663,
+    "serieCount": 55,
+    "storyCount": 98
+  },
+  "secretIdentities": [
+    "Johann Schmidt"
+  ],
+  "species": [
+  ],
+  "superName": "Red Skull",
+  "teams": [
+    "AIM",
+    "Advanced Idea Mechanics",
+    "Aleksander Lukin",
+    "Astonishing Avengers",
+    "Exiles",
+    "Exiles (Red Skull allies)",
+    "Features of the Marvel Universe",
+    "Hydra",
+    "Kronas Corporation",
+    "Nazi Germany",
+    "Skeleton Crew",
+    "ULTIMATUM"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1901/red_skull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Skull"
+  }
+}

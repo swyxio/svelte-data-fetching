@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Freedom Ring"
+  ],
+  "authors": [
+    "Andy Kuhn",
+    "Robert Kirkman"
+  ],
+  "description": "Freedom Ring (real name Curtis Doyle) is a fictional superhero in the Marvel Comics universe, created by writer Robert Kirkman.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Freedomring.png/150px-Freedomring.png"
+  },
+  "mainColor": null,
+  "name": "Freedom Ring",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 289,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Curtis Doyle"
+  ],
+  "species": [
+  ],
+  "superName": "Freedom Ring",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Freedom_Ring"
+  }
+}

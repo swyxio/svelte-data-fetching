@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Tommy"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Romita, Jr."
+  ],
+  "description": "Tommy is a Marvel Comics mutant, who first appeared in Uncanny X-Men #210.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Tommymorlock1.jpg/200px-Tommymorlock1.jpg"
+  },
+  "mainColor": null,
+  "name": "Tommy",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 320,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unrevealed"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tommy",
+  "teams": [
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommy_(comics)"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "aliases": [
+    "Deadpool",
+    "El Mercenario Antiheroes",
+    "Hulkpool",
+    "Jack",
+    "Johnny Silvini",
+    "Merc with a Mouth",
+    "Mithras",
+    "Regenerating Degenerate",
+    "Thom Cruz",
+    "Wade T. Wilson",
+    "Wade Wilson",
+    "Wildcard",
+    "Zenpool"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Deadpool (Wade Wilson) is a fictional antihero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/537ba78541492.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/c0/537ba730e05e0/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Deadpool",
+  "partners": [
+    "Agent X",
+    "Agent of HYDRA",
+    "Blind Al",
+    "Bob",
+    "Cable",
+    "Copycat",
+    "Domino",
+    "Hellcow",
+    "Mr. Tolliver",
+    "Spider-Man",
+    "Taskmaster",
+    "Weasel"
+  ],
+  "powers": [
+    "A magic satchel",
+    "Extended",
+    "Extended longevity",
+    "Healing factor",
+    "Holographic disguise",
+    "Longevity",
+    "Magic satchel",
+    "Marksman",
+    "Martial artist",
+    "Master",
+    "Master martial artist",
+    "Regenerative",
+    "Swordsman"
+  ],
+  "ranking": {
+    "comicCount": 402,
+    "eventCount": 9,
+    "pageviewCount": 257848,
+    "serieCount": 99,
+    "storyCount": 570
+  },
+  "secretIdentities": [
+    "Wade Winston Wilson"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Deadpool",
+  "teams": [
+    "Agency X",
+    "Agent X",
+    "Agent of Hydra",
+    "Astonishing Avengers",
+    "Avengers Unity Division",
+    "Blind Al",
+    "Bob",
+    "Cable",
+    "Code Red",
+    "Copycat",
+    "Deadpool",
+    "Deadpool Corps",
+    "Defenders",
+    "Domino",
+    "Frightful Four",
+    "Genesis",
+    "Great Lakes Avengers",
+    "Great Lakes Initiative",
+    "Heroes for Hire",
+    "Kingpin",
+    "Lake",
+    "Landau",
+    "Landau, Luckman, and Lake",
+    "Luckman",
+    "Maggia",
+    "Mercs for Money",
+    "S.H.I.E.L.D",
+    "Secret Defenders",
+    "Six Pack",
+    "Taskmaster",
+    "Thunderbolts",
+    "Uncanny Avengers",
+    "Weapon X",
+    "Wolverine",
+    "X-Force",
+    "X-Men",
+    "partners =Weasel"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/12/deadpool",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deadpool"
+  }
+}

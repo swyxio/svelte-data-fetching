@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Amy",
+    "Cheryl Marks",
+    "Christina Valentino",
+    "Copycat",
+    "Debbie",
+    "Domino",
+    "Garrison Kane",
+    "Marguerite",
+    "Nurse Veronica",
+    "Patricia Muggins",
+    "Titania",
+    "Vanessa Geraldine Carlysle"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Copycat (Vanessa Geraldine Carlysle) is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/Copycat_Vanessa_Carlysle.jpg"
+  },
+  "mainColor": null,
+  "name": "Copycat",
+  "partners": [
+  ],
+  "powers": [
+    "Power mimicry",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 43467,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Vanessa Geraldine Carlysle"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Copycat",
+  "teams": [
+    "New Mutants",
+    "Six Pack",
+    "Weapon X",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Copycat_(Marvel_Comics)"
+  }
+}

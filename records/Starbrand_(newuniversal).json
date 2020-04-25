@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Star Brand"
+  ],
+  "authors": [
+    "Salvador Larroca",
+    "Warren Ellis"
+  ],
+  "description": "Kenneth Connell is a character from the newuniversal imprint of Marvel Comics, and is one of the four initial superhumans created by the White Event in 2006 (the others being Justice, Cipher, and Nightmask).  newuniversal, designated Earth-555 in the Marvel Comics multiverse, is a re-imagining if the New Universe (designated Earth-148611) imprint from the late 1980s.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Starbrand001a.jpg/250px-Starbrand001a.jpg"
+  },
+  "mainColor": null,
+  "name": "Starbrand (newuniversal)",
+  "partners": [
+  ],
+  "powers": [
+    "Disintegrating matter",
+    "Many others",
+    "Time travel"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 259,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kenneth Connell"
+  ],
+  "species": [
+  ],
+  "superName": "Starbrand",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Starbrand_(newuniversal)"
+  }
+}

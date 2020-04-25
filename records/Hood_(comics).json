@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "The Hood"
+  ],
+  "authors": [
+    "Brian K. Vaughan",
+    "Eric Powell",
+    "Kyle Hotz"
+  ],
+  "description": "The Hood (real name Parker Robbins) is a fictional character, a supervillain, and a crime boss in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/The_hood.jpg/250px-The_hood.jpg"
+  },
+  "mainColor": null,
+  "name": "Hood",
+  "partners": [
+  ],
+  "powers": [
+    "Air walking",
+    "Boots for invisibility",
+    "Criminal mastermind",
+    "Demon transformation",
+    "Infinity gems",
+    "Magical cloak",
+    "Marksman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4794,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Parker Robbins"
+  ],
+  "species": [
+  ],
+  "superName": "Hood",
+  "teams": [
+    "Cabal",
+    "Illuminati",
+    "The Cabal",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hood_(comics)"
+  }
+}

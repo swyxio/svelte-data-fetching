@@ -1,0 +1,67 @@
+{
+  "aliases": [
+    "3-D Man",
+    "Delroy Garrett",
+    "Triathlon"
+  ],
+  "authors": [
+    "George Pérez",
+    "Kurt Busiek"
+  ],
+  "description": "Delroy Garrett, Jr. is a fictional superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ce/Ati_si_16.jpg"
+  },
+  "mainColor": null,
+  "name": "Delroy Garrett",
+  "partners": [
+  ],
+  "powers": [
+    "Detecting skrulls",
+    "Durability",
+    "Endurance",
+    "Enhanced sight",
+    "Etc",
+    "Healing",
+    "Hearing",
+    "Illusions",
+    "Possessions",
+    "Senses",
+    "Smell",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 779,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Delroy Garrett",
+    "Delroy Garrett, Jr.",
+    "Jr."
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Delroy Garrett",
+  "teams": [
+    "Agents of Atlas",
+    "Astonishing Avengers",
+    "Avengers",
+    "Fifty State Initiative",
+    "Point Men",
+    "Secret Avengers",
+    "Secret Avengers (Civil War)",
+    "Skrull Kill Krew",
+    "The Initiative",
+    "Triune Understanding"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Delroy_Garrett"
+  }
+}

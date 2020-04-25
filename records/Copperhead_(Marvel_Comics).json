@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Copperhead"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Frank Robbins",
+    "Gene Colan",
+    "Len Wein",
+    "Mark Gruenwald",
+    "Marv Wolfman",
+    "Ralph Macchio",
+    "Tom Morgan"
+  ],
+  "description": "Copperhead is the name of a number of fictional characters in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Copperhead",
+  "partners": [
+    "Agent of unnamed demon"
+  ],
+  "powers": [
+    "Wears copper suit"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 400,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arthur Reynolds",
+    "David Lawfers",
+    "Lawrence Chesney"
+  ],
+  "species": [
+  ],
+  "superName": "Copperhead",
+  "teams": [
+    "Gang of Four",
+    "Serpent Society"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Copperhead_(Marvel_Comics)"
+  }
+}

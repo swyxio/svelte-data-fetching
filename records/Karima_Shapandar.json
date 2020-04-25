@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Karima Shapandar",
+    "Malice",
+    "Omega Sentinel"
+  ],
+  "authors": [
+    "Brett Booth",
+    "Chris Claremont"
+  ],
+  "description": "Omega Sentinel (Karima Shapandar) is a fictional character associated with the X-Men and its spinoff Excalibur.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/31/Karima_Shapandar.jpg"
+  },
+  "mainColor": null,
+  "name": "Karima Shapandar",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Regenerative abilities",
+    "Resistance to injury",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1841,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karima Shapandar"
+  ],
+  "species": [
+  ],
+  "superName": "Karima Shapandar",
+  "teams": [
+    "Acolytes",
+    "Excalibur",
+    "Genoshan Excalibur",
+    "Marauders",
+    "Omega Prime Sentinels",
+    "Prime Sentinel",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Karima_Shapandar"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "aliases": [
+    "Charles Xavier",
+    "Consort-Royal",
+    "Doctor X",
+    "Entity",
+    "Founder",
+    "Onslaught",
+    "Prisoner M-13",
+    "Professor Charles Xavier",
+    "Professor X",
+    "Warlord"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Professor Charles Francis Xavier (also known as Professor X) is a fictional character appearing in American comic books published by Marvel Comics and is the founder and leader of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Professor X",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Control",
+    "Empathy",
+    "Erasure",
+    "Extending to mind reading",
+    "Genius-level intellect",
+    "Hypnosis",
+    "Illusion casting",
+    "Memory alteration",
+    "Memory manipulation",
+    "Mind control",
+    "Mind reading",
+    "Offensive psychic attacks",
+    "Psionic blasts",
+    "Telepathic abilities",
+    "Telepathy",
+    "Vast"
+  ],
+  "ranking": {
+    "comicCount": 296,
+    "eventCount": 15,
+    "pageviewCount": 25987,
+    "serieCount": 112,
+    "storyCount": 286
+  },
+  "secretIdentities": [
+    "Charles Francis Xavier"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Professor X",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Defenders",
+    "Excalibur",
+    "Illuminati",
+    "Shi'ar",
+    "Skrull",
+    "Starjammers",
+    "The Twelve",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1810/professor_x",
+    "wikipedia": "https://en.wikipedia.org/wiki/Professor_X"
+  }
+}

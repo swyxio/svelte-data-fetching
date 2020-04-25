@@ -1,0 +1,68 @@
+{
+  "aliases": [
+    "Anthony Stark",
+    "Cobalt Man",
+    "Golden Avenger",
+    "Harmon Taylor",
+    "Hogan Potts",
+    "Iron Knight",
+    "Jake Jordan",
+    "Number One",
+    "Santa Claus",
+    "Shellhead",
+    "Spare Parts Man",
+    "Spymaster",
+    "Ted Calloway"
+  ],
+  "authors": [
+    "Allyn Brodsky",
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "Spymaster is a supervillain from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png"
+  },
+  "mainColor": null,
+  "name": "Spymaster",
+  "partners": [
+    "Justin Hammer"
+  ],
+  "powers": [
+    "Exceptional strategist",
+    "Highly agile",
+    "Master of disguise",
+    "Saboteur",
+    "Skilled athlete",
+    "Superb actor"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 691,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sinclair Abbot"
+  ],
+  "species": [
+  ],
+  "superName": "Spymaster",
+  "teams": [
+    "AIM",
+    "Advanced Idea Mechanics",
+    "Espionage Elite",
+    "Maggia",
+    "Roxxon Energy Corporation",
+    "Roxxon Oil",
+    "S.H.I.E.L.D",
+    "The Maggia",
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spymaster_(comics)"
+  }
+}

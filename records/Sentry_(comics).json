@@ -1,0 +1,36 @@
+{
+  "aliases": [
+    "Sentry"
+  ],
+  "authors": [
+  ],
+  "description": "Sentry is the codename of several unrelated fictional characters appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sentry_v1_1.jpg/100px-Sentry_v1_1.jpg"
+  },
+  "mainColor": null,
+  "name": "Sentry",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1431,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Sentry",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(comics)"
+  }
+}

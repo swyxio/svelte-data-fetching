@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Cap'n Reptyl",
+    "Reptyl",
+    "Reptyl Prime",
+    "the Non-human"
+  ],
+  "authors": [
+    "Joe Staton",
+    "Steve Englehart"
+  ],
+  "description": "Reptyl is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Reptyl",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 328,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Reptyl",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Reptyl"
+  }
+}

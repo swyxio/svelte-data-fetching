@@ -1,0 +1,40 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Bob Hall",
+    "Roger Stern"
+  ],
+  "description": "The Blank is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Blank",
+  "partners": [
+  ],
+  "powers": [
+    "Blurry",
+    "Rendered himself"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 173,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Blank",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blank_(comics)"
+  }
+}

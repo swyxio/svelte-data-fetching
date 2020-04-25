@@ -1,0 +1,82 @@
+{
+  "aliases": [
+    "Captain America",
+    "Nomad",
+    "Steve Rogers",
+    "The Captain"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Joe Simon"
+  ],
+  "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/537ba5c73bf82.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Captain America",
+  "partners": [
+    "Black Widow",
+    "Bucky (James Barnes)",
+    "Bucky (Rick Jones)",
+    "Bucky (Rikki Barnes)",
+    "Demolition Man",
+    "Falcon",
+    "Free Spirit",
+    "Jack Flag",
+    "Nomad (Jack Monroe)",
+    "Sharon Carter"
+  ],
+  "powers": [
+    "Enhanced mental faculties",
+    "Expert marksman",
+    "Expert tactician",
+    "Field commander",
+    "Hand-to-hand combatant",
+    "Master martial artist",
+    "Master tactician",
+    "Peak physical condition",
+    "Strategist",
+    "Wields"
+  ],
+  "ranking": {
+    "comicCount": 1411,
+    "eventCount": 19,
+    "pageviewCount": 89978,
+    "serieCount": 382,
+    "storyCount": 2326
+  },
+  "secretIdentities": [
+    "Steve",
+    "Steve Rogers",
+    "Steven Rogers"
+  ],
+  "species": [
+  ],
+  "superName": "Captain America",
+  "teams": [
+    "All-Winners Squad",
+    "Avengers",
+    "Avengers Unity Division",
+    "Illuminati",
+    "Invaders",
+    "Landau, Luckman, and Lake",
+    "New Avengers",
+    "Rebirth",
+    "Redeemers",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "Secret Defenders",
+    "U.S. Army"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/8/captain_america",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_America"
+  }
+}

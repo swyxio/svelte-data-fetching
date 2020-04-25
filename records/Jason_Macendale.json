@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Hobgoblin",
+    "Jack O'Lantern",
+    "Jason Macendale",
+    "Jason Macendale, Jr."
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Jason Philip Macendale, Jr. is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Webofspiderman93panel.jpg/250px-Webofspiderman93panel.jpg"
+  },
+  "mainColor": null,
+  "name": "Jason Macendale",
+  "partners": [
+    "Bob",
+    "Gaunt"
+  ],
+  "powers": [
+    "Agility",
+    "Cybernetic",
+    "Cybernetic implants",
+    "Hellfire powers",
+    "Implants",
+    "Kraven",
+    "Martial artist",
+    "Paraphernalia",
+    "Physicists",
+    "Speed",
+    "Spy",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1316,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jason Philip Macendale",
+    "Jason Philip Macendale, Jr.",
+    "Jr."
+  ],
+  "species": [
+  ],
+  "superName": "Jason Macendale",
+  "teams": [
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jason_Macendale"
+  }
+}

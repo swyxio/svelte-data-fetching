@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Jacob Shaw",
+    "Sir Waltham Pierce"
+  ],
+  "authors": [
+    "Ben Raab",
+    "Charlie Adlard"
+  ],
+  "description": "Jacob Shaw is a fictional character in Marvel Comics, created by Ben Raab and Charlie Adlard.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jacob Shaw",
+  "partners": [
+  ],
+  "powers": [
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 308,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jacob Shaw"
+  ],
+  "species": [
+    "Human mutate"
+  ],
+  "superName": "Jacob Shaw",
+  "teams": [
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Shaw_(comics)"
+  }
+}

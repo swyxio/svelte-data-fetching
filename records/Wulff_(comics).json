@@ -1,0 +1,37 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Humberto Ramos",
+    "Tom Peyer"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Xnation2099-2.jpg/250px-Xnation2099-2.jpg"
+  },
+  "mainColor": null,
+  "name": "Wulff",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 77,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Wulff",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wulff_(comics)"
+  }
+}

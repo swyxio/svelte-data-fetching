@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Douglock",
+    "Phalanx",
+    "Warlock"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Chris Claremont"
+  ],
+  "description": "Warlock is a cybernetic extraterrestrial superhero published by Marvel Comics who first appeared in New Mutants #18 (August 1984).",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Technarchy.jpg/250px-Technarchy.jpg"
+  },
+  "mainColor": null,
+  "name": "Warlock (New Mutants)",
+  "partners": [
+  ],
+  "powers": [
+    "Can infect organic beings",
+    "Warlike race",
+    "Warlock has compassion"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2903,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Warlock"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Warlock",
+  "teams": [
+    "Excalibur",
+    "Fallen Angels",
+    "New Mutants",
+    "X-Factor",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Warlock_(New_Mutants)"
+  }
+}

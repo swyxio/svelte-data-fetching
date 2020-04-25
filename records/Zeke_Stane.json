@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Iron Man 2.0",
+    "Iron Monger",
+    "War Machine",
+    "Zeke Stane"
+  ],
+  "authors": [
+    "Barry Kitson",
+    "Matt Fraction"
+  ],
+  "description": "Ezekiel \"Zeke\" Stane (also known as Iron Monger and Iron Man 2.0) is a fictional supervillain within the Marvel Comics universe, the son of Obadiah Stane, and an arch-enemy of Iron Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Zekestane.jpg/250px-Zekestane.jpg"
+  },
+  "mainColor": null,
+  "name": "Zeke Stane",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 964,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ezekiel Stane",
+    "Zeke"
+  ],
+  "species": [
+  ],
+  "superName": "Zeke Stane",
+  "teams": [
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Zeke_Stane"
+  }
+}

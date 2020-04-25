@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Spear"
+  ],
+  "authors": [
+    "Don McGregor",
+    "Frank Robbins"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spear",
+  "partners": [
+  ],
+  "powers": [
+    "Hand-to-hand combat",
+    "Skilled marksman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 0,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Spear",
+  "teams": [
+    "Flashmob"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spear_(comics)"
+  }
+}

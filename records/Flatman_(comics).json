@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "2-D Avenger",
+    "Flatman"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Flatman (Dr. Val Ventura) is a fictional mutant superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG"
+  },
+  "mainColor": null,
+  "name": "Flatman",
+  "partners": [
+  ],
+  "powers": [
+    "Elasticity",
+    "Flat body",
+    "Origami shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1106,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Val Ventura"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Flatman",
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Flatman_(comics)"
+  }
+}

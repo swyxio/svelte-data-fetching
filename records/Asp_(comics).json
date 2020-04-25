@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Asp",
+    "The Temptress",
+    "The Temptress (stage names)"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "The Asp (Cleo Nefertiti) is a former supervillain in the Marvel Comics universe, and was a member of the Serpent Society and BAD Girls, Inc.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/AspMarvelComics.jpg/200px-AspMarvelComics.jpg"
+  },
+  "mainColor": null,
+  "name": "Asp",
+  "partners": [
+  ],
+  "powers": [
+    "Accomplished dancer",
+    "Venom bolts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 630,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cleo Nefertiti"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Asp",
+  "teams": [
+    "Avengers",
+    "BAD Girls",
+    "BAD Girls, Inc",
+    "Femizons",
+    "Inc",
+    "Secret Avengers",
+    "Serpent Society",
+    "Women Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Asp_(comics)"
+  }
+}

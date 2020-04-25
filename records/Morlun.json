@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Devourer of Totems",
+    "Morlun"
+  ],
+  "authors": [
+    "J. Michael Straczynski",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Morlun is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/00/527411be42b48/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Morlun",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Enhanced speed",
+    "Extended longevity",
+    "Reflexes",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 2973,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Morlun",
+  "teams": [
+    "The Inheritors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1509/morlun",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morlun"
+  }
+}

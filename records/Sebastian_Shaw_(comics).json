@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Black Bishop",
+    "Black King",
+    "Lord Imperial",
+    "Sebastian Shaw"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sebastian Shaw",
+  "partners": [
+  ],
+  "powers": [
+    "Energy",
+    "Healing"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 3,
+    "pageviewCount": 12686,
+    "serieCount": 9,
+    "storyCount": 16
+  },
+  "secretIdentities": [
+    "Sebastian Hiram Shaw"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sebastian Shaw",
+  "teams": [
+    "Hellfire Club",
+    "Hope Summers",
+    "Shaw Industries",
+    "The Lights"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2774/sebastian_shaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Shaw_(comics)"
+  }
+}

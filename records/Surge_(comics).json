@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Surge"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Keron Grant",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Surge",
+  "partners": [
+  ],
+  "powers": [
+    "Electrical generation",
+    "Manipulation",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 1,
+    "pageviewCount": 1382,
+    "serieCount": 4,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Nori",
+    "Noriko Ashida"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Surge",
+  "teams": [
+    "Jean Grey School Students",
+    "New Mutants",
+    "New Mutants training squad",
+    "New X-Men",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2267/surge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Surge_(comics)"
+  }
+}

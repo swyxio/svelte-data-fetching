@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Oddball"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Oddball is the name of two supervillains in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg"
+  },
+  "mainColor": null,
+  "name": "Oddball",
+  "partners": [
+  ],
+  "powers": [
+    "Expert juggler"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 282,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elton Healey"
+  ],
+  "species": [
+  ],
+  "superName": "Oddball",
+  "teams": [
+    "Death-Throws",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Oddball_(comics)"
+  }
+}

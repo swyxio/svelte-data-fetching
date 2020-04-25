@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Fabbo the Clown",
+    "Whiteface"
+  ],
+  "authors": [
+    "Daniel Way",
+    "Steve Dillon"
+  ],
+  "description": "Whiteface is a fictional comic book supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Whiteface",
+  "partners": [
+  ],
+  "powers": [
+    "But is skilled in",
+    "Chemistry",
+    "Has no superhuman powers",
+    "Toxicology"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 206,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Steven Binst"
+  ],
+  "species": [
+  ],
+  "superName": "Whiteface",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Whiteface_(comics)"
+  }
+}

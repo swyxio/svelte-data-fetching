@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Vibro"
+  ],
+  "authors": [
+    "Denny O'Neil",
+    "Luke McDonnell"
+  ],
+  "description": "Vibro is a fictional character, a supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Vibro",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 212,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alton Francis Vibreaux"
+  ],
+  "species": [
+  ],
+  "superName": "Vibro",
+  "teams": [
+    "Mandarin's Minions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vibro_(comics)"
+  }
+}

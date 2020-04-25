@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Crazy Inez",
+    "Inez Temple",
+    "Outlaw"
+  ],
+  "authors": [
+    "Gail Simone"
+  ],
+  "description": "Outlaw (Inez Temple) is a fictional character created by Marvel Comics for their series' Deadpool and Agent X.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg"
+  },
+  "mainColor": null,
+  "name": "Outlaw",
+  "partners": [
+  ],
+  "powers": [
+    "A lasso",
+    "Healing factor",
+    "Use of firearms"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2122,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Inez Temple"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Outlaw",
+  "teams": [
+    "Agency X",
+    "Agent X",
+    "The 198"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Outlaw_(comics)"
+  }
+}

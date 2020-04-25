@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Dave Cockrum"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59f2dcd04d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ch'od",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Hand-to-hand combatant",
+    "Superb marksman",
+    "Superhuman strength",
+    "Swordsman"
+  ],
+  "ranking": {
+    "comicCount": 40,
+    "eventCount": 2,
+    "pageviewCount": 378,
+    "serieCount": 15,
+    "storyCount": 33
+  },
+  "secretIdentities": [
+    "Ch'od"
+  ],
+  "species": [
+  ],
+  "superName": "Ch'od",
+  "teams": [
+    "Starjammers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/416/chod",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ch%27od"
+  }
+}

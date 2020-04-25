@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Midnight",
+    "Midnight Sun"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Jim Starlin",
+    "Steve Englehart"
+  ],
+  "description": "Midnight Sun (M'Nai) is a fictional character, a former supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG"
+  },
+  "mainColor": null,
+  "name": "Midnight Sun",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Expert in martial arts",
+    "Reflexes",
+    "Stealth",
+    "Superhuman strength",
+    "Survive vacuum of space"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 520,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "M'Nai"
+  ],
+  "species": [
+  ],
+  "superName": "Midnight Sun",
+  "teams": [
+    "Legion of the Unliving"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Midnight_Sun_(Marvel_Comics)"
+  }
+}

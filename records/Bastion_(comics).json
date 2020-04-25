@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Arnold Rodriguez",
+    "Bastion",
+    "Master Mold",
+    "Nicolas Hunter",
+    "Sebastion Gilbert",
+    "Sebastion Gilberti",
+    "Template",
+    "The Oracle"
+  ],
+  "authors": [
+    "Pascual Ferry",
+    "Pasqual Ferry",
+    "Scott Lobdell"
+  ],
+  "description": "Bastion is a supervillain that appears in the fictional Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Bastion",
+  "partners": [
+  ],
+  "powers": [
+    "Command of other",
+    "Durability",
+    "Energy projection",
+    "Flight",
+    "Mutant abilities",
+    "Nimrod",
+    "Nimrod;",
+    "Prime sentinels",
+    "Sentinels",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 2,
+    "pageviewCount": 2469,
+    "serieCount": 14,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Android (robot)",
+    "Artificial intelligence"
+  ],
+  "superName": "Bastion",
+  "teams": [
+    "Features of the Marvel Universe",
+    "Friends of Humanity",
+    "Humanity's Last Stand",
+    "Purifiers",
+    "Zero Tolerance"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/244/bastion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bastion_(comics)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Slapstick"
+  ],
+  "authors": [
+    "James Fry",
+    "Len Kaminski"
+  ],
+  "description": "Steven Harmon's powers have been described as \"all of the abilities of a Saturday morning cartoon character.\"",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310b887bc/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Slapstick",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Indestructibility",
+    "Reflexes",
+    "Superhuman agility"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 2,
+    "pageviewCount": 1237,
+    "serieCount": 1,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Steve Harmon"
+  ],
+  "species": [
+  ],
+  "superName": "Slapstick",
+  "teams": [
+    "Counter Force",
+    "Heroes for Hire",
+    "Mercs for Money",
+    "New Warriors",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2137/slapstick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slapstick_(comics)"
+  }
+}

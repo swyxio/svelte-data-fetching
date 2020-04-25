@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Aegis"
+  ],
+  "authors": [
+    "Jay Faerber",
+    "Steve Scott"
+  ],
+  "description": "For the cosmic entity who also went by the same name, see Aegis (Lady of All Sorrows)Aegis (Trey Rollins) is a fictional superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c0035c9c425d/standard_xlarge.gif"
+  },
+  "mainColor": null,
+  "name": "Aegis",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Energy conversion",
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 419,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Trey Jason Rollins"
+  ],
+  "species": [
+  ],
+  "superName": "Aegis",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/95/aegis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aegis_(comics)"
+  }
+}

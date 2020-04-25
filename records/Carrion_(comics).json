@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Carrion",
+    "Malcolm Mcbride",
+    "Miles Warren",
+    "William Allen"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Frank Springer",
+    "Jim Mooney"
+  ],
+  "description": "Carrion is a fictional character, a supervillain appearing in the Marvel Comics universe, in which he is an enemy of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Carrion.jpg/250px-Carrion.jpg"
+  },
+  "mainColor": null,
+  "name": "Carrion",
+  "partners": [
+    "Carnage",
+    "Demogoblin",
+    "Doppelganger",
+    "Shriek"
+  ],
+  "powers": [
+    "Density control",
+    "Levitation",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1198,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Malcolm McBride",
+    "Miles Warren",
+    "Miles Warren (clone of)",
+    "William Allen"
+  ],
+  "species": [
+  ],
+  "superName": "Carrion",
+  "teams": [
+    "Carnage Family",
+    "Carnage Family/Maximum Carnage",
+    "Maximum Carnage",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Carrion_(comics)"
+  }
+}

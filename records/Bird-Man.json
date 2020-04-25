@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Bird-Man",
+    "Bird-Man II",
+    "Bird-Man III"
+  ],
+  "authors": [
+    "Bob Powell",
+    "Gene Colan",
+    "Jo Duffy",
+    "Roger McKenzie",
+    "Stan Lee",
+    "Wally Wood"
+  ],
+  "description": "Bird-Man is the name of three fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Bird-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Enhanced speed",
+    "Enhanced strength",
+    "Flight via natural wings",
+    "Hollowed bones",
+    "Reflexes",
+    "Stamina",
+    "Superhuman strength",
+    "Use of t-ray gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1020,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Achille DiBacco",
+    "Henry Hawk"
+  ],
+  "species": [
+  ],
+  "superName": "Bird-Man",
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bird-Man"
+  }
+}

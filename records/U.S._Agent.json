@@ -1,0 +1,72 @@
+{
+  "aliases": [
+    "Captain America",
+    "Jack Daniels",
+    "John Walker",
+    "Super-Patriot",
+    "U.S. Agent"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "With the end of the Vietnam War, John Walker thought his dreams of becoming a war hero had also ended, until he learned of the Power Broker, who could give anyone superhuman powers, which Walker used to first become Super-Patriot and later, U.S. Agent.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/535febe8b095a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "U.S. Agent",
+  "partners": [
+    "Battlestar"
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Firearms",
+    "Gymnast",
+    "Highly trained acrobat",
+    "Peak-level speed",
+    "Reflexes/reactions",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 33,
+    "eventCount": 2,
+    "pageviewCount": 5649,
+    "serieCount": 12,
+    "storyCount": 34
+  },
+  "secretIdentities": [
+    "John F. Walker"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "U.S. Agent",
+  "teams": [
+    "Astonishing Avengers",
+    "Bold Urban Commandos",
+    "Commission on Superhuman Activities",
+    "Dark Avengers",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Force Works",
+    "Invaders",
+    "Mighty Avengers",
+    "New Invaders",
+    "Omega Flight",
+    "S.T.A.R.S",
+    "Secret Defenders",
+    "The Jury",
+    "The Mighty Avengers",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2431/us_agent",
+    "wikipedia": "https://en.wikipedia.org/wiki/U.S._Agent"
+  }
+}

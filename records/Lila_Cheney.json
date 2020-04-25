@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Lila Cheney"
+  ],
+  "authors": [
+    "Bob McLeod",
+    "Chris Claremont"
+  ],
+  "description": "Lila Cheney is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg"
+  },
+  "mainColor": null,
+  "name": "Lila Cheney",
+  "partners": [
+  ],
+  "powers": [
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 692,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lila Cheney"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Lila Cheney",
+  "teams": [
+    "Gladiators",
+    "New Mutants",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lila_Cheney"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Gorgon"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Gorgon is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Gorgon_%28Inhuman%29.jpg/250px-Gorgon_%28Inhuman%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Gorgon (Inhuman)",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Enhanced strength",
+    "Hooves",
+    "Resilience",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 47,
+    "eventCount": 3,
+    "pageviewCount": 4253,
+    "serieCount": 23,
+    "storyCount": 48
+  },
+  "secretIdentities": [
+    "Gorgon Petragon"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Gorgon",
+  "teams": [
+    "Fantastic Four",
+    "Inhuman Royal Family",
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/837/gorgon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorgon_(Inhuman)"
+  }
+}

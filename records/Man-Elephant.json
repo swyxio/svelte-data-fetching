@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Behemoth",
+    "Man-Elephant"
+  ],
+  "authors": [
+    "David Anthony Kraft",
+    "Ed Hannigan"
+  ],
+  "description": "Man-Elephant is the name of two fictional characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Man-Elephant",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 291,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Manfred Ellsworth Haller"
+  ],
+  "species": [
+  ],
+  "superName": "Man-Elephant",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Elephant"
+  }
+}

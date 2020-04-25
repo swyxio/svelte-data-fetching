@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Mondo"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Mondo is the name of two fictional comic book characters that have appeared in the Marvel Comics series Generation X.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mondo",
+  "partners": [
+    "Black Tom Cassidy",
+    "Juggernaut"
+  ],
+  "powers": [
+    "Digested"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 786,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mondo",
+  "teams": [
+    "Generation X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mondo_(comics)"
+  }
+}

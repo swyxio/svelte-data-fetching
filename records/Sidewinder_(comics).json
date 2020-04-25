@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Sidewinder"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio"
+  ],
+  "description": "Sidewinder is the name of different characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Sidewinder-Cap310-Paul-Neary.jpg/195px-Sidewinder-Cap310-Paul-Neary.jpg"
+  },
+  "mainColor": null,
+  "name": "Sidewinder",
+  "partners": [
+  ],
+  "powers": [
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 420,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Seth Voelker"
+  ],
+  "species": [
+  ],
+  "superName": "Sidewinder",
+  "teams": [
+    "Serpent Society",
+    "Serpent Squad"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidewinder_(comics)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Hippolyta",
+    "Warrior Woman"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Hippolyta is a fictional Amazon character within the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Warrior_Woman.jpg/250px-Warrior_Woman.jpg"
+  },
+  "mainColor": null,
+  "name": "Hippolyta",
+  "partners": [
+  ],
+  "powers": [
+    "Ageless immortality",
+    "Enhanced durability",
+    "Enhanced speed",
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1030,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hippolyta"
+  ],
+  "species": [
+  ],
+  "superName": "Hippolyta",
+  "teams": [
+    "Amazons",
+    "Bacchae",
+    "Gods of Olympus",
+    "Olympian Gods",
+    "Valkyrior"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippolyta_(Marvel_Comics)"
+  }
+}

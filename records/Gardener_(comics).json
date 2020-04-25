@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Gardener"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "John Byrne"
+  ],
+  "description": "The Gardener (Ord Zyonz) is a fictional character, one of the known Elders of the Universe in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gardener",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 688,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ord Zyonz"
+  ],
+  "species": [
+    "from Seyfert galaxy M-77"
+  ],
+  "superName": "Gardener",
+  "teams": [
+    "Elders of the Universe"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gardener_(comics)"
+  }
+}

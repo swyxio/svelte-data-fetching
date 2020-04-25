@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Benjamin Poindexter",
+    "Bullseye",
+    "Daredevil",
+    "Hawkeye",
+    "Leonard"
+  ],
+  "authors": [
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Marv Wolfman"
+  ],
+  "description": "Bullseye is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/539a08f322fd1/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Bullseye",
+  "partners": [
+  ],
+  "powers": [
+    "Adamantium",
+    "Expert marksman",
+    "Spinal column"
+  ],
+  "ranking": {
+    "comicCount": 56,
+    "eventCount": 3,
+    "pageviewCount": 11927,
+    "serieCount": 28,
+    "storyCount": 51
+  },
+  "secretIdentities": [
+    "Lester"
+  ],
+  "species": [
+  ],
+  "superName": "Bullseye",
+  "teams": [
+    "Dark Avengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/366/bullseye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bullseye_(comics)"
+  }
+}

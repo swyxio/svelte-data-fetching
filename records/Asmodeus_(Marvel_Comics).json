@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Asmodeus"
+  ],
+  "authors": [
+    "Don Perlin",
+    "Michael Fleisher"
+  ],
+  "description": "Asmodeus is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Asmodeus_-_Ghost_Rider.png/200px-Asmodeus_-_Ghost_Rider.png"
+  },
+  "mainColor": null,
+  "name": "Asmodeus",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 586,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Asmodeus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Asmodeus_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Piranha"
+  ],
+  "authors": [
+    "George Tuska",
+    "Marv Wolfman"
+  ],
+  "description": "Piranha is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Piranha",
+  "partners": [
+  ],
+  "powers": [
+    "Fish telepathy",
+    "Human intellect",
+    "Sharp teeth",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 292,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Piranha",
+  "teams": [
+    "Deep Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Piranha_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Onyxx",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Peter Milligan",
+    "Salvador Larroca"
+  ],
+  "description": "Onyxx (Sidney Green) is a fictional mutant appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg"
+  },
+  "mainColor": null,
+  "name": "Onyxx",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 381,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sidney Green"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Onyxx",
+  "teams": [
+    "Chevaliers training squad",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Onyxx"
+  }
+}

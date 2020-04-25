@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Gauntlet",
+    "Joseph Green"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Eric Powell",
+    "Stefano Caselli"
+  ],
+  "description": "The Gauntlet (Joseph Green), is a comic book superhero in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/535ff2a48869b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Gauntlet",
+  "partners": [
+  ],
+  "powers": [
+    "Hand",
+    "Right hand controls large"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 4,
+    "pageviewCount": 540,
+    "serieCount": 9,
+    "storyCount": 27
+  },
+  "secretIdentities": [
+    "Joseph Green"
+  ],
+  "species": [
+  ],
+  "superName": "Gauntlet",
+  "teams": [
+    "Avengers Resistance",
+    "Counter Force",
+    "Fifty State Initiative",
+    "New Warriors",
+    "The Initiative",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gauntlet_(comics)"
+  }
+}

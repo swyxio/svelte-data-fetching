@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Brainchild"
+  ],
+  "authors": [
+    "Neal Adams",
+    "Roy Thomas"
+  ],
+  "description": "Brainchild is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/24/Brain_Child_from_X-treme_X-Men.png"
+  },
+  "mainColor": null,
+  "name": "Brainchild",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman intelligence"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 300,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Savage Land Mutates"
+  ],
+  "superName": "Brainchild",
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Brainchild_(comics)"
+  }
+}

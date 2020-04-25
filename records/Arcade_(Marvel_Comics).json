@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "A.R. Cadenski",
+    "Arcade",
+    "Mad Monk",
+    "Mad Monk,\" Pinball Wizard",
+    "Mister A",
+    "Pinball Wizard"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Arcade is a fictional character, a supervillain in the Marvel Comics Universe.Arcade became one of the more popular villains in the Marvel Comics universe during the 1980s, and did battle with many other superheroes.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0042091ab69/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Arcade",
+  "partners": [
+    "Mastermind (Martinique Jason)",
+    "Miss Locke",
+    "Mister Chambers",
+    "White Rabbit"
+  ],
+  "powers": [
+    "Energy sources",
+    "Force field generation",
+    "Genius intelligence",
+    "Matter manipulation",
+    "Motor function control",
+    "Near invulnerability",
+    "Telekinesis",
+    "Via technology"
+  ],
+  "ranking": {
+    "comicCount": 18,
+    "eventCount": 1,
+    "pageviewCount": 2651,
+    "serieCount": 13,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Arcade",
+  "teams": [
+    "Crazy Gang"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/178/arcade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arcade_(Marvel_Comics)"
+  }
+}

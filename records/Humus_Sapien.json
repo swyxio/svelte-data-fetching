@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Humus Sapien",
+    "Humus Sapiens"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Michael A Barreiro",
+    "Patrick Zircher"
+  ],
+  "description": "Humus Sapien (Sonny Baredo) is a fictional supervillain published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg"
+  },
+  "mainColor": null,
+  "name": "Humus Sapien",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 261,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sonny Baredo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Humus Sapien",
+  "teams": [
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Humus_Sapien"
+  }
+}

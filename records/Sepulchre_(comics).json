@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Sepulchre",
+    "Shadowoman"
+  ],
+  "authors": [
+    "Grant Miehm",
+    "Mark Gruenwald"
+  ],
+  "description": "Sepulchre (also known as Shadowoman) is a fictional superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg"
+  },
+  "mainColor": null,
+  "name": "Sepulchre",
+  "partners": [
+  ],
+  "powers": [
+    "Darkforce",
+    "Darkforce manipulation",
+    "Manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 584,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jillian Marie Woods"
+  ],
+  "species": [
+  ],
+  "superName": "Sepulchre",
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Energy Corporation Secret Defenders Shock Troop",
+    "Secret Defenders",
+    "Shock Troop"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sepulchre_(comics)"
+  }
+}

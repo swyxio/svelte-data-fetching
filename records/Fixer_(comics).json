@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Fixer",
+    "Mr. Fix",
+    "Ogre",
+    "Techno"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Fixer is the name of two different characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Fixer_%28comics%29.png/250px-Fixer_%28comics%29.png"
+  },
+  "mainColor": null,
+  "name": "Fixer",
+  "partners": [
+    "Mentallo"
+  ],
+  "powers": [
+    "Electronics",
+    "Mechanical genius",
+    "Robotic body"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1481,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Paul Norbert Ebersol"
+  ],
+  "species": [
+  ],
+  "superName": "Fixer",
+  "teams": [
+    "Advanced Idea Mechanics",
+    "Commission on Superhuman Activities",
+    "Features of the Marvel Universe",
+    "HYDRA",
+    "Hydra",
+    "Masters of Evil",
+    "New Enforcers",
+    "Redeemers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fixer_(comics)"
+  }
+}

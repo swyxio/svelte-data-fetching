@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Atlas",
+    "Dragon-Slayer",
+    "Forgotten Nemesis",
+    "Gilgamesh",
+    "Hercules",
+    "Hero",
+    "Samson",
+    "others unrevealed"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "The Forgotten One (also known as Hero and Gilgamesh) is a superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/70/4c002f332fb1f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Forgotten One",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Flight",
+    "Healing factor",
+    "Immunity to disease",
+    "Optic blasts",
+    "Reflexes",
+    "Regenerative",
+    "Repressed aging",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1258,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Forgotten One",
+  "teams": [
+    "Avengers",
+    "Eternals"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/721/forgotten_one",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forgotten_One_(comics)"
+  }
+}

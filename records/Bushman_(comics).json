@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Bushman",
+    "Roald Bushman"
+  ],
+  "authors": [
+    "Doug Moench"
+  ],
+  "description": "Raoul Bushman is a fictional character appearing in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg"
+  },
+  "mainColor": null,
+  "name": "Bushman",
+  "partners": [
+  ],
+  "powers": [
+    "Carries various weapons",
+    "Razor-sharp metal teeth"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 596,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Raoul Bushman"
+  ],
+  "species": [
+  ],
+  "superName": "Bushman",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bushman_(comics)"
+  }
+}

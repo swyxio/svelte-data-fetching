@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Crime Master I",
+    "Crime Master II",
+    "Crime-Master"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Rick Remender",
+    "Sal Buscema",
+    "Stan Lee",
+    "Steve Ditko",
+    "Tony Moore"
+  ],
+  "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Crime Master",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 612,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bennett Brant",
+    "Lucky",
+    "Nicholas Lewis",
+    "Nicholas Lewis Jr.",
+    "Nick"
+  ],
+  "species": [
+  ],
+  "superName": "Crime Master",
+  "teams": [
+    "Savage Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Crime_Master"
+  }
+}

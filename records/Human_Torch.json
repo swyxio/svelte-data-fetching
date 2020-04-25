@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Human Torch",
+    "Invisible Man",
+    "Johnny Storm",
+    "Jonathan Lowell Spencer",
+    "The Torch"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Human Torch is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/537bb03773238.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/537bb002db77f/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Human Torch",
+  "partners": [
+  ],
+  "powers": [
+    "Auto-mechanic",
+    "Designer",
+    "Heat energy absorption",
+    "Pyrokinesis",
+    "Serves as damage shield",
+    "Skilled race-car driver"
+  ],
+  "ranking": {
+    "comicCount": 783,
+    "eventCount": 17,
+    "pageviewCount": 18888,
+    "serieCount": 236,
+    "storyCount": 1283
+  },
+  "secretIdentities": [
+    "Johnny",
+    "Jonathan Lowell Spencer Storm"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Human Torch",
+  "teams": [
+    "Avengers Unity Division",
+    "Fantastic Force",
+    "Fantastic Four",
+    "Fantastic Four Incorporated",
+    "Future Foundation",
+    "Galactus",
+    "Herald of Galactus",
+    "Uncanny Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/26/human_torch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Torch"
+  }
+}

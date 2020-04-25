@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Executioner",
+    "Feron"
+  ],
+  "authors": [
+    "Alan Davis"
+  ],
+  "description": "Feron is a fictional comic book superhero who appears in books published by the American publisher Marvel Comics, usually those featuring the British superhero team Excalibur, of which he is a former member.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Feron",
+  "partners": [
+  ],
+  "powers": [
+    "Levitation",
+    "Magic user"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 717,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Feron"
+  ],
+  "species": [
+  ],
+  "superName": "Feron",
+  "teams": [
+    "Crazy Gang",
+    "Excalibur",
+    "The Crazy Gang"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Feron"
+  }
+}

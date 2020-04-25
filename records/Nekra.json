@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Adrienne Hatros",
+    "Nekra"
+  ],
+  "authors": [
+    "Ross Andru",
+    "Steve Gerber"
+  ],
+  "description": "Nekra is a fictional mutant supervillain in Marvel Comics created by Steve Gerber and Ross Andru for the 1973 comic book Shanna the She-Devil.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c002e11323ba/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nekra",
+  "partners": [
+    "Mandrill"
+  ],
+  "powers": [
+    "Claws",
+    "Fangs",
+    "Hate",
+    "Invulnerability",
+    "Magical knowledge"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 564,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nekra Sinclair"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Nekra",
+  "teams": [
+    "Black Spectre",
+    "Lethal Legion"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1576/nekra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nekra"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Flyer"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "Flyer (Jude Jackson) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Flyer_new_gen.jpg/250px-Flyer_new_gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Flyer (New-Gen)",
+  "partners": [
+  ],
+  "powers": [
+    "Flight via leathery wings"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 57,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jude Jackson"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Flyer",
+  "teams": [
+    "A.P.N.G",
+    "A.P.N.G., Gabriel",
+    "Gabriel"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Flyer_(New-Gen)"
+  }
+}

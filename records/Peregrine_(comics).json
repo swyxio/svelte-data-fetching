@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Peregrine"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "John Romita, Jr.",
+    "Mark Gruenwald",
+    "Pablo Marcos",
+    "Steven Grant"
+  ],
+  "description": "Le Peregrine (Alain Racine) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Peregrine",
+  "partners": [
+    "Silver Sable"
+  ],
+  "powers": [
+    "Athlete-level strength",
+    "Costume with flying unit",
+    "Gifted intellect",
+    "Goggles",
+    "Master of",
+    "Radar detection devices",
+    "Savate",
+    "Skilled fighter",
+    "Talented writer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 228,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alain Racine"
+  ],
+  "species": [
+  ],
+  "superName": "Peregrine",
+  "teams": [
+    "Wild Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Peregrine_(comics)"
+  }
+}

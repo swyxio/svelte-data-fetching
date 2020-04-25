@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Christian Walker"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Michael Avon Oeming"
+  ],
+  "description": "Christian Walker is the main character starring in the comic book series Powers.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8f/Christian_Walker_HCV.jpg"
+  },
+  "mainColor": null,
+  "name": "Christian Walker",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1662,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "gor/gora/blue streak/diamond/millenium guard"
+  ],
+  "species": [
+  ],
+  "superName": "Christian Walker",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Walker"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Blood Spider",
+    "Michael Bingham"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Jerry Bingham",
+    "Mark Bagley"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Blood Spider",
+  "partners": [
+    "Death Shield",
+    "Jagged Bow",
+    "Red Skull",
+    "Taskmaster"
+  ],
+  "powers": [
+    "Carries web-shooter",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 80,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Michael Bingham"
+  ],
+  "species": [
+  ],
+  "superName": "Blood Spider",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blood_Spider"
+  }
+}

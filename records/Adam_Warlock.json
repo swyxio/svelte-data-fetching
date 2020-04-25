@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Adam",
+    "Magus",
+    "The Magus",
+    "Warlock"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Jack Kirby",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Adam Warlock",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Energy manipulation",
+    "Flight",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 104,
+    "eventCount": 10,
+    "pageviewCount": 19032,
+    "serieCount": 46,
+    "storyCount": 124
+  },
+  "secretIdentities": [
+    "originally Him; changed to Adam Warlock"
+  ],
+  "species": [
+  ],
+  "superName": "Adam Warlock",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Infinity Watch"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2854/adam_warlock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Warlock"
+  }
+}

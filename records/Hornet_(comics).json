@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "The Hornet"
+  ],
+  "authors": [
+    "Joseph Harris",
+    "Mike Wieringo",
+    "Todd DeZago"
+  ],
+  "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hornet",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 713,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eddie McDonough",
+    "Scotty McDowell"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Hornet",
+  "teams": [
+    "Slingers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hornet_(comics)"
+  }
+}

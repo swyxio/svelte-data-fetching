@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Weapon Omega",
+    "Weapon Omega, Wildheart",
+    "Wild Child",
+    "Wildheart"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Kyle Gibney's mutant powers emerged at an early age and left him with a freakish appearance, horrifying his parents, who kicked him out of the house, where he was eventually found and experimented upon by the Secret Empire and, later, Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the entry-level team whose recruits can eventually graduate to Alpha Flight.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Wild Child",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Endurance",
+    "Fangs",
+    "Healing factor",
+    "Razor sharp claws",
+    "Reflexes",
+    "Regenerative",
+    "Slowed aging process",
+    "Speed",
+    "Superhuman senses"
+  ],
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 1,
+    "pageviewCount": 1865,
+    "serieCount": 13,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+    "Kyle Gibney"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wild Child",
+  "teams": [
+    "Alpha Flight",
+    "Gamma Flight",
+    "Omega Flight",
+    "Weapon X",
+    "X-Factor"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2567/wild_child",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wild_Child_(comics)"
+  }
+}

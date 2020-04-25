@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Arachne",
+    "Julia Carpenter",
+    "Madame Web",
+    "Spider-Woman"
+  ],
+  "authors": [
+    "Jim Shooter",
+    "Mike Zeck"
+  ],
+  "description": "Julia Carpenter (born Julia Cornwall) is a fictional superheroine in the Marvel Comics universe that was initially known as the second Spider-Woman, and later known as the second Arachne, and then as the second Madame Web.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c00373114b4b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Madame Web (Julia Carpenter)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Clairvoyance",
+    "Durability",
+    "Energy",
+    "Healing factor",
+    "Precognition",
+    "Psychokinetic",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy",
+    "Wall-crawling"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3850,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Julia Eugenia Cornwall Carpenter"
+  ],
+  "species": [
+  ],
+  "superName": "Madame Web",
+  "teams": [
+    "CSA",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Force Works",
+    "Freedom Force",
+    "Omega Flight",
+    "Secret Defenders",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1314/julia_carpenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Carpenter"
+  }
+}

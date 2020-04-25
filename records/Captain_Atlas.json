@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Captain Atlas",
+    "Mr. Atlas",
+    "Titanium Man"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Mike Manley"
+  ],
+  "description": "Captain Atlas is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Captain Atlas",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 538,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Att-Lass"
+  ],
+  "species": [
+    "Kree"
+  ],
+  "superName": "Captain Atlas",
+  "teams": [
+    "Starforce"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Atlas"
+  }
+}

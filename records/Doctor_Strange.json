@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Doctor",
+    "Stephen Sanders",
+    "Strange",
+    "Vincent Stevens"
+  ],
+  "authors": [
+    "Steve Ditko"
+  ],
+  "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Doctor Strange",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect",
+    "Magic",
+    "Mastery of",
+    "Mastery of magic",
+    "Medical science",
+    "Trained in"
+  ],
+  "ranking": {
+    "comicCount": 418,
+    "eventCount": 13,
+    "pageviewCount": 157376,
+    "serieCount": 125,
+    "storyCount": 568
+  },
+  "secretIdentities": [
+    "Stephen Vincent Strange"
+  ],
+  "species": [
+  ],
+  "superName": "Doctor Strange",
+  "teams": [
+    "Defenders",
+    "Illuminati",
+    "Midnight Sons",
+    "New Avengers",
+    "The New Avengers",
+    "The Order"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  }
+}

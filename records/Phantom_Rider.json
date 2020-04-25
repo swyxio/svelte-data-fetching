@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Galloping Ghost",
+    "Ghost Rider",
+    "Haunted Horseman",
+    "He Who Rides the Night Winds",
+    "Night Rider",
+    "Phantom Rider"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Gary Friedrich",
+    "Roy Thomas"
+  ],
+  "description": "Phantom Rider is the name of several fictional characters, Old West heroic gunfighters appearing in comic books in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/GhostRider_western_1.jpg/250px-GhostRider_western_1.jpg"
+  },
+  "mainColor": null,
+  "name": "Phantom Rider",
+  "partners": [
+  ],
+  "powers": [
+    "Excellent horsemanship",
+    "Sharpshooting skills"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3760,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carter Slade"
+  ],
+  "species": [
+  ],
+  "superName": "Phantom Rider",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phantom_Rider"
+  }
+}

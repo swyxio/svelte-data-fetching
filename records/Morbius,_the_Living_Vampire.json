@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Dr. Morgan Michaels",
+    "Michael Morbius",
+    "Morbius",
+    "Morbius Revisited",
+    "Morbius the Living Vampire",
+    "Nikos Michaels",
+    "the Living Vampire"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Roy Thomas"
+  ],
+  "description": "Morbius the Living Vampire, a scientist named Dr. Michael Morbius, MD PhD is a fictional character appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Amazing_Spidy_101.jpg/250px-Amazing_Spidy_101.jpg"
+  },
+  "mainColor": null,
+  "name": "Morbius, the Living Vampire",
+  "partners": [
+  ],
+  "powers": [
+    "Biochemist",
+    "Expert biologist",
+    "Flight",
+    "Gifted intellect",
+    "Hypnotism",
+    "Neuroradiologist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4625,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Michael Morbius"
+  ],
+  "species": [
+  ],
+  "superName": "Morbius, the Living Vampire",
+  "teams": [
+    "A.R.M.O.R",
+    "Legion of Monsters",
+    "Midnight Sons",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Morbius,_the_Living_Vampire"
+  }
+}

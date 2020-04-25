@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Alucard",
+    "Count Dracula",
+    "Count Orlok",
+    "Dagon",
+    "Dondora",
+    "Dr. Vlad",
+    "Dracula",
+    "Frank Drake",
+    "Justin Drake",
+    "Vlad III the Impaler"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Gerry Conway"
+  ],
+  "description": "Dracula is a fictional supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/526955af18612/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dracula",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Genius-level intellect",
+    "Hand-to-hand combatant",
+    "Hypnosis",
+    "Immortality",
+    "Levitation",
+    "Mind control",
+    "Reflexes",
+    "Shapeshifting",
+    "Skilled swordsman",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy",
+    "Weather control"
+  ],
+  "ranking": {
+    "comicCount": 37,
+    "eventCount": 1,
+    "pageviewCount": 6010,
+    "serieCount": 23,
+    "storyCount": 57
+  },
+  "secretIdentities": [
+    "Vlad Tepes Dracula/Drake",
+    "Vlad Țepeș Dracula"
+  ],
+  "species": [
+    "Vampire"
+  ],
+  "superName": "Dracula",
+  "teams": [
+    "Defenders",
+    "Legion of the Unliving",
+    "Vampire",
+    "Vampires"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/576/dracula",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dracula_(Marvel_Comics)"
+  }
+}

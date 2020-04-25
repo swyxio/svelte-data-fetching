@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Beetle",
+    "Hardshell",
+    "Leila Davis"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Danny Fingeroth",
+    "Kerry Gammill"
+  ],
+  "description": "Leila Davis is a fictional character, a comic book supervillainess and later costumed hero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Thunderbolts35.jpg/250px-Thunderbolts35.jpg"
+  },
+  "mainColor": null,
+  "name": "Leila Davis",
+  "partners": [
+    "Boomerang",
+    "Rhino",
+    "Ringer",
+    "Vulture"
+  ],
+  "powers": [
+    "Durability",
+    "Flight",
+    "Powered armor",
+    "Superhuman strength",
+    "Variety of weapon systems"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 469,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Leila Davis"
+  ],
+  "species": [
+  ],
+  "superName": "Leila Davis",
+  "teams": [
+    "Redeemers",
+    "Sinister Syndicate",
+    "The Redeemers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Leila_Davis"
+  }
+}

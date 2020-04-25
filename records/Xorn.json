@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Kuan-Yin Xorn",
+    "Magneto",
+    "Michael Pointer",
+    "Shen Xorn",
+    "The Collective",
+    "Xorn"
+  ],
+  "authors": [
+    "Frank Quitely",
+    "Grant Morrison"
+  ],
+  "description": "Xorn, whose mutation manifested as a tiny, powerful star inside his head, was brainwashed into believing he was the reincarnation of Magneto.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c00394059727/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Xorn",
+  "partners": [
+  ],
+  "powers": [
+    "Electricity generation",
+    "Gravity manipulation",
+    "Healing powers",
+    "Magnetism generation",
+    "Magnetism manipulation",
+    "Manipulation",
+    "Telepathy",
+    "White star in head"
+  ],
+  "ranking": {
+    "comicCount": 19,
+    "eventCount": 0,
+    "pageviewCount": 3284,
+    "serieCount": 10,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+    "Kuan-Yin Xorn",
+    "Shen Xorn"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Xorn",
+  "teams": [
+    "Brotherhood of Mutants",
+    "X-Mansion",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2629/xorn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xorn"
+  }
+}

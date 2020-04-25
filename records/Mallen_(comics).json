@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Extremis",
+    "Madden",
+    "Mallen"
+  ],
+  "authors": [
+    "Adi Granov",
+    "Warren Ellis"
+  ],
+  "description": "Mallen is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mallen",
+  "partners": [
+  ],
+  "powers": [
+    "Claws",
+    "Electricity generation",
+    "Fire breath",
+    "Superhuman speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 567,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mallen"
+  ],
+  "species": [
+  ],
+  "superName": "Mallen",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mallen_(comics)"
+  }
+}

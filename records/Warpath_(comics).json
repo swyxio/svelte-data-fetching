@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Running Sun",
+    "Thunderbird",
+    "Warpath"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Sal Buscema"
+  ],
+  "description": "James Proudstar was once a member of Professor X's New Mutants and is currently a member of the X-Men black ops team, X-Force.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/e0/526035de08b23/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Warpath",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Flexibility",
+    "Flight",
+    "Reflexes/reactions",
+    "Resistance to injury",
+    "Senses",
+    "Skilled hunter",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Tracker"
+  ],
+  "ranking": {
+    "comicCount": 154,
+    "eventCount": 5,
+    "pageviewCount": 10410,
+    "serieCount": 27,
+    "storyCount": 188
+  },
+  "secretIdentities": [
+    "James Jonathan Proudstar"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Warpath",
+  "teams": [
+    "Hellions",
+    "New Mutants",
+    "X-Corporation",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2527/warpath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warpath_(comics)"
+  }
+}

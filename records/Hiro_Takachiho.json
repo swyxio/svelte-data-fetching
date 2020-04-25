@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Hiro",
+    "Hiro Hamada",
+    "Hiro Takachiho"
+  ],
+  "authors": [
+    "Duncan Rouleau",
+    "Steven T. Seagle"
+  ],
+  "description": "Hiro Takachiho is a fictional character, a superhero in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Hiro_Takachiho_%28Marvel_Comics%29.jpg/250px-Hiro_Takachiho_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Hiro Takachiho",
+  "partners": [
+  ],
+  "powers": [
+    "Extremely intelligent",
+    "Flight suit"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4961,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hiro Takachiho"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Hiro Takachiho",
+  "teams": [
+    "Big Hero 6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiro_Takachiho"
+  }
+}

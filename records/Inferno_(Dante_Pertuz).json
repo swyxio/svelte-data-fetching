@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Inferno"
+  ],
+  "authors": [
+    "Charles Soule",
+    "Joe Madureira"
+  ],
+  "description": "Inferno (Dante Pertuz) is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Inferno (Dante Pertuz)",
+  "partners": [
+    "Black Bolt",
+    "Gorgon",
+    "Gorgon (Inhuman)",
+    "Medusa",
+    "Ms. Marvel",
+    "Ms. Marvel (Kamala Khan)"
+  ],
+  "powers": [
+    "Fiery form",
+    "Fire manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1686,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dante Pertuz"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Inferno",
+  "teams": [
+    "Inhuman Royal Family"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Inferno_(Dante_Pertuz)"
+  }
+}

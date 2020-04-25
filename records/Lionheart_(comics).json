@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Captain Britain",
+    "Lionheart",
+    "Lionheart of Avalon"
+  ],
+  "authors": [
+    "Chuck Austen",
+    "Olivier Coipel"
+  ],
+  "description": "Lionheart (Kelsey Leigh Kirkland), formerly called Captain Britain, is a fictional character, a Marvel Comics superhero.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png"
+  },
+  "mainColor": null,
+  "name": "Lionheart",
+  "partners": [
+  ],
+  "powers": [
+    "Energy bolts",
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1168,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kelsey Leigh Kirkland"
+  ],
+  "species": [
+  ],
+  "superName": "Lionheart",
+  "teams": [
+    "Avengers",
+    "Captain Britain Corps",
+    "Excalibur",
+    "New Excalibur",
+    "The Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lionheart_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Bolt",
+    "Starbolt"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Starbolt is a member of the Shi'ar Imperial Guard.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4c003acf4e4bc/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Starbolt",
+  "partners": [
+  ],
+  "powers": [
+    "Fire immunity",
+    "Supersonic flight"
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 402,
+    "serieCount": 5,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Starbolt",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2201/starbolt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Starbolt"
+  }
+}

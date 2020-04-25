@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Janice Olivia Yanizeski",
+    "Joystick",
+    "The living embodiment of action"
+  ],
+  "authors": [
+    "Mark Bagley",
+    "Tom DeFalco"
+  ],
+  "description": "Joystick (Janice Olivia Yanizeski) is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0032437ece7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Joystick",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 526,
+    "serieCount": 3,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Janice Olivia Yanizeski"
+  ],
+  "species": [
+  ],
+  "superName": "Joystick",
+  "teams": [
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1102/joystick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joystick_(comics)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Sentry"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Mark Bagley"
+  ],
+  "description": "Sentry (real name Curtis Elkins) is a member of The Jury in the fictional Marvel comic universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sentry2.jpg/250px-Sentry2.jpg"
+  },
+  "mainColor": null,
+  "name": "Sentry (Curtis Elkins)",
+  "partners": [
+  ],
+  "powers": [
+    "Body-armor",
+    "Jet-boots",
+    "No superhuman powers",
+    "Repulsor gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 216,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Curtis Elkins"
+  ],
+  "species": [
+  ],
+  "superName": "Sentry",
+  "teams": [
+    "The Jury",
+    "The Vault"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(Curtis_Elkins)"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "aliases": [
+    "Doctor Doom",
+    "Dr. Doom",
+    "Rabum Alal",
+    "Victor von Doom"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Doctor Victor Von Doom is a fictional supervillain that appears in publications by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Doctor Doom",
+  "partners": [
+  ],
+  "powers": [
+    "Armor",
+    "Durability",
+    "Electrical manipulation",
+    "Energy absorption",
+    "Force blasts",
+    "Force field generation",
+    "Gauntlet scanners",
+    "Genius-level intellect",
+    "Hidden missiles",
+    "Master of the dark arts",
+    "Mind transferal",
+    "Projection",
+    "Rocket boots for flight",
+    "Skilled scientist",
+    "Sorcerer",
+    "Superhuman strength",
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 184,
+    "eventCount": 9,
+    "pageviewCount": 33061,
+    "serieCount": 105,
+    "storyCount": 185
+  },
+  "secretIdentities": [
+    "Dr. Victor Von Doom"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Doctor Doom",
+  "teams": [
+    "Astonishing Avengers",
+    "Cabal",
+    "Future Foundation",
+    "Intelligencia",
+    "Terrible Trio",
+    "The Cabal"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Doom"
+  }
+}

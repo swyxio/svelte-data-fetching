@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Echo",
+    "Ronin"
+  ],
+  "authors": [
+    "David Mack",
+    "David W. Mack",
+    "Joe Quesada"
+  ],
+  "description": "Echo (Maya Lopez), also known as Ronin, is a fictional character, a Marvel Comics superheroine and a supporting character of Daredevil.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00373a2629f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Echo",
+  "partners": [
+  ],
+  "powers": [
+    "Concert-level pianist",
+    "Gifted ballerina",
+    "Highly skilled acrobat",
+    "Olympic-level athlete",
+    "Photographic reflexes",
+    "Strong martial artist"
+  ],
+  "ranking": {
+    "comicCount": 22,
+    "eventCount": 2,
+    "pageviewCount": 4115,
+    "serieCount": 10,
+    "storyCount": 18
+  },
+  "secretIdentities": [
+    "Maya Lopez"
+  ],
+  "species": [
+  ],
+  "superName": "Echo",
+  "teams": [
+    "New Avengers",
+    "The Hand",
+    "The New Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/594/echo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Echo_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "The Coach"
+  ],
+  "authors": [
+  ],
+  "description": "The Coach is a fictional mutant character in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Coach",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 213,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unrevealed"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Coach",
+  "teams": [
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Coach_(comics)"
+  }
+}

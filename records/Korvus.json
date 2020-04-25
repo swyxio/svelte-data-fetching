@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Korvus"
+  ],
+  "authors": [
+    "Billy Tan",
+    "Ed Brubaker"
+  ],
+  "description": "Korvus, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Korvus",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 338,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Korvus Rook’Shir"
+  ],
+  "species": [
+    "Shi'ar"
+  ],
+  "superName": "Korvus",
+  "teams": [
+    "Starjammers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Korvus"
+  }
+}

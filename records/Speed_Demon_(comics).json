@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Harvey James",
+    "Speed Demon",
+    "Whizzer"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "James Saunders, a disgruntled chemist tired of his job with the Hudson Pharmaceutical Company of West Caldwell, New Jersey, was contacted by the Grandmaster and offered superhuman powers in exchange for joining a team that would compete on his behalf.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/90/4c0032463bef2/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Speed Demon",
+  "partners": [
+  ],
+  "powers": [
+    "Genius chemist",
+    "Reflexes",
+    "Stamina",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 1879,
+    "serieCount": 6,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "James Sanders"
+  ],
+  "species": [
+  ],
+  "superName": "Speed Demon",
+  "teams": [
+    "Sinister Six",
+    "Sinister Syndicate",
+    "Squadron Sinister",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3417/speed_demon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Speed_Demon_(comics)"
+  }
+}

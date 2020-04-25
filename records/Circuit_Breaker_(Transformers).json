@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Circuit Breaker",
+    "Emulator",
+    "Sephie"
+  ],
+  "authors": [
+    "Marvel Comics"
+  ],
+  "description": "Circuit Breaker (also known as Circuit-Smasher and the Emulator) is a fictional comic book character originally from the 1980s Marvel Comics Transformers series.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg"
+  },
+  "mainColor": null,
+  "name": "Circuit Breaker (Transformers)",
+  "partners": [
+  ],
+  "powers": [
+    "Break down",
+    "Causing it to malfunction",
+    "Circuitry",
+    "Robot"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 437,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Josephine Beller",
+    "Josie"
+  ],
+  "species": [
+    "Anti-Robot",
+    "Human"
+  ],
+  "superName": "Circuit Breaker",
+  "teams": [
+    "G.B. Blackrock",
+    "Neo-Knights",
+    "Rapid Anti-Robot Attack Team",
+    "The Transformers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Circuit_Breaker_(Transformers)"
+  }
+}

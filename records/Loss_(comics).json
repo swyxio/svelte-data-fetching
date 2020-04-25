@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Loss"
+  ],
+  "authors": [
+    "Terry Dodson",
+    "Warren Ellis"
+  ],
+  "description": "Loss is a mutant comic book character.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Loss",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 154,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Loss",
+  "teams": [
+    "Gene Nation",
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Loss_(comics)"
+  }
+}

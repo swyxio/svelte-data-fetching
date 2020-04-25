@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Bobby Wright",
+    "Captain Hero",
+    "Carol Danvers",
+    "Daniel Rand",
+    "Daniel Rand/Iron Fist",
+    "Dr",
+    "Dr. Franklin Storm",
+    "Franklin Storm",
+    "Invincible Man",
+    "Iron Fist",
+    "Super-Skrull",
+    "Thing",
+    "the",
+    "the Thing"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Super-Skrull",
+  "partners": [
+  ],
+  "powers": [
+    "Competent pilot",
+    "Durability",
+    "Elasticity",
+    "Excellent tactician",
+    "Flight",
+    "Force field generation",
+    "Hand to hand combatant",
+    "Hypnosis",
+    "Invisibility",
+    "Pyrokinesis",
+    "Shapeshifting",
+    "Stamina",
+    "Superb impersonator",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 3,
+    "pageviewCount": 2995,
+    "serieCount": 6,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Kl'rt"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Super-Skrull",
+  "teams": [
+    "Annihilation",
+    "Defenders",
+    "Secret Defenders",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2260/super-skrull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Super-Skrull"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Ghost Rider",
+    "Vengeance"
+  ],
+  "authors": [
+    "Howard Mackie"
+  ],
+  "description": "Michael Badilino became consumed with gaining vengeance on Ghost Rider for what happened to his family, and the demon Mephisto granted him the power with which to do so, transforming him into Vengeance.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3655b9f06/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Vengeance",
+  "partners": [
+    "Eddie Brock",
+    "Ghost Rider",
+    "Ghost Rider (Johnny Blaze)",
+    "John Blaze"
+  ],
+  "powers": [
+    "Agility",
+    "Along any surface",
+    "Durability",
+    "Endurance",
+    "Ethereal flame",
+    "Flame",
+    "Invulnerability to heat",
+    "Penance stare",
+    "Reflexes",
+    "Rides flaming motorcycle",
+    "Stamina",
+    "Superhuman strength",
+    "Wields magical chain"
+  ],
+  "ranking": {
+    "comicCount": 32,
+    "eventCount": 1,
+    "pageviewCount": 1023,
+    "serieCount": 2,
+    "storyCount": 55
+  },
+  "secretIdentities": [
+    "Lt. Michael Badilino / Deputy Kowalski"
+  ],
+  "species": [
+  ],
+  "superName": "Vengeance",
+  "teams": [
+    "Midnight Sons",
+    "NYPD",
+    "New York Police Department"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2476/vengeance",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vengeance_(comics)"
+  }
+}

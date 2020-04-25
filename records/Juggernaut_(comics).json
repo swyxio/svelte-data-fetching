@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Breaker of Stone",
+    "Cain Marko",
+    "Crimson Gem of Cyttorak",
+    "Juggernaut"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Juggernaut (Cain Marko) is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Juggernaut",
+  "partners": [
+    "Black Tom Cassidy",
+    "Siryn"
+  ],
+  "powers": [
+    "Durability",
+    "Extreme durability",
+    "Force field generation",
+    "Superhuman strength",
+    "With momentum"
+  ],
+  "ranking": {
+    "comicCount": 151,
+    "eventCount": 9,
+    "pageviewCount": 16200,
+    "serieCount": 74,
+    "storyCount": 153
+  },
+  "secretIdentities": [
+    "Cain Marko"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Juggernaut",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Excalibur",
+    "Exemplars",
+    "Exiles",
+    "Fear Itself",
+    "New Excalibur",
+    "Thunderbolts",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1105/juggernaut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juggernaut_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "(Garthan Saal)",
+    "Nova Omega",
+    "Supernova"
+  ],
+  "authors": [
+    "Tom DeFalco"
+  ],
+  "description": "Supernova, aka Nova Omega and (Garthan Saal), is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Supernova",
+  "partners": [
+  ],
+  "powers": [
+    "Gravametric manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1127,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Garthan Saal"
+  ],
+  "species": [
+  ],
+  "superName": "Supernova",
+  "teams": [
+    "Nova Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Supernova_(Marvel_Comics)"
+  }
+}

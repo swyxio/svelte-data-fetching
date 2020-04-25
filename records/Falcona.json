@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Falcona"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Marie Severin"
+  ],
+  "description": "Falcona is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Falcona",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 329,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhuman"
+  ],
+  "superName": "Falcona",
+  "teams": [
+    "Inhuman",
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Falcona"
+  }
+}

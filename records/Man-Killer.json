@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Amazon",
+    "Man-Killer",
+    "Wilma"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Jim Mooney"
+  ],
+  "description": "The Man-Killer (real name Katrina Luisa Van Horn) is a fictional supervillain in Marvel Comics' universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg"
+  },
+  "mainColor": null,
+  "name": "Man-Killer",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 650,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Katrina Luisa Van Horn"
+  ],
+  "species": [
+  ],
+  "superName": "Man-Killer",
+  "teams": [
+    "Advanced Idea Mechanics",
+    "HYDRA",
+    "Hydra",
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Killer"
+  }
+}

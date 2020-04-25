@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Jolen"
+  ],
+  "authors": [
+    "Matt Clark",
+    "Sean McKeever"
+  ],
+  "description": "Jolen is a fictional character, and a superhero in Marvel Comics' universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jolen",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 696,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jolen"
+  ],
+  "species": [
+  ],
+  "superName": "Jolen",
+  "teams": [
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jolen_(comics)"
+  }
+}

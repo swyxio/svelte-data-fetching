@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Robot Man",
+    "The Ultimate Weapon",
+    "Torgo"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Torgo is a fictional character, an alien robot appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Torgo (robot)",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Super-strength",
+    "Superhuman strength",
+    "Use of combat staff"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 384,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Robot"
+  ],
+  "superName": "Torgo",
+  "teams": [
+    "Horror-Hunters",
+    "Hulk-Hunters"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(robot)"
+  }
+}

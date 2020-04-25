@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Dirk Anger"
+  ],
+  "authors": [
+    "Stuart Immonen",
+    "Warren Ellis"
+  ],
+  "description": "Dirk Anger is a satirical Marvel Comics character appearing in the book Nextwave.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg"
+  },
+  "mainColor": null,
+  "name": "Dirk Anger",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 471,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dirk Anger"
+  ],
+  "species": [
+  ],
+  "superName": "Dirk Anger",
+  "teams": [
+    "Features of the Marvel Universe",
+    "H.A.T.E"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dirk_Anger"
+  }
+}

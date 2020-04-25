@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Mister Jip"
+  ],
+  "authors": [
+    "Bret Blevins",
+    "Terry Austin"
+  ],
+  "description": "Mister Jip is a fictional character belonging to the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mister Jip",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Conjure demons",
+    "Enhanced strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 576,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Mister Jip",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Jip"
+  }
+}

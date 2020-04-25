@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Scorcher"
+  ],
+  "authors": [
+    "Kurt Busiek",
+    "Pat Olliffe"
+  ],
+  "description": "Scorcher is a fictional character, a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Scorcher",
+  "partners": [
+  ],
+  "powers": [
+    "Flame",
+    "Flamethrowers",
+    "Flight via jet pack",
+    "Physical injuries",
+    "Protection from heat"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 480,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Steven Hudak"
+  ],
+  "species": [
+  ],
+  "superName": "Scorcher",
+  "teams": [
+    "Masters of Evil",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "teen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scorcher_(comics)"
+  }
+}

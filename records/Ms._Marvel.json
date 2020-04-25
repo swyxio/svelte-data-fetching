@@ -1,0 +1,37 @@
+{
+  "aliases": [
+    "Ms Marvel",
+    "Ms. Marvel"
+  ],
+  "authors": [
+  ],
+  "description": "Ms.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Msmarvel1.jpg/100px-Msmarvel1.jpg"
+  },
+  "mainColor": null,
+  "name": "Ms. Marvel",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 19237,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Ms. Marvel",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ms._Marvel"
+  }
+}

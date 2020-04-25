@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Ox"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Ox is the alias of fictional Marvel Comics supervillains that usually works for the Kingpin, Mister Fear or Hammerhead.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Whiteox.jpg/250px-Whiteox.jpg"
+  },
+  "mainColor": null,
+  "name": "Ox",
+  "partners": [
+  ],
+  "powers": [
+    "Resistance to injury",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 676,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Raymond Bloch",
+    "Raymond Bloch (original incarnation)",
+    "Ronald Bloch",
+    "Ronald Bloch (second incarnation)"
+  ],
+  "species": [
+  ],
+  "superName": "Ox",
+  "teams": [
+    "Enforcers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ox_(comics)"
+  }
+}

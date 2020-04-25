@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Morpheus"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Doug Moench"
+  ],
+  "description": "Morpheus is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Moonknightmorpheus.jpg/250px-Moonknightmorpheus.jpg"
+  },
+  "mainColor": null,
+  "name": "Morpheus",
+  "partners": [
+  ],
+  "powers": [
+    "Mental projection",
+    "No need of sleep",
+    "Psionic energy blast"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 465,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert Markham"
+  ],
+  "species": [
+  ],
+  "superName": "Morpheus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Morpheus_(Marvel_Comics)"
+  }
+}

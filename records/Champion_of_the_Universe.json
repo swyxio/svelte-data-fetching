@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Champion of the Universe",
+    "Championpool",
+    "Fallen One"
+  ],
+  "authors": [
+    "Ron Wilson",
+    "Tom DeFalco"
+  ],
+  "description": "The Champion of the Universe (Tryco Slatterus) is a fictional character, appearing in Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Champion1.png/250px-Champion1.png"
+  },
+  "mainColor": null,
+  "name": "Champion of the Universe",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Forms",
+    "Invulnerability",
+    "Martial arts",
+    "Martial arts forms",
+    "Reflexes",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2928,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tryco Slatterus"
+  ],
+  "species": [
+  ],
+  "superName": "Champion of the Universe",
+  "teams": [
+    "Elders of the Universe"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Champion_of_the_Universe"
+  }
+}

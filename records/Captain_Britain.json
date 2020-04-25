@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Britannic",
+    "Captain Britain"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Herb Trimpe"
+  ],
+  "description": "Captain Britain (Brian Braddock), is a fictional character, a superhero appearing in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4dbf0e5d57226/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Captain Britain",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Endurance",
+    "Energy beams",
+    "Flight",
+    "Force fields",
+    "Reflexes",
+    "Senses",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 93,
+    "eventCount": 4,
+    "pageviewCount": 13809,
+    "serieCount": 32,
+    "storyCount": 126
+  },
+  "secretIdentities": [
+    "Brian Braddock"
+  ],
+  "species": [
+  ],
+  "superName": "Captain Britain",
+  "teams": [
+    "Captain Britain Corps",
+    "Excalibur",
+    "Hellfire Club",
+    "Illuminati",
+    "Knights of Pendragon",
+    "MI-13",
+    "New Excalibur",
+    "Secret Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/382/captain_britain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Britain"
+  }
+}

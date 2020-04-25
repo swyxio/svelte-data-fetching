@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Ghost Rider",
+    "Zarathos"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Mike Ploog",
+    "Roy Thomas"
+  ],
+  "description": "Zarathos is a fictional character appearing in books published by Marvel Comics, usually as a villain in stories featuring the character Ghost Rider.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/52_1_b-1-.jpg/240px-52_1_b-1-.jpg"
+  },
+  "mainColor": null,
+  "name": "Zarathos",
+  "partners": [
+    "Lilith",
+    "Mephisto"
+  ],
+  "powers": [
+    "Elemental",
+    "Elemental powers",
+    "Healing factor",
+    "Hysterical strength",
+    "Immortality",
+    "Powers",
+    "Superhuman strength",
+    "Virtual",
+    "Virtual immortality"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2681,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zarathos"
+  ],
+  "species": [
+  ],
+  "superName": "Zarathos",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Zarathos"
+  }
+}

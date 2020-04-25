@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Flag-Smasher",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "The Flag-Smasher is the name used by two fictional supervillains appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Flag-Smasher",
+  "partners": [
+  ],
+  "powers": [
+    "Ultimatum"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1593,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karl Morgenthau"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Flag-Smasher",
+  "teams": [
+    "Features of the Marvel Universe",
+    "ULTIMATUM"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Flag-Smasher"
+  }
+}

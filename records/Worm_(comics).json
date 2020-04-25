@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Worm"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "Worm is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Worm",
+  "partners": [
+  ],
+  "powers": [
+    "Mind control"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 434,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Savage Land Mutates"
+  ],
+  "superName": "Worm",
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Worm_(comics)"
+  }
+}

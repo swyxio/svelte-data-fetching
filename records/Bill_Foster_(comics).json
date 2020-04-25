@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Bill Foster",
+    "Black Goliath",
+    "Giant-Man",
+    "Goliath",
+    "Rockwell Dodsworth"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "Dr. Bill Foster, also known as Black Goliath, the second Giant-Man and the fourth Goliath, is a fictional character, and a comic book superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00343d177d6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Goliath (Bill Foster)",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant biochemist",
+    "Gifted intellect",
+    "Mass manipulation",
+    "Size",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 1,
+    "pageviewCount": 13492,
+    "serieCount": 6,
+    "storyCount": 8
+  },
+  "secretIdentities": [
+    "Bill",
+    "Dr. William Barrett Foster",
+    "William Foster"
+  ],
+  "species": [
+  ],
+  "superName": "Goliath",
+  "teams": [
+    "Centers for Disease Control",
+    "Champions",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Pegasus",
+    "Prevention"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/830/goliath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Foster_(comics)"
+  }
+}

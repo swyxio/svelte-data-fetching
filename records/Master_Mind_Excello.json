@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Master Mind Excello"
+  ],
+  "authors": [
+  ],
+  "description": "Master Mind Excello (Earl Everett) is an American comic book character owned by Marvel Comics who exists in that company's Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Master Mind Excello",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman intelligence",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 232,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Earl Everett"
+  ],
+  "species": [
+  ],
+  "superName": "Master Mind Excello",
+  "teams": [
+    "The Twelve"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Mind_Excello"
+  }
+}

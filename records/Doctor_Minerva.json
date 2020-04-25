@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Doctor Minerva"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Scott Edelman"
+  ],
+  "description": "Doctor Minerva is a fictional character in Marvel Comics.Doctor Minerva is a Kree geneticist.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Doctor Minerva",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 487,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Minn-Erva"
+  ],
+  "species": [
+    "Kree"
+  ],
+  "superName": "Doctor Minerva",
+  "teams": [
+    "Starforce"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Minerva"
+  }
+}

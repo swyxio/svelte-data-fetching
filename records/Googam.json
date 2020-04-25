@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Googam"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Googam is a fictional character and that appears in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg"
+  },
+  "mainColor": null,
+  "name": "Googam",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength",
+    "Telekinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 201,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Googam"
+  ],
+  "species": [
+  ],
+  "superName": "Googam",
+  "teams": [
+    "Fin Fang Foom",
+    "Fin Fang Four"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Googam"
+  }
+}

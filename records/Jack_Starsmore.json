@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Jack Starsmore"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Frank Tieri"
+  ],
+  "description": "Jack Starsmore is a fictional character, a mutant in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jack Starsmore",
+  "partners": [
+  ],
+  "powers": [
+    "Fire manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 351,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Starsmore"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Jack Starsmore",
+  "teams": [
+    "Clan Akkaba"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Starsmore"
+  }
+}

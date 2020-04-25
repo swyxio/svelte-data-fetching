@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Speed",
+    "Thomas \"Tommy\" Shepherd"
+  ],
+  "authors": [
+    "Allan Heinberg",
+    "Jim Cheung"
+  ],
+  "description": "Tommy Shepherd may be the son of the Scarlet Witch and the Vision, and thus the twin brother of Wiccan.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c0035d87180e/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Speed",
+  "partners": [
+  ],
+  "powers": [
+    "Fast metabolism",
+    "Molecular acceleration",
+    "Superhuman speed",
+    "Supersonic speed"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 4050,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Thomas Shepherd",
+    "Tommy"
+  ],
+  "species": [
+    "Human Mutant"
+  ],
+  "superName": "Speed",
+  "teams": [
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2164/speed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Speed_(comics)"
+  }
+}

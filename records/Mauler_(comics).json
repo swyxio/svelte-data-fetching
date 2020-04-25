@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Mauler"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Frank Miller"
+  ],
+  "description": "Mauler (an acronym for Mobile Armored Utility Laser-guided E-beam, Revised) is a name used by four fictional characters that appear in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg"
+  },
+  "mainColor": null,
+  "name": "Mauler",
+  "partners": [
+  ],
+  "powers": [
+    "Flight via turbines",
+    "Laser cannon on left arm",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 337,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aaron Soames",
+    "Brendan Doyle",
+    "Turk Barrett",
+    "Unnamed criminal"
+  ],
+  "species": [
+  ],
+  "superName": "Mauler",
+  "teams": [
+    "Cord Conglomerate"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauler_(comics)"
+  }
+}

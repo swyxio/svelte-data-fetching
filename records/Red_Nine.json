@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Red Nine"
+  ],
+  "authors": [
+    "Craig Anderson",
+    "Dave Cockrum",
+    "Paty Cockrum"
+  ],
+  "description": "Red Nine (Wallace Jackson) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Red9.jpg/250px-Red9.jpg"
+  },
+  "mainColor": null,
+  "name": "Red Nine",
+  "partners": [
+  ],
+  "powers": [
+    "Energy bolt projection",
+    "Flight",
+    "Force field generation",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 326,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wallace Jackson"
+  ],
+  "species": [
+  ],
+  "superName": "Red Nine",
+  "teams": [
+    "Fifty State Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Nine"
+  }
+}

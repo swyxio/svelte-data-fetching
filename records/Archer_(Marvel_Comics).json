@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Archer",
+    "Jude Black"
+  ],
+  "authors": [
+    "Howard Mackie"
+  ],
+  "description": "Archer, who later took the identity of deceased international criminal and wife abuser, Jude Black, is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Archerxf140.jpg"
+  },
+  "mainColor": null,
+  "name": "Archer",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Energy form",
+    "Superhuman agility"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 389,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Archer",
+  "teams": [
+    "Xavier Security Enforcers",
+    "Xavier's Security Enforcers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Archer_(Marvel_Comics)"
+  }
+}

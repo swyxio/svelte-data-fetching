@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Jonathan Darque",
+    "Magma"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Herb Trimpe",
+    "Mike Esposito"
+  ],
+  "description": "Magma (Jonathan Darque) is a fictional character, a supervillain from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Magma (Jonathan Darque)",
+  "partners": [
+  ],
+  "powers": [
+    "Extraordinary armour",
+    "Genetically"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 237,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonathan Darque"
+  ],
+  "species": [
+  ],
+  "superName": "Magma",
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil Company"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Magma_(Jonathan_Darque)"
+  }
+}

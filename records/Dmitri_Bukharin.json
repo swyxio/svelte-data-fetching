@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Airstrke",
+    "Bukharin",
+    "Crimson Dynamo",
+    "Dmitri",
+    "Dmitri Bukharin",
+    "Iron Man",
+    "Krasni Denamit"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Carmine Infantino"
+  ],
+  "description": "Dmitri Bukharin, also known as the Crimson Dynamo and Airstrike, is a fictional character in the Marvel Comics Universe.While he was not the first or last character to go by the Crimson Dynamo name, he spent the longest time using the identity and armor.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Airstrike_001.jpg/200px-Airstrike_001.jpg"
+  },
+  "mainColor": null,
+  "name": "Dmitri Bukharin",
+  "partners": [
+  ],
+  "powers": [
+    "Defense capabilities",
+    "Durability",
+    "Flight",
+    "Hand-blasters",
+    "Missiles",
+    "Radio equipment",
+    "Superhuman strength",
+    "Wrist-blasters"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 379,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dmitri Bukharin"
+  ],
+  "species": [
+  ],
+  "superName": "Dmitri Bukharin",
+  "teams": [
+    "KGB",
+    "Legion Accursed",
+    "Soviet Super-Soldiers",
+    "Supreme Soviets",
+    "Supreme Soviets/People's Protectorate"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Bukharin"
+  }
+}

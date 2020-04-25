@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Infectia"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Walt Simonson"
+  ],
+  "description": "Infectia (Josephine) is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Infectia",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 402,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Josephine"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Infectia",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Infectia"
+  }
+}

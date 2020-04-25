@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Sentry"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Sentry-459 is a fictional character that appears in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MSH-13.jpg/250px-MSH-13.jpg"
+  },
+  "mainColor": null,
+  "name": "Sentry (Kree)",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy projection",
+    "Magnetism",
+    "Super strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 673,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Robot"
+  ],
+  "superName": "Sentry",
+  "teams": [
+    "Kree"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(Kree)"
+  }
+}

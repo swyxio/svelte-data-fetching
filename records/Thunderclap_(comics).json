@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Thunderclap"
+  ],
+  "authors": [
+    "Barry Kitson",
+    "Mike Collins"
+  ],
+  "description": "Thunderclap (Stanley George Johnson) is a fictional superhero created by Marvel UK a division of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thunderclapmu0.png/225px-Thunderclapmu0.png"
+  },
+  "mainColor": null,
+  "name": "Thunderclap",
+  "partners": [
+  ],
+  "powers": [
+    "An electronic device"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 192,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Stanley George Johnson"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Thunderclap",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderclap_(comics)"
+  }
+}

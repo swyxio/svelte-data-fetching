@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Indra"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Indra (Paras Gavaskar) is a fictional character who currently appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Indra_%28NXM%29.jpg/250px-Indra_%28NXM%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Indra",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 603,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Paras Gavaskar"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Indra",
+  "teams": [
+    "Alpha Squadron",
+    "Alpha Squadron training squad",
+    "Jean Grey School Students",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Indra_(comics)"
+  }
+}

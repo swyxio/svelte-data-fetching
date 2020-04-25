@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Citizen V",
+    "Iron Cross",
+    "Mark Evanier",
+    "Phoenix"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Sal Buscema",
+    "Stan Lee",
+    "Tony Isabella"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035890fb0a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Baron Zemo (Helmut Zemo)",
+  "partners": [
+    "Mother Superior",
+    "Primus",
+    "Red Skull"
+  ],
+  "powers": [
+    "Agility",
+    "Hand-to-hand combatant",
+    "Master swordsman",
+    "Possesses the moonstones",
+    "Scientific genius",
+    "Skilled strategist",
+    "Slowed aging",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 0,
+    "pageviewCount": 166,
+    "serieCount": 4,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Dr. Heinrich Zemo",
+    "Helmut J. Zemo"
+  ],
+  "species": [
+  ],
+  "superName": "Baron Zemo",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/238/baron_zemo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Zemo"
+  }
+}

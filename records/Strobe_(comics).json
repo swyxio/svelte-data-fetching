@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Strobe"
+  ],
+  "authors": [
+  ],
+  "description": "Strobe is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Strobe",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered",
+    "Heat/light generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 137,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Juliana Worthing",
+    "MLF entry</ref>"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Strobe",
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Strobe_(comics)"
+  }
+}

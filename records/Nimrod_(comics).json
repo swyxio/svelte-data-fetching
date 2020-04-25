@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Nicholas Hunter",
+    "Nimrod",
+    "Oracle",
+    "Rod Walker"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Romita, Jr."
+  ],
+  "description": "Nimrod is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Nimrodxmen.PNG/250px-Nimrodxmen.PNG"
+  },
+  "mainColor": null,
+  "name": "Nimrod",
+  "partners": [
+  ],
+  "powers": [
+    "Computer interfacing",
+    "Durability",
+    "Energy projection",
+    "Regeneration",
+    "Shapeshifting",
+    "Superhuman strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3541,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nimrod",
+  "teams": [
+    "Nimrod",
+    "Purifiers",
+    "Sentinels"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nimrod_(comics)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Ghost"
+  ],
+  "authors": [
+    "Bob Layton",
+    "David Michelinie"
+  ],
+  "description": "The Ghost is a fictional character appearing in comic books set in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Ghost_%28Marvel_character%29.jpg/250px-Ghost_%28Marvel_character%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Ghost",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant inventor",
+    "Hacker",
+    "Intangibility",
+    "Invisibility",
+    "Skilled marksman",
+    "Stealth technology",
+    "Superb intellect",
+    "Tactician"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1694,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Ghost",
+  "teams": [
+    "Roxxon Oil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"
+  }
+}

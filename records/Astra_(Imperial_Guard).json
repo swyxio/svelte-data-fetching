@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Astra"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg"
+  },
+  "mainColor": null,
+  "name": "Astra (Imperial Guard)",
+  "partners": [
+  ],
+  "powers": [
+    "Density alteration"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 41,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Astra",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Astra_(Imperial_Guard)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Paragon"
+  ],
+  "authors": [
+    "Marvel Comics"
+  ],
+  "description": "Paragon is the codename used by three unrelated fictional characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Paragon%28Maya%29.jpg/200px-Paragon%28Maya%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Paragon",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Energy blasts",
+    "Invulnerability",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 595,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cooper Roth",
+    "Maya"
+  ],
+  "species": [
+  ],
+  "superName": "Paragon",
+  "teams": [
+    "50",
+    "Imperfects",
+    "Rise of the Imperfects"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Paragon_(comics)"
+  }
+}

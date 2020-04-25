@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Lois London",
+    "Mortis"
+  ],
+  "authors": [
+  ],
+  "description": "Lois London is a Marvel Comics character associated with the Dazzler.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Mortis.PNG/175px-Mortis.PNG"
+  },
+  "mainColor": null,
+  "name": "Lois London",
+  "partners": [
+    "Selene"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 306,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lois London"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Lois London",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lois_London"
+  }
+}

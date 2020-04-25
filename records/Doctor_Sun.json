@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Doctor Sun",
+    "H.E.R.B.I.E"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Marv Wolfman"
+  ],
+  "description": "Doctor Sun is a fictional character, a supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Doctor Sun",
+  "partners": [
+  ],
+  "powers": [
+    "Control",
+    "Mind transfer",
+    "Psionic power"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 413,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Doctor Sun",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Sun"
+  }
+}

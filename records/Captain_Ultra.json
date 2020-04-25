@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Captain Ultra"
+  ],
+  "authors": [
+    "George Pérez",
+    "Joe Sinnott",
+    "Roy Thomas"
+  ],
+  "description": "Captain Ultra (Griffin Gogol) is a fictional character, a superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CaptainUltra500.jpg/250px-CaptainUltra500.jpg"
+  },
+  "mainColor": null,
+  "name": "Captain Ultra",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Flight",
+    "Intangibility",
+    "Reflexes",
+    "Super breath",
+    "Superhuman strength",
+    "X-ray vision"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 799,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Griffin Gogol"
+  ],
+  "species": [
+  ],
+  "superName": "Captain Ultra",
+  "teams": [
+    "Defenders",
+    "Initiative",
+    "Revengers",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Ultra"
+  }
+}

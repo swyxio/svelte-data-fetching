@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Thunderbolt I",
+    "Thunderbolt II"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Roy Thomas"
+  ],
+  "description": "Thunderbolt is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Thunderbolt",
+  "partners": [
+  ],
+  "powers": [
+    "Reflexes",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 246,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Luis Barrett",
+    "William Carver"
+  ],
+  "species": [
+  ],
+  "superName": "Thunderbolt",
+  "teams": [
+    "Pantheon"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderbolt_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Freakshow"
+  ],
+  "authors": [
+    "Chris Claremont"
+  ],
+  "description": "Freakshow is a fictional character created by Chris Claremont for Marvel comics' second installment of the series Excalibur.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b8/Freakshow-by-Aaron-Lopresti.jpg"
+  },
+  "mainColor": null,
+  "name": "Freakshow",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 237,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Freakshow",
+  "teams": [
+    "Excalibur",
+    "Genoshan Excalibur"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Freakshow_(comics)"
+  }
+}

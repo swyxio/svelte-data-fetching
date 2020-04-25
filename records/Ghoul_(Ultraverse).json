@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Ghoul"
+  ],
+  "authors": [
+    "Chris Ulm",
+    "Dave Olbrich",
+    "Dinosaurs for Hire",
+    "R.R. Phipps",
+    "Steve Gerber",
+    "Tom Mason"
+  ],
+  "description": "Ghoul is a character from Malibu Comics' Ultraverse continuity.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ghoul (Ultraverse)",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced regeneration"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 323,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonathan Martin"
+  ],
+  "species": [
+  ],
+  "superName": "Ghoul",
+  "teams": [
+    "Exiles",
+    "Ultraforce"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghoul_(Ultraverse)"
+  }
+}

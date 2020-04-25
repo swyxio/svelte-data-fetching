@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Night Thrasher",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "Night Thrasher is a fictional character, a superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nightthrasherfc.png/250px-Nightthrasherfc.png"
+  },
+  "mainColor": null,
+  "name": "Night Thrasher (Dwayne Taylor)",
+  "partners": [
+    "Midnight's Fire",
+    "Silhouette"
+  ],
+  "powers": [
+    "Computer hacker",
+    "Excellent acrobat",
+    "Immunity to telepathy",
+    "Skilled martial artist",
+    "Wears advanced body armor"
+  ],
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 3,
+    "pageviewCount": 1236,
+    "serieCount": 8,
+    "storyCount": 12
+  },
+  "secretIdentities": [
+    "Dwayne Michael Taylor"
+  ],
+  "species": [
+  ],
+  "superName": "Night Thrasher",
+  "teams": [
+    "Donyell Taylor",
+    "Folding Circle",
+    "New Warriors",
+    "Taylor Foundation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1601/night_thrasher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Night_Thrasher_(Dwayne_Taylor)"
+  }
+}

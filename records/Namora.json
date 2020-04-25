@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Namora",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Ken Bald",
+    "Syd Shores"
+  ],
+  "description": "Namora is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Namora",
+  "partners": [
+  ],
+  "powers": [
+    "Air",
+    "Slowed aging process",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 35,
+    "eventCount": 2,
+    "pageviewCount": 1510,
+    "serieCount": 12,
+    "storyCount": 63
+  },
+  "secretIdentities": [
+    "Aquaria Nautica Neptunia; later changed to Namora"
+  ],
+  "species": [
+    "Atlantean",
+    "Human Mutant Hybrid",
+    "Human Mutant hybrid",
+    "Human-Atlantean"
+  ],
+  "superName": "Namora",
+  "teams": [
+    "Agents of Atlas",
+    "Avengers\" (1959)",
+    "Monster Hunters",
+    "Renegades",
+    "World War Hulk"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1561/namora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Namora"
+  }
+}

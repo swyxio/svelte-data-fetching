@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Spoilsport"
+  ],
+  "authors": [
+    "(writer) and",
+    "Jay Faerber",
+    "Terry Dodson"
+  ],
+  "description": "Spoilsport is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spoilsport",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 120,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Spoilsport",
+  "teams": [
+    "Rising Sons"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spoilsport"
+  }
+}

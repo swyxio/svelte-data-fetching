@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Carl Walker",
+    "Force",
+    "Taylor"
+  ],
+  "authors": [
+    "Don Heck",
+    "Steve Gerber"
+  ],
+  "description": "Force is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/IronMan-224.jpg/250px-IronMan-224.jpg"
+  },
+  "mainColor": null,
+  "name": "Force",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Flight",
+    "Force field projection"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 416,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Clayton Wilson"
+  ],
+  "species": [
+  ],
+  "superName": "Force",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Force_(comics)"
+  }
+}

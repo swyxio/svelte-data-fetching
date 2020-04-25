@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Talisman",
+    "The Binder of Spirits",
+    "The Breaker of Dark Spells",
+    "The Promised One"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Elizabeth Twoyoungmen was born in Calgary, Alberta, Canada, the daughter of Michael Twoyoungman (Shaman) of the Canadian superhero team Alpha Flight.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Alpha_Flight_-19.jpg"
+  },
+  "mainColor": null,
+  "name": "Talisman (Alpha Flight)",
+  "partners": [
+  ],
+  "powers": [
+    "Abilities",
+    "Magical",
+    "Wide ranging"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 1,
+    "pageviewCount": 260,
+    "serieCount": 2,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Elizabeth Twoyoungmen"
+  ],
+  "species": [
+  ],
+  "superName": "Talisman",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Omega Flight"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2287/talisman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talisman_(Alpha_Flight)"
+  }
+}

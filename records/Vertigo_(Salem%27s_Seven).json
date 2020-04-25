@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Vertigo"
+  ],
+  "authors": [
+    "George Pérez",
+    "Len Wein"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Vertigo (Salem's Seven)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 76,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Vertigo",
+  "teams": [
+    "Frightful Four",
+    "Salem's Seven"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_(Salem%27s_Seven)"
+  }
+}

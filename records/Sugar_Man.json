@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Sugar Man"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/d0/527413a2480b5/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sugar Man",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced sense of smell",
+    "Expert biologist",
+    "Four arms",
+    "Geneticist",
+    "Indefinitely long",
+    "Razor sharp claws",
+    "Size",
+    "Superhuman strength",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 2297,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sugar Man",
+  "teams": [
+    "Age of Apocalypse",
+    "Genegineer",
+    "Seattle Core"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2243/sugar_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugar_Man"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Lifeguard"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Salvador Larroca"
+  ],
+  "description": "Lifeguard (Heather Cameron) is a comic book character, a superhero in the Marvel Comics universe, associated with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Lifeguard.PNG/200px-Lifeguard.PNG"
+  },
+  "mainColor": null,
+  "name": "Lifeguard",
+  "partners": [
+  ],
+  "powers": [
+    "Reactive adaptation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1126,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Heather Cameron"
+  ],
+  "species": [
+    "Human Mutant",
+    "Shi'ar hybrid"
+  ],
+  "superName": "Lifeguard",
+  "teams": [
+    "X-Corporation",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lifeguard_(comics)"
+  }
+}

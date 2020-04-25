@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Paste-Pot Pete",
+    "Trapster",
+    "Willie"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Trapster is the name of two supervillains in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Trapster",
+  "partners": [
+    "Zodiac"
+  ],
+  "powers": [
+    "Expert chemist",
+    "Genius level intellect",
+    "Skilled marksman",
+    "Talented disguise artist",
+    "Wall crawling"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1850,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter Petruski"
+  ],
+  "species": [
+  ],
+  "superName": "Trapster",
+  "teams": [
+    "Frightful Five",
+    "Frightful Four",
+    "Intelligencia",
+    "Maggia",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Trapster"
+  }
+}

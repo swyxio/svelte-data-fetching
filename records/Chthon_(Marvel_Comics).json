@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Chthon",
+    "Demon among Demons",
+    "Demon of the Darkhold",
+    "He who holds the Darkness",
+    "The Great Shadow",
+    "The Other",
+    "The Wolf"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Marv Wolfman",
+    "Yong Montano"
+  ],
+  "description": "Chthon is a fictional character, a demonic Elder God in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Chthon",
+  "partners": [
+  ],
+  "powers": [
+    "Chaos magic",
+    "Mastery of black magic",
+    "Reality warping",
+    "Vast mystical powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1613,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Elder Gods"
+  ],
+  "superName": "Chthon",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"
+  }
+}

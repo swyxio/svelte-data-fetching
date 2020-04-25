@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Stunt-Master"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Roy Thomas"
+  ],
+  "description": "Stunt-Master is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/StuntMasterDD.jpg/250px-StuntMasterDD.jpg"
+  },
+  "mainColor": null,
+  "name": "Stunt-Master",
+  "partners": [
+  ],
+  "powers": [
+    "Motorcyclist",
+    "Skilled stuntman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 124,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "George Smith"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Stunt-Master",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stunt-Master_(comics)"
+  }
+}

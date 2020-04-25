@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Nightmare"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Nightmare is a fictional character, a supervillain who appears in Marvel Comics, most commonly as one of Doctor Strange and Ghost Rider's major enemies.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4c003d1b26622/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nightmare",
+  "partners": [
+  ],
+  "powers": [
+    "Nigh-omnipotence",
+    "Nigh-omnipresence",
+    "Nigh-omniscience",
+    "Omnipresence",
+    "Omniscience"
+  ],
+  "ranking": {
+    "comicCount": 27,
+    "eventCount": 1,
+    "pageviewCount": 5127,
+    "serieCount": 10,
+    "storyCount": 29
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nightmare",
+  "teams": [
+    "The Fear Lords"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1605/nightmare",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightmare_(Marvel_Comics)"
+  }
+}

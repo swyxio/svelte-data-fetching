@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Inertia"
+  ],
+  "authors": [
+    "Gary Frank",
+    "J. Michael Straczynski",
+    "Mark Gruenwald",
+    "Paul Ryan"
+  ],
+  "description": "Inertia is the name of two separate, but related superheroes from the fictional Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Inertia",
+  "partners": [
+  ],
+  "powers": [
+    "Into object or person",
+    "Kinetic energy",
+    "Transfer"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 423,
+    "serieCount": 3,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Edith Eddy Freiberg"
+  ],
+  "species": [
+  ],
+  "superName": "Inertia",
+  "teams": [
+    "America Redeemers",
+    "Squadron Supreme",
+    "The Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1034/inertia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inertia_(Marvel_Comics)"
+  }
+}

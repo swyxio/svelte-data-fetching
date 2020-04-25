@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Killpower",
+    "The Early Years"
+  ],
+  "authors": [
+    "Gary Frank",
+    "Graham Mark"
+  ],
+  "description": "Killpower (Julius Mullarkey) is a fictional British comic book character from Marvel UK.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Killpower.jpg/200px-Killpower.jpg"
+  },
+  "mainColor": null,
+  "name": "Killpower",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 259,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Julius Mullarkey"
+  ],
+  "species": [
+  ],
+  "superName": "Killpower",
+  "teams": [
+    "MI-13"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Killpower"
+  }
+}

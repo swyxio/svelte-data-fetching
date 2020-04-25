@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Hector",
+    "Scott Shannon"
+  ],
+  "authors": [
+    "Dale Keown",
+    "Peter David"
+  ],
+  "description": "Hector is a fictional character, a member of the Marvel Comics superhero family the Pantheon.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg"
+  },
+  "mainColor": null,
+  "name": "Hector",
+  "partners": [
+  ],
+  "powers": [
+    "Energy flail",
+    "Super strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 247,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Hector",
+  "teams": [
+    "Pantheon"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hector_(Marvel_Comics)"
+  }
+}

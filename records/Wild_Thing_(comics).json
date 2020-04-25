@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Wild Thing"
+  ],
+  "authors": [
+    "Ron Lim",
+    "Tom DeFalco"
+  ],
+  "description": "Wild Thing (Rina Logan) is a fictional character from Marvel Comics, who exists in the MC2 universe, an alternate future to the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Wild Thing",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Claws",
+    "Coordination",
+    "Endurance",
+    "Healing factor",
+    "Psionic",
+    "Psionic claws",
+    "Reflexes",
+    "Regenerative",
+    "Senses",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1029,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rina Logan"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wild Thing",
+  "teams": [
+    "X-People"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wild_Thing_(comics)"
+  }
+}

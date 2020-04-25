@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Coldblood",
+    "Coldblood-7",
+    "Eric Savin"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Paul Gulacy"
+  ],
+  "description": "Coldblood-7 (Eric Savin) is a fictional character in Marvel Comics who first appeared in Marvel Comics Presents vol. 1 #26 (August 1989).",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Coldbloodmu0.png/250px-Coldbloodmu0.png"
+  },
+  "mainColor": null,
+  "name": "Coldblood",
+  "partners": [
+  ],
+  "powers": [
+    "Cyborg",
+    "Superb marksman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1980,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eric Savin"
+  ],
+  "species": [
+  ],
+  "superName": "Coldblood",
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Coldblood"
+  }
+}

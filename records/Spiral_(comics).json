@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Ricochet\" Rita",
+    "Rita Wayword",
+    "Spiral",
+    "The Apocalypse"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "Art Adams",
+    "Arthur Adams"
+  ],
+  "description": "Spiral was created to be an agent of Mojo, the despotic leader of Mojo World, often used as his favored personal servant, executioner, and spy.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Spiral",
+  "partners": [
+    "Mojo"
+  ],
+  "powers": [
+    "Acrobat",
+    "Enhanced strength",
+    "Genetics",
+    "Metamorphosis",
+    "Multiple arms",
+    "Skilled in cybernetics",
+    "Skilled in sorcery",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 39,
+    "eventCount": 4,
+    "pageviewCount": 2677,
+    "serieCount": 18,
+    "storyCount": 40
+  },
+  "secretIdentities": [
+    "Rita Wayword"
+  ],
+  "species": [
+  ],
+  "superName": "Spiral",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Freedom Force",
+    "Sisterhood of Mutants",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2176/spiral",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spiral_(comics)"
+  }
+}

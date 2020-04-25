@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Masked Marauder",
+    "Mr. Dunn"
+  ],
+  "authors": [
+    "Frank Giacoia",
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Stan Lee"
+  ],
+  "description": "The Masked Marauder is a fictional comic book character owned by Marvel Comics and appearing in that company's Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Daredevil_cover_-_number_17.jpg/250px-Daredevil_cover_-_number_17.jpg"
+  },
+  "mainColor": null,
+  "name": "Masked Marauder",
+  "partners": [
+  ],
+  "powers": [
+    "Genius engineer",
+    "Skilled inventor",
+    "Trained martial artist",
+    "Wields various weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 481,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frank Farnum"
+  ],
+  "species": [
+  ],
+  "superName": "Masked Marauder",
+  "teams": [
+    "Maggia"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Masked_Marauder"
+  }
+}

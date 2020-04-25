@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Aminedi"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Kirk Jarvinen"
+  ],
+  "description": "Aminedi (also known as Aminedi, The Invisible One) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bc/Aminedi_001.jpg"
+  },
+  "mainColor": null,
+  "name": "Aminedi",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 271,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Aminedi",
+  "teams": [
+    "Desert Sword"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Aminedi"
+  }
+}

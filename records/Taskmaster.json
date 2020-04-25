@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Contingency T",
+    "Taskmaster"
+  ],
+  "authors": [
+    "David Michelinie",
+    "George Pérez"
+  ],
+  "description": "Taskmaster first exhibited his unusual ability, called \"photographic reflexes,\" which allowed him to mimic the motion of anyone he saw, when he was a young boy.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/526957dc0c27f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Taskmaster",
+  "partners": [
+  ],
+  "powers": [
+    "Accurate marksman",
+    "Exceptional athlete",
+    "Expert tactician",
+    "Genius level intellect",
+    "Highly skilled athlete",
+    "Marksman",
+    "Martial artist",
+    "Master of disguise",
+    "Photographic reflexes",
+    "Skilled swordsman",
+    "Voice mimicry"
+  ],
+  "ranking": {
+    "comicCount": 50,
+    "eventCount": 4,
+    "pageviewCount": 18775,
+    "serieCount": 21,
+    "storyCount": 64
+  },
+  "secretIdentities": [
+    "Anthony Masters",
+    "Tony"
+  ],
+  "species": [
+  ],
+  "superName": "Taskmaster",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Agency X",
+    "Agent X",
+    "Cabal",
+    "Frightful Four",
+    "Initiative",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "Shadow Initiative",
+    "The Initiative",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2297/taskmaster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taskmaster"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "aliases": [
+    "Iron Man",
+    "Iron Patriot",
+    "War Machine"
+  ],
+  "authors": [
+    "Bob Layton",
+    "David Michelinie"
+  ],
+  "description": "War Machine (James Rupert \"Rhodey\" Rhodes) is a fictional superhero appearing in comic books set in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/IROMcover33F.jpg/250px-IROMcover33F.jpg"
+  },
+  "mainColor": null,
+  "name": "War Machine",
+  "partners": [
+  ],
+  "powers": [
+    "Armed",
+    "Armor",
+    "At",
+    "Aviation",
+    "Aviation engineer",
+    "Defensive",
+    "Energy",
+    "Energy repulsors",
+    "Engineer",
+    "Including",
+    "Laser blasters",
+    "Mach 3",
+    "Missile",
+    "Offensive",
+    "Pilot",
+    "Repulsors",
+    "S &",
+    "Superhuman strength",
+    "Supersonic flight",
+    "Unarmed combat",
+    "Variety of",
+    "Variety of offensive",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 19385,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Rupert Rhodes",
+    "Rhodey"
+  ],
+  "species": [
+  ],
+  "superName": "War Machine",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Force Works",
+    "Iron Legion",
+    "Office of National Emergency",
+    "Secret Avengers",
+    "Secret Defenders",
+    "Sentinel",
+    "Sentinel Squad O",
+    "Stark Enterprises",
+    "Stark Industries",
+    "Team War Machine",
+    "The Crew",
+    "The Initiative",
+    "United States Department of Defense",
+    "United States Marine Corps",
+    "West Coast Avengers",
+    "Worldwatch Incorporated"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/War_Machine"
+  }
+}

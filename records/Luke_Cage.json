@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Luke Cage",
+    "Power Man"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "John Romita Sr.",
+    "John Romita, Sr."
+  ],
+  "description": "Luke Cage (born Carl Lucas and also called Power Man) is a fictional superhero appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/4/40/537bb4889f364.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/e0/537bb460046bd/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Luke Cage",
+  "partners": [
+    "Colleen Wing",
+    "Iron Fist",
+    "Jessica Jones",
+    "Misty Knight"
+  ],
+  "powers": [
+    "Superhuman strength",
+    "Temperature"
+  ],
+  "ranking": {
+    "comicCount": 106,
+    "eventCount": 7,
+    "pageviewCount": 220645,
+    "serieCount": 53,
+    "storyCount": 98
+  },
+  "secretIdentities": [
+    "Carl Lucas"
+  ],
+  "species": [
+  ],
+  "superName": "Luke Cage",
+  "teams": [
+    "Avengers",
+    "Dark Avengers",
+    "Defenders",
+    "Fantastic Four",
+    "Heroes for Hire",
+    "Marvel Knights",
+    "Mighty Avengers",
+    "New Avengers",
+    "The Mighty Avengers",
+    "The New Avengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/34/luke_cage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Cage"
+  }
+}

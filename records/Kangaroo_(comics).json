@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Billy Bob Jenks",
+    "The Kangaroo"
+  ],
+  "authors": [
+    "J. M. DeMatteis",
+    "Jim Mooney",
+    "John Buscema",
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Luke Ross",
+    "Marcus McLaurin",
+    "Scott Benefiel",
+    "Stan Lee"
+  ],
+  "description": "Kangaroo is the name of two fictional characters, supervillains in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg"
+  },
+  "mainColor": null,
+  "name": "Kangaroo",
+  "partners": [
+    "Gibbon",
+    "Grizzly",
+    "Jonas Harrow",
+    "Spot"
+  ],
+  "powers": [
+    "Agility",
+    "Distances",
+    "Endurance",
+    "Enhanced strength",
+    "Peak physical condition",
+    "Pouch-level cannon",
+    "Professional boxer",
+    "Semi-prehensile tail"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 726,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Hibbs",
+    "Frank Oliver"
+  ],
+  "species": [
+  ],
+  "superName": "Kangaroo",
+  "teams": [
+    "Corporation",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kangaroo_(comics)"
+  }
+}

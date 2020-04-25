@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Charlie-27"
+  ],
+  "authors": [
+    "Arnold Drake",
+    "Gene Colan"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Charlie-27",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 679,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Charlie-27"
+  ],
+  "species": [
+  ],
+  "superName": "Charlie-27",
+  "teams": [
+    "Avengers",
+    "Guardians of the Galaxy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie-27"
+  }
+}

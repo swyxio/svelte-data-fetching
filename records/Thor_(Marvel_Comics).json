@@ -1,0 +1,68 @@
+{
+  "aliases": [
+    "Daniele Neri",
+    "Don Blake",
+    "Donald Blake",
+    "Dr. Donald Blake",
+    "Eric Masterson",
+    "Jake Olson",
+    "Odinson",
+    "Siegfried",
+    "Siegmund",
+    "Sigurd Jarlson",
+    "Thor",
+    "Thor (Marel Comics)",
+    "Thor Odinson"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Larry Lieber",
+    "Stan Lee"
+  ],
+  "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Thor",
+  "partners": [
+  ],
+  "powers": [
+    "Abilities via",
+    "Electric manipulation",
+    "Endurance",
+    "Flight",
+    "Longevity",
+    "Mjolnir",
+    "Speed",
+    "Superhuman strength",
+    "Weather manipulation"
+  ],
+  "ranking": {
+    "comicCount": 1247,
+    "eventCount": 21,
+    "pageviewCount": 32216,
+    "serieCount": 303,
+    "storyCount": 1961
+  },
+  "secretIdentities": [
+    "Thor Odinson"
+  ],
+  "species": [
+    "Asgardian"
+  ],
+  "superName": "Thor",
+  "teams": [
+    "Avengers",
+    "Avengers Unity Squad",
+    "God Squad",
+    "Thor Corps",
+    "Uncanny Avengers",
+    "Warriors Three"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1009664/thor/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Shola Inkosi"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Juan Bobillo"
+  ],
+  "description": "Shola Inkosi is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Shola Inkosi",
+  "partners": [
+  ],
+  "powers": [
+    "Low-level",
+    "Low-level telepathy",
+    "Psychokinesis",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 192,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Shola Inkosi"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Shola Inkosi",
+  "teams": [
+    "Excalibur",
+    "Genoshan Excalibur"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shola_Inkosi"
+  }
+}

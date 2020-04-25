@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "The Fury"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Alan Moore"
+  ],
+  "description": "The Fury is a fictional android character appearing in comic books published by Marvel Comics, as an adversary of Captain Britain and the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Lindamcquillen_.jpg/250px-Lindamcquillen_.jpg"
+  },
+  "mainColor": null,
+  "name": "Fury",
+  "partners": [
+    "Mad Jim Jaspers"
+  ],
+  "powers": [
+    "Energy blasts",
+    "Regeneration"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 874,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Fury",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fury_(Marvel_Comics)"
+  }
+}

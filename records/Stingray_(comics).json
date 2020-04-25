@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Stingray"
+  ],
+  "authors": [
+    "Bill Everett",
+    "Roy Thomas"
+  ],
+  "description": "Creating the Stingray costume, Newell succeeded in capturing the Sub-Mariner, although Namor soon escaped and Newell, while initially defeating him a second time, allowed his friend to go.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ac5e5195/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Stingray",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Enhanced swimming speed",
+    "Experienced oceanographer",
+    "Gifted intellect",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 1,
+    "pageviewCount": 1337,
+    "serieCount": 12,
+    "storyCount": 25
+  },
+  "secretIdentities": [
+    "Dr. Walter Newell"
+  ],
+  "species": [
+  ],
+  "superName": "Stingray",
+  "teams": [
+    "Astonishing Avengers",
+    "Avengers",
+    "Civil War",
+    "Defenders",
+    "Fifty State Initiative",
+    "Heroes for Hire",
+    "Mercs for Money",
+    "Secret Avengers",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2225/stingray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stingray_(comics)"
+  }
+}

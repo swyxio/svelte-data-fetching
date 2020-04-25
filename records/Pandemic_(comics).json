@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Pandemic"
+  ],
+  "authors": [
+    "Humberto Ramos",
+    "Mike Carey"
+  ],
+  "description": "Pandemic (Richard Palance) is a fictional supervillan in Marvel Comics was first mentioned in X-Men vol. 2 #188 (2006) and appeared in X-Men vol. 2 #194 (2007).",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Xmen-195.jpg/250px-Xmen-195.jpg"
+  },
+  "mainColor": null,
+  "name": "Pandemic",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 250,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Richard Palance"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Pandemic",
+  "teams": [
+    "Plague Dogs"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pandemic_(comics)"
+  }
+}

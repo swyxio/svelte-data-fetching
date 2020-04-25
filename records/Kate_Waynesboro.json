@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Kate Waynesboro",
+    "Ms. MODOK",
+    "Oldstrong"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Sal Buscema"
+  ],
+  "description": "Dr. Katherine \"Kate\" Waynesboro is a fictional comic book character appearing in books published by Marvel Comics, primarily as a supporting character to the Hulk.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kate Waynesboro",
+  "partners": [
+  ],
+  "powers": [
+    "Oldstrong power"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 588,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Katherine Waynesboro"
+  ],
+  "species": [
+  ],
+  "superName": "Kate Waynesboro",
+  "teams": [
+    "S.H.I.E.L.D",
+    "Warbound"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kate_Waynesboro"
+  }
+}

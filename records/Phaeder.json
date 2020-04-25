@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Phaeder",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio",
+    "Ron Wilson"
+  ],
+  "description": "Phaeder is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg"
+  },
+  "mainColor": null,
+  "name": "Phaeder",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 640,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Phaeder",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phaeder"
+  }
+}

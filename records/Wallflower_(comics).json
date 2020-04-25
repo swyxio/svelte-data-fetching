@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Wallflower"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Keron Grant",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Laurie Collins began to involuntarily manipulate anyone around her once her genetic mutation manifested, unable to control its effects.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Wallflower",
+  "partners": [
+  ],
+  "powers": [
+    "Pheromone manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1015,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Laurie Collins"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wallflower",
+  "teams": [
+    "New Mutants training squad",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2513/wallflower",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallflower_(comics)"
+  }
+}

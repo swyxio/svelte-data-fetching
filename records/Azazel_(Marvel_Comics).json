@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Azazel",
+    "Beelzebub",
+    "Belial",
+    "Beliar",
+    "Gadreel",
+    "Gadriel",
+    "Satan"
+  ],
+  "authors": [
+    "Chuck Austen",
+    "Sean Phillips"
+  ],
+  "description": "Azazel is a comic book supervillain appearing in books published by Marvel Comics, in particular those featuring the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Azazel_HCV.jpg/200px-Azazel_HCV.jpg"
+  },
+  "mainColor": null,
+  "name": "Azazel",
+  "partners": [
+  ],
+  "powers": [
+    "Dark arts",
+    "Energy blasts",
+    "Healing factor",
+    "Hypnosis",
+    "Immortality",
+    "Master of",
+    "Master of dark arts",
+    "Master swordsman",
+    "Night vision",
+    "Shapeshifting",
+    "Superhuman agility",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 10092,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Azazel"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Azazel",
+  "teams": [
+    "Mutant",
+    "Neyaphem"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Azazel_(Marvel_Comics)"
+  }
+}

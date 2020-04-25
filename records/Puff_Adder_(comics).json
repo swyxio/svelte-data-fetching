@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Puff Adder"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Tom Morgan"
+  ],
+  "description": "Puff Adder (Gordon Fraley) is fictional character, a mutant supervillain in the Marvel Universe, most notably as a member of the Serpent Society.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c0035b602a0a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Puff Adder",
+  "partners": [
+  ],
+  "powers": [
+    "Body",
+    "Or \"puff up",
+    "Or body",
+    "Puff up",
+    "Stamina",
+    "Street fighter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 343,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gordo",
+    "Gordon Fraley"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Puff Adder",
+  "teams": [
+    "Masters of Evil",
+    "Serpent Society",
+    "Serpent Squad"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2843/puff_adder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puff_Adder_(comics)"
+  }
+}

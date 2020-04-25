@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Lash"
+  ],
+  "authors": [
+    "Charles Soule",
+    "Joe Madureira",
+    "Matt Fraction"
+  ],
+  "description": "Lash is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Lash_Marvel_Comics.png/250px-Lash_Marvel_Comics.png"
+  },
+  "mainColor": null,
+  "name": "Lash",
+  "partners": [
+  ],
+  "powers": [
+    "Energy absorption",
+    "Energy conversion",
+    "Energy manipulation",
+    "Energy shield"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 13682,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Lash",
+  "teams": [
+    "Inhumans",
+    "The Lor Tribe"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lash_(comics)"
+  }
+}

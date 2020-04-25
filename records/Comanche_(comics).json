@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Comanche"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "George Tuska"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Comanche",
+  "partners": [
+  ],
+  "powers": [
+    "Hand-to-hand combat",
+    "Skilled marksman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Comanche",
+  "teams": [
+    "Flashmob"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Comanche_(comics)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Goldbug",
+    "Jack Smith"
+  ],
+  "authors": [
+    "Lee Elias",
+    "Marv Wolfman"
+  ],
+  "description": "Goldbug is a supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Goldbug",
+  "partners": [
+  ],
+  "powers": [
+    "A submarine",
+    "An aqua regia solution",
+    "Criminal strategist",
+    "Gifted intellect",
+    "Superhuman strength",
+    "Talented inventor",
+    "Use of a gold gun",
+    "Wafer-thin parachute",
+    "Wields gold gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 280,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Matthew Gilden"
+  ],
+  "species": [
+  ],
+  "superName": "Goldbug",
+  "teams": [
+    "Maggia",
+    "They Who Wield Power"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldbug_(comics)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Amichai Benvenisti",
+    "Foxx",
+    "Holt Adler",
+    "Jean Grey",
+    "Leni Zauber",
+    "Mallory Brickman",
+    "Mystique",
+    "Nick Fury",
+    "Professor Charles Xavier",
+    "Raven Darkholme",
+    "Raven Darkhölme",
+    "Raven Wagner",
+    "Ronnie Lake",
+    "Storm",
+    "Surge",
+    "Valerie Cooper"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Mystique (Raven Darkhölme) is a fictional supervillain appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/03/5390dc2225782/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Mystique",
+  "partners": [
+  ],
+  "powers": [
+    "Agelessness",
+    "Reflexes",
+    "Shapeshifting",
+    "Superhuman agility"
+  ],
+  "ranking": {
+    "comicCount": 119,
+    "eventCount": 5,
+    "pageviewCount": 42710,
+    "serieCount": 38,
+    "storyCount": 136
+  },
+  "secretIdentities": [
+    "Raven Darkhölme"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mystique",
+  "teams": [
+    "Astonishing Avengers",
+    "Brotherhood of Mutants",
+    "Chevaliers training squad",
+    "DARPA",
+    "Daily Bugle",
+    "Dark X-Men",
+    "Freedom Force",
+    "Marauders",
+    "Mossad",
+    "The Hand",
+    "X-Corps",
+    "X-Factor",
+    "X-Men",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1552/mystique",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mystique_(comics)"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Anti-Venom",
+    "Brock",
+    "Eddie",
+    "Eddie Brock",
+    "Toxin",
+    "Venom"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Todd McFarlane"
+  ],
+  "description": "Eddie Brock is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/80/4de932f1a298a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Eddie Brock",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Alien symbiote",
+    "Camouflage",
+    "Durability",
+    "Endurance",
+    "Immunity to spider sense",
+    "Limited shapeshifting",
+    "Organic webbing",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9790,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eddie Brock"
+  ],
+  "species": [
+  ],
+  "superName": "Eddie Brock",
+  "teams": [
+    "Revengers",
+    "Savage Six",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2829/eddie_brock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Brock"
+  }
+}

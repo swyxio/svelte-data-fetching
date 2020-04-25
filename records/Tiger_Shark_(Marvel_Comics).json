@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Arlys Tigershark",
+    "Tiger Shark"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "A champion Olympic swimmer, Todd Arliss earned nearly half million dollars in advances for public exhibitions, but his dreams came crashing down around him when he injured his back and legs while rescuing a man who had fallen overboard from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used his \"morphotron,\" which could imprint the genetic pattern of an animal onto a human, turning Arliss into a superhuman, amphibious creature.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/10/4c003a9db2f77/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Tiger Shark",
+  "partners": [
+  ],
+  "powers": [
+    "Adamantium",
+    "Durability",
+    "Innate hunting instinct",
+    "Razor-sharp",
+    "Senses",
+    "Stamina",
+    "Superhuman strength",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 11,
+    "eventCount": 0,
+    "pageviewCount": 2205,
+    "serieCount": 5,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Todd Arliss"
+  ],
+  "species": [
+  ],
+  "superName": "Tiger Shark",
+  "teams": [
+    "Deep Six",
+    "Defenders",
+    "Lethal Legion",
+    "Masters of Evil",
+    "Offenders"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2375/tiger_shark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiger_Shark_(Marvel_Comics)"
+  }
+}

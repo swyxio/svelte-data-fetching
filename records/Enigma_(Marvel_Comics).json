@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Enigma"
+  ],
+  "authors": [
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Wayne Faucher"
+  ],
+  "description": "Enigma (Tara Virango) is a fictional character, a superheroine who appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Tarabuddhism.jpg/130px-Tarabuddhism.jpg"
+  },
+  "mainColor": null,
+  "name": "Enigma",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 237,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tara Virango"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Enigma",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Enigma_(Marvel_Comics)"
+  }
+}

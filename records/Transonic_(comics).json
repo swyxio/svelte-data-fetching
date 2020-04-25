@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "The First Light",
+    "Transonic"
+  ],
+  "authors": [
+    "Kieron Gillen",
+    "Matt Fraction"
+  ],
+  "description": "Transonic (Laurie Tromette) is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/31/XMEN-Transonic.jpg"
+  },
+  "mainColor": null,
+  "name": "Transonic",
+  "partners": [
+  ],
+  "powers": [
+    "Supersonic flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 700,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Laurie Tromette"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Transonic",
+  "teams": [
+    "Hope Summers",
+    "The Lights",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Transonic_(comics)"
+  }
+}

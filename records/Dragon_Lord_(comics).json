@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Dragon Lord",
+    "Dragon Lord I"
+  ],
+  "authors": [
+    "Bill Everett",
+    "Ed Hannigan",
+    "Marv Wolfman",
+    "Mike Friedrich",
+    "Steve Ditko"
+  ],
+  "description": "Dragon Lord is the name of several unrelated fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Dragonlordc.jpg/249px-Dragonlordc.jpg"
+  },
+  "mainColor": null,
+  "name": "Dragon Lord",
+  "partners": [
+  ],
+  "powers": [
+    "Summon"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 377,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ral Dorn",
+    "Tako Shamara"
+  ],
+  "species": [
+  ],
+  "superName": "Dragon Lord",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Lord_(comics)"
+  }
+}

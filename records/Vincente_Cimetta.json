@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Misty",
+    "Vincente",
+    "Vincente Cimetta"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Vincente Cimetta is a mutant villain from the Generation X title belonging to Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Vincent_616.JPG/275px-Vincent_616.JPG"
+  },
+  "mainColor": null,
+  "name": "Vincente Cimetta",
+  "partners": [
+  ],
+  "powers": [
+    "Gas",
+    "Liquid"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 225,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Vincente Cimetta"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Vincente Cimetta",
+  "teams": [
+    "Emplate's Hellions",
+    "Hellions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincente_Cimetta"
+  }
+}

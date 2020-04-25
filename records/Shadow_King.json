@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Amahl Farouk",
+    "Ananasi",
+    "Cypher",
+    "Jacob Reisz",
+    "Karma",
+    "Shadow King"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "One of the oldest and more powerful mutants ever, Amahl Farouk has been a threat to mankind at least for decades. He was the first evil mutant met by Charles Xavier, convincing him of the need of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ce5a16fd4182/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Shadow King",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality",
+    "Possession",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 14,
+    "eventCount": 1,
+    "pageviewCount": 3475,
+    "serieCount": 8,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Amahl Farouk"
+  ],
+  "species": [
+    "undetermined"
+  ],
+  "superName": "Shadow King",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Dark X-Men",
+    "Gladiators",
+    "Shadow-X"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2057/shadow_king",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shadow_King"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Leland Owlsley",
+    "The Owl"
+  ],
+  "authors": [
+    "Joe Orlando",
+    "Stan Lee"
+  ],
+  "description": "The Owl (Leland Owlsley) is a fictional supervillain appearing in American comic books published by Marvel Comics, usually as an enemy of the superheroes Daredevil, Spider-Man and Black Cat.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/40/4ce5a45d60e63/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Owl",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Enhanced strength",
+    "Hearing",
+    "Hollow bones",
+    "Money launderer",
+    "Natural razor-sharp fangs",
+    "Reflexes/reactions",
+    "Resiliency/resistance",
+    "Superhuman sight",
+    "Talons"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 11523,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Leland Owlsley"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Owl",
+  "teams": [
+    "Gang of Four",
+    "Owl Gang",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "teen"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1681/owl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owl_(Marvel_Comics)"
+  }
+}

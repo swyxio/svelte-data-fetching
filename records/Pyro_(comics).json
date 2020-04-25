@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "John Allerdyce",
+    "Pyro",
+    "Saint-John Allerdyce"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Pyro (St. John Allerdyce) is a fictional supervillain that appears in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4ce5a0eeab435/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Pyro",
+  "partners": [
+  ],
+  "powers": [
+    "Control of fire"
+  ],
+  "ranking": {
+    "comicCount": 39,
+    "eventCount": 5,
+    "pageviewCount": 4383,
+    "serieCount": 15,
+    "storyCount": 39
+  },
+  "secretIdentities": [
+    "St. John Allerdyce"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Pyro",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Freedom Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1837/pyro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyro_(comics)"
+  }
+}

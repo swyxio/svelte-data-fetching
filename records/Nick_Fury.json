@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Gemini",
+    "Nick Fury",
+    "Scorpio",
+    "The Unseen"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Colonel Nicholas Joseph \"Nick\" Fury is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nick Fury",
+  "partners": [
+  ],
+  "powers": [
+    "Highly skilled in armed",
+    "Unarmed combat"
+  ],
+  "ranking": {
+    "comicCount": 279,
+    "eventCount": 10,
+    "pageviewCount": 18833,
+    "serieCount": 123,
+    "storyCount": 275
+  },
+  "secretIdentities": [
+    "Nicholas Joseph Fury",
+    "Nick"
+  ],
+  "species": [
+  ],
+  "superName": "Nick Fury",
+  "teams": [
+    "Avengers\" (1959)",
+    "C.I.A",
+    "Central Intelligence Agency",
+    "Great Wheel",
+    "Howling Commandos",
+    "S.H.I.E.L.D",
+    "Secret Warriors",
+    "Sgt. Fury",
+    "United States Army",
+    "his Howling Commandos"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2782/nick_fury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Fury"
+  }
+}

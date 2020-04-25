@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Orphan-Maker"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Walt Simonson"
+  ],
+  "description": "Orphan-Maker (Peter) is a fictional mutant character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/50/4c7c63f383bac/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Orphan-Maker",
+  "partners": [
+  ],
+  "powers": [
+    "Resistance",
+    "Superhuman strength",
+    "Wields energy weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 275,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Orphan-Maker",
+  "teams": [
+    "Nanny",
+    "Nanny's Lost Boys"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1669/orphan-maker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orphan-Maker"
+  }
+}

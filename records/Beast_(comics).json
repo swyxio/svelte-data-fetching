@@ -1,0 +1,67 @@
+{
+  "aliases": [
+    "Beast",
+    "Blue Gorilla",
+    "Hank McCoy",
+    "Henry McCoy",
+    "Kreature",
+    "Mutate #666"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Beast (Henry Philip \"Hank\" McCoy) is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/00/537ba1a63a737.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/537ba156b62e6/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Beast",
+  "partners": [
+  ],
+  "powers": [
+    "Genius",
+    "Genius-level intellect",
+    "Pheromone manipulation",
+    "Razor sharp claws",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 567,
+    "eventCount": 21,
+    "pageviewCount": 14521,
+    "serieCount": 161,
+    "storyCount": 618
+  },
+  "secretIdentities": [
+    "Hank",
+    "Henry Philip McCoy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Beast",
+  "teams": [
+    "All-New X-Men",
+    "Avengers",
+    "Defenders",
+    "Illuminati",
+    "S.W.O.R.D",
+    "Secret Avengers",
+    "X-Club",
+    "X-Factor",
+    "X-Mansion",
+    "X-Men",
+    "X-Terminators"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3/beast",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beast_(comics)"
+  }
+}

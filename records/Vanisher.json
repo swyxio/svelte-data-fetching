@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "El Hombre que Desaparece",
+    "The Vanisher"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Nothing is known about the Vanisher's past before he embarked on a one-man crime wave of spectacular thefts using his power of self-teleportation.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg"
+  },
+  "mainColor": null,
+  "name": "Vanisher",
+  "partners": [
+  ],
+  "powers": [
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 1,
+    "pageviewCount": 1265,
+    "serieCount": 2,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Telford Porter"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Vanisher",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Designer Gene Corporation",
+    "Factor Three",
+    "Fallen Angels",
+    "Marauders",
+    "New Enforcers",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2466/vanisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanisher"
+  }
+}

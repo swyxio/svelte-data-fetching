@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Athena",
+    "Corona",
+    "Thena",
+    "Thena Eliot"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Thena, a second generation Eternal, is the eldest daughter of Zuras, leader of the Eternals of Earth, and Cybele, and although she has lived for more than 4,000 years, she is still considered a young woman by Eternal standards.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c002f2a83a8c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Thena",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy blasts",
+    "Flight",
+    "Illusion generation",
+    "Matter transmutation",
+    "Mind control",
+    "Regeneration",
+    "Strength",
+    "Superhuman speed",
+    "Telekinesis",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 562,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Azura"
+  ],
+  "species": [
+  ],
+  "superName": "Thena",
+  "teams": [
+    "Eternals",
+    "Heroes for Hire"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2350/thena",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thena"
+  }
+}

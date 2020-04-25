@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Volcana"
+  ],
+  "authors": [
+    "Jim Shooter",
+    "Mike Zeck"
+  ],
+  "description": "Volcana (Marsha Rosenberg) is a fictional character (a supervillainess turned superheroine) featured in comic books published by Marvel Comics who first appeared in Secret Wars #3 (July 1984).",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/44/Volcana_%28Marvel%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Volcana",
+  "partners": [
+  ],
+  "powers": [
+    "Can become volcanic stone",
+    "Fire or ash"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 881,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Marsha Rosenberg"
+  ],
+  "species": [
+  ],
+  "superName": "Volcana",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Volcana_(Marvel_Comics)"
+  }
+}

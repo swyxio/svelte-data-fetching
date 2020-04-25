@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Shriker"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "Javier Saltares"
+  ],
+  "description": "Shriker is a fictional American comic book character owned by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/JackShriker.jpg/150px-JackShriker.jpg"
+  },
+  "mainColor": null,
+  "name": "Shriker",
+  "partners": [
+    "Caretaker",
+    "Ghost Rider",
+    "Ghost Rider (Johnny Blaze)",
+    "John Blaze"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 197,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack D'Auria"
+  ],
+  "species": [
+  ],
+  "superName": "Shriker",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shriker"
+  }
+}

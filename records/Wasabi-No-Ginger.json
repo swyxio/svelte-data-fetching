@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Wasabi-No-Ginger"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "David Nakayama"
+  ],
+  "description": "Wasabi-No-Ginger is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Wasabi-No-Ginger_%28Marvel_Comics%29.jpg/250px-Wasabi-No-Ginger_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Wasabi-No-Ginger",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled marksman",
+    "Swordsman",
+    "Use of swords"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2537,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Wasabi-No-Ginger",
+  "teams": [
+    "Big Hero 6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wasabi-No-Ginger"
+  }
+}

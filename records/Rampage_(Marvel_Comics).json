@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Capitan Action Figure",
+    "Rampage",
+    "Stuart Clarke"
+  ],
+  "authors": [
+    "Don Heck",
+    "John Tartag",
+    "Tony Isabella"
+  ],
+  "description": "Stuart Clarke is a comic book character in the Marvel Comics universe, an ex-supervillain who first fought as Rampage against the short-lived Champions team.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Stuartclarke.jpg/250px-Stuartclarke.jpg"
+  },
+  "mainColor": null,
+  "name": "Rampage",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Genius",
+    "Genius-level intelligence",
+    "Powered armor",
+    "Super-strength",
+    "That granted him",
+    "Used to have a"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 527,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Stuart Clarke"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Rampage",
+  "teams": [
+    "Clarke Futuristics",
+    "The Jigsaw Brothers",
+    "The Recession Raiders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rampage_(Marvel_Comics)"
+  }
+}

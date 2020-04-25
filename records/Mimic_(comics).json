@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Calvin Rankin",
+    "Mimic"
+  ],
+  "authors": [
+    "Judd Winick",
+    "Mike McKone",
+    "Stan Lee",
+    "Werner Roth"
+  ],
+  "description": "Mimic (Calvin Montgomery Rankin) is a fictional character appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Mimic%28comic%29.jpg/250px-Mimic%28comic%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Mimic",
+  "partners": [
+  ],
+  "powers": [
+    "Angel",
+    "Angel's flight",
+    "Beast",
+    "Cyclops",
+    "Iceman",
+    "Iceman's ice control",
+    "Jean grey",
+    "Manipulation",
+    "Power mimicry",
+    "Xavier",
+    "Xavier's"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2503,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Calvin Montgomery Rankin"
+  ],
+  "species": [
+    "Human Mutate",
+    "Mutant"
+  ],
+  "superName": "Mimic",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Dark X-Men",
+    "Jean Grey School",
+    "X-Mansion",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mimic_(comics)"
+  }
+}

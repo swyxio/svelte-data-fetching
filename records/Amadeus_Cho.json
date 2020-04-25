@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Hulk",
+    "Iron Spider",
+    "Master Mind Excello",
+    "Mastermind Excello",
+    "Prince of Power"
+  ],
+  "authors": [
+    "Greg Pak",
+    "Takeshi Miyazawa"
+  ],
+  "description": "Amadeus Cho, also known as Mastermind Excello, is a fictional superhero appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Amadeus Cho",
+  "partners": [
+    "Hercules"
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Genius-level intellect",
+    "Longevity",
+    "Superhuman strength",
+    "Wields adamantine mace"
+  ],
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 3,
+    "pageviewCount": 12119,
+    "serieCount": 5,
+    "storyCount": 27
+  },
+  "secretIdentities": [
+    "Amadeus Cho"
+  ],
+  "species": [
+  ],
+  "superName": "Amadeus Cho",
+  "teams": [
+    "Illuminati",
+    "Mighty Avengers",
+    "New Warriors",
+    "Olympus Group",
+    "Renegades",
+    "The Mighty Avengers",
+    "World War Hulk",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2804/amadeus_cho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amadeus_Cho"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Lotus Shinchuko"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "George Pérez"
+  ],
+  "description": "Lotus Shinchuko is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lotus Shinchuko",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 123,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lotus Shinchuko"
+  ],
+  "species": [
+  ],
+  "superName": "Lotus Shinchuko",
+  "teams": [
+    "Sons of the Tiger"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lotus_Shinchuko"
+  }
+}

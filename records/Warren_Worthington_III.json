@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Angel",
+    "Archangel",
+    "Avenging Angel",
+    "Dark Angel",
+    "Death",
+    "Warren Worthington III"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Warren Kenneth Worthington III, originally Angel and later as Archangel, is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg"
+  },
+  "mainColor": null,
+  "name": "Warren Worthington III",
+  "partners": [
+  ],
+  "powers": [
+    "Aerial adaptation",
+    "Flight via metal wings",
+    "Healing factor",
+    "Hollow bones",
+    "Near immunity to injury"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 42527,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Warren Kenneth Worthington III"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Warren Worthington III",
+  "teams": [
+    "<Br>",
+    "Champions",
+    "Champions of Los Angeles",
+    "Cheyarafim",
+    "CheyarafimJean Grey School Students",
+    "Defenders",
+    "Defenders/Secret Defenders",
+    "Hellfire Club",
+    "Horsemen of Apocalypse",
+    "Jean Grey School Students",
+    "Mutantes Sans Frontières",
+    "Renegades",
+    "World War Hulk",
+    "Worthington Industries",
+    "X-Club",
+    "X-Factor",
+    "X-Force",
+    "X-Men",
+    "X-Terminators"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_Worthington_III"
+  }
+}

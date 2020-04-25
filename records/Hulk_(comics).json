@@ -1,0 +1,76 @@
+{
+  "aliases": [
+    "Bruce Banner",
+    "David Banner",
+    "Doc Green",
+    "Green Scar",
+    "Horsemen of Apocalypse",
+    "Hulk",
+    "Jade Giant",
+    "Joe Fixit",
+    "Sakaarson",
+    "The Hulk",
+    "The Incredible Hulk",
+    "War",
+    "World-Breaker"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/537bafb19e9f4.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "hexa": "17250B",
+    "red": 23
+  },
+  "name": "Hulk",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Genius-level intellect",
+    "Longevity",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 1309,
+    "eventCount": 24,
+    "pageviewCount": 47858,
+    "serieCount": 314,
+    "storyCount": 1981
+  },
+  "secretIdentities": [
+    "Robert Bruce Banner"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Hulk",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Fantastic Four",
+    "Horsemen of Apocalypse",
+    "Hulkbusters",
+    "Illuminati",
+    "Pantheon",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "The Mighty Avengers",
+    "The New Avengers",
+    "The Order",
+    "Titans Three",
+    "Warbound"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/25/hulk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hulk_(comics)"
+  }
+}

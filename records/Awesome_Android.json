@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Awesome Android",
+    "Awesome Andy"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Awesome Android, (also briefly known as Awesome Andy), is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Awesome Android",
+  "partners": [
+    "Mad Thinker"
+  ],
+  "powers": [
+    "Abilities",
+    "Durability",
+    "Superhuman strength",
+    "Textures"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1105,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Awesome Android",
+  "teams": [
+    "Goodman",
+    "Goodman, Lieber, Kurtzberg & Holliway",
+    "Heavy Metal",
+    "Intelligencia",
+    "Kurtzberg & Holliway",
+    "Lieber"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Awesome_Android"
+  }
+}

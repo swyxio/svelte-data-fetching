@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Kid Ock",
+    "Spider-Kid",
+    "Steel Spider"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Ed Hannigan"
+  ],
+  "description": "Steel Spider (Oliver \"Ollie\" Osnick) is a fictional character, a superhero who appears in the comic books published by Marvel Comics, primarily in the various Spider-Man titles.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Steelspider.jpg/250px-Steelspider.jpg"
+  },
+  "mainColor": null,
+  "name": "Steel Spider",
+  "partners": [
+  ],
+  "powers": [
+    "Genius intelligence",
+    "Gifted inventor",
+    "Pepper spray blasters"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1276,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Oliver Osnick",
+    "Ollie"
+  ],
+  "species": [
+  ],
+  "superName": "Steel Spider",
+  "teams": [
+    "The Misfits"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Steel_Spider"
+  }
+}

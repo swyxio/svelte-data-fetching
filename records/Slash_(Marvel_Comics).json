@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Sister Agony",
+    "Slash"
+  ],
+  "authors": [
+    "J. M. DeMatteis",
+    "J.M. DeMatteis",
+    "Paul Neary"
+  ],
+  "description": "Slash (also known as Sister Agony) is a fictional character in the Marvel Comics Universe, most notably as a member of the Sisters of Sin.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Slash",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 231,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Slash",
+  "teams": [
+    "Sisters of Sin"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Slash_(Marvel_Comics)"
+  }
+}

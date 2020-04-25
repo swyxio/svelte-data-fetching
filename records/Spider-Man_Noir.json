@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Spider-Man",
+    "Spider-Man Noir"
+  ],
+  "authors": [
+    "Carmine Di Giandomenico",
+    "David Hine",
+    "Fabrice Sapolsky"
+  ],
+  "description": "Spider-Man Noir or just Spider-Man (Peter Parker) is a fictional superhero created by David Hine, Fabrice Sapolsky, and Carmine Di Giandomenico.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png"
+  },
+  "mainColor": null,
+  "name": "Spider-Man Noir",
+  "partners": [
+  ],
+  "powers": [
+    "A spider-sense",
+    "Agility of a spider",
+    "Capture his enemies",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3271,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter Parker"
+  ],
+  "species": [
+  ],
+  "superName": "Spider-Man Noir",
+  "teams": [
+    "Spider-Verse",
+    "Web Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man_Noir"
+  }
+}

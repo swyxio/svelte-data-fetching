@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Fu Manchu"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Jim Starlin",
+    "Sax Rohmer",
+    "Steve Englehart"
+  ],
+  "description": "Fu Manchu is the name of a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Fu Manchu",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect",
+    "Hypnosis",
+    "Martial arts expert",
+    "Medical practioner",
+    "Medical practitioner"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 253,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zheng Zhu",
+    "Zheng Zu"
+  ],
+  "species": [
+  ],
+  "superName": "Fu Manchu",
+  "teams": [
+    "Shadow Council",
+    "Si-Fan"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fu_Manchu_(comics)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Kro",
+    "Mr. Pluto",
+    "Prince of Darkness",
+    "Warlord Kro"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Kro (sometimes referred to as the Warlord Kro) is a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Kro_from_Thor_-_The_Deviants_Saga_05.jpg/200px-Kro_from_Thor_-_The_Deviants_Saga_05.jpg"
+  },
+  "mainColor": null,
+  "name": "Kro",
+  "partners": [
+  ],
+  "powers": [
+    "Accelerated",
+    "Healing factor",
+    "Immortal",
+    "Shape-shifting",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 622,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kro"
+  ],
+  "species": [
+  ],
+  "superName": "Kro",
+  "teams": [
+    "Deviant",
+    "Deviants",
+    "Eternals"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kro_(comics)"
+  }
+}

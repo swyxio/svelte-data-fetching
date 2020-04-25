@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Silver Fox",
+    "Zorra de Plata"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Buscema"
+  ],
+  "description": "Silver Fox was a young member of the Blackfoot Indian tribe who, in the early 1910s, fell in love with a young mutant named Logan and shared a cabin with him in a remote community in the Canadian Rockies.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/d0/4c003c19078c3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Silver Fox",
+  "partners": [
+  ],
+  "powers": [
+    "Age suppressant",
+    "Artificial",
+    "Artificial healing factor",
+    "Healing factor"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 0,
+    "pageviewCount": 7111,
+    "serieCount": 2,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Kayla"
+  ],
+  "species": [
+    "Human Mutant"
+  ],
+  "superName": "Silver Fox",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Team X",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2099/silver_fox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver_Fox_(comics)"
+  }
+}

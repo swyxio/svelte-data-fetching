@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Scaredycat"
+  ],
+  "authors": [
+    "Brent Anderson",
+    "Peter B. Gillis"
+  ],
+  "description": "Scaredycat (Pilar Lisieux) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Scaredycat.jpg"
+  },
+  "mainColor": null,
+  "name": "Scaredycat",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Shock/panic projection",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 93,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Pilar Lisieux"
+  ],
+  "species": [
+  ],
+  "superName": "Scaredycat",
+  "teams": [
+    "Morituri"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scaredycat"
+  }
+}

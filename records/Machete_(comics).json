@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Machete"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Mike Carlin",
+    "Paul Neary",
+    "Paul Pelletier"
+  ],
+  "description": "Machete is the name of three fictional characters in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Machete",
+  "partners": [
+  ],
+  "powers": [
+    "Experienced tactician",
+    "Expert with bladed",
+    "Possesses various weapons",
+    "Throwing weapons",
+    "Wears kevlar flak jacket"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 347,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ferdinand Lopez",
+    "Mariano Lopez"
+  ],
+  "species": [
+  ],
+  "superName": "Machete",
+  "teams": [
+    "Batroc the Leaper",
+    "Batroc's Brigade"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Machete_(comics)"
+  }
+}

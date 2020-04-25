@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Jennifer Kale",
+    "Witch Woman"
+  ],
+  "authors": [
+    "Rich Buckler",
+    "Steve Gerber"
+  ],
+  "description": "Jennifer Kale is a fictional character, a sorceress in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jennifer Kale",
+  "partners": [
+    "Dakimh the Enchanter",
+    "Howard the Duck",
+    "Korrek",
+    "Man-Thing"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1412,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jennifer Kale"
+  ],
+  "species": [
+  ],
+  "superName": "Jennifer Kale",
+  "teams": [
+    "Legion of Night",
+    "Midnight Sons",
+    "The Command",
+    "The Legion of Night",
+    "Witches"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Kale"
+  }
+}

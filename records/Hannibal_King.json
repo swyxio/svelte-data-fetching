@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Hannibal",
+    "Hannibal King",
+    "Henry Kagle",
+    "King"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Marv Wolfman"
+  ],
+  "description": "Hannibal King is a fictional character, a supernatural detective appearing in publications from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg"
+  },
+  "mainColor": null,
+  "name": "Hannibal King",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Halted aging",
+    "Healing factor",
+    "Marksman",
+    "Regenerative",
+    "Skilled detective",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3920,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown",
+    "Unknown (probably Hannibal King)"
+  ],
+  "species": [
+  ],
+  "superName": "Hannibal King",
+  "teams": [
+    "Midnight Sons",
+    "Nightstalkers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannibal_King"
+  }
+}

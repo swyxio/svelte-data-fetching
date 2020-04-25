@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Lady Deathstrike",
+    "Yuriko Oyama"
+  ],
+  "authors": [
+    "Barry Windsor-Smith",
+    "Bill Mantlo",
+    "Chris Claremont",
+    "Dennis O'Neil",
+    "Larry Hama",
+    "Sal Buscema"
+  ],
+  "description": "Lady Deathstrike (Yuriko Oyama), occasionally spelled \"Deathstryke,\" is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff2c1ef191/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Lady Deathstrike",
+  "partners": [
+  ],
+  "powers": [
+    "Adamantium skeleton",
+    "Agility",
+    "Excellent athlete",
+    "Hand-to-hand combatant",
+    "Reflexes",
+    "Retractable claw nails",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 49,
+    "eventCount": 1,
+    "pageviewCount": 8143,
+    "serieCount": 19,
+    "storyCount": 49
+  },
+  "secretIdentities": [
+    "Yuriko Oyama"
+  ],
+  "species": [
+  ],
+  "superName": "Lady Deathstrike",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Reavers",
+    "Sisterhood of Mutants",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1198/lady_deathstrike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Deathstrike"
+  }
+}

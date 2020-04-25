@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Diamond Girl",
+    "Diamondback",
+    "Snapdragon"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "Diamondback is the name of four fictional characters appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/526955c158ece/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Diamondback",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled gymnast"
+  ],
+  "ranking": {
+    "comicCount": 34,
+    "eventCount": 3,
+    "pageviewCount": 5860,
+    "serieCount": 6,
+    "storyCount": 33
+  },
+  "secretIdentities": [
+    "Rachel Leighton"
+  ],
+  "species": [
+  ],
+  "superName": "Diamondback",
+  "teams": [
+    "Avengers Resistance",
+    "BAD Girls",
+    "BAD Girls, Inc",
+    "Counter Force",
+    "Femizons",
+    "Fifty State Initiative",
+    "Inc",
+    "S.H.I.E.L.D",
+    "Serpent Society",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/554/diamondback",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diamondback_(comics)"
+  }
+}

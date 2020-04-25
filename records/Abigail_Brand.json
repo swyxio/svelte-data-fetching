@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Abigail Brand"
+  ],
+  "authors": [
+    "John Cassaday",
+    "Joss Whedon"
+  ],
+  "description": "Special Agent Abigail Brand is a fictional character in the Marvel Comics' universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png"
+  },
+  "mainColor": null,
+  "name": "Abigail Brand",
+  "partners": [
+    "Beast"
+  ],
+  "powers": [
+    "Pyrokinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1874,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Alien Hybrid",
+    "Human Mutant"
+  ],
+  "superName": "Abigail Brand",
+  "teams": [
+    "Alpha Flight",
+    "S.W.O.R.D",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Brand"
+  }
+}

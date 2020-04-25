@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Rocket Raccoon"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Keith Giffen"
+  ],
+  "description": "A genetically-engineered alien with a knack for big guns and fast ships, Rocket serves as the backbone of the Guardians of the Galaxy!",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/30/537bc16b86c13.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/537bc14068e5d/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Rocket Raccoon",
+  "partners": [
+  ],
+  "powers": [
+    "Expert marksman",
+    "Field commander",
+    "Genius-level intellect",
+    "Master tactician",
+    "Sniper"
+  ],
+  "ranking": {
+    "comicCount": 22,
+    "eventCount": 3,
+    "pageviewCount": 10841,
+    "serieCount": 10,
+    "storyCount": 21
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Rocket Raccoon",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/47/rocket_raccoon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rocket_Raccoon"
+  }
+}

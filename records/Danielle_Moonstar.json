@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Dani Moonstar",
+    "Danielle Moonstar",
+    "Dark Rider",
+    "Mirage",
+    "Moonstar",
+    "Psyche",
+    "Spellbinder"
+  ],
+  "authors": [
+    "Bob McLeod",
+    "Chris Claremont"
+  ],
+  "description": "Danielle \"Dani\" Moonstar, originally codenamed Psyche and later Mirage, is a fictional Marvel Comics Cheyenne superheroine associated with the X-Men.A mutant, Moonstar originally possessed the psionic/psychic ability to telepathically create illusions of her opponents' fears or wishes.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Moonstar_fearless.jpg/250px-Moonstar_fearless.jpg"
+  },
+  "mainColor": null,
+  "name": "Danielle Moonstar",
+  "partners": [
+  ],
+  "powers": [
+    "Abilities",
+    "Control",
+    "Empathy",
+    "Illusion creation",
+    "Limited",
+    "Limited psionic abilities",
+    "Psionic",
+    "Psionic arrows",
+    "Psionic bolts",
+    "Psionic bullets",
+    "Superhuman strength",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3627,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dani",
+    "Danielle Moonstar"
+  ],
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "superName": "Danielle Moonstar",
+  "teams": [
+    "Hellions",
+    "Mutant Liberation Front",
+    "New Mutants",
+    "S.H.I.E.L.D",
+    "The Initiative",
+    "Valkyrior",
+    "X-Force",
+    "X-Mansion",
+    "X-Men",
+    "Xavier Institute",
+    "Young X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Danielle_Moonstar"
+  }
+}

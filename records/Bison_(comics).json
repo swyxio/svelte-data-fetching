@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Bison"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Ron Frenz",
+    "Ron Frenz (Pencils)",
+    "Tom DeFalco",
+    "Tom DeFalco & Ron Frenz"
+  ],
+  "description": "Bison (William \"Billy\" Kitson) is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Bison",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Horns",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 185,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Billy",
+    "Billy Kitson",
+    "William Kitson"
+  ],
+  "species": [
+  ],
+  "superName": "Bison",
+  "teams": [
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bison_(comics)"
+  }
+}

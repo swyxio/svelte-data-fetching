@@ -1,0 +1,70 @@
+{
+  "aliases": [
+    "Kid Nova",
+    "Nova",
+    "Nova #11249-44396",
+    "Nova Prime",
+    "Quasar",
+    "Richard Rider",
+    "The Human Rocket"
+  ],
+  "authors": [
+    "John Buscema",
+    "Marv Wolfman"
+  ],
+  "description": "Nova (Richard Rider) is a fictional superhero appearing in comic books published by Marvel Comics, historically as the star of his own series, and at other times, as a supporting character in team books such as The New Warriors.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/00/537bbee3e2f11.gif",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Nova1adigranov.jpg/250px-Nova1adigranov.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Nova (Richard Rider)",
+  "partners": [
+  ],
+  "powers": [
+    "Absorption",
+    "Currently in possession",
+    "Durability",
+    "Flight",
+    "Gravitational force",
+    "Open",
+    "Open wormholes",
+    "Speed",
+    "Superhuman strength",
+    "Via download",
+    "Wormhole",
+    "Xandar"
+  ],
+  "ranking": {
+    "comicCount": 123,
+    "eventCount": 10,
+    "pageviewCount": 8930,
+    "serieCount": 43,
+    "storyCount": 155
+  },
+  "secretIdentities": [
+    "Richard Rider"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Nova",
+  "teams": [
+    "Annihilation",
+    "Champions of Xandar",
+    "Defenders",
+    "New Warriors",
+    "Nova Corps",
+    "Secret Avengers",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/41/nova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)"
+  }
+}

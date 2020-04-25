@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Gauntlet"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Jim Lee",
+    "Whilce Portacio"
+  ],
+  "description": "Gauntlet is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Gauntlet_Inhumans.jpg/250px-Gauntlet_Inhumans.jpg"
+  },
+  "mainColor": null,
+  "name": "Gauntlet (Inhuman)",
+  "partners": [
+  ],
+  "powers": [
+    "High-powered rifle",
+    "Missiles",
+    "Such as a flamethrower"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 891,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Gauntlet",
+  "teams": [
+    "Dark Riders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gauntlet_(Inhuman)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Tower"
+  ],
+  "authors": [
+    "Bob Layton",
+    "Jackson Guice"
+  ],
+  "description": "Tower is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tower",
+  "partners": [
+  ],
+  "powers": [
+    "Increase his size",
+    "Mass",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 475,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Edward Pasternak"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tower",
+  "teams": [
+    "Alliance of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tower_(comics)"
+  }
+}

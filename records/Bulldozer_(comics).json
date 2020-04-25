@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Bulldozer"
+  ],
+  "authors": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "description": "Bulldozer is the name of two characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/HenryCampBulldozer.jpg"
+  },
+  "mainColor": null,
+  "name": "Bulldozer",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Neck",
+    "Shoulder apparatus",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 977,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Henry Camp"
+  ],
+  "species": [
+  ],
+  "superName": "Bulldozer",
+  "teams": [
+    "Masters of Evil",
+    "United States Army",
+    "Wrecking Crew"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bulldozer_(comics)"
+  }
+}

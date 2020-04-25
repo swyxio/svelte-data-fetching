@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "James Doe",
+    "Skrullian Skymaster",
+    "Skymax",
+    "the Skrull"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "The Skrullian Skymaster is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the Squadron Supreme, a superhero team of which Skymaster is a member.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Skrullian Skymaster",
+  "partners": [
+  ],
+  "powers": [
+    "Accomplished pilot",
+    "Elasticity",
+    "Fire projection",
+    "Flight",
+    "Invisibility",
+    "Shape-shifting",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 825,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sk'ym'x"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Skrullian Skymaster",
+  "teams": [
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Skrullian_Skymaster"
+  }
+}

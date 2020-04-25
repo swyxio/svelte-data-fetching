@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Gazelle"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "Gazelle (Elle) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Gazelle_new_gen.jpg/200px-Gazelle_new_gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Gazelle (New-Gen)",
+  "partners": [
+  ],
+  "powers": [
+    "Anthropomorphic",
+    "Enhanced reflexes",
+    "Form",
+    "Gazelle-like",
+    "Speedster (fiction)",
+    "Superspeed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 75,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elle"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Gazelle",
+  "teams": [
+    "A.P.N.G",
+    "A.P.N.G., Gabriel",
+    "Gabriel"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gazelle_(New-Gen)"
+  }
+}

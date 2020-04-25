@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Albert"
+  ],
+  "authors": [
+    "Larry Hama",
+    "Marc Silvestri"
+  ],
+  "description": "Albert is a fictional character appearing in Marvel Comics, and an ally of Wolverine.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg"
+  },
+  "mainColor": null,
+  "name": "Albert",
+  "partners": [
+    "Elsie-Dee"
+  ],
+  "powers": [
+    "Analytical",
+    "Computational",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 430,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Albert Wright"
+  ],
+  "species": [
+  ],
+  "superName": "Albert",
+  "teams": [
+    "Reavers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_(comics)"
+  }
+}

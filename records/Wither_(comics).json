@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Wither"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Keron Grant",
+    "Nunzio DeFilippis"
+  ],
+  "description": "When his genetic mutation manifested, Kevin Ford accidentally killed his father with his lethal and uncontrollable touch, after which he was recruited as a student at the Xavier Institute.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003235e6f1d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Wither",
+  "partners": [
+    "Selene"
+  ],
+  "powers": [
+    "Disintegration"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 1068,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Kevin Ford"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wither",
+  "teams": [
+    "Hellions",
+    "Hellions training squad",
+    "New Mutants",
+    "New Mutants training squad",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2586/wither",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wither_(comics)"
+  }
+}

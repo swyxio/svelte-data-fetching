@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Roughouse"
+  ],
+  "authors": [
+    "(story) and",
+    "Chris Claremont",
+    "John Buscema"
+  ],
+  "description": "Roughouse is a fictional character, a comic book supervillain in the Marvel Comics universe and the occasional enemy of Wolverine.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg"
+  },
+  "mainColor": null,
+  "name": "Roughouse",
+  "partners": [
+  ],
+  "powers": [
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 310,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Roughouse",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Roughouse"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Herr Kameleon",
+    "Herr Kleiser"
+  ],
+  "authors": [
+    "Bryan Hitch",
+    "Mark Millar"
+  ],
+  "description": "Herr Kleiser is a fictional character that appears in Ultimate comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Herr Kleiser",
+  "partners": [
+  ],
+  "powers": [
+    "Healing",
+    "Shapeshifting",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 518,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Herr Kleiser",
+  "teams": [
+    "Chitauri",
+    "Nazi Germany",
+    "Skrull"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Herr_Kleiser"
+  }
+}

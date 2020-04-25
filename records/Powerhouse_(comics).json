@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Powerhouse"
+  ],
+  "authors": [
+    "Joe Sinnott",
+    "John Buscema",
+    "Marv Wolfman"
+  ],
+  "description": "Powerhouse is a name used by several different fictional characters, operating in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Powerhouse",
+  "partners": [
+    "Masterblaster"
+  ],
+  "powers": [
+    "Energy projection",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 319,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rieg Davan",
+    "Unknown"
+  ],
+  "species": [
+    "Mutant",
+    "Xandarian"
+  ],
+  "superName": "Powerhouse",
+  "teams": [
+    "Champions of Xandar"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Powerhouse_(comics)"
+  }
+}

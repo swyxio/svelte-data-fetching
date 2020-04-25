@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Aftershock",
+    "Allison Dillon",
+    "Electra"
+  ],
+  "authors": [
+    "Casey Jones",
+    "Sean McKeever"
+  ],
+  "description": "Aftershock (Allison Dillon) is a fictional character, a supervillain that appears in the Marvel Comics' Spider-Girl series.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg"
+  },
+  "mainColor": null,
+  "name": "Aftershock",
+  "partners": [
+    "Electro"
+  ],
+  "powers": [
+    "Electric",
+    "Electric manipulation",
+    "Force field generation",
+    "Magnetic levitation",
+    "Manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 393,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Allison Dillon"
+  ],
+  "species": [
+  ],
+  "superName": "Aftershock",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Aftershock_(comics)"
+  }
+}

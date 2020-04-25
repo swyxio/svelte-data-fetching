@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Elloe Kaifi"
+  ],
+  "authors": [
+    "Carlo Pagulayan",
+    "Greg Pak"
+  ],
+  "description": "Elloe Kaifi is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/5269559c8d0c9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Elloe Kaifi",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 974,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elloe Kaifi"
+  ],
+  "species": [
+    "Sakaar \"Imperial"
+  ],
+  "superName": "Elloe Kaifi",
+  "teams": [
+    "Warbound"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2874/elloe_kaifi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elloe_Kaifi"
+  }
+}

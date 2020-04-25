@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Jennifer Walters",
+    "She-Hulk"
+  ],
+  "authors": [
+    "John Buscema",
+    "Stan Lee"
+  ],
+  "description": "Seriously wounded, young lawyer Jennifer Walters was given a blood transfusion by her cousin Bruce Banner. Usually in better control of her powers and temper than the Hulk, She-Hulk has been a high profile New York lawyer as well as an upstanding member of both the Avengers and Fantastic Four.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/40/537bc2cfa9f13.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/537bc27eeb54f/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "hexa": "17250B",
+    "red": 23
+  },
+  "name": "She-Hulk",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Healing factor",
+    "Regenerative",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 300,
+    "eventCount": 12,
+    "pageviewCount": 17328,
+    "serieCount": 106,
+    "storyCount": 348
+  },
+  "secretIdentities": [
+    "Jennifer Walters"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "She-Hulk",
+  "teams": [
+    "A-Force",
+    "Ancient Order of the Shield",
+    "Avengers",
+    "Defenders",
+    "Fantastic Force",
+    "Fantastic Four",
+    "Fearsome Four",
+    "Fifty State Initiative",
+    "Future Foundation",
+    "Goodman",
+    "Goodman, Lieber, Kurtzberg & Holliway",
+    "Heroes for Hire",
+    "Hulkbusters",
+    "Kurtzberg & Holliway",
+    "Lady Liberators",
+    "Lieber",
+    "Mighty Avengers",
+    "S.H.I.E.L.D",
+    "She-Hulk",
+    "The Initiative",
+    "The Mighty Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/51/she-hulk",
+    "wikipedia": "https://en.wikipedia.org/wiki/She-Hulk"
+  }
+}

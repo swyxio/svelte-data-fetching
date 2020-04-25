@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Charlotte Jones"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Terry Shoemaker"
+  ],
+  "description": "Charlotte Jones is a fictional character, a latent mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Charlotte Jones",
+  "partners": [
+  ],
+  "powers": [
+    "Unknown"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 257,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Charlotte Jones"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Charlotte Jones",
+  "teams": [
+    "NYPD",
+    "New York City Police Department",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Jones_(comics)"
+  }
+}

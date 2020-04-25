@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Living Brain"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Living Brain is a fictional comic book character and robot in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png"
+  },
+  "mainColor": null,
+  "name": "Living Brain",
+  "partners": [
+  ],
+  "powers": [
+    "Clawed hands",
+    "Flight",
+    "Process",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 662,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Living Brain",
+  "teams": [
+    "Parker Industries",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Living_Brain"
+  }
+}

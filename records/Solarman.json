@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Solarman"
+  ],
+  "authors": [
+    "David Oliphant",
+    "Jim Mooney",
+    "Mike Zeck",
+    "Stan Lee"
+  ],
+  "description": "Solarman was a superhero that ran briefly in his own 1989 title from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Solarman",
+  "partners": [
+  ],
+  "powers": [
+    "Can control light",
+    "Heat",
+    "Other forms of energy",
+    "Superhuman strength",
+    "Supersonic flight",
+    "Survival in deep space"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 683,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Benjamin Tucker"
+  ],
+  "species": [
+  ],
+  "superName": "Solarman",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Solarman"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "John Lennon",
+    "John the Skrull"
+  ],
+  "authors": [
+    "Paul Cornell",
+    "Trevor Hairsine"
+  ],
+  "description": "John the Skrull is a fictional character, a superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Johnskrull.jpg/150px-Johnskrull.jpg"
+  },
+  "mainColor": null,
+  "name": "John the Skrull",
+  "partners": [
+  ],
+  "powers": [
+    "Flight via wings",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 296,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "John the Skrull",
+  "teams": [
+    "MI-13",
+    "Skrull",
+    "Skrull Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/John_the_Skrull"
+  }
+}

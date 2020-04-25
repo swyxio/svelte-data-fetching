@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Lockheed"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Paul Smith"
+  ],
+  "description": "Lockheed is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6465c79c5/standard_xlarge.png"
+  },
+  "mainColor": null,
+  "name": "Lockheed",
+  "partners": [
+  ],
+  "powers": [
+    "Empathy",
+    "Fire projection",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 54,
+    "eventCount": 4,
+    "pageviewCount": 2956,
+    "serieCount": 20,
+    "storyCount": 54
+  },
+  "secretIdentities": [
+    "Lockheed"
+  ],
+  "species": [
+    "Dragon"
+  ],
+  "superName": "Lockheed",
+  "teams": [
+    "Excalibur",
+    "Jean Grey School",
+    "Lockjaw",
+    "Pet Avengers",
+    "S.W.O.R.D",
+    "The Flock",
+    "X-Mansion",
+    "X-Men",
+    "Xavier Institute",
+    "the Pet Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1266/lockheed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lockheed_(comics)"
+  }
+}

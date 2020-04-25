@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Kingmaker",
+    "Kingmaker I",
+    "Kingmaker II",
+    "Kingmaker III"
+  ],
+  "authors": [
+    "Andy Diggle",
+    "Christina Weir",
+    "Clayton Henry",
+    "Emma Ríos",
+    "Kelly Sue DeConnick",
+    "Nunzio DeFilippis",
+    "Tom Raney"
+  ],
+  "description": "The Kingmaker is the name of three Marvel Comics supervillains.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kingmaker",
+  "partners": [
+  ],
+  "powers": [
+    "Memory manipulation",
+    "Unknown"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 179,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Pryor Cashman",
+    "Wallace"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Kingmaker",
+  "teams": [
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingmaker_(comics)"
+  }
+}

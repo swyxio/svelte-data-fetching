@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Deathcry",
+    "Lifecry",
+    "Lifecry{{cn|date"
+  ],
+  "authors": [
+    "Bob Harras",
+    "Steve Epting"
+  ],
+  "description": "Deathcry (Sharra Neramani) is a fictional Marvel Comics character and a former honorary member of the Avengers.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/535ff379c7c1b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Deathcry",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced senses",
+    "Sharp talons",
+    "Stamina",
+    "Sturdiness",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 2,
+    "pageviewCount": 640,
+    "serieCount": 3,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Sharra Neramani"
+  ],
+  "species": [
+    "Shi'ar"
+  ],
+  "superName": "Deathcry",
+  "teams": [
+    "Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/526/deathcry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deathcry"
+  }
+}

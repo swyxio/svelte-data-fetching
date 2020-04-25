@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Magus"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Jack Kirby",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00358c0575c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Magus",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 1921,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "originally Him; changed to Adam Warlock"
+  ],
+  "species": [
+  ],
+  "superName": "Magus",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Infinity Watch"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1334/magus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magus_(comics)"
+  }
+}

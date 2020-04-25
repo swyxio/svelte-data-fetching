@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Vampire By Night"
+  ],
+  "authors": [
+    "Federica Manfredi",
+    "Jeff Parker"
+  ],
+  "description": "Vampire by Night (Nina Price) is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/NinaPrice_HCV.jpg/200px-NinaPrice_HCV.jpg"
+  },
+  "mainColor": null,
+  "name": "Vampire by Night",
+  "partners": [
+  ],
+  "powers": [
+    "Healing factor",
+    "Hypnosis",
+    "Hysterical strength",
+    "Immortality",
+    "Night vision",
+    "Shapeshifting",
+    "Speedster (fiction)",
+    "Superhuman agility",
+    "Superhuman endurance",
+    "Superhuman senses",
+    "Superhuman speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 677,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nina Price"
+  ],
+  "species": [
+    "Vampire",
+    "Werewolf Hybrid"
+  ],
+  "superName": "Vampire by Night",
+  "teams": [
+    "Howling Commandos",
+    "Nick Fury's Howling Commandos",
+    "S.H.I.E.L.D.'s Paranormal Containment Unit",
+    "S.T.A.K.E"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vampire_by_Night"
+  }
+}

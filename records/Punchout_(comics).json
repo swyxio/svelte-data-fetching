@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Punchout"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Rick Leonardi"
+  ],
+  "description": "Punchout is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Punchout",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 138,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Punchout",
+  "teams": [
+    "Genoshan Magistrates",
+    "Magistrates",
+    "Press Gang"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Punchout_(comics)"
+  }
+}

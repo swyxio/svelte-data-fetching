@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Gloriana",
+    "Goblin Princess",
+    "Meggan"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Alan Moore"
+  ],
+  "description": "Meggan Puceanu is a fictional comic book superhero appearing in books published by Marvel Comics, usually as a supporting character in stories featuring Captain Britain, and the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c002e2fa3070/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Meggan",
+  "partners": [
+  ],
+  "powers": [
+    "Animal communication",
+    "Discharging",
+    "Durability",
+    "Empathy",
+    "Energy-absorption",
+    "Flight",
+    "Healing",
+    "Power mimicry",
+    "Reactive evolution",
+    "Seeing auras",
+    "Shapeshifting",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 1618,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Meggan Braddock",
+    "Meggan Braddock ({{nee}} Puceanu)"
+  ],
+  "species": [
+    "Neuri"
+  ],
+  "superName": "Meggan",
+  "teams": [
+    "Excalibur",
+    "MI-13"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1419/meggan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meggan"
+  }
+}

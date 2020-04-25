@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Blasstaar",
+    "Blastaar",
+    "Living Bomb-Burst"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg"
+  },
+  "mainColor": null,
+  "name": "Burstaar",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Energy blasts",
+    "Enhanced durability",
+    "Highly trained in warfare",
+    "Resistance to injury",
+    "Self-propelled flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 32,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Blastaar"
+  ],
+  "species": [
+  ],
+  "superName": "Burstaar",
+  "teams": [
+    "Frightful Four",
+    "Legion Accursed",
+    "Negative Zone"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Burstaar_(comics)"
+  }
+}

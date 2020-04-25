@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Mammomax"
+  ],
+  "authors": [
+    "Chuck Austen",
+    "Salvador Larroca"
+  ],
+  "description": "Mammomax is a fictional mammoth-shaped human mutant that has appeared in various comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg"
+  },
+  "mainColor": null,
+  "name": "Mammomax",
+  "partners": [
+  ],
+  "powers": [
+    "Corrosive stomach acids",
+    "Durability",
+    "Endurance",
+    "Ivory tusks",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 497,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maximus Jensen"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mammomax",
+  "teams": [
+    "Brotherhood of Mutants",
+    "The 198"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mammomax"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Perun"
+  ],
+  "authors": [
+    "Kieron Dwyer",
+    "Mark Gruenwald"
+  ],
+  "description": "Perun is a Marvel Comics character based on the mythical deity in Slavic mythology, with  control over thunder and lightning similar to that of the Norse god Thor.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/Perun_avengers_v1_320.png"
+  },
+  "mainColor": null,
+  "name": "Perun",
+  "partners": [
+  ],
+  "powers": [
+    "Control over thunder",
+    "Lightning"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 573,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Perun",
+  "teams": [
+    "People's Protectorate",
+    "Supreme Soviets"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Perun_(comics)"
+  }
+}

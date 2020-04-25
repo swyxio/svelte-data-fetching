@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "The Deacon"
+  ],
+  "authors": [
+    "Jason Aaron"
+  ],
+  "description": "The Deacon is a fictional Marvel Comics character.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Deacon_new.jpg/250px-Deacon_new.jpg"
+  },
+  "mainColor": null,
+  "name": "Deacon",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 276,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Deacon",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Deacon_(comics)"
+  }
+}

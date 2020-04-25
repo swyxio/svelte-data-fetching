@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Harold Simmons",
+    "Killer Shrike"
+  ],
+  "authors": [
+    "John Buscema",
+    "John Warner"
+  ],
+  "description": "Killer Shrike is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Killer Shrike",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Martial artist",
+    "Possesses various weapons",
+    "Resistance to injury"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 713,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Simon Maddicks"
+  ],
+  "species": [
+  ],
+  "superName": "Killer Shrike",
+  "teams": [
+    "Brand Corporation",
+    "Masters of Evil",
+    "Roxxon Energy Corporation",
+    "Roxxon Oil Company",
+    "Sinister Six",
+    "Thunderbolts",
+    "United States Air Force",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Killer_Shrike"
+  }
+}

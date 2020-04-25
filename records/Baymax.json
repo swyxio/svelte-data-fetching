@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Baymax"
+  ],
+  "authors": [
+    "Duncan Rouleau",
+    "Steven T. Seagle"
+  ],
+  "description": "Baymax is a fictional character, a superhero in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Baymax_%28Marvel_Comics%29.jpg/250px-Baymax_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Baymax",
+  "partners": [
+    "Hiro Takachiho"
+  ],
+  "powers": [
+    "Dragon",
+    "Mecha",
+    "Morph body into",
+    "Or"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 11463,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Synthetic entity"
+  ],
+  "superName": "Baymax",
+  "teams": [
+    "Big Hero 6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Baymax"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Grimfang",
+    "Mutate #490",
+    "Mutate #490 (in Genosha)",
+    "Princess/Queen Rain of Gesham",
+    "Rahne Sinclair",
+    "Wolfsbane"
+  ],
+  "authors": [
+    "Bob McLeod",
+    "Chris Claremont"
+  ],
+  "description": "Rahne Sinclair was an orphan in Scotland, raised by Reverend Craig, who, when her powers manifested, attempted to perform an exorcism to cast out what he perceived was the devil, after which Rahne was rescued by Doctor Moira MacTaggert who legally adopted her, and was introduced to Charles Xavier and enrolled as part of his New Mutants training team.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c003a687658c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Wolfsbane",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to",
+    "Into a wolf-like humanoid",
+    "Lycanthropy",
+    "Shapeshift"
+  ],
+  "ranking": {
+    "comicCount": 59,
+    "eventCount": 3,
+    "pageviewCount": 4199,
+    "serieCount": 21,
+    "storyCount": 61
+  },
+  "secretIdentities": [
+    "Rahne Sinclair"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wolfsbane",
+  "teams": [
+    "Excalibur",
+    "Hellions",
+    "New Mutants",
+    "Paragons",
+    "X-Factor",
+    "X-Factor Investigations",
+    "X-Force",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2592/wolfsbane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfsbane_(comics)"
+  }
+}

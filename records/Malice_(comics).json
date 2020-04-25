@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Malice"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Rick Leonardi"
+  ],
+  "description": "Malice is the name of five separate fictional comic book supervillains in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg"
+  },
+  "mainColor": null,
+  "name": "Malice",
+  "partners": [
+  ],
+  "powers": [
+    "Possession"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1826,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Unknown"
+  ],
+  "superName": "Malice",
+  "teams": [
+    "Marauders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Malice_(comics)"
+  }
+}

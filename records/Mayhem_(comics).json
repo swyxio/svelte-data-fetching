@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Mayhem"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Rick Leonardi"
+  ],
+  "description": "Mayhem is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mayhem",
+  "partners": [
+    "Cloak",
+    "Cloak and Dagger",
+    "Dagger"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 134,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brigid O'Rielly"
+  ],
+  "species": [
+  ],
+  "superName": "Mayhem",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mayhem_(comics)"
+  }
+}

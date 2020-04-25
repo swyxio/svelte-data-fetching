@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Dragon Man"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Dragon Man is a fictional character, a former supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c003f1aa3a1f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dragon Man",
+  "partners": [
+    "Diablo"
+  ],
+  "powers": [
+    "Durability",
+    "Flame projection",
+    "Flight",
+    "Flight via wings",
+    "Intelligence",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 30,
+    "eventCount": 1,
+    "pageviewCount": 1497,
+    "serieCount": 16,
+    "storyCount": 28
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Dragon Man",
+  "teams": [
+    "Circus of Crime",
+    "Frightful Four",
+    "Future Foundation",
+    "New Enforcers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/577/dragon_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Man"
+  }
+}

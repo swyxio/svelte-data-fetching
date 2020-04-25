@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Delphine Courtney",
+    "Guardian",
+    "James MacDonald Hudson"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/52bc8ac6e48db/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Caliban",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 67,
+    "eventCount": 5,
+    "pageviewCount": 5062,
+    "serieCount": 15,
+    "storyCount": 72
+  },
+  "secretIdentities": [
+    "MX39147"
+  ],
+  "species": [
+  ],
+  "superName": "Caliban",
+  "teams": [
+    "Omega Flight"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/375/caliban",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caliban_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Ogre"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Werner Roth"
+  ],
+  "description": "Ogre is a fictional character of the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ogre",
+  "partners": [
+  ],
+  "powers": [
+    "Mechanical genius"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 321,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Dunlap"
+  ],
+  "species": [
+  ],
+  "superName": "Ogre",
+  "teams": [
+    "Factor Three",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ogre_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Gladiatrix"
+  ],
+  "authors": [
+    "Mike Carlin",
+    "Ron Wilson"
+  ],
+  "description": "Gladiatrix (Robin Braxton) is a fictional heroine published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gladiatrixmu0.png/200px-Gladiatrixmu0.png"
+  },
+  "mainColor": null,
+  "name": "Gladiatrix",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Fighting skills",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 286,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robin Braxton"
+  ],
+  "species": [
+  ],
+  "superName": "Gladiatrix",
+  "teams": [
+    "Femizons",
+    "Grapplers",
+    "Power Broker Inc"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gladiatrix_(comics)"
+  }
+}

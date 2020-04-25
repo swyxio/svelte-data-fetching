@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Dakota",
+    "Dakota North",
+    "North"
+  ],
+  "authors": [
+    "Martha Thomases",
+    "Tony Salmons"
+  ],
+  "description": "Dakota North is a fictional character that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4ce5a6888f769/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dakota North",
+  "partners": [
+  ],
+  "powers": [
+    "Highly skilled detective",
+    "Marksman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 730,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dakota North"
+  ],
+  "species": [
+  ],
+  "superName": "Dakota North",
+  "teams": [
+    "Dakota North Investigations"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2916/dakota_north",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dakota_North_(comics)"
+  }
+}

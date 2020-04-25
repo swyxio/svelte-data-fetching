@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Erg"
+  ],
+  "authors": [
+    "June Brigman",
+    "Louise Simonson"
+  ],
+  "description": "Erg is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/65/XMEN_ERG.jpg"
+  },
+  "mainColor": null,
+  "name": "Erg",
+  "partners": [
+  ],
+  "powers": [
+    "Absorb nearby energy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 338,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Erg",
+  "teams": [
+    "Drain Dwellers",
+    "Morlocks",
+    "The 198"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Erg_(comics)"
+  }
+}

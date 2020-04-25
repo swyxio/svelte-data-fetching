@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Raza"
+  ],
+  "authors": [
+    "Dave Cockrum"
+  ],
+  "description": "Raza Longknife is a character from Marvel Comics, usually seen in the X-Men series and various spin-offs.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Longknife.jpg/250px-Longknife.jpg"
+  },
+  "mainColor": null,
+  "name": "Raza Longknife",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced agility",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 360,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Raza Longknife"
+  ],
+  "species": [
+  ],
+  "superName": "Raza Longknife",
+  "teams": [
+    "Starjammers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Raza_Longknife"
+  }
+}

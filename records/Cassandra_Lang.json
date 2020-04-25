@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Ant-Girl",
+    "Cassandra \"Cassie\" Lang",
+    "Cassandra Lang",
+    "Cassie Lang",
+    "Giant-Girl",
+    "Stature",
+    "Stinger"
+  ],
+  "authors": [
+    "David Michelinie",
+    "John Byrne"
+  ],
+  "description": "Cassandra \"Cassie\" Lang is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Youngavengerspresents5.PNG/250px-Youngavengerspresents5.PNG"
+  },
+  "mainColor": null,
+  "name": "Cassandra Lang",
+  "partners": [
+  ],
+  "powers": [
+    "Size manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9791,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cassandra Eleanor Lang",
+    "Cassie"
+  ],
+  "species": [
+  ],
+  "superName": "Cassandra Lang",
+  "teams": [
+    "Mighty Avengers",
+    "The Initiative",
+    "The Mighty Avengers",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassandra_Lang"
+  }
+}

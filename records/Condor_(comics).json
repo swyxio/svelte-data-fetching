@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Condor"
+  ],
+  "authors": [
+    "John Buscema",
+    "Marv Wolfman"
+  ],
+  "description": "Condor is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg"
+  },
+  "mainColor": null,
+  "name": "Condor",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 232,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Condor",
+  "teams": [
+    "Terrible Trio"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Condor_(comics)"
+  }
+}

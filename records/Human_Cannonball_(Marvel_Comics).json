@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Cannonball",
+    "Human Cannonball",
+    "The Man Called Cannonball"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Human Cannonball is a fictional character, a supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Human Cannonball",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 329,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Pulver"
+  ],
+  "species": [
+  ],
+  "superName": "Human Cannonball",
+  "teams": [
+    "Circus of Crime",
+    "The Masters of Menace"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Cannonball_(Marvel_Comics)"
+  }
+}

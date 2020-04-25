@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Galaxy Master"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Stan Lee"
+  ],
+  "description": "Galaxy Master is a fictional character, a comic book supervillain in the Marvel Comics Universe.The Galaxy Master is a monstrous but intelligent bio-mechanical cosmic entity created by extra-dimensional beings.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png"
+  },
+  "mainColor": null,
+  "name": "Galaxy Master",
+  "partners": [
+    "Abomination"
+  ],
+  "powers": [
+    "Capable of manipulating",
+    "Damage done to it",
+    "Firing beams of energy",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 273,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Galaxy Master",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Galaxy_Master"
+  }
+}

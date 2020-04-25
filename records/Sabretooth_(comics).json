@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Der Schlächter",
+    "Der Schlächter ( in German)",
+    "El Tigre",
+    "Sabretooth",
+    "Slasher",
+    "The Butcher",
+    "Victor Creed"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Sabretooth (Victor Creed) is a fictional supervillain appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4ce1895117793/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sabretooth",
+  "partners": [
+  ],
+  "powers": [
+    "Extended",
+    "Extended longevity",
+    "Feline-like attributes",
+    "Healing factor",
+    "Longevity",
+    "Reflexes",
+    "Regenerative",
+    "Retractable claws",
+    "Senses",
+    "Sharp teeth",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 162,
+    "eventCount": 5,
+    "pageviewCount": 17830,
+    "serieCount": 60,
+    "storyCount": 167
+  },
+  "secretIdentities": [
+    "Victor Creed"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sabretooth",
+  "teams": [
+    "Astonishing Avengers",
+    "Avengers\" (1959)",
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Hand",
+    "Marauders",
+    "Team X",
+    "The Hand",
+    "Uncanny Avengers",
+    "Weapon X",
+    "X-Factor",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1975/sabretooth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabretooth_(comics)"
+  }
+}

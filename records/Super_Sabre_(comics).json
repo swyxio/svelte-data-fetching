@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Super Sabre"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Chris Claremont"
+  ],
+  "description": "Super Sabre (Martin Fletcher) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/SuperSabreDavis.jpg"
+  },
+  "mainColor": null,
+  "name": "Super Sabre",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 377,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Martin Fletcher"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Super Sabre",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Freedom Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Super_Sabre_(comics)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Goblin King",
+    "Green Goblin",
+    "Iron Patriot",
+    "Norman Osborn"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Green Goblin is the alias of several supervillains appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/90/5398a3e5255d1.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/538cf0c2acdd9/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "hexa": "17250B",
+    "red": 23
+  },
+  "name": "Green Goblin",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 12238,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Green Goblin",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/852/green_goblin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Green_Goblin"
+  }
+}

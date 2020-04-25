@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Val Rhymin"
+  ],
+  "authors": [
+    "<br/ >",
+    "Humberto Ramos",
+    "Terry Moore",
+    "Terry Moore Humberto Ramos"
+  ],
+  "description": "Val Rhymin is a fictional character in the Marvel Comics award-winning series, Runaways.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Val_Rhymin.jpg/250px-Val_Rhymin.jpg"
+  },
+  "mainColor": null,
+  "name": "Val Rhymin",
+  "partners": [
+  ],
+  "powers": [
+    "Magic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 186,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Val Rhymin"
+  ],
+  "species": [
+  ],
+  "superName": "Val Rhymin",
+  "teams": [
+    "Runaways"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Val_Rhymin"
+  }
+}

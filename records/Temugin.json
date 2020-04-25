@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Genghis Khan",
+    "Mongol Empire",
+    "Son of the Ugudei",
+    "Temujin"
+  ],
+  "authors": [
+    "Mike Grell",
+    "Ryan Odagawa"
+  ],
+  "description": "Temugin is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg"
+  },
+  "mainColor": null,
+  "name": "Temugin",
+  "partners": [
+  ],
+  "powers": [
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 741,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Temujin"
+  ],
+  "species": [
+  ],
+  "superName": "Temugin",
+  "teams": [
+    "Agents of Atlas"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Temugin"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Doctor Bong"
+  ],
+  "authors": [
+    "Marie Severin",
+    "Steve Gerber"
+  ],
+  "description": "Doctor Bong (Lester Verde) is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/07/Dr_Bong.jpg"
+  },
+  "mainColor": null,
+  "name": "Doctor Bong",
+  "partners": [
+    "Fifi the Duck"
+  ],
+  "powers": [
+    "Bell",
+    "Genius scientist",
+    "Helmet",
+    "Wears a"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3295,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lester Verde"
+  ],
+  "species": [
+  ],
+  "superName": "Doctor Bong",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Bong"
+  }
+}

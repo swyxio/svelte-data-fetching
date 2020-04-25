@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Eli Bard"
+  ],
+  "authors": [
+  ],
+  "description": "Eli Bard (born Eliphas) is a fictional character, a comic book supervillain from the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Eli Bard",
+  "partners": [
+    "Selene"
+  ],
+  "powers": [
+    "Knowledge of arcane magic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 937,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eliphas"
+  ],
+  "species": [
+    "Vampire-like mutate"
+  ],
+  "superName": "Eli Bard",
+  "teams": [
+    "Purifiers",
+    "Roman Senate"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Bard"
+  }
+}

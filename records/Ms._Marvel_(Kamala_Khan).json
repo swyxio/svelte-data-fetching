@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Ms. Marvel"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "G. Willow Wilson",
+    "Sana Amanat",
+    "Stephen Wacker"
+  ],
+  "description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ms. Marvel (Kamala Khan)",
+  "partners": [
+  ],
+  "powers": [
+    "Healing factor",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 19673,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Kamala Khan"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Ms. Marvel",
+  "teams": [
+    "Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1017577/ms_marvel_kamala_khan/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ms._Marvel_(Kamala_Khan)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Avengers_Initiavive_number_1.jpeg/250px-Avengers_Initiavive_number_1.jpeg"
+  },
+  "mainColor": null,
+  "name": "Paydirt",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 64,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Paydirt",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Paydirt_(Marvel_Comics)"
+  }
+}

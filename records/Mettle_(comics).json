@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Fortress",
+    "Mettle"
+  ],
+  "authors": [
+    "Christos Gage",
+    "Mike McKone"
+  ],
+  "description": "Mettle (Ken Mack) is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mettle",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Experienced surfer",
+    "Superhuman strength",
+    "Virtual indestructibility"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1154,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ken Mack"
+  ],
+  "species": [
+  ],
+  "superName": "Mettle",
+  "teams": [
+    "Avengers Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mettle_(comics)"
+  }
+}

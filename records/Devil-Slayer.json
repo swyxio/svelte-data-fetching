@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Agent of Death",
+    "Cape Man",
+    "Devil-Slayer",
+    "The Reaper of Souls"
+  ],
+  "authors": [
+    "Rich Buckler"
+  ],
+  "description": "Devil-Slayer (Eric Simon Payne) is a fictional character that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg"
+  },
+  "mainColor": null,
+  "name": "Devil-Slayer",
+  "partners": [
+  ],
+  "powers": [
+    "Telekinesis",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 815,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eric Simon Payne"
+  ],
+  "species": [
+  ],
+  "superName": "Devil-Slayer",
+  "teams": [
+    "Agents of Fortune",
+    "Defenders",
+    "Point Men",
+    "Revengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Devil-Slayer"
+  }
+}

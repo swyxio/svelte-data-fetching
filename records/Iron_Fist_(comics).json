@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Daniel Thomas Rand",
+    "Daredevil",
+    "Iron Fist",
+    "The Living Weapon",
+    "Young Dragon"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Roy Thomas"
+  ],
+  "description": "Iron Fist (Daniel \"Danny\" Rand) is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/0/03/537bb19313722.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/537bb15b06fc8/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Iron Fist",
+  "partners": [
+    "Colleen Wing",
+    "Daredevil",
+    "Luke Cage",
+    "Master Izo",
+    "Misty Knight",
+    "Power Man (Victor Alvarez)"
+  ],
+  "powers": [
+    "A concentration of his",
+    "Chi",
+    "Healing powers",
+    "In his fist",
+    "Master martial artist",
+    "Telepathic mind fusion",
+    "The iron fist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 87637,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Daniel Rand",
+    "Daniel Thomas Rand-K'ai",
+    "Danny"
+  ],
+  "species": [
+  ],
+  "superName": "Iron Fist",
+  "teams": [
+    "Defenders",
+    "Heroes for Hire",
+    "Immortal Weapons",
+    "New Avengers",
+    "The New Avengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/28/iron_fist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Fist_(comics)"
+  }
+}

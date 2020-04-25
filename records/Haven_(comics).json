@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Haven",
+    "Radha Dastoor"
+  ],
+  "authors": [
+    "Greg Luzniak",
+    "J. M. DeMatteis",
+    "J.M. DeMatteis"
+  ],
+  "description": "Haven (Radha Dastoor) is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/84/Haven%28comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Haven",
+  "partners": [
+  ],
+  "powers": [
+    "Reality manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 278,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rahda Dastoor"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Haven",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Haven_(comics)"
+  }
+}

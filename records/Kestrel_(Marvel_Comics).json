@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Colonel John Wraith",
+    "Expediter",
+    "John Wraith",
+    "Kestrel",
+    "Vindicator"
+  ],
+  "authors": [
+    "Adam Kubert",
+    "Larry Hama",
+    "Mark Millar"
+  ],
+  "description": "Kestrel (John Wraith) is a character in the Marvel comics fictional universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Johnwraith.jpg"
+  },
+  "mainColor": null,
+  "name": "Kestrel",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Slowed aging",
+    "Teleport",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5107,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Wraith"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Kestrel",
+  "teams": [
+    "Alpha Flight",
+    "S.H.I.E.L.D",
+    "Team X",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kestrel_(Marvel_Comics)"
+  }
+}

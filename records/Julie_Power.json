@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Julie Power",
+    "Lightspeed",
+    "Mistress of Density",
+    "Molecula",
+    "Starstreak"
+  ],
+  "authors": [
+    "June Brigman",
+    "Louise Simonson"
+  ],
+  "description": "Julie Power (also known as Lightspeed) is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/LightSpeedJulie.JPG/160px-LightSpeedJulie.JPG"
+  },
+  "mainColor": null,
+  "name": "Julie Power",
+  "partners": [
+  ],
+  "powers": [
+    "Acceleration/flight",
+    "Density",
+    "Healing powers",
+    "Size manipulation",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1598,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Julie Power"
+  ],
+  "species": [
+  ],
+  "superName": "Julie Power",
+  "teams": [
+    "Avengers Academy",
+    "Loner",
+    "Loners",
+    "Power Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Power"
+  }
+}

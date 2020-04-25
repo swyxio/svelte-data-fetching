@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Champion of Champions",
+    "Over-Mind",
+    "Overmind",
+    "over-mind",
+    "overmind"
+  ],
+  "authors": [
+    "John Buscema",
+    "Stan Lee"
+  ],
+  "description": "Overmind (originally Over-Mind) is a villain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Overmind",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "Transform psionic energy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 612,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Grom"
+  ],
+  "species": [
+  ],
+  "superName": "Overmind",
+  "teams": [
+    "Defenders",
+    "Eternals",
+    "Thunderbolts",
+    "the Psychics"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Overmind_(comics)"
+  }
+}

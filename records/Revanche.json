@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Betsy Braddock/Psylocke",
+    "Psylocke",
+    "Revanche"
+  ],
+  "authors": [
+    "Andy Kubert",
+    "Fabian Nicieza"
+  ],
+  "description": "Revanche (Kwannon) was a Marvel Comics character associated with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
+  },
+  "mainColor": null,
+  "name": "Revanche",
+  "partners": [
+  ],
+  "powers": [
+    "Empathy",
+    "Psionic blade",
+    "Psionic katana",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2279,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kwannon"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Revanche",
+  "teams": [
+    "The Hand",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1916/revanche",
+    "wikipedia": "https://en.wikipedia.org/wiki/Revanche"
+  }
+}

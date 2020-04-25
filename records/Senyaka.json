@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Senyaka"
+  ],
+  "authors": [
+    "John Romita Jr.",
+    "Scott Lobdell"
+  ],
+  "description": "Suvik Senyaka is a fictional mutant villain character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Senyaka",
+  "partners": [
+    "Selene"
+  ],
+  "powers": [
+    "Energy whips",
+    "Immortality",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 539,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Suvik Senyaka"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Senyaka",
+  "teams": [
+    "Acolytes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Senyaka"
+  }
+}

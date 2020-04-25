@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Groot",
+    "Monarch of Planet X"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Groot (also known as the Monarch of Planet X) is a fictional superhero that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/d0/538cda86a8b5f.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/538caf1975d39/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Groot",
+  "partners": [
+  ],
+  "powers": [
+    "Control trees",
+    "Enhance his strength",
+    "Rebuild self",
+    "Regeneration",
+    "Resistance to fire"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 1,
+    "pageviewCount": 15343,
+    "serieCount": 4,
+    "storyCount": 12
+  },
+  "secretIdentities": [
+    "Groot"
+  ],
+  "species": [
+    "Flora colossus"
+  ],
+  "superName": "Groot",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Nick Fury's Howling Commandos",
+    "S.H.I.E.L.D. Paranormal Containment Unit"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/866/groot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Groot"
+  }
+}

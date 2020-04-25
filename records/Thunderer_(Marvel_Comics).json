@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Black Avenger",
+    "Thunderer"
+  ],
+  "authors": [
+    "Carl Burgos",
+    "John Compton"
+  ],
+  "description": "The Thunderer is a fictional character, a superhero appearing in American comic books published by Timely Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Thunderer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 519,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jerry Carstairs"
+  ],
+  "species": [
+  ],
+  "superName": "Thunderer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderer_(Marvel_Comics)"
+  }
+}

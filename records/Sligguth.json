@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Sligguth"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Barry Windsor-Smith"
+  ],
+  "description": "Sligguth is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Sligguth",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced durability",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 104,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Sligguth",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sligguth"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Barbara Denton-Norris",
+    "Brunnhilde of Asgard",
+    "Sian Bowen",
+    "Valkyrie"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Valkyrie is a fictional superhero created by Roy Thomas and John Buscema that appears in comic books published by Marvel Comics, based on the Norse mythological figure Brynhildr.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/537bc87e3986f.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Valkyrie",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to",
+    "Endurance",
+    "Longevity",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7910,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brunnhilde"
+  ],
+  "species": [
+  ],
+  "superName": "Valkyrie",
+  "teams": [
+    "Asgard",
+    "Asgardians",
+    "Defenders",
+    "Secret Avengers",
+    "Valkyrior"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/62/valkyrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)"
+  }
+}

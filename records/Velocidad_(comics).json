@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "The Second Light",
+    "Velocidad"
+  ],
+  "authors": [
+    "Kieron Gillen",
+    "Matt Fraction"
+  ],
+  "description": "Velocidad (Gabriel Cohuelo) is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Velocidad",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 638,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gabriel Cohuelo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Velocidad",
+  "teams": [
+    "Hope Summers",
+    "Jean Grey School Students",
+    "The Lights",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Velocidad_(comics)"
+  }
+}

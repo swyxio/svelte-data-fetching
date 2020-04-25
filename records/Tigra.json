@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Greer Sorenson",
+    "The Cat",
+    "The Werecat",
+    "Tigra",
+    "Werewoman"
+  ],
+  "authors": [
+    "Don Perlin",
+    "Gil Kane",
+    "John Romita, Sr.",
+    "Roy Thomas",
+    "Tony Isabella",
+    "Wally Wood"
+  ],
+  "description": "Although she was able to use the cat's-head amulet to change back to her human form, Greer Nelson became so accustomed to and enamored of her feline form that she seldom made the transformation.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/526957bb909b3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Tigra",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Retractable claws",
+    "Senses",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 69,
+    "eventCount": 10,
+    "pageviewCount": 6622,
+    "serieCount": 30,
+    "storyCount": 79
+  },
+  "secretIdentities": [
+    "Greer Grant Nelson"
+  ],
+  "species": [
+    "Cat Person"
+  ],
+  "superName": "Tigra",
+  "teams": [
+    "Avengers",
+    "Avengers Academy",
+    "Avengers Resistance",
+    "Fearless Defenders",
+    "Lady Liberators",
+    "New Warriors",
+    "The Battalion",
+    "The Initiative",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2377/tigra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tigra"
+  }
+}

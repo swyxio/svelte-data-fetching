@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Tri-Sentinel"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Erik Larsen"
+  ],
+  "description": "The Tri-Sentinel is a fictional robot who has appeared in the superhero comics of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tri-Sentinel",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 392,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Sentinel"
+  ],
+  "superName": "Tri-Sentinel",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tri-Sentinel"
+  }
+}

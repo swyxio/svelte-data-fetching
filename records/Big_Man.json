@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Janice Foswell"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Sal Buscema"
+  ],
+  "description": "Big Man is the name of different characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Big Man",
+  "partners": [
+  ],
+  "powers": [
+    "She was adept at disguise"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2462,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Janice Foswell"
+  ],
+  "species": [
+  ],
+  "superName": "Big Man",
+  "teams": [
+    "Enforcers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_Man"
+  }
+}

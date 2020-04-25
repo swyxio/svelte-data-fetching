@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Pestilence"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "David Ross"
+  ],
+  "description": "Pestilence is a comic book supervillain who has battled the Canadian super-team Alpha Flight.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Pestilencealphaflight.jpg/249px-Pestilencealphaflight.jpg"
+  },
+  "mainColor": null,
+  "name": "Pestilence",
+  "partners": [
+  ],
+  "powers": [
+    "Abilities",
+    "Various mystical powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 345,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "F.R. Crozier"
+  ],
+  "species": [
+  ],
+  "superName": "Pestilence",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pestilence_(comics)"
+  }
+}

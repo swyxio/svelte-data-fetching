@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Flux"
+  ],
+  "authors": [
+    "Paul Jenkins",
+    "Ron Garney"
+  ],
+  "description": "Flux is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Flux",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 517,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Benjamin Tibbits",
+    "Benny"
+  ],
+  "species": [
+  ],
+  "superName": "Flux",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Flux_(comics)"
+  }
+}

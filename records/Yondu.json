@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Yondu"
+  ],
+  "authors": [
+    "Arnold Drake",
+    "Gene Colan"
+  ],
+  "description": "Yondu Udonta is a fictional character, a superhero in the Marvel Comics universe, and a founding member of the original Guardians of the Galaxy team.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/53d152cbe792c/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Yondu",
+  "partners": [
+  ],
+  "powers": [
+    "Expert archer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8739,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Yondu Udonta"
+  ],
+  "species": [
+  ],
+  "superName": "Yondu",
+  "teams": [
+    "Avengers",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2641/yondu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yondu"
+  }
+}

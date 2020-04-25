@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Jubilation Lee",
+    "Jubilee",
+    "Wondra"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "Jubilee is a fictional superhero appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7a2148b6e59/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Jubilee",
+  "partners": [
+  ],
+  "powers": [
+    "Abilities of a vampire",
+    "Plasmoid",
+    "Possesses the powers"
+  ],
+  "ranking": {
+    "comicCount": 170,
+    "eventCount": 8,
+    "pageviewCount": 39039,
+    "serieCount": 33,
+    "storyCount": 191
+  },
+  "secretIdentities": [
+    "Jubilation Lee",
+    "Jubilee"
+  ],
+  "species": [
+    "Vampire"
+  ],
+  "superName": "Jubilee",
+  "teams": [
+    "Forgiven",
+    "Generation X",
+    "New Warriors",
+    "X-Corps",
+    "X-Mansion",
+    "X-Men",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1103/jubilee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jubilee_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Mister X"
+  ],
+  "authors": [
+    "(story) and",
+    "Frank Tieri",
+    "Sean Chen"
+  ],
+  "description": "Mister X is a fictional character, a supervillain of the Marvel Universe introduced in Wolverine #159 (February, 2001).",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mister X",
+  "partners": [
+  ],
+  "powers": [
+    "Minor telepathic ability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 768,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mister X",
+  "teams": [
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_X_(Marvel_Comics)"
+  }
+}

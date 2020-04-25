@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Master Scholar",
+    "Possessor",
+    "Possessor of the Runestaff",
+    "Tale-er"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "John Buscema"
+  ],
+  "description": "The Possessor (Kamo Tharnn) is a fictional character appearing in publications from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Possessor",
+  "partners": [
+  ],
+  "powers": [
+    "Increase mass",
+    "Size",
+    "Telepath",
+    "Vast intelligence"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 598,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kamo Tharnn"
+  ],
+  "species": [
+  ],
+  "superName": "Possessor",
+  "teams": [
+    "Elders of the Universe"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Possessor_(comics)"
+  }
+}

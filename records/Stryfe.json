@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Cable",
+    "Chaos Bringer",
+    "Scion of the Dark Lord",
+    "Stryfe"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Rob Liefeld"
+  ],
+  "description": "Stryfe is the clone of Nathan Christopher Summers, alias Cable, the son of Cyclops of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/527413b06270b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Stryfe",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Psychokinesis",
+    "Superhuman strength",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 36,
+    "eventCount": 1,
+    "pageviewCount": 6029,
+    "serieCount": 15,
+    "storyCount": 39
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Molecular cloning",
+    "Mutant"
+  ],
+  "superName": "Stryfe",
+  "teams": [
+    "Dark Riders",
+    "Mutant Liberation Front",
+    "New Canaanites"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2237/stryfe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stryfe"
+  }
+}

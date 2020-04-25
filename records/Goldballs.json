@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Goldballs"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Chris Bachalo"
+  ],
+  "description": "Goldballs (Fabio Medina) is a fictional character in the mainstream Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d2/Fabio_Medina_X-Men.png"
+  },
+  "mainColor": null,
+  "name": "Goldballs",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 336,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fabio Medina"
+  ],
+  "species": [
+  ],
+  "superName": "Goldballs",
+  "teams": [
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldballs"
+  }
+}

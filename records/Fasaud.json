@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Fasaud"
+  ],
+  "authors": [
+    "John Buscema",
+    "Steve Englehart"
+  ],
+  "description": "Fasaud (Sheikh Farouk Al-Fasaud), is a fictional character appearing in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fasaud_2.jpg/200px-Fasaud_2.jpg"
+  },
+  "mainColor": null,
+  "name": "Fasaud",
+  "partners": [
+  ],
+  "powers": [
+    "Electrical manipulation",
+    "Intangibility",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 148,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sheikh Farouk Al-Fasaud"
+  ],
+  "species": [
+  ],
+  "superName": "Fasaud",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fasaud"
+  }
+}

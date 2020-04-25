@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Korath the Pursuer"
+  ],
+  "authors": [
+    "Greg Capullo",
+    "Mark Gruenwald"
+  ],
+  "description": "Korath the Pursuer is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Korath_the_Pursuer.jpg"
+  },
+  "mainColor": null,
+  "name": "Korath the Pursuer",
+  "partners": [
+  ],
+  "powers": [
+    "Cyber-genetic engineering",
+    "Durability",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4104,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Korath-Thak"
+  ],
+  "species": [
+    "Kree"
+  ],
+  "superName": "Korath the Pursuer",
+  "teams": [
+    "Starforce"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Windeagle"
+  ],
+  "authors": [
+    "Don McGregor",
+    "Keith Pollard",
+    "Rich Buckler"
+  ],
+  "description": "Windeagle is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Windeagle",
+  "partners": [
+  ],
+  "powers": [
+    "Anti-gravity costume"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 261,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hector Santiago Ruiz"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Windeagle",
+  "teams": [
+    "Defenders",
+    "Dragon Circle"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Windeagle"
+  }
+}

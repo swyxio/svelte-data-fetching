@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Prism"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Louise Simonson"
+  ],
+  "description": "Prism (Robbie) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Prism",
+  "partners": [
+  ],
+  "powers": [
+    "Amplify beams of light",
+    "Energy",
+    "Reflect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 493,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robbie"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Prism",
+  "teams": [
+    "Marauders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Prism_(comics)"
+  }
+}

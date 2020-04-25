@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Gargoyle"
+  ],
+  "authors": [
+    "Don Perlin",
+    "J. M. DeMatteis",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "For the comic book series about the Disney show, see Gargoyles (comics)Gargoyle is a name shared by two fictional characters appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gargoyle",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Flight",
+    "Highly intelligent",
+    "Physical resistance",
+    "Regeneration",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2651,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Isaac Christians",
+    "Yuri Topolov"
+  ],
+  "species": [
+  ],
+  "superName": "Gargoyle",
+  "teams": [
+    "Defenders",
+    "Heroes for Hire",
+    "KGB"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gargoyle_(comics)"
+  }
+}

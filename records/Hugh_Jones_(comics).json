@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Hugh Jones"
+  ],
+  "authors": [
+    "Sal Buscema",
+    "Steve Englehart"
+  ],
+  "description": "Hugh Jones is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hugh Jones",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 254,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Hugh Jones",
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Jones_(comics)"
+  }
+}

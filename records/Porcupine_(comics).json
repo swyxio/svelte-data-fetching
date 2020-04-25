@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Porcupine"
+  ],
+  "authors": [
+    "David Hine",
+    "Don Heck",
+    "Jimmy Palmiotti",
+    "Justin Gray",
+    "Khari Evans",
+    "Stan Lee"
+  ],
+  "description": "Porcupine is the name used by three fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/PorcupineMarvel.jpg/250px-PorcupineMarvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Porcupine",
+  "partners": [
+  ],
+  "powers": [
+    "21600.0",
+    "Body",
+    "Claws",
+    "Defensive weapons",
+    "Durability",
+    "Enhanced strength",
+    "Flight via boot jets",
+    "Right arm",
+    "Wide variety of offensive"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 899,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alexander Gentry",
+    "Roger Gocking",
+    "William Nathaniel Bates"
+  ],
+  "species": [
+    "Human",
+    "Mutant"
+  ],
+  "superName": "Porcupine",
+  "teams": [
+    "Lethal Legion",
+    "Maggia",
+    "Thunderbolts",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Porcupine_(comics)"
+  }
+}

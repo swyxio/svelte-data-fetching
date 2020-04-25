@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Slither"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Slither (Aaron Salomon) is a fictional character, a snake-like mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Slither",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Flexibility",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 314,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aaron Salomon"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Slither",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Mutant Force",
+    "Resistants",
+    "Secret Empire",
+    "Serpent Society"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Slither_(comics)"
+  }
+}

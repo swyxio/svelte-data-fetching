@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Steel Phoenix",
+    "Steel Serpent"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Davos",
+    "Frank McLaughlin",
+    "John Byrne",
+    "Tony Isabella",
+    "Unnamed"
+  ],
+  "description": "Steel Serpent (Davos) is a fictional character, a supervillain in the Marvel Universe and an enemy of Iron Fist.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4ce5a3cacb3af/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Steel Serpent",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 4215,
+    "serieCount": 1,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Davos"
+  ],
+  "species": [
+  ],
+  "superName": "Steel Serpent",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Immortal Weapons"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2211/steel_serpent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steel_Serpent"
+  }
+}

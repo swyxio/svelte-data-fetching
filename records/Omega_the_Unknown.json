@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Omega the Unknown",
+    "Sam"
+  ],
+  "authors": [
+    "Jim Mooney",
+    "Mary Skrenes",
+    "Steve Gerber"
+  ],
+  "description": "Omega the Unknown was  an American comic book published by Marvel Comics from 1976 to 1977, featuring  the eponymous fictional character.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Omega the Unknown",
+  "partners": [
+    "James-Michael Starling"
+  ],
+  "powers": [
+    "Energy burst projection",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 889,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Omega the Unknown",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1654/omega_the_unknown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omega_the_Unknown"
+  }
+}

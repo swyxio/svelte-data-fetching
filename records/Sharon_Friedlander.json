@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Sharon Friedlander"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Chris Claremont"
+  ],
+  "description": "Sharon Friedlander is a fictional character most often appearing in X-Men stories in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Sharon Friedlander",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 227,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sharon Friedlander"
+  ],
+  "species": [
+  ],
+  "superName": "Sharon Friedlander",
+  "teams": [
+    "Muir Island X-Men",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Friedlander"
+  }
+}

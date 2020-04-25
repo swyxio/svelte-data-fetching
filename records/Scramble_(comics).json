@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Omega",
+    "Roger Bochs",
+    "Scramble",
+    "Scramble the Mixed-Up Man"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Mike Mignola"
+  ],
+  "description": "Scramble (Lionel Jeffries), also known as Scramble the Mixed-Up Man, was a Marvel Comics supervillain and Canadian mutant.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Scramble.JPG/160px-Scramble.JPG"
+  },
+  "mainColor": null,
+  "name": "Scramble",
+  "partners": [
+  ],
+  "powers": [
+    "Includes healing",
+    "Manipulate organic matter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 221,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lionel Jeffries"
+  ],
+  "species": [
+  ],
+  "superName": "Scramble",
+  "teams": [
+    "Alpha Flight",
+    "New Life Clinic"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scramble_(comics)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Master Izo"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Michael Lark"
+  ],
+  "description": "Master Izo is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg"
+  },
+  "mainColor": null,
+  "name": "Master Izo",
+  "partners": [
+  ],
+  "powers": [
+    "Echolocation",
+    "Formidable martial artist",
+    "Immortality",
+    "Superhuman radar senses"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1930,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Izo"
+  ],
+  "species": [
+  ],
+  "superName": "Master Izo",
+  "teams": [
+    "Chaste",
+    "The Chaste",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Izo"
+  }
+}

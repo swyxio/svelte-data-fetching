@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Tag"
+  ],
+  "authors": [
+    "Carlo Barberi",
+    "Christina Weir",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Tag (Brian Cruz) is a mutant appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png"
+  },
+  "mainColor": null,
+  "name": "Tag",
+  "partners": [
+  ],
+  "powers": [
+    "Tag"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 388,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Cruz"
+  ],
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "superName": "Tag",
+  "teams": [
+    "Hellions",
+    "Hellions training squad",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tag_(comics)"
+  }
+}

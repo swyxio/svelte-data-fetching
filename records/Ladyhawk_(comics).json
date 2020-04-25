@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Ladyhawk"
+  ],
+  "authors": [
+    "Pat Olliffe",
+    "Tom DeFalco"
+  ],
+  "description": "Ladyhawk (Rosetta and Regina) is the shared codename of a fictional character in the Marvel Comics' series Spider-Girl.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/LadyhawkMC2.jpg"
+  },
+  "mainColor": null,
+  "name": "Ladyhawk",
+  "partners": [
+  ],
+  "powers": [
+    "Other weapons",
+    "Skilled martial artists"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 329,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Regina",
+    "Rosetta",
+    "Rosetta and Regina"
+  ],
+  "species": [
+  ],
+  "superName": "Ladyhawk",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ladyhawk_(comics)"
+  }
+}

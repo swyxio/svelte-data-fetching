@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Master Pandemonium"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Steve Englehart"
+  ],
+  "description": "Master Pandemonium is a supervillain that appears in publications from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png"
+  },
+  "mainColor": null,
+  "name": "Master Pandemonium",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Hellfire projection",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 478,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Martin Preston"
+  ],
+  "species": [
+  ],
+  "superName": "Master Pandemonium",
+  "teams": [
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Pandemonium"
+  }
+}

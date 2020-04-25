@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Marvel Boy"
+  ],
+  "authors": [
+    "Bob Oksner",
+    "Jack Kirby",
+    "Joe Simon",
+    "Joe Simon & Jack Kirby",
+    "Russ Heath",
+    "Stan Lee",
+    "Stan Lee & Russ Heath"
+  ],
+  "description": "Marvel Boy is the name of several fictional comic book characters in comic books published by Marvel Comics, including predecessor companies Timely Comics and Atlas Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Marvel Boy",
+  "partners": [
+  ],
+  "powers": [
+    "Light blasts",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 38,
+    "eventCount": 4,
+    "pageviewCount": 914,
+    "serieCount": 22,
+    "storyCount": 76
+  },
+  "secretIdentities": [
+    "(I) Martin Simon Burns",
+    "(II) Martin Oksner Burns",
+    "David Bank",
+    "Martin Oksner Burns",
+    "Martin Simon Burns",
+    "Marty",
+    "Noh-Varr",
+    "Robert Grayson",
+    "Vance Astrovik",
+    "Wendell Vaughn"
+  ],
+  "species": [
+  ],
+  "superName": "Marvel Boy",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1377/marvel_boy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvel_Boy"
+  }
+}

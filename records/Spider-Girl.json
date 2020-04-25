@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Amazing Spider-Girl",
+    "Spider-Girl",
+    "Spider-Girl Red",
+    "Spidey"
+  ],
+  "authors": [
+    "Mark Bagley",
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "May \"Mayday\" Parker is the daughter of Spider-Man and Mary Jane Watson-Parker. Born with all her father's powers-and the same silly sense of humor-she's grown up to become one of Earth's most trusted heroes and a fitting tribute to her proud papa.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4c003adccbe4f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Spider-Girl",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Bio-magnetism",
+    "Durability",
+    "Endurance",
+    "Manipulation",
+    "People",
+    "Reflexes",
+    "Repel objects",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 160,
+    "eventCount": 1,
+    "pageviewCount": 7659,
+    "serieCount": 32,
+    "storyCount": 259
+  },
+  "secretIdentities": [
+    "May Parker",
+    "Mayday"
+  ],
+  "species": [
+  ],
+  "superName": "Spider-Girl",
+  "teams": [
+    "A-Next",
+    "Fantastic Five",
+    "New Warriors",
+    "Web Warriors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2171/spider-girl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Girl"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Discus"
+  ],
+  "authors": [
+    "Billy Graham",
+    "Tony Isabella"
+  ],
+  "description": "Discus (Tim Stuart) is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Discus",
+  "partners": [
+    "Justin Hammer",
+    "Stiletto"
+  ],
+  "powers": [
+    "Other assorted weaponry"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 390,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tim Stuart"
+  ],
+  "species": [
+  ],
+  "superName": "Discus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Discus_(comics)"
+  }
+}

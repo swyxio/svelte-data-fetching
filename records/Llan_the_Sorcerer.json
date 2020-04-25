@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Dexter Rayne",
+    "Llan the Sorcerer",
+    "The Sorcerer"
+  ],
+  "authors": [
+    "James D. Hudnall",
+    "John Calimee"
+  ],
+  "description": "Llan the Sorcerer, a fictional character in the Marvel Universe, is an ancient evil who has been an enemy of Alpha Flight.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Llan the Sorcerer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 248,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Llan the Sorcerer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Llan_the_Sorcerer"
+  }
+}

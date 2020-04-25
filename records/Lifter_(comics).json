@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Lifter",
+    "Meteorite"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lifter",
+  "partners": [
+  ],
+  "powers": [
+    "Can manipulate gravity",
+    "Endurance",
+    "Increasing his density",
+    "Levitate matter",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 166,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ned Lathrop"
+  ],
+  "species": [
+  ],
+  "superName": "Lifter",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Mutant Force",
+    "Resistants"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lifter_(comics)"
+  }
+}

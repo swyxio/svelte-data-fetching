@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Agent Venom",
+    "Flash Thompson",
+    "Venom"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Venom (Flash Thompson)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Alien symbiote",
+    "Camouflage",
+    "Endurance",
+    "Immunity to spider sense",
+    "Limited shapeshifting",
+    "Organic webbing",
+    "Placing it in his venom",
+    "Reflexes",
+    "Superhuman strength",
+    "Trained marksman"
+  ],
+  "ranking": {
+    "comicCount": 49,
+    "eventCount": 1,
+    "pageviewCount": 28473,
+    "serieCount": 11,
+    "storyCount": 53
+  },
+  "secretIdentities": [
+    "Eugene Thompson",
+    "Flash"
+  ],
+  "species": [
+  ],
+  "superName": "Venom",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Secret Avengers",
+    "Thunderbolts",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/63/venom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flash_Thompson"
+  }
+}

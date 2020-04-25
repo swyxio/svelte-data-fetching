@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Black Queen",
+    "Chaos-Bringer",
+    "Child of the M'Kraan Crystal",
+    "Dark Phoenix",
+    "Jean Grey",
+    "Phoenix",
+    "Phoenix Force",
+    "Star-Child",
+    "The Black Angel",
+    "White Phoenix of the Crown"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "The Phoenix Force is an entity in the Marvel Comics fictional universe which has bonded with other characters, who often used the alias Phoenix.The Phoenix Force is famous for its central role in The Dark Phoenix Saga storyline, and is frequently linked to Jean Grey.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Classic-X-Men-008-back.jpg/200px-Classic-X-Men-008-back.jpg"
+  },
+  "mainColor": null,
+  "name": "Phoenix Force",
+  "partners": [
+  ],
+  "powers": [
+    "Cosmic awareness",
+    "Empathy",
+    "Energy manipulation",
+    "Life force manipulation",
+    "Prescience",
+    "Psionic abilities",
+    "Psychokinesis",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 13085,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Phoenix Force",
+  "teams": [
+    "Galactic Guardians",
+    "Hellfire Club",
+    "Phoenix Corps",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Force_(comics)"
+  }
+}

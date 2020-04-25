@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Blaquesmith"
+  ],
+  "authors": [
+    "Darko Macan",
+    "Ian Churchill",
+    "Igor Kordey",
+    "Jeph Loeb"
+  ],
+  "description": "Blaquesmith is the name of two characters in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg"
+  },
+  "mainColor": null,
+  "name": "Blaquesmith",
+  "partners": [
+  ],
+  "powers": [
+    "Possibly none",
+    "Superhuman intelligence",
+    "Telekinesis",
+    "Telepathy",
+    "Time travel",
+    "Unknown"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 476,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nigel Novotny"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Blaquesmith",
+  "teams": [
+    "Askani",
+    "Underground"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaquesmith"
+  }
+}

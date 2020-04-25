@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Projector"
+  ],
+  "authors": [
+  ],
+  "description": "Projector (Zachary Williams) is a fictional character, a mutant villain from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/XMEN-Projector.jpg/250px-XMEN-Projector.jpg"
+  },
+  "mainColor": null,
+  "name": "Projector",
+  "partners": [
+  ],
+  "powers": [
+    "Force-field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 99,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zachary Williams"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Projector",
+  "teams": [
+    "Acolytes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Projector_(comics)"
+  }
+}

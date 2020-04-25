@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Thea"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "Thea is a fictional character that appears in the NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Thea_New_Gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Thea (New-Gen)",
+  "partners": [
+  ],
+  "powers": [
+    "Levitation",
+    "Precognition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 34,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Thea",
+  "teams": [
+    "A.P.N.G",
+    "Gabriel"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thea_(New-Gen)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Gog"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Roy Thomas"
+  ],
+  "description": "Gog is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg"
+  },
+  "mainColor": null,
+  "name": "Gog",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 719,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Gog",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gog_(Marvel_Comics)"
+  }
+}

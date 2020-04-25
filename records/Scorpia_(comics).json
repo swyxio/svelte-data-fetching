@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Scorpia"
+  ],
+  "authors": [
+    "Darick Robertson",
+    "Gregory Wright"
+  ],
+  "description": "Scorpia (real name Elaine Colls) is a fictional supervillainess in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Scorpia",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 503,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elaine Colls"
+  ],
+  "species": [
+  ],
+  "superName": "Scorpia",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scorpia_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Matador",
+    "Matador II"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Michael Lark",
+    "Stan Lee",
+    "Wally Wood"
+  ],
+  "description": "Matador is the name of two Marvel Comics characters.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg"
+  },
+  "mainColor": null,
+  "name": "Matador",
+  "partners": [
+    "Man-Bull"
+  ],
+  "powers": [
+    "Skilled swordsman",
+    "Trained bullfighter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 485,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Juan",
+    "Manuel Eloganto"
+  ],
+  "species": [
+  ],
+  "superName": "Matador",
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Matador_(Marvel_Comics)"
+  }
+}

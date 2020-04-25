@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Armadillo",
+    "Porcupine",
+    "Spyke"
+  ],
+  "authors": [
+    "Robert N. Skir",
+    "Steven E. Gordon"
+  ],
+  "description": "Spyke (Evan Daniels) is a character who was briefly a member of the X-Men in the animated series X-Men: Evolution.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Spyke.jpg/220px-Spyke.jpg"
+  },
+  "mainColor": null,
+  "name": "Spyke",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced  strength",
+    "Enhanced strength",
+    "Projectile spikes"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2054,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Evan Daniels"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Spyke",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Morlocks",
+    "The Morlocks",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spyke"
+  }
+}

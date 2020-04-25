@@ -1,0 +1,52 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Rita DeMara, hoping to show off her talent of engineering, stole a copy of the Yellowjacket costume from the Avengers Mansion.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5398a8a4b8ca9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Yellowjacket",
+  "partners": [
+  ],
+  "powers": [
+    "Also known as a bio-sting",
+    "Bio-energy projection",
+    "Genius-level intellect",
+    "Objects",
+    "Superhuman strength",
+    "Telepathy with insects"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 1,
+    "pageviewCount": 19903,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Darren Cross",
+    "Hank Pym",
+    "Rita DeMara",
+    "Ultron",
+    "Yellowjacket (Rita DeMara)"
+  ],
+  "species": [
+  ],
+  "superName": "Yellowjacket",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Hank Pym",
+    "Illuminati"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2636/yellowjacket",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellowjacket_(Marvel_Comics)"
+  }
+}

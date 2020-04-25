@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Clown",
+    "Jester"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Alan Moore",
+    "David Thorpe",
+    "Gene Colan",
+    "Paul Neary",
+    "Stan Lee"
+  ],
+  "description": "Jester is the name of several Marvel Comics supervillains.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jester",
+  "partners": [
+  ],
+  "powers": [
+    "A one-man submarine",
+    "Carries a fencing foil",
+    "Fencer",
+    "Hand to hand combatant",
+    "Highly skilled acrobat",
+    "Kickboxer",
+    "Minimally talented actor",
+    "Trained gymnast",
+    "Well trained acrobat"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 928,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jody Putt",
+    "Jonathan Powers"
+  ],
+  "species": [
+  ],
+  "superName": "Jester",
+  "teams": [
+    "Crazy Gang",
+    "The Assembly of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jester_(Marvel_Comics)"
+  }
+}

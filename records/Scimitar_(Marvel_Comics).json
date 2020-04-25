@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Scimitar"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Scimitar is a supervillain in the Marvel Comics.Scimitar is a master of bladed weapons who serves Master Khan.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/02/ScimitarExcalibur.jpg"
+  },
+  "mainColor": null,
+  "name": "Scimitar",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 341,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unrevealed"
+  ],
+  "species": [
+  ],
+  "superName": "Scimitar",
+  "teams": [
+    "Weaponeers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scimitar_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Psycho-Man"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Psycho-Man is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003c82b377c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Psycho-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Emotion manipulation",
+    "Genius-level intellect",
+    "Powered armor",
+    "Powered exoskeleton",
+    "Use of"
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 1945,
+    "serieCount": 5,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Psycho-Man",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1824/psycho-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Psycho-Man"
+  }
+}

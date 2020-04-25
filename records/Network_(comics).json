@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Network"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Nunzio DeFilippis",
+    "Nunzio DeFilippis and Christina Weir",
+    "Paul Jenkins",
+    "Ramon Bachs"
+  ],
+  "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Network",
+  "partners": [
+  ],
+  "powers": [
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 337,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sarah Vale",
+    "Valerie Martin"
+  ],
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "superName": "Network",
+  "teams": [
+    "Alpha Squadron",
+    "Alpha Squadron training squad",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Network_(comics)"
+  }
+}

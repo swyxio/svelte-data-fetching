@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Angar the Screamer",
+    "Master of the Mindstorm",
+    "Scream",
+    "Voice"
+  ],
+  "authors": [
+    "Gene Colan",
+    "John Tartaglione",
+    "Steve Gerber"
+  ],
+  "description": "Angar the Screamer (David Alan Angar, also known as Scream) is a fictional character, a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg"
+  },
+  "mainColor": null,
+  "name": "Angar the Screamer",
+  "partners": [
+    "Screaming Mimi",
+    "Songbird"
+  ],
+  "powers": [
+    "Flight",
+    "Immunity to physical harm",
+    "Sonic form",
+    "Sonokinesis",
+    "Superhuman scream"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1205,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "David Alan Angar"
+  ],
+  "species": [
+  ],
+  "superName": "Angar the Screamer",
+  "teams": [
+    "New Revengers",
+    "Redeemers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Angar_the_Screamer"
+  }
+}

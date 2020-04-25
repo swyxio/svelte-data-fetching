@@ -1,0 +1,72 @@
+{
+  "aliases": [
+    "Jean DeWolff",
+    "Kree with no name",
+    "Pale Rider",
+    "Paleface\" (Watanabe)",
+    "Wraith"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Dan Slott",
+    "Javier Grillo-Marxuach",
+    "John Romita, Jr.",
+    "Kyle Hotz",
+    "Sal Buscema",
+    "Salvador Larroca",
+    "Scott Lobdell"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wraith.jpg/250px-Wraith.jpg"
+  },
+  "mainColor": null,
+  "name": "Wraith (Hector Rendoza)",
+  "partners": [
+    "Iron Man",
+    "Phillip DeWolff"
+  ],
+  "powers": [
+    "Accelerated healing",
+    "Agility",
+    "Carries a smoke gun",
+    "Darkness manifestation",
+    "Enhanced strength",
+    "Induce mental pain",
+    "Infect",
+    "Longevity via agelessness",
+    "Mind control",
+    "Polymorphic weapon",
+    "Speed",
+    "Thought reading",
+    "Transparent skin",
+    "Travel through the air"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 273,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian DeWolff",
+    "Hector Rendoza",
+    "Yuri Watanabe",
+    "Zak-Del"
+  ],
+  "species": [
+  ],
+  "superName": "Wraith",
+  "teams": [
+    "Genoshan Assault X-Men",
+    "Kree Underground",
+    "Nameless Kree",
+    "New York City Police Department"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wraith_(Hector_Rendoza)"
+  }
+}

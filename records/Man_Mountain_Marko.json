@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Man Mountain Marko"
+  ],
+  "authors": [
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Stan Lee"
+  ],
+  "description": "Man Mountain Marko (Michael Marko) is a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/ASM073CVR_160ref.jpg/250px-ASM073CVR_160ref.jpg"
+  },
+  "mainColor": null,
+  "name": "Man Mountain Marko",
+  "partners": [
+  ],
+  "powers": [
+    "Stamina",
+    "Sturdiness",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1197,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Michael Marko"
+  ],
+  "species": [
+  ],
+  "superName": "Man Mountain Marko",
+  "teams": [
+    "Maggia",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "The Maggia"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Man_Mountain_Marko"
+  }
+}

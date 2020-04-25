@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Scarlet Spider"
+  ],
+  "authors": [
+    "Pat Olliffe",
+    "Tom DeFalco"
+  ],
+  "description": "Felicity Hardy, also known as the third Scarlet Spider, is a fictional character who appears in the Marvel Comics's alternate future MC2 series Spider-Girl.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Spg46.jpg/250px-Spg46.jpg"
+  },
+  "mainColor": null,
+  "name": "Felicity Hardy",
+  "partners": [
+  ],
+  "powers": [
+    "Gymnast",
+    "Skilled martial artist",
+    "Sonic blasts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 770,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Felicity Hardy"
+  ],
+  "species": [
+  ],
+  "superName": "Felicity Hardy",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Felicity_Hardy"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Boomer",
+    "Boomerang",
+    "Fred Slade",
+    "Outback"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Boomerang (Frederick \"Fred\" Myers) is a fictional character, a supervillain appearing in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c00390504a3b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Boomerang",
+  "partners": [
+    "Kingpin",
+    "Silver Samurai",
+    "Viper",
+    "Viper (Madame Hydra)"
+  ],
+  "powers": [
+    "Flight via jet boots",
+    "Gimmicked boomerangs",
+    "Skilled marksman",
+    "Street fighter",
+    "Wields variety of lethal"
+  ],
+  "ranking": {
+    "comicCount": 18,
+    "eventCount": 1,
+    "pageviewCount": 2497,
+    "serieCount": 15,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+    "Fred",
+    "Frederick Myers"
+  ],
+  "species": [
+  ],
+  "superName": "Boomerang",
+  "teams": [
+    "Assassins' Guild",
+    "Masters of Evil",
+    "Secret Empire",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "Sinister Syndicate",
+    "Sinister Twelve",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/339/boomerang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boomerang_(comics)"
+  }
+}

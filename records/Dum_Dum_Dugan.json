@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Dum Dum Dugan",
+    "Libra"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Timothy Aloysius Cadwallader \"Dum Dum\" Dugan is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/4ce59f9fc788f/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dum Dum Dugan",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled marksman"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 3,
+    "pageviewCount": 8687,
+    "serieCount": 17,
+    "storyCount": 27
+  },
+  "secretIdentities": [
+    "Timothy Aloysius Cadwallader Dugan"
+  ],
+  "species": [
+  ],
+  "superName": "Dum Dum Dugan",
+  "teams": [
+    "Avengers\" (1959)",
+    "British Army",
+    "Flying Commandos",
+    "Godzilla",
+    "Godzilla Squad",
+    "Great Wheel",
+    "Howling Commandos",
+    "S.H.I.E.L.D",
+    "S.T.A.K.E",
+    "U.S. Army",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3424/dum_dum_dugan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dum_Dum_Dugan"
+  }
+}

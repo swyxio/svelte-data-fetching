@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Genesis",
+    "Mr. Tolliver",
+    "The Other"
+  ],
+  "authors": [
+    "(story) and",
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Genesis (Tyler Dayspring) is a fictional character in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4c003eeedf93c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Genesis",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 3902,
+    "serieCount": 1,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Tyler Dayspring"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Genesis",
+  "teams": [
+    "Askani",
+    "Askani Clan Chosen",
+    "Dark Riders"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/783/genesis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Genesis_(comics)"
+  }
+}

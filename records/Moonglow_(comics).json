@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Moonglow",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Moonglow is a fictional character found in comic books from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Moonglow",
+  "partners": [
+  ],
+  "powers": [
+    "Project illusions"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 220,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Melissa Hanover"
+  ],
+  "species": [
+  ],
+  "superName": "Moonglow",
+  "teams": [
+    "Redeemers",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Moonglow_(comics)"
+  }
+}

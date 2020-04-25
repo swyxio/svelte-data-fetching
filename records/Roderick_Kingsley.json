@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Devil-Spider",
+    "Hobgoblin",
+    "Roderick Kignsley"
+  ],
+  "authors": [
+    "Green Goblin",
+    "John Romita Jr.",
+    "John Romita, Jr.",
+    "Roger Stern",
+    "Stan Lee",
+    "Steve Ditko",
+    "by"
+  ],
+  "description": "Roderick Kingsley is the first of several fictional characters who would claim the alias Hobgoblin that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c003ed3cff99/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hobgoblin (Roderick Kingsley)",
+  "partners": [
+  ],
+  "powers": [
+    "Criminal organizer",
+    "Drug induced mind control",
+    "Highly skilled business",
+    "Intelligence",
+    "Master of hypnosis",
+    "Paraphernalia",
+    "Talented fashion designer"
+  ],
+  "ranking": {
+    "comicCount": 36,
+    "eventCount": 3,
+    "pageviewCount": 1261,
+    "serieCount": 18,
+    "storyCount": 34
+  },
+  "secretIdentities": [
+    "Roderick Kingsley"
+  ],
+  "species": [
+  ],
+  "superName": "Hobgoblin",
+  "teams": [
+    "Astonishing Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Roderick_Kingsley"
+  }
+}

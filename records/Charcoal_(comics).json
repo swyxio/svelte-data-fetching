@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Charcoal"
+  ],
+  "authors": [
+    "Kroja Frost",
+    "Kurt Busiek",
+    "Mark Bagley",
+    "Scott Hanna",
+    "Wallace Frost"
+  ],
+  "description": "Charcoal (Charlie Burlingame) is a Marvel Comics character and member of the Thunderbolts who was created by a comic book fan for a \"Create-A-Villain\" contest sponsored by Marvel and Wizard Magazine and the alter-ego was created by Kurt Busiek.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/77/Thunderbolts53.jpg"
+  },
+  "mainColor": null,
+  "name": "Charcoal",
+  "partners": [
+  ],
+  "powers": [
+    "Carbon form",
+    "Diamond",
+    "Fire manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 470,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Charlie Burlingame"
+  ],
+  "species": [
+  ],
+  "superName": "Charcoal",
+  "teams": [
+    "Secret Empire",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Charcoal_(comics)"
+  }
+}

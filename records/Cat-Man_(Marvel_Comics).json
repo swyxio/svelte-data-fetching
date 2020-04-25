@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Cat-Man",
+    "Cat-Man II",
+    "Cat-Man III"
+  ],
+  "authors": [
+    "Bob Powell",
+    "Gene Colan",
+    "Jo Duffy",
+    "Roger McKenzie",
+    "Stan Lee",
+    "Wally Wood"
+  ],
+  "description": "Cat-Man is the name of a number of fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cat-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Considerable agility",
+    "Natural razor-sharp claws",
+    "Reflexes",
+    "Superhuman agility",
+    "Use of a t-ray gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 291,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sebastian Patane",
+    "Towshend Horgan"
+  ],
+  "species": [
+  ],
+  "superName": "Cat-Man",
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cat-Man_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Fin Fang Foom",
+    "He Whose Limbs Shatter Mountains",
+    "He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun",
+    "Whose Back Scrapes the Sun"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Fin Fang Foom is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4ce59fc647d58/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Fin Fang Foom",
+  "partners": [
+  ],
+  "powers": [
+    "Acid mist breath",
+    "Extreme durability",
+    "Gifted intellect",
+    "Prolonged lifespan",
+    "Superhuman strength",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 3800,
+    "serieCount": 8,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Fin Fang Foom",
+  "teams": [
+    "Beyond Reason Spiritual Fellowship",
+    "Dragon Lords of Kakaranathara",
+    "Fin Fang Foom",
+    "Fin Fang Four"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3426/fin_fang_foom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fin_Fang_Foom"
+  }
+}

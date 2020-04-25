@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Hawkette",
+    "Hawkeye",
+    "Lady Hawkeye"
+  ],
+  "authors": [
+    "Allan Heinberg",
+    "Allan HeinbergJim Cheung",
+    "Jim Cheung"
+  ],
+  "description": "Hawkeye (Katherine \"Kate\" Bishop) is a fictional character.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bad9caa831/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hawkeye (Kate Bishop)",
+  "partners": [
+    "Hawkeye",
+    "Hawkeye (Clint Barton)",
+    "Marvel Boy",
+    "Noh-Varr",
+    "Patriot",
+    "Patriot (Eli Bradley)",
+    "Speed"
+  ],
+  "powers": [
+    "A bow",
+    "A sword",
+    "Boxer",
+    "Fencer",
+    "Highly skilled archer",
+    "Martial artist",
+    "Other forms of combat",
+    "Swordswoman",
+    "Trick arrows",
+    "Use of two battle staves"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 3,
+    "pageviewCount": 5516,
+    "serieCount": 8,
+    "storyCount": 8
+  },
+  "secretIdentities": [
+    "Kate",
+    "Katherine Bishop",
+    "Katherine Elizabeth Bishop"
+  ],
+  "species": [
+  ],
+  "superName": "Hawkeye",
+  "teams": [
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1010808/hawkeye_kate_bishop/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawkeye_(Kate_Bishop)"
+  }
+}

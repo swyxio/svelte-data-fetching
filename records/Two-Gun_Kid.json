@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Matt Hawk",
+    "Matthew Liebowicz",
+    "Two Gun Kid",
+    "Two-Gun Kid"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Two-Gun Kid is the name of two Western fictional characters in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4ce5a390b929b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Two-Gun Kid",
+  "partners": [
+  ],
+  "powers": [
+    "Expert marksman"
+  ],
+  "ranking": {
+    "comicCount": 134,
+    "eventCount": 0,
+    "pageviewCount": 1051,
+    "serieCount": 6,
+    "storyCount": 457
+  },
+  "secretIdentities": [
+    "Matthew J. Hawkins"
+  ],
+  "species": [
+  ],
+  "superName": "Two-Gun Kid",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2419/two-gun_kid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Two-Gun_Kid"
+  }
+}

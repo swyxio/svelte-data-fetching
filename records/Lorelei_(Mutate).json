@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Lorelei"
+  ],
+  "authors": [
+    "Neal Adams",
+    "Roy Thomas"
+  ],
+  "description": "Lorelei (Lani Ubana) is a fictional character, a mutant in the Marvel Comics Universe whose first appearance was in X-Men #63.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f3/Lorelei_%28mutate%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Lorelei (Mutate)",
+  "partners": [
+  ],
+  "powers": [
+    "Hypnosis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 532,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lani Ubana"
+  ],
+  "species": [
+    "Savage Land Mutates"
+  ],
+  "superName": "Lorelei",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Savage Land Mutates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorelei_(Mutate)"
+  }
+}

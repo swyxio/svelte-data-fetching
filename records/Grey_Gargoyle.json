@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Breaker of Faith",
+    "Grey Gargoyle",
+    "Paul St. Pierre"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Grey Gargoyle (Paul Pierre Duval) is a fictional character, a supervillain that appears in comic books published by Marvel Comics, often as an enemy of Thor, Iron Man, or Captain America.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/528d319931e60/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Grey Gargoyle",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Genius chemist",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 15,
+    "eventCount": 1,
+    "pageviewCount": 1293,
+    "serieCount": 10,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Paul Pierre Duval"
+  ],
+  "species": [
+  ],
+  "superName": "Grey Gargoyle",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Fear Itself",
+    "Hood",
+    "Hood's crime syndicate",
+    "Lethal Legion",
+    "Masters of Evil",
+    "The Worthy"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2894/grey_gargoyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey_Gargoyle"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Huntsman",
+    "Huntsman of Zeus"
+  ],
+  "authors": [
+    "Allyn Brodsky",
+    "Frank Springer"
+  ],
+  "description": "The Huntsman is a fictional character in Marvel Comics who is a tracker/hunter of the Olympian Gods for Zeus.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Huntsman",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy projection",
+    "Illusion creation",
+    "Inter-dimensional travel",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 231,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cephalus"
+  ],
+  "species": [
+  ],
+  "superName": "Huntsman",
+  "teams": [
+    "Olympian Gods",
+    "Olympians"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Huntsman_(Marvel_Comics)"
+  }
+}

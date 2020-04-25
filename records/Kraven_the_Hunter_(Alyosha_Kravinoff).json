@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Al Kraven",
+    "Kraven the Hunter"
+  ],
+  "authors": [
+    "J. M. DeMatteis",
+    "J.M. DeMatteis",
+    "Luke Ross"
+  ],
+  "description": "Alyosha Kravinoff, also known as the second Kraven the Hunter, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Alyosha_Kravinoff.jpg/250px-Alyosha_Kravinoff.jpg"
+  },
+  "mainColor": null,
+  "name": "Kraven the Hunter (Alyosha Kravinoff)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Control animals",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Expert weapons master",
+    "Healing factor",
+    "Reflexes/reactions",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 23,
+    "eventCount": 0,
+    "pageviewCount": 783,
+    "serieCount": 18,
+    "storyCount": 27
+  },
+  "secretIdentities": [
+    "Alexei Sergeevich Kravinoff",
+    "Alyosha"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Kraven the Hunter",
+  "teams": [
+    "Kravinoff Family",
+    "Sinister Six"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1174/kraven_the_hunter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_(Alyosha_Kravinoff)"
+  }
+}

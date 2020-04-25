@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Andrew Forson",
+    "Scientist Supreme"
+  ],
+  "authors": [
+    "Jonathan Hickman",
+    "Ryan Stegman"
+  ],
+  "description": "Andrew Forson is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Andrew Forson",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 559,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Andrew Forson"
+  ],
+  "species": [
+  ],
+  "superName": "Andrew Forson",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Cult of Entropy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Forson"
+  }
+}

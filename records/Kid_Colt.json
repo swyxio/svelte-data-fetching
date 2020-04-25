@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Kid Colt",
+    "Kid Colt I",
+    "Kid Colt II",
+    "Kid Colt Outlaw",
+    "Mr. Jones",
+    "various other aliases"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": "Kid Colt is the name of two fictional characters in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Kid_Colt%2C_Outlaw1.jpg/200px-Kid_Colt%2C_Outlaw1.jpg"
+  },
+  "mainColor": null,
+  "name": "Kid Colt",
+  "partners": [
+    "Steel",
+    "Steel (horse)"
+  ],
+  "powers": [
+    "Shapeshifting",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 605,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Blaine Colt",
+    "Elric Freedom Whitemane"
+  ],
+  "species": [
+  ],
+  "superName": "Kid Colt",
+  "teams": [
+    "The Sensational Seven",
+    "Young Allies"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kid_Colt"
+  }
+}

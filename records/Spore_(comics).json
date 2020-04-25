@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Spore"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "John Byrne"
+  ],
+  "description": "Spore is a fictional character that has appeared in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spore",
+  "partners": [
+  ],
+  "powers": [
+    "Chemical absorption",
+    "Chemical secretion",
+    "Durability",
+    "Matter absorption",
+    "Stamina",
+    "Super strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 230,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Spore"
+  ],
+  "species": [
+  ],
+  "superName": "Spore",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spore_(comics)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Agent Cross",
+    "Crossfire",
+    "Prisoner V22503",
+    "William Cross"
+  ],
+  "authors": [
+    "Jim Craig",
+    "Steven Grant"
+  ],
+  "description": "Crossfire (William Cross) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/87228-166129-crossfire.jpg/250px-87228-166129-crossfire.jpg"
+  },
+  "mainColor": null,
+  "name": "Crossfire",
+  "partners": [
+  ],
+  "powers": [
+    "A sniper rifle",
+    "Cybernetic enhancements",
+    "Cybernetics expert",
+    "Expert marksman",
+    "Gifted intellect",
+    "Master brainwasher",
+    "Robotics",
+    "Use of twin handguns"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3153,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Cross"
+  ],
+  "species": [
+  ],
+  "superName": "Crossfire",
+  "teams": [
+    "Central Intelligence Agency",
+    "Cross Technological Enterprises",
+    "Masters of Evil",
+    "Villains for Hire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Crossfire_(comics)"
+  }
+}

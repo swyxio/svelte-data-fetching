@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Counterweight",
+    "Energizer",
+    "Kate Power",
+    "Starstreak"
+  ],
+  "authors": [
+    "June Brigman",
+    "Louise Simonson"
+  ],
+  "description": "Energizer (Kate Margaret \"Katie\" Power), is a fictional character in Marvel Comics' universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/90/4ce5a5bf6b872/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Katie Power",
+  "partners": [
+  ],
+  "powers": [
+    "Acceleration/flight",
+    "Disintegration",
+    "Energy absorption",
+    "Gravity manipualtion",
+    "Healing powers",
+    "Projection"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 962,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Kate Margaret Power"
+  ],
+  "species": [
+  ],
+  "superName": "Katie Power",
+  "teams": [
+    "Power Pack",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2896/katie_power",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katie_Power"
+  }
+}

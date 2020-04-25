@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Johnny Dee"
+  ],
+  "authors": [
+  ],
+  "description": "Johnny Dee (John D.) is a fictional mutant character, in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Johnny Dee",
+  "partners": [
+  ],
+  "powers": [
+    "Voodoo dolls"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 363,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John D"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Johnny Dee",
+  "teams": [
+    "The 198"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Dee"
+  }
+}

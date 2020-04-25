@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Ani-Mator"
+  ],
+  "authors": [
+    "Bret Blevins",
+    "Louise Simonson"
+  ],
+  "description": "The Ani-Mator (Dr. Frederick Animus) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/AniMator.png"
+  },
+  "mainColor": null,
+  "name": "Ani-Mator",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 296,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Frederick Animus"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Ani-Mator",
+  "teams": [
+    "Creatures of Paradise",
+    "The Right"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ani-Mator"
+  }
+}

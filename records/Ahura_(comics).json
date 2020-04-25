@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Ahura",
+    "Pope"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "Bret Blevins"
+  ],
+  "description": "Ahura is a fictional character that appears in the Marvel Universe and is a member of the Inhumans species.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ahura",
+  "partners": [
+  ],
+  "powers": [
+    "Evil eye",
+    "Hypersonic scream",
+    "Initially",
+    "Later",
+    "Limited mind control",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1738,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ahura Boltagon"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Ahura",
+  "teams": [
+    "Future Foundation",
+    "Inhuman Royal Family",
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahura_(comics)"
+  }
+}

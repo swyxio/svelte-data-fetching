@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Jess Patton",
+    "The Thousand"
+  ],
+  "authors": [
+    "Garth Ennis",
+    "Garth Ennis, John McCrea and James Hodgkins",
+    "James Hodgkins",
+    "John McCrea"
+  ],
+  "description": "The Thousand is a fictional character, a comic book supervillain and enemy of Spider-Man in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Thousand",
+  "partners": [
+  ],
+  "powers": [
+    "Super strength",
+    "Super-strength",
+    "Venomous bite"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 325,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carl King"
+  ],
+  "species": [
+  ],
+  "superName": "Thousand",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thousand_(comics)"
+  }
+}

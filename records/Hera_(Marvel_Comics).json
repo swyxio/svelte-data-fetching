@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Hera",
+    "Juno"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Hera is a fictional deity in the Marvel Comics Universe based on the Greek Goddess of the same name.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hera_in_Hercules.jpg/250px-Hera_in_Hercules.jpg"
+  },
+  "mainColor": null,
+  "name": "Hera",
+  "partners": [
+  ],
+  "powers": [
+    "Cunning strategist",
+    "Durability",
+    "Energy manipulation",
+    "Healing factor",
+    "Reflexes",
+    "Shapeshifting",
+    "Speed",
+    "Superhuman strength",
+    "Teleportation",
+    "Virtual immortality",
+    "Wields zeus' thunderbolt"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 526,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hera"
+  ],
+  "species": [
+  ],
+  "superName": "Hera",
+  "teams": [
+    "Olympian Gods",
+    "Olympians"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hera_(Marvel_Comics)"
+  }
+}

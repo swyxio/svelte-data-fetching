@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Foundry"
+  ],
+  "authors": [
+  ],
+  "description": "Foundry is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a3/Foundry-marvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Foundry",
+  "partners": [
+  ],
+  "powers": [
+    "Fires eyeblasts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 189,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Foundry",
+  "teams": [
+    "Mandarin's Avatars",
+    "Mandarin's Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Foundry_(comics)"
+  }
+}

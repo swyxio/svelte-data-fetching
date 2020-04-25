@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Scanner",
+    "Screener"
+  ],
+  "authors": [
+    "John Romita Jr.",
+    "Scott Lobdell"
+  ],
+  "description": "Scanner (Sarah Ryall), otherwise known as Screener, is a mutant in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg"
+  },
+  "mainColor": null,
+  "name": "Scanner",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 303,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sarah Ryall"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Scanner",
+  "teams": [
+    "Acolytes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Scanner_(comics)"
+  }
+}

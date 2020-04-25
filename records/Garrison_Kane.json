@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Garrison Kane",
+    "Kane",
+    "Weapon X"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Garrison Kane, also known as Weapon X and Kane, is a fictional character from the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4c003e9db374b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Garrison Kane",
+  "partners": [
+  ],
+  "powers": [
+    "Use them"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 3057,
+    "serieCount": 8,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Garrison Kane"
+  ],
+  "species": [
+  ],
+  "superName": "Garrison Kane",
+  "teams": [
+    "Clan Chosen",
+    "Department K",
+    "Six Pack",
+    "Weapon P.R.I.M.E",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2720/garrison_kane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garrison_Kane"
+  }
+}

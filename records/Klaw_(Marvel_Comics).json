@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Klaw"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Klaw (Ulysses Klaw) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/526034e1c6ede/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Klaw",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Expert physicist",
+    "Sound manipulation",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 28,
+    "eventCount": 2,
+    "pageviewCount": 14314,
+    "serieCount": 19,
+    "storyCount": 29
+  },
+  "secretIdentities": [
+    "Ulysses Klaw"
+  ],
+  "species": [
+  ],
+  "superName": "Klaw",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Fearsome Foursome",
+    "Frightful Four",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1156/klaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaw_(Marvel_Comics)"
+  }
+}

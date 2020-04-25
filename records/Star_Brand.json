@@ -1,0 +1,37 @@
+{
+  "aliases": [
+    "Star Brand"
+  ],
+  "authors": [
+    "Jim Shooter"
+  ],
+  "description": "The Star Brand is the name of a number of similar fictional comic book objects of power all of which exist in the multiverse created by the shared universes of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Star_Brand_1.jpg/250px-Star_Brand_1.jpg"
+  },
+  "mainColor": null,
+  "name": "Star Brand",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2120,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Star Brand",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Star_Brand"
+  }
+}

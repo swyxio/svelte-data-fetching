@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Lady Gorgon",
+    "Maria Castle"
+  ],
+  "authors": [
+    "Howard Chaykin",
+    "Matt Fraction",
+    "Rick Remender"
+  ],
+  "description": "Lady Gorgon is a fictional supervillain, and enemy of the Marvel Comics antihero the Punisher.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/LadyGorgonPunisher.jpg/250px-LadyGorgonPunisher.jpg"
+  },
+  "mainColor": null,
+  "name": "Lady Gorgon",
+  "partners": [
+    "Illumination",
+    "Silhouette"
+  ],
+  "powers": [
+    "Firearms",
+    "Telepathy",
+    "Use of blades"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 401,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tanya Adrian"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Lady Gorgon",
+  "teams": [
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Gorgon"
+  }
+}

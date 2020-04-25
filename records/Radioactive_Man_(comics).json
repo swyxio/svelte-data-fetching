@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Radioactive Man"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Radioactive Man is the name of two characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003c66d3393/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Radioactive Man",
+  "partners": [
+  ],
+  "powers": [
+    "Genius nuclear physicist",
+    "Radiation manipulation"
+  ],
+  "ranking": {
+    "comicCount": 19,
+    "eventCount": 0,
+    "pageviewCount": 2402,
+    "serieCount": 14,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Chen Lu"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Radioactive Man",
+  "teams": [
+    "Masters of Evil",
+    "People's Defense Force",
+    "Thunderbolts",
+    "Titanic Three"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1853/radioactive_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Radioactive_Man_(comics)"
+  }
+}

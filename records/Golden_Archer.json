@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Black Archer",
+    "Golden Archer",
+    "Hawkeye"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Golden Archer (Wyatt McDonald) is a fictional superhero that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Golden Archer",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled archer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 825,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wyatt McDonald"
+  ],
+  "species": [
+  ],
+  "superName": "Golden Archer",
+  "teams": [
+    "America Redeemers",
+    "Redeemers",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_Archer"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Korg"
+  ],
+  "authors": [
+    "Carlo Pagulayan",
+    "Greg Pak"
+  ],
+  "description": "Korg is a character in the Marvel Comics universe and is first seen in The Incredible Hulk #93 during the Planet Hulk storyline.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269581a55d0c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Korg",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 2,
+    "pageviewCount": 1203,
+    "serieCount": 2,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Korg"
+  ],
+  "species": [
+  ],
+  "superName": "Korg",
+  "teams": [
+    "Warbound"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1167/korg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Korg_(comics)"
+  }
+}

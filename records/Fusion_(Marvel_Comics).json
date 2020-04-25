@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Fusion"
+  ],
+  "authors": [
+    "Denny O'Neil",
+    "John Romita, Jr.",
+    "Mark Buckingham",
+    "Paul Jenkins"
+  ],
+  "description": "Fusion is a name of two fictional, supervillains owned by Marvel Comics who exist in that company's Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Fusion",
+  "partners": [
+  ],
+  "powers": [
+    "Emit radiation",
+    "Emit radiation. (i)",
+    "Enhanced strength",
+    "Expert acrobat",
+    "Hi-tech equipment",
+    "Hi-tech equipment. (ii)"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 226,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hubert",
+    "Hubert and Pinky Fusser (I)",
+    "Markley",
+    "Markley (First name unknown) (II)",
+    "Pinky Fusser"
+  ],
+  "species": [
+  ],
+  "superName": "Fusion",
+  "teams": [
+    "Doctor Octopus",
+    "Dr. Octopus"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fusion_(Marvel_Comics)"
+  }
+}

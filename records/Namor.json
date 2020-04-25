@@ -1,0 +1,74 @@
+{
+  "aliases": [
+    "Imperius Rex",
+    "Namor McKenzie",
+    "Namor the First",
+    "Namor the Sub-Mariner",
+    "The Avenging Son",
+    "The Sub-Mariner"
+  ],
+  "authors": [
+    "Bill Everett"
+  ],
+  "description": "Namor the Sub-Mariner (Namor McKenzie) is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/b0/537bb815833f5.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/537bb7e675115/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "hexa": "0D2628",
+    "red": 13
+  },
+  "name": "Namor",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Aquatic adaptation",
+    "Longevity",
+    "Mild invulnerability",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 22,
+    "eventCount": 1,
+    "pageviewCount": 21344,
+    "serieCount": 10,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Namor McKenzie"
+  ],
+  "species": [
+    "Atlantean",
+    "Human Mutant hybrid"
+  ],
+  "superName": "Namor",
+  "teams": [
+    "All-Winners Squad",
+    "Avengers",
+    "Cabal",
+    "Dark X-Men",
+    "Deep Six",
+    "Defenders",
+    "Heroes for Hire",
+    "Heroes for Hire/Oracle",
+    "Illuminati",
+    "Inc",
+    "Invaders",
+    "Oracle, Inc",
+    "Phoenix Five",
+    "Phoenix Force",
+    "The Cabal",
+    "The Order",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/39/namor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Namor"
+  }
+}

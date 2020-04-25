@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "El Guapo"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "El Guapo (Robbie Rodriguez), which in Spanish means either \"the Handsome One\" or \"The Brave One\" (depending on a dialect) is a fictional mutant character from the Marvel Universe who first appeared in X-Statix #9.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/XSTATIX_11.jpg/250px-XSTATIX_11.jpg"
+  },
+  "mainColor": null,
+  "name": "El Guapo",
+  "partners": [
+  ],
+  "powers": [
+    "Super-powered skateboard"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 425,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert Rodriguez"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "El Guapo",
+  "teams": [
+    "X-Statix"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/El_Guapo_(comics)"
+  }
+}

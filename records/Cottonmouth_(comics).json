@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Cottonmouth",
+    "Quincy McIver"
+  ],
+  "authors": [
+    "George Tuska",
+    "Len Wein",
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "Cottonmouth is the name of two villains in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cottonmouth",
+  "partners": [
+  ],
+  "powers": [
+    "Bionically enhanced jaw",
+    "Neck",
+    "Sharp teeth",
+    "Steel teeth",
+    "Super-strength",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9697,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Burchell Clemens",
+    "Cornell Cottonmouth"
+  ],
+  "species": [
+  ],
+  "superName": "Cottonmouth",
+  "teams": [
+    "Flashmob",
+    "Serpent Society"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cottonmouth_(comics)"
+  }
+}

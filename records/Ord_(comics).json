@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Ord of the Breakworld"
+  ],
+  "authors": [
+    "John Cassaday",
+    "Joss Whedon"
+  ],
+  "description": "Ord is a fictional character, a comic book supervillain in books published by Marvel Comics, specifically as an enemy of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ord",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Enhanced durability",
+    "Enhanced hearing",
+    "Flight",
+    "Master martial artist",
+    "Superhuman strength speed"
+  ],
+  "ranking": {
+    "comicCount": 11,
+    "eventCount": 0,
+    "pageviewCount": 488,
+    "serieCount": 5,
+    "storyCount": 8
+  },
+  "secretIdentities": [
+    "Ord"
+  ],
+  "species": [
+  ],
+  "superName": "Ord",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1663/ord",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ord_(comics)"
+  }
+}

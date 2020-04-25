@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Poison",
+    "Poison (616)"
+  ],
+  "authors": [
+    "Cynthia Martin",
+    "Steve Gerber"
+  ],
+  "description": "Poison is the name of two fictional comic book characters, owned by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Poison",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Flight",
+    "Mass teleportation",
+    "Reflexes",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 311,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cecilia Cardinale"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Poison",
+  "teams": [
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Poison_(comics)"
+  }
+}

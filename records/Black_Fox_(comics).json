@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Black Fox",
+    "Raul Chalmers"
+  ],
+  "authors": [
+    "John Byrne",
+    "Roger Stern",
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "Black Fox is a code name used by two unrelated fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Black Fox",
+  "partners": [
+    "Red Ghost"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 383,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert William Paine"
+  ],
+  "species": [
+  ],
+  "superName": "Black Fox",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Fox_(comics)"
+  }
+}

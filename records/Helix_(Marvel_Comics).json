@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Helix"
+  ],
+  "authors": [
+    "Ron Lim",
+    "Todd DeZago",
+    "Todd Dezago",
+    "Tom DeFalco"
+  ],
+  "description": "Helix (Rafael Carago) is a fictional character, a mutate superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Helixnw.png/225px-Helixnw.png"
+  },
+  "mainColor": null,
+  "name": "Helix",
+  "partners": [
+  ],
+  "powers": [
+    "Reactive adaptoid"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 182,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Rafael Carago"
+  ],
+  "species": [
+  ],
+  "superName": "Helix",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Helix_(Marvel_Comics)"
+  }
+}

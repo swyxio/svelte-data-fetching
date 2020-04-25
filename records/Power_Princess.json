@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Claire Debussy",
+    "Power Princess",
+    "Princess of Power"
+  ],
+  "authors": [
+    "Don Perlin",
+    "Gary Frank",
+    "J. M. DeMatteis",
+    "J. Michael Straczynski"
+  ],
+  "description": "Zarda, more commonly known as Power Princess, is a fictional comic book character appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg"
+  },
+  "mainColor": null,
+  "name": "Power Princess",
+  "partners": [
+    "Hyperion"
+  ],
+  "powers": [
+    "Above normal intelligence",
+    "Agility",
+    "Durability",
+    "Experienced armed",
+    "Extended longevity",
+    "Flight",
+    "Life-force absorption",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Transference",
+    "Unarmed combatant"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3123,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Princess Zarda",
+    "Zarda Shelton"
+  ],
+  "species": [
+    "Utopians"
+  ],
+  "superName": "Power Princess",
+  "teams": [
+    "Exiles",
+    "Golden Agency",
+    "Squadron Supreme",
+    "Squadron Supreme (Supreme Power)",
+    "Ultimates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Power_Princess"
+  }
+}

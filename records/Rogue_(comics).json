@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Anna Marie",
+    "Anna Raven",
+    "Dr. Kellogg",
+    "Miss Smith",
+    "Rogue"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Michael Golden"
+  ],
+  "description": "Rogue is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/537bc1c6c8631.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/537bc196df2fb/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "hexa": "23192A",
+    "red": 35
+  },
+  "name": "Rogue",
+  "partners": [
+  ],
+  "powers": [
+    "Absorption of powers",
+    "Details",
+    "Flight",
+    "Memories by touch",
+    "Skills",
+    "Super strength"
+  ],
+  "ranking": {
+    "comicCount": 417,
+    "eventCount": 19,
+    "pageviewCount": 25405,
+    "serieCount": 112,
+    "storyCount": 524
+  },
+  "secretIdentities": [
+    "Anna Marie",
+    "Anna Marie (full name unrevealed)"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Rogue",
+  "teams": [
+    "Avengers Unity Division",
+    "Brotherhood of Evil Mutants",
+    "Jean Grey School",
+    "X-Men",
+    "XSE",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/48/rogue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rogue_(comics)"
+  }
+}

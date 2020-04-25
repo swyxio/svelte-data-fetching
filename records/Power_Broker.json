@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Power Broker"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Roger Stern",
+    "Sal Buscema"
+  ],
+  "description": "Power Broker is the name of two characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Power Broker",
+  "partners": [
+    "Red Skull"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1011,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Curtiss Jackson"
+  ],
+  "species": [
+  ],
+  "superName": "Power Broker",
+  "teams": [
+    "Corporation",
+    "Inc",
+    "Power Broker",
+    "Power Broker, Inc",
+    "The Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Power_Broker"
+  }
+}

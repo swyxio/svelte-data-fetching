@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Mahkizmo",
+    "The Nuclear Man"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Rich Buckler"
+  ],
+  "description": "Mahkizmo, also known as the Nuclear Man, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mahkizmo",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Nuclear punch",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 124,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mahkizmo"
+  ],
+  "species": [
+  ],
+  "superName": "Mahkizmo",
+  "teams": [
+    "Men of Machus"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahkizmo"
+  }
+}

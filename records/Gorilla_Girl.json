@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Gorilla Girl",
+    "Gorilla Woman"
+  ],
+  "authors": [
+    "Pat Broderick",
+    "Steven Grant"
+  ],
+  "description": "Fahnbullah Eddy, also known as Gorilla Girl, is a fictional comic book character within Marvel Comics' shared universe the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Gorila_girl.jpg/250px-Gorila_girl.jpg"
+  },
+  "mainColor": null,
+  "name": "Gorilla Girl",
+  "partners": [
+  ],
+  "powers": [
+    "Highly agile gorilla"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 533,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fahnbullah Eddy"
+  ],
+  "species": [
+  ],
+  "superName": "Gorilla Girl",
+  "teams": [
+    "Fifty State Initiative",
+    "Initiative",
+    "The Freaks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorilla_Girl"
+  }
+}

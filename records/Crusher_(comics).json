@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Crusher I",
+    "Crusher II",
+    "Crusher III",
+    "El Professor"
+  ],
+  "authors": [
+    "Bob Brown",
+    "Gene Colan",
+    "Jack Kirby",
+    "Stan Lee",
+    "Tony Isabella"
+  ],
+  "description": "Crusher is the name of three Marvel Comics supervillains.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Crusher",
+  "partners": [
+  ],
+  "powers": [
+    "Durable skin",
+    "Heavyweight",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 285,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Caldwell Rozza",
+    "Juan Aponte"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Crusher",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Crusher_(comics)"
+  }
+}

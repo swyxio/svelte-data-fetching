@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "J2",
+    "Juggernaut",
+    "Masked Midget",
+    "Zane Marko"
+  ],
+  "authors": [
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "J2 (Zane Yama-Marko) is a fictional comic book mutant superhero in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "J2",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Speed",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 588,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zane Yama-Marko"
+  ],
+  "species": [
+  ],
+  "superName": "J2",
+  "teams": [
+    "A-Next",
+    "X-People"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/J2_(comics)"
+  }
+}

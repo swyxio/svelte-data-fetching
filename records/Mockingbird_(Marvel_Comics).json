@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Agent 19",
+    "Barbara Morse-Barton",
+    "Mockingbird",
+    "Roberta Morse",
+    "the Huntress"
+  ],
+  "authors": [
+  ],
+  "description": "Mockingbird (Barbara \"Bobbi\" Morse) is a fictional character, a superheroine who appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Mockingbird",
+  "partners": [
+    "Hawkeye"
+  ],
+  "powers": [
+    "Agility",
+    "Genius biologist",
+    "Greatly enhanced strength",
+    "Gymnast",
+    "Spy",
+    "Superbly trained athlete",
+    "Unarmed combatant"
+  ],
+  "ranking": {
+    "comicCount": 35,
+    "eventCount": 3,
+    "pageviewCount": 18951,
+    "serieCount": 15,
+    "storyCount": 33
+  },
+  "secretIdentities": [
+    "Barbara Morse Barton",
+    "Bobbi"
+  ],
+  "species": [
+  ],
+  "superName": "Mockingbird",
+  "teams": [
+    "Avengers",
+    "Great Lakes Avengers",
+    "Legion of the Unliving",
+    "New Avengers",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "The New Avengers",
+    "West Coast Avengers",
+    "World Counter-terrorism Agency"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1479/mockingbird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)"
+  }
+}

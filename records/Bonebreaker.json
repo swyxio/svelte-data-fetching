@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Bonebreaker"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "Bonebreaker is a super villain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Bonebreaker",
+  "partners": [
+  ],
+  "powers": [
+    "Augmented strength",
+    "Cybernetic body",
+    "Reflexes",
+    "Robotic weaponry",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 436,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Bonebreaker",
+  "teams": [
+    "Reavers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonebreaker"
+  }
+}

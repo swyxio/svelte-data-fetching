@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Wildstreak"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Tom DeFalco"
+  ],
+  "description": "Wildstreak (Tamika Bowden) is a fictional character in the Marvel Comics  universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Wildstreakmu0.jpg/225px-Wildstreakmu0.jpg"
+  },
+  "mainColor": null,
+  "name": "Wildstreak",
+  "partners": [
+    "Thunderstrike",
+    "Thunderstrike (Eric Masterson)"
+  ],
+  "powers": [
+    "Agility",
+    "Exo-skeleton",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 152,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tamika Bowden"
+  ],
+  "species": [
+  ],
+  "superName": "Wildstreak",
+  "teams": [
+    "Fantastic Four"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wildstreak"
+  }
+}

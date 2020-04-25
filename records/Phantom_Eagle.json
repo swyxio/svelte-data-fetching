@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Phantom Eagle"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Herb Trimpe"
+  ],
+  "description": "Phantom Eagle is the name used by three fictional comic book aviator heroes.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg"
+  },
+  "mainColor": null,
+  "name": "Phantom Eagle",
+  "partners": [
+  ],
+  "powers": [
+    "Ace world war i pilot"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 619,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karl Kaufman"
+  ],
+  "species": [
+  ],
+  "superName": "Phantom Eagle",
+  "teams": [
+    "Freedom's Five"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phantom_Eagle"
+  }
+}

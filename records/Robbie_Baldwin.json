@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Masked Marvel",
+    "Penance",
+    "Robbie Baldwin",
+    "Speedball"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Robert \"Robbie\" Baldwin is a fictional character, a superhero appearing in books published by Marvel Comics.Created by artist Steve Ditko and writer Tom DeFalco, the character first appeared in The Amazing Spider-Man Annual #22 (January 1988) originally known as Speedball, as well as in Civil War: Front Line #10 (January 2007) as Penance.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/AmazingSpider-ManAnnual22.png/250px-AmazingSpider-ManAnnual22.png"
+  },
+  "mainColor": null,
+  "name": "Robbie Baldwin",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5364,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robbie",
+    "Robert Baldwin"
+  ],
+  "species": [
+  ],
+  "superName": "Robbie Baldwin",
+  "teams": [
+    "Avengers Academy",
+    "Damage Control",
+    "New Warriors",
+    "Shadow Initiative",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Robbie_Baldwin"
+  }
+}

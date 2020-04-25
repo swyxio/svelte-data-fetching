@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Cul Borson",
+    "Serpent"
+  ],
+  "authors": [
+    "Matt Fraction",
+    "Stuart Immonen"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Serpent",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Healing factor",
+    "Longevity",
+    "Magic manipulation",
+    "Shapeshifting",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 174,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Serpent",
+  "teams": [
+    "Worthy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Serpent_(comics)"
+  }
+}

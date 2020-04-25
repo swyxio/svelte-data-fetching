@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Black Talon"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Len Wein"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png"
+  },
+  "mainColor": null,
+  "name": "Black Talon (Samuel Barone)",
+  "partners": [
+    "Mama Limbo"
+  ],
+  "powers": [
+    "Control zombies"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 33,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desmond Drew"
+  ],
+  "species": [
+  ],
+  "superName": "Black Talon",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Talon_(Samuel_Barone)"
+  }
+}

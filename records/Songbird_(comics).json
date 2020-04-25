@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Melissa Joan Gold",
+    "Mimi Schwartz",
+    "Screaming Mimi",
+    "Songbird"
+  ],
+  "authors": [
+    "John Byrne",
+    "Mark Gruenwald",
+    "Ralph Macchio"
+  ],
+  "description": "Melissa Gold grew up on the streets, adopting her mother's name \"Mimi\" as part of a hard, cold persona she developed as a survival mechanism.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c0038da16738/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Songbird",
+  "partners": [
+  ],
+  "powers": [
+    "Burst projection",
+    "Echokinesis",
+    "Echolocation",
+    "Hypnotic song",
+    "Solid sound",
+    "Sonic screams",
+    "Sonokinesis",
+    "Sound",
+    "Supersonic speed",
+    "Vocal manipulation",
+    "Waves"
+  ],
+  "ranking": {
+    "comicCount": 27,
+    "eventCount": 2,
+    "pageviewCount": 3374,
+    "serieCount": 12,
+    "storyCount": 22
+  },
+  "secretIdentities": [
+    "Melissa Joan Gold"
+  ],
+  "species": [
+  ],
+  "superName": "Songbird",
+  "teams": [
+    "Avengers Idea Mechanics",
+    "Femizons",
+    "Grapplers",
+    "Masters of Evil",
+    "The New Avengers",
+    "Thunderbolts",
+    "UCWF",
+    "Unlimited Class Wrestling Federation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2156/songbird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Songbird_(comics)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Nazé",
+    "The Adversary",
+    "The Great Trickster"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "The Adversary is a fictional character, a demonic supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Adversary",
+  "partners": [
+  ],
+  "powers": [
+    "Magical powers",
+    "Superhuman durability",
+    "Superhuman speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 611,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Adversary",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Adversary_(comics)"
+  }
+}

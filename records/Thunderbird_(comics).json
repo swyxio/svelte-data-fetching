@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "John Proudstar",
+    "Thunderbird"
+  ],
+  "authors": [
+    "Dave Cockrum",
+    "Len Wein"
+  ],
+  "description": "An exceptionally strong and vigorous athlete in his youth, John Proudstar’s mutant abilities first manifested when he wrestled a charging bison to save a young girl.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c003aa43b1ec/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Thunderbird",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Speed",
+    "Stamina",
+    "Strength",
+    "Sturdiness",
+    "Superhuman senses"
+  ],
+  "ranking": {
+    "comicCount": 30,
+    "eventCount": 2,
+    "pageviewCount": 2850,
+    "serieCount": 20,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+    "John Proudstar"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Thunderbird",
+  "teams": [
+    "United States Marine Corps",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2364/thunderbird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderbird_(comics)"
+  }
+}

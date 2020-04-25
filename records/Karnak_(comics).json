@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Karnak",
+    "The Shatterer"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Karnak is a fictional superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/52740e5d96fcc/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Karnak",
+  "partners": [
+  ],
+  "powers": [
+    "Master martial artist"
+  ],
+  "ranking": {
+    "comicCount": 44,
+    "eventCount": 2,
+    "pageviewCount": 4951,
+    "serieCount": 20,
+    "storyCount": 46
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Karnak",
+  "teams": [
+    "Inhuman Royal Family"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1122/karnak",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karnak_(comics)"
+  }
+}

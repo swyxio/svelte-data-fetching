@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Laufey"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Laufey is a comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of the Asgardian king Odin, father of Thor.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Laufey",
+  "partners": [
+  ],
+  "powers": [
+    "Cryokinesis",
+    "Frostbite",
+    "Immunity to hypothermia",
+    "Resistance to injury",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1976,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Giants"
+  ],
+  "superName": "Laufey",
+  "teams": [
+    "Dark Council"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Laufey_(comics)"
+  }
+}

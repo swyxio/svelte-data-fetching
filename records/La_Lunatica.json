@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "La Lunatica",
+    "Luna"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Ron Lim"
+  ],
+  "description": "La Lunatica is a fictional character in the Marvel Comics comic book X-Men 2099.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "La Lunatica",
+  "partners": [
+  ],
+  "powers": [
+    "Memories",
+    "Reflexes",
+    "Senses",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 307,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "La Lunatica",
+  "teams": [
+    "Halo City Protectorate",
+    "Theatre of Pain",
+    "X-Men 2099",
+    "the Norns"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/La_Lunatica"
+  }
+}

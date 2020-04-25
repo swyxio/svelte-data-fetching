@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Ajax",
+    "The Attending"
+  ],
+  "authors": [
+    "Dale Keown",
+    "Joe Kelly",
+    "Peter David",
+    "Walter A. McDaniel"
+  ],
+  "description": "Ajax is the codename belonging to two different characters in Marvel Comics, one the descendant of a demigod, the other a mercenary.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg"
+  },
+  "mainColor": null,
+  "name": "Ajax",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Enhanced strength",
+    "Extended lifespan",
+    "High tolerance to pain",
+    "Intuitive capacity",
+    "Reflexes",
+    "Superhuman speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 49286,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Francis"
+  ],
+  "species": [
+  ],
+  "superName": "Ajax",
+  "teams": [
+    "Pantheon",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajax_(comics)"
+  }
+}

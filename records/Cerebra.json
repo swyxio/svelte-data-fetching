@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Cerebra"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Ron Lim"
+  ],
+  "description": "Cerebra (Shakti Haddad) is a mutant comic book character in the fictional Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a0/Xmen2099-30b.jpg"
+  },
+  "mainColor": null,
+  "name": "Cerebra",
+  "partners": [
+  ],
+  "powers": [
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 651,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Shakti Haddad"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Cerebra",
+  "teams": [
+    "Halo City Protectorate",
+    "X-Men 2099",
+    "X-Nation 2099"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerebra"
+  }
+}

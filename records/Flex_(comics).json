@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Flex"
+  ],
+  "authors": [
+    "Anthony Winn",
+    "Steven T. Seagle"
+  ],
+  "description": "Flex (Adrian Corbo) is a fictional character, a superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Flex",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 191,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Adrian Corbo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Flex",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Department H",
+    "Features of the Marvel Universe"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Flex_(comics)"
+  }
+}

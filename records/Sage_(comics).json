@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Britannia",
+    "Diana Fox",
+    "Lady Tessa",
+    "Sage",
+    "Tessa"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Sage, also known as Tessa, is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003c44095cb/standard_xlarge.png"
+  },
+  "mainColor": null,
+  "name": "Sage",
+  "partners": [
+  ],
+  "powers": [
+    "Data analysis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 2620,
+    "serieCount": 6,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Tessa"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sage",
+  "teams": [
+    "Excalibur",
+    "Exiles",
+    "Hellfire Club",
+    "Multiverse X-Men",
+    "New Excalibur",
+    "S.W.O.R.D",
+    "The Hellfire Club",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "X-Treme X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1977/sage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sage_(comics)"
+  }
+}

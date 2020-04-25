@@ -1,0 +1,67 @@
+{
+  "aliases": [
+    "Ikol",
+    "Loki",
+    "Loki Laufeyson",
+    "Loki Odinson",
+    "Scarlet Witch",
+    "Serrure"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Larry Lieber",
+    "Stan Lee"
+  ],
+  "description": "Loki is a fictional character that appears in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/537bb40a94729.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/537bb3780cfd2/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "hexa": "0D2628",
+    "red": 13
+  },
+  "name": "Loki",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Durability",
+    "Energy blasts",
+    "Flight",
+    "Illusion casting",
+    "Longevity",
+    "Magical powers",
+    "Shapeshifting",
+    "Strength",
+    "Superhuman intelligence",
+    "Telepathy",
+    "Via"
+  ],
+  "ranking": {
+    "comicCount": 194,
+    "eventCount": 7,
+    "pageviewCount": 17262,
+    "serieCount": 79,
+    "storyCount": 193
+  },
+  "secretIdentities": [
+    "Loki Laufeyson"
+  ],
+  "species": [
+    "Giants"
+  ],
+  "superName": "Loki",
+  "teams": [
+    "Acts of Vengeance",
+    "Astonishing Avengers",
+    "Cabal",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/33/loki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Loki_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Dr. Hartley",
+    "Frederick Slade"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Frank Tieri"
+  ],
+  "description": "Frederick Slade is a fictional character and mutant in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG"
+  },
+  "mainColor": null,
+  "name": "Frederick Slade",
+  "partners": [
+  ],
+  "powers": [
+    "Molecular rearrangement",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 551,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frederick Slade"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Frederick Slade",
+  "teams": [
+    "Clan Akkaba"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Slade"
+  }
+}

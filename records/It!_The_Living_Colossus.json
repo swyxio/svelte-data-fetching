@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "It the Living Colossus",
+    "It! The Living Colossus",
+    "living%20colossus"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "It! The Living Colossus (Robert \"Bob\" O'Bryan) is a fictional character in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg"
+  },
+  "mainColor": null,
+  "name": "It! The Living Colossus",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 428,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bob",
+    "Robert O'Bryan"
+  ],
+  "species": [
+  ],
+  "superName": "It! The Living Colossus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/It!_The_Living_Colossus"
+  }
+}

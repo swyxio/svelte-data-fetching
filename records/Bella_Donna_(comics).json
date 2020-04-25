@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Bella Donna",
+    "Belladonna",
+    "Madam Belladonna"
+  ],
+  "authors": [
+    "Jim Lee",
+    "Mike Zeck",
+    "Roger Stern",
+    "Scott Lobdell"
+  ],
+  "description": "Bella Donna or Belladonna (from the Italian expression \"bella donna\", beautiful woman) is a name or alias used by two fictional characters in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7f/BellaBoudreaux1.jpg"
+  },
+  "mainColor": null,
+  "name": "Bella Donna",
+  "partners": [
+  ],
+  "powers": [
+    "Astral projection",
+    "Plasma blasts"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2400,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bella Donna Boudreaux",
+    "Narda Ravanna"
+  ],
+  "species": [
+    "Human",
+    "Mutant"
+  ],
+  "superName": "Bella Donna",
+  "teams": [
+    "Assassins' Guild",
+    "United Guilds"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bella_Donna_(comics)"
+  }
+}

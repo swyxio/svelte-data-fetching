@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Hobgoblin",
+    "Jack O'Lantern"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Peter_Parker_The_Spectacular_Spider-Man_%28no._56%2C_front_cover%29.jpg/249px-Peter_Parker_The_Spectacular_Spider-Man_%28no._56%2C_front_cover%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Jack O'Lantern",
+  "partners": [
+  ],
+  "powers": [
+    "Body armor",
+    "Devices",
+    "Wears pumpkin helmet"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2385,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jason Philip Macendale",
+    "Jr."
+  ],
+  "species": [
+  ],
+  "superName": "Jack O'Lantern",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_O%27Lantern_(Marvel_Comics)"
+  }
+}

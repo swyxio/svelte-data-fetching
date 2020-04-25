@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Adam Aaronson",
+    "Machine Teen"
+  ],
+  "authors": [
+    "Marc Sumerak",
+    "Marc SumerakMike Hawthorne",
+    "Mike Hawthorne"
+  ],
+  "description": "Machine Teen is a fictional character that appears in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Machine Teen",
+  "partners": [
+  ],
+  "powers": [
+    "Ic body",
+    "Robot",
+    "Robotic body"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 276,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "A.D.A.M"
+  ],
+  "species": [
+  ],
+  "superName": "Machine Teen",
+  "teams": [
+    "Avengers Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Machine_Teen"
+  }
+}

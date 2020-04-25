@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Futurist"
+  ],
+  "authors": [
+    "John Byrne",
+    "Marv Wolfman"
+  ],
+  "description": "Futurist (Randolph James) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Futurist",
+  "partners": [
+    "Alpha the Ultimate Mutant"
+  ],
+  "powers": [
+    "Fly"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 235,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Randolph James"
+  ],
+  "species": [
+    "human mutate"
+  ],
+  "superName": "Futurist",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Futurist_(comics)"
+  }
+}

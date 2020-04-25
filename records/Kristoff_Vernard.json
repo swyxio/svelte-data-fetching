@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Dr. Doom; Victor Von Doom; Kristoff Von Doom",
+    "Kristoff Vernard"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Kristoff Vernard (formerly known as Kristoff von Doom and Dr. Doom) is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b0/Kristoff.png"
+  },
+  "mainColor": null,
+  "name": "Kristoff Vernard",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy projection",
+    "Flight",
+    "Powered armor",
+    "Skilled in science"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 989,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kristoff Vernard"
+  ],
+  "species": [
+  ],
+  "superName": "Kristoff Vernard",
+  "teams": [
+    "Fantastic Four"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristoff_Vernard"
+  }
+}

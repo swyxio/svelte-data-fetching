@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Timberius"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Marie Severin"
+  ],
+  "description": "Timberius is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Timberius",
+  "partners": [
+  ],
+  "powers": [
+    "Bark like skin",
+    "Psionic power over plants"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 448,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhuman"
+  ],
+  "superName": "Timberius",
+  "teams": [
+    "Inhuman",
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Timberius"
+  }
+}

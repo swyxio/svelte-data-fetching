@@ -1,0 +1,36 @@
+{
+  "aliases": [
+    "Quasar"
+  ],
+  "authors": [
+  ],
+  "description": "Quasar is the name of several fictional superheroes in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Quasars.jpg/250px-Quasars.jpg"
+  },
+  "mainColor": null,
+  "name": "Quasar",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3178,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Quasar",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Quasar_(comics)"
+  }
+}

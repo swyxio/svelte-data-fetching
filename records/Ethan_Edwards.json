@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Edwards",
+    "Ethan",
+    "Ethan Edwards",
+    "Moral Man",
+    "The Tiller",
+    "Virtue"
+  ],
+  "authors": [
+    "Billy Tan",
+    "Reginald Hudlin"
+  ],
+  "description": "Virtue (Ethan Edwards) is a fictional character, a superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/MKSM018.jpg/250px-MKSM018.jpg"
+  },
+  "mainColor": null,
+  "name": "Ethan Edwards",
+  "partners": [
+  ],
+  "powers": [
+    "Energy projection",
+    "Flight",
+    "Healing powers",
+    "Invulnerability",
+    "Shapeshifting",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 603,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ethan T. Edwards"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Ethan Edwards",
+  "teams": [
+    "Daily Bugle",
+    "Revengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Edwards"
+  }
+}

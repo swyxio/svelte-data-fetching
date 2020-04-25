@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Blackwulf",
+    "Blackwulf (Lucian)"
+  ],
+  "authors": [
+    "Angel Medina",
+    "Glenn Herdling"
+  ],
+  "description": "Blackwulf is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg"
+  },
+  "mainColor": null,
+  "name": "Blackwulf",
+  "partners": [
+    "Giant-Man",
+    "Mammoth",
+    "Sparrow"
+  ],
+  "powers": [
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 329,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Blackwulf I",
+    "Blackwulf I (Pelops)",
+    "Blackwulf II",
+    "Blackwulf II (Lucian)"
+  ],
+  "species": [
+    "Deviant"
+  ],
+  "superName": "Blackwulf",
+  "teams": [
+    "Avengers",
+    "Blue",
+    "Underground Legion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackwulf"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Cannonball",
+    "Samson Guthry"
+  ],
+  "authors": [
+    "Bob McLeod",
+    "Chris Claremont"
+  ],
+  "description": "Cannonball (Samuel Zachary Guthrie) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/c0/4c00407fb91b5/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Cannonball",
+  "partners": [
+  ],
+  "powers": [
+    "Blast field",
+    "Jet propulsion"
+  ],
+  "ranking": {
+    "comicCount": 237,
+    "eventCount": 11,
+    "pageviewCount": 6770,
+    "serieCount": 66,
+    "storyCount": 250
+  },
+  "secretIdentities": [
+    "Sam",
+    "Samuel  Zachary Guthrie"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Cannonball",
+  "teams": [
+    "Avengers",
+    "Hellfire Club",
+    "Hellions",
+    "Jean Grey School",
+    "Mutant Liberation Front",
+    "New Mutants",
+    "X-Corporation",
+    "X-Force",
+    "X-Mansion",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "X-Treme X-Men",
+    "XSE"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/379/cannonball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cannonball_(comics)"
+  }
+}

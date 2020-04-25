@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Diamanda Nero"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Pascal Alixe"
+  ],
+  "description": "Diamanda Nero is a fictional character, a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Diamanda Nero",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced speed",
+    "Generates electricity",
+    "Genetic lycanthropy",
+    "Phoenix force",
+    "Phoenix force (briefly)",
+    "Poisonous claws",
+    "Telepathic immunity"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 169,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Diamanda Nero"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Diamanda Nero",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Diamanda_Nero"
+  }
+}

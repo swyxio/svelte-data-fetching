@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Doctor Octopus",
+    "Doctor Octopus II",
+    "II",
+    "Lady Octopus"
+  ],
+  "authors": [
+    "Angel Medina",
+    "J. M. DeMatteis",
+    "J.M. DeMatteis"
+  ],
+  "description": "Lady Octopus, (real name Carolyn Trainer and also known as the second Doctor Octopus) is a fictional character and a supervillainess in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lady Octopus",
+  "partners": [
+  ],
+  "powers": [
+    "Armed with lasers",
+    "Genius",
+    "Genius-level intellect",
+    "Wears super-strong"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 624,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carolyn Trainer"
+  ],
+  "species": [
+  ],
+  "superName": "Lady Octopus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Octopus"
+  }
+}

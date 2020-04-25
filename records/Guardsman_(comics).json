@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Guardsman"
+  ],
+  "authors": [
+    "Allyn Brodsky",
+    "Don Heck",
+    "Herb Trimpe",
+    "Len Wein"
+  ],
+  "description": "Guardsman was the name of a supervillain/superhero in the Marvel Universe, but the name was later applied to a small squad of agents.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Guardsman",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Physical resistance",
+    "Repulsor rays",
+    "Superhuman stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 662,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kevin O'Brien",
+    "Michael O'Brien"
+  ],
+  "species": [
+  ],
+  "superName": "Guardsman",
+  "teams": [
+    "Avengers",
+    "Features of the Marvel Universe",
+    "Iron Legion",
+    "Stark Industries",
+    "Vault"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Guardsman_(comics)"
+  }
+}

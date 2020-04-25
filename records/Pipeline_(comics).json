@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Pipeline"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Rick Leonardi"
+  ],
+  "description": "Pipeline (Cormick Grimshaw) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Pipeline",
+  "partners": [
+  ],
+  "powers": [
+    "Cybernetic travel",
+    "Organic or inorganic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 115,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cormick Grimshaw"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Pipeline",
+  "teams": [
+    "Genoshan Cabinet",
+    "Genoshan Magistrates",
+    "Magistrates",
+    "Press Gang"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pipeline_(comics)"
+  }
+}

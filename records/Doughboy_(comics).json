@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Doughboy"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Doughboy is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Doughboy",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Malleable body",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 334,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Doughboy",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doughboy_(comics)"
+  }
+}

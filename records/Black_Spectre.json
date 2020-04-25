@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Black Spectre"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Bob Brown",
+    "Doug Moench",
+    "Steve Gerber"
+  ],
+  "description": "Black Spectre has two meanings in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Black_Spectre_%281974%29.jpg/250px-Black_Spectre_%281974%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Spectre",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1013,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carson Knowles"
+  ],
+  "species": [
+  ],
+  "superName": "Black Spectre",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Spectre"
+  }
+}

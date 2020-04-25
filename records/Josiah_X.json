@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "A-39",
+    "Josiah Bradley",
+    "Josiah Smith",
+    "Josiah X",
+    "Justice"
+  ],
+  "authors": [
+    "Christopher Priest",
+    "Joe Bennett"
+  ],
+  "description": "Josiah X is a fictional character who exists in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Josiahx.png/250px-Josiahx.png"
+  },
+  "mainColor": null,
+  "name": "Josiah X",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Reflexes/reactions",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 645,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Josiah al hajj Saddiq"
+  ],
+  "species": [
+  ],
+  "superName": "Josiah X",
+  "teams": [
+    "The Crew",
+    "U.S. Army",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_X"
+  }
+}

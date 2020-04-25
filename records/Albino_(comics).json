@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Albino"
+  ],
+  "authors": [
+    "Jeff Johnson",
+    "Tom DeFalco"
+  ],
+  "description": "Albino (Augusta Seger) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png"
+  },
+  "mainColor": null,
+  "name": "Albino",
+  "partners": [
+  ],
+  "powers": [
+    "Invisibility"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 173,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Augusta Seger"
+  ],
+  "species": [
+  ],
+  "superName": "Albino",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Albino_(comics)"
+  }
+}

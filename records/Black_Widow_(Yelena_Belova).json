@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Belova",
+    "Black Widow",
+    "Pale Little Spider",
+    "Rooskaya",
+    "Super-Adaptoid",
+    "Yelena",
+    "Yelena Belova"
+  ],
+  "authors": [
+    "Devin Grayson",
+    "Devin K. Grayson",
+    "J. G. Jones"
+  ],
+  "description": "Black Widow (Yelena Belova) is a fictional character, a spy in the Marvel Comics Universe and second modern-era character to use the name Black Widow.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/537ba452ba274.gif",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Yelenabelova.png/250px-Yelenabelova.png"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Black Widow (Yelena Belova)",
+  "partners": [
+  ],
+  "powers": [
+    "Espionage training",
+    "Extensive military",
+    "Martial arts",
+    "Peak athletic condition"
+  ],
+  "ranking": {
+    "comicCount": 294,
+    "eventCount": 8,
+    "pageviewCount": 2718,
+    "serieCount": 125,
+    "storyCount": 307
+  },
+  "secretIdentities": [
+    "Yelena Belova"
+  ],
+  "species": [
+  ],
+  "superName": "Black Widow",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Russia",
+    "Russian Federation",
+    "S.H.I.E.L.D",
+    "Vanguard"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/6/black_widow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Yelena_Belova)"
+  }
+}

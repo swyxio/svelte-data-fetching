@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Sharon Ginsberg"
+  ],
+  "authors": [
+    "Michael Allred",
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Sharon Ginsberg is a fictional character, a mutant lawyer in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Sharon Ginsberg",
+  "partners": [
+    "Solomon O'Sullivan"
+  ],
+  "powers": [
+    "Bat-like wings",
+    "Enhanced strength",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 156,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sharon Ginsberg"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sharon Ginsberg",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Ginsberg"
+  }
+}

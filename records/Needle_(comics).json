@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Needle"
+  ],
+  "authors": [
+    "Al Gordon",
+    "Carmine Infantino",
+    "Mark Gruenwald"
+  ],
+  "description": "The Needle is a comic book character.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Spider_Woman_1978_Issue_9.jpg/250px-Spider_Woman_1978_Issue_9.jpg"
+  },
+  "mainColor": null,
+  "name": "Needle",
+  "partners": [
+  ],
+  "powers": [
+    "Stronger",
+    "Wields a yard long needle"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 170,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Josef Saint"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Needle",
+  "teams": [
+    "Night Shift"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Needle_(comics)"
+  }
+}

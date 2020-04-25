@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Scarecrow",
+    "Skirra Corvus",
+    "Straw Man"
+  ],
+  "authors": [
+    "Rico Rival",
+    "Scott Edelman"
+  ],
+  "description": "The Scarecrow, later named Straw Man, is a fictional character, a super villain appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg"
+  },
+  "mainColor": null,
+  "name": "Straw Man",
+  "partners": [
+  ],
+  "powers": [
+    "Except towards fire",
+    "Fear inducement",
+    "Invulnerable",
+    "Plant manipulation",
+    "Portal creation",
+    "Superhuman strength",
+    "Weather manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 434,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Straw Man",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Straw_Man_(comics)"
+  }
+}

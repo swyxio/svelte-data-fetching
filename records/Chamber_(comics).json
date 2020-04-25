@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Chamber",
+    "Decibel"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Jonothon \"Jono\" Evan Starsmore, better known as Chamber or Decibel, is a fictional character, a Marvel Comics superhero associated with the X-Men and the New Warriors.A British mutant, Jono possessed the ability to cast energy blasts from his chest.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c00406e4731b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Chamber",
+  "partners": [
+  ],
+  "powers": [
+    "Energy",
+    "In chest",
+    "Possesses a furnace of",
+    "Psionic",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 24,
+    "eventCount": 0,
+    "pageviewCount": 11793,
+    "serieCount": 8,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+    "Jono",
+    "Jonothon Evan Starsmore"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Chamber",
+  "teams": [
+    "Clan Akkaba",
+    "Generation X",
+    "Jean Grey School",
+    "New Warriors",
+    "Weapon X",
+    "X-Mansion",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/417/chamber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chamber_(comics)"
+  }
+}

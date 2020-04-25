@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Grim Hunter",
+    "Son of the Hunter"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "Tom Lyle"
+  ],
+  "description": "Grim Hunter is a fictional character, a supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Grim Hunter",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Carries a heavy stone axe",
+    "Durability",
+    "Enhanced strength",
+    "Longevity",
+    "Senses",
+    "Skilled weapons master",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 435,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Vlad",
+    "Vladimir Kravinoff"
+  ],
+  "species": [
+  ],
+  "superName": "Grim Hunter",
+  "teams": [
+    "Kravinoff Family"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Grim_Hunter"
+  }
+}

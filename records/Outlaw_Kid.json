@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "The Outlaw Kid",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Doug Wildey"
+  ],
+  "description": "The Outlaw Kid  is a fictional Western hero in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4c/OutlawKid11-pg2.png"
+  },
+  "mainColor": null,
+  "name": "Outlaw Kid",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 275,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lance Temple"
+  ],
+  "species": [
+  ],
+  "superName": "Outlaw Kid",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Outlaw_Kid"
+  }
+}

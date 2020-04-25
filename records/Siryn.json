@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Banshee",
+    "Siryn",
+    "Terry",
+    "The Morrigan",
+    "Tracy Cassidy"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Steve Leialoha"
+  ],
+  "description": "Theresa Maeve Rourke Cassidy is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/X_FACT_COV005_400.jpg/250px-X_FACT_COV005_400.jpg"
+  },
+  "mainColor": null,
+  "name": "Siryn",
+  "partners": [
+    "Black Tom Cassidy",
+    "Juggernaut"
+  ],
+  "powers": [
+    "Flight",
+    "Hypnosis",
+    "Immortality/longevity",
+    "Sonic scream",
+    "Sound manipulation",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3855,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Theresa Maeve Rourke Cassidy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Siryn",
+  "teams": [
+    "Fallen Angels",
+    "Muir Island X-Men",
+    "X-Corporation",
+    "X-Factor Investigations",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Siryn"
+  }
+}

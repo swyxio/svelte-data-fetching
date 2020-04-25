@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Silver Dagger"
+  ],
+  "authors": [
+    "Frank Brunner",
+    "Steve Englehart"
+  ],
+  "description": "Silver Dagger is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Silver Dagger",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 377,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Isaiah Curwen"
+  ],
+  "species": [
+  ],
+  "superName": "Silver Dagger",
+  "teams": [
+    "Sword of the Lord",
+    "The Catholic Church"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver_Dagger_(comics)"
+  }
+}

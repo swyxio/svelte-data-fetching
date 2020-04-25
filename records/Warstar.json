@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Warstar"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Warstar, a former member of the Imperial Guard, was one of eight Imperial Guardsmen chosen to battle the team of superhuman Earthling mutants known as the X-Men over the fate of Phoenix, a primal force of the cosmos that had assumed the form of the X-Man Jean Grey.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003a73b6673/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Warstar",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 1,
+    "pageviewCount": 508,
+    "serieCount": 6,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "B'nee",
+    "B'nee and C'cil",
+    "C'cil"
+  ],
+  "species": [
+  ],
+  "superName": "Warstar",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2531/warstar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warstar"
+  }
+}

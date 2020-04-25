@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Bloodstone",
+    "Captain Achab",
+    "Redstone Kid",
+    "Ulysses",
+    "Ulysses Bloodstone"
+  ],
+  "authors": [
+    "John Warner",
+    "Len Wein",
+    "Marv Wolfman"
+  ],
+  "description": "Ulysses Bloodstone is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg"
+  },
+  "mainColor": null,
+  "name": "Ulysses Bloodstone",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Endurance",
+    "Heightened senses",
+    "Immortality",
+    "Reflexes",
+    "Regeneration",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1118,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Ulysses Bloodstone",
+  "teams": [
+    "Avengers\" (1959)",
+    "Monster Hunters"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_Bloodstone"
+  }
+}

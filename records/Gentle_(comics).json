@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Gentle"
+  ],
+  "authors": [
+    "Chris Yost",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Mark Brooks"
+  ],
+  "description": "Gentle (Nezhno Abidemi) is a fictional character, a mutant in the Marvel Comics Universe, and a member of the student body of the Xavier Institute.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Gentleprofile.jpg/250px-Gentleprofile.jpg"
+  },
+  "mainColor": null,
+  "name": "Gentle",
+  "partners": [
+  ],
+  "powers": [
+    "Extreme strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 995,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nez",
+    "Nezhno Abidemi"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Gentle",
+  "teams": [
+    "Jean Grey School Students",
+    "New X-Men",
+    "Storm's training squad",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gentle_(comics)"
+  }
+}

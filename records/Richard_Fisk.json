@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Richard Fisk",
+    "The Blood Rose",
+    "The Rose",
+    "The Schemer"
+  ],
+  "authors": [
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Stan Lee"
+  ],
+  "description": "Richard Fisk is a fictional character, a criminal in the Marvel Comics Universe, featured in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg"
+  },
+  "mainColor": null,
+  "name": "Richard Fisk",
+  "partners": [
+  ],
+  "powers": [
+    "Carries a handgun",
+    "Good martial artist",
+    "High-level intellect",
+    "Use of guns",
+    "Wears a bulletproof suit"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3439,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Richard Fisk"
+  ],
+  "species": [
+  ],
+  "superName": "Richard Fisk",
+  "teams": [
+    "HYDRA",
+    "Hydra"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Fisk"
+  }
+}

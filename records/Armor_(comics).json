@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Armor"
+  ],
+  "authors": [
+    "John Cassaday",
+    "Joss Whedon"
+  ],
+  "description": "Armor (Hisako Ichiki (市来 久子, Ichiki Hisako)) is a fictional character who exists in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e6cbf990/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Armor",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Dexterity",
+    "Durability",
+    "Endurance",
+    "Invulnerability",
+    "Reflexes",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 2201,
+    "serieCount": 2,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Hisako Ichiki"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Armor",
+  "teams": [
+    "Jean Grey School Students",
+    "New X-Men",
+    "Paladins training squad",
+    "X-Mansion",
+    "X-Men",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/191/armor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armor_(comics)"
+  }
+}

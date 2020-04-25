@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Giganto",
+    "Moby Dick",
+    "Monstro"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Giganto is the name of two Marvel Comics monsters.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg"
+  },
+  "mainColor": null,
+  "name": "Giganto",
+  "partners": [
+    "Droom",
+    "Eerok",
+    "Inorganic Technodrones",
+    "Kro",
+    "Llyra",
+    "Mole Man",
+    "Namor",
+    "Triton"
+  ],
+  "powers": [
+    "Aquatic",
+    "Endurance",
+    "Land adaptation",
+    "Resistance to injury",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1029,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Humanity Subspecies",
+    "Terrestrial Animal"
+  ],
+  "superName": "Giganto",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Giganto"
+  }
+}

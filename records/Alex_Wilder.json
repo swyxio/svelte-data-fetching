@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Alex Wilder"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "Brian K. Vaughan"
+  ],
+  "description": "Despite being the only one of the Runaways without any superhuman abilities or tech, Alex Wilder became the de facto leader of the group due to his natural leadership skills and intellect, as well as prodigy-level logic and strategy.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c00377144d5a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Alex Wilder",
+  "partners": [
+  ],
+  "powers": [
+    "Advanced skill with",
+    "Advanced skill with logic",
+    "Logic",
+    "Strategy"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 1438,
+    "serieCount": 2,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Alex Wilder"
+  ],
+  "species": [
+  ],
+  "superName": "Alex Wilder",
+  "teams": [
+    "Pride",
+    "Runaways",
+    "The Pride",
+    "Young Masters"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2820/alex_wilder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Wilder"
+  }
+}

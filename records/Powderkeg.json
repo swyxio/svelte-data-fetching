@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Powderkeg"
+  ],
+  "authors": [
+    "Dwayne McDuffie",
+    "Mark D. Bright"
+  ],
+  "description": "Powderkeg is a Marvel Comics supervillain who first appeared in Captain Marvel Special #1.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Powderkeg",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 184,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frank Skorina"
+  ],
+  "species": [
+  ],
+  "superName": "Powderkeg",
+  "teams": [
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Powderkeg"
+  }
+}

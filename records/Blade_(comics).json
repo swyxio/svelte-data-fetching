@@ -1,0 +1,67 @@
+{
+  "aliases": [
+    "Blade",
+    "Daywalker",
+    "Frank Blade",
+    "Ronin",
+    "Spider Hero",
+    "SwitchBlade",
+    "The Vampire Hunter",
+    "Vampire Hunter"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Marv Wolfman"
+  ],
+  "description": "Blade is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/523ca6f2b11e4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Blade",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced senses",
+    "Marksman",
+    "Master martial artist",
+    "Skilled swordsman",
+    "Slowed aging",
+    "Speed",
+    "Stamina",
+    "Street fighter",
+    "Superhuman strength",
+    "Use of throwing knives",
+    "Vampire hypnosis"
+  ],
+  "ranking": {
+    "comicCount": 36,
+    "eventCount": 2,
+    "pageviewCount": 14805,
+    "serieCount": 16,
+    "storyCount": 49
+  },
+  "secretIdentities": [
+    "Eric Brooks"
+  ],
+  "species": [
+    "Dhampir"
+  ],
+  "superName": "Blade",
+  "teams": [
+    "13",
+    "Avengers of the Supernatural",
+    "MI-13",
+    "Midnight Sons",
+    "Mighty Avengers",
+    "Nightstalkers",
+    "The Mighty Avengers",
+    "Vanguard"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/295/blade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blade_(comics)"
+  }
+}

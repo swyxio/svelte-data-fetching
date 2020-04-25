@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Javitz"
+  ],
+  "authors": [
+    "Brandon Peterson",
+    "John Romita Jr.",
+    "Scott Lobdell"
+  ],
+  "description": "Isaac Javitz is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Javitz",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 122,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Isaac Javitz"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Javitz",
+  "teams": [
+    "Acolytes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Javitz"
+  }
+}

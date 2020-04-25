@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Black Knight"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Dane Whitman is a fictional comic book superhero appearing in books published by Marvel Comics, the company's third person to bear the name Black Knight.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/40/Avengers48.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Knight (Dane Whitman)",
+  "partners": [
+  ],
+  "powers": [
+    "Excellent swordsman",
+    "Expert horseman",
+    "Genius physicists",
+    "Hand to hand combatant",
+    "Magic senses",
+    "Shield of night",
+    "Strong strategist",
+    "Tactician",
+    "Wields the sword of light"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4156,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dane Whitman"
+  ],
+  "species": [
+  ],
+  "superName": "Black Knight",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Excalibur",
+    "Heroes for Hire",
+    "MI-13",
+    "Masters of Evil",
+    "Ultraforce"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_(Dane_Whitman)"
+  }
+}

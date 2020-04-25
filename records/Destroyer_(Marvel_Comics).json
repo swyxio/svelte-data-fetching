@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Kevin \"Keen\" Marlow",
+    "The Destroyer"
+  ],
+  "authors": [
+    "Alex Schomburg",
+    "Frank Robbins",
+    "Jack Binder",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": "The Destroyer is the name of three fictional superheroes appearing in the Marvel Universe comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mystic_Comics_8.jpg/250px-Mystic_Comics_8.jpg"
+  },
+  "mainColor": null,
+  "name": "Destroyer",
+  "partners": [
+  ],
+  "powers": [
+    "Marksman",
+    "Skilled fighter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 783,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Falsworth",
+    "Keen",
+    "Kevin Marlow",
+    "Roger Aubrey"
+  ],
+  "species": [
+  ],
+  "superName": "Destroyer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Destroyer_(Marvel_Comics)"
+  }
+}

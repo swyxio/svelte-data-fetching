@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Wolf Cub"
+  ],
+  "authors": [
+    "Brian K. Vaughan",
+    "Brian K. VaughanLee Ferguson",
+    "Lee Ferguson"
+  ],
+  "description": "Nicholas Gleason enrolled at the Xavier Institute after being saved from a pair of mutant-haters by X-Men members Cyclops and Chamber.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a0/Wolf_Cub_%28Nicholas_Gleason%29.png"
+  },
+  "mainColor": null,
+  "name": "Wolf Cub",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced senses",
+    "Lupine form"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 753,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nicholas Gleason"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wolf Cub",
+  "teams": [
+    "Paragons",
+    "Paragons training squad",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute",
+    "Young X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2590/wolf_cub",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolf_Cub_(comics)"
+  }
+}

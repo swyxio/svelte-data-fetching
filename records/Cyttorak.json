@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Cyttorak"
+  ],
+  "authors": [
+    "Alex Toth",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Cyttorak is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Cyttorak.jpg/250px-Cyttorak.jpg"
+  },
+  "mainColor": null,
+  "name": "Cyttorak",
+  "partners": [
+    "Juggernaut",
+    "Octessence"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4888,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Cyttorak",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyttorak"
+  }
+}

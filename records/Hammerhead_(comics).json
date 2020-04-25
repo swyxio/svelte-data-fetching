@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Hammerhead",
+    "Mr. H"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "John Romita Sr.",
+    "John Romita, Sr."
+  ],
+  "description": "Hammerhead is a fictional character, a supervillain that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c003ee47c207/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hammerhead",
+  "partners": [
+    "Chameleon",
+    "Mister Negative",
+    "Tombstone"
+  ],
+  "powers": [
+    "Adamantium-laced skull",
+    "Durability",
+    "Effective hit-man",
+    "Endurance",
+    "Excellent street fighter",
+    "Skilled marksman",
+    "Superhuman strength",
+    "Upper body"
+  ],
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 0,
+    "pageviewCount": 2834,
+    "serieCount": 11,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Joseph"
+  ],
+  "species": [
+  ],
+  "superName": "Hammerhead",
+  "teams": [
+    "Maggia",
+    "Sinister Six",
+    "Sinister Twelve"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/896/hammerhead",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hammerhead_(comics)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Black Tarantula"
+  ],
+  "authors": [
+    "Steve Skroce",
+    "Tom DeFalco"
+  ],
+  "description": "Black Tarantula is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038dfc1270/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Tarantula",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Genius-level intelligence",
+    "Healing factor",
+    "Reflexes/reactions",
+    "Skilled martial artist",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 1501,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Carlos LaMuerto"
+  ],
+  "species": [
+  ],
+  "superName": "Black Tarantula",
+  "teams": [
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/284/black_tarantula",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Tarantula"
+  }
+}

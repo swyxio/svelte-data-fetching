@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Slayer of All that Breathes",
+    "Squirrel Girl",
+    "The Anti-Life"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Will Murray"
+  ],
+  "description": "Escaping the taunts of her fellow school students regarding her physical mutation, Los-Angeles born Doreen Green fled into the nearby woods where she quickly discovered her affinity for squirrels.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Squirrel Girl",
+  "partners": [
+    "Monkey Joe",
+    "Tippy-Toe"
+  ],
+  "powers": [
+    "Prehensile tail",
+    "Razor-sharp claws",
+    "Senses",
+    "Strength",
+    "Superhuman agility"
+  ],
+  "ranking": {
+    "comicCount": 11,
+    "eventCount": 1,
+    "pageviewCount": 18733,
+    "serieCount": 8,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+    "Doreen Green"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Squirrel Girl",
+  "teams": [
+    "Avengers Idea Mechanics",
+    "Great Lakes Avengers",
+    "The New Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Squirrel_Girl"
+  }
+}

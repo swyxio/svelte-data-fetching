@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Forbush Man"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Forbush Man (spelled Forbush-Man in his early appearances), is a fictional character published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Forbush Man",
+  "partners": [
+  ],
+  "powers": [
+    "Forbush vision"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 495,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Irving Forbush"
+  ],
+  "species": [
+  ],
+  "superName": "Forbush Man",
+  "teams": [
+    "The New Paramounts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Forbush_Man"
+  }
+}

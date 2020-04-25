@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Spider-Gwen",
+    "Spider-Gwen; the White Widow",
+    "Spider-Woman"
+  ],
+  "authors": [
+    "Jason Latour",
+    "Robbi Rodriguez"
+  ],
+  "description": "Spider-Woman (Gwen Stacy) or commonly referred to as Spider-Gwen is a Marvel Comics fictional character that debuted in Edge of Spider-Verse #2 as part of the 2014–15 Spider-Man event Spider-Verse comic book.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/c0/537bc50e40e1c.gif",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/52/Spider-Gwen.png"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Spider-Woman (Gwen Stacy)",
+  "partners": [
+    "Spider-Man"
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Has spider-webbing device",
+    "Healing factor",
+    "Reflexes",
+    "Reflexes and",
+    "Speed",
+    "Spider-sense",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3407,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gwen Stacy"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Spider-Woman",
+  "teams": [
+    "Spider-Verse",
+    "Web Warriors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/55/spider-woman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Woman_(Gwen_Stacy)"
+  }
+}

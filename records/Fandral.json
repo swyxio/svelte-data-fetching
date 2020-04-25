@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Fandral",
+    "Fandral the Dashing"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Fandral the Dashing is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg"
+  },
+  "mainColor": null,
+  "name": "Fandral",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Extended lifespan",
+    "Master swordsman",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5061,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fandral"
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Fandral",
+  "teams": [
+    "Thor Corps",
+    "Warriors Three"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fandral"
+  }
+}

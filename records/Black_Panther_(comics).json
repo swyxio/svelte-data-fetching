@@ -1,0 +1,81 @@
+{
+  "aliases": [
+    "Black Leopard",
+    "Black Panther",
+    "Luke Charles",
+    "Mr. Okonkwo"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Black Panther (T'Challa) is a fictional superhero that appears in publications by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/537ba240acbf8.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/c0/537ba2bfd6bab/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Black Panther",
+  "partners": [
+    "Storm"
+  ],
+  "powers": [
+    "Agility",
+    "Boots",
+    "Durability",
+    "Equipment",
+    "Genius-level intellect",
+    "Gymnast",
+    "Healing",
+    "Inventor",
+    "Martial artist",
+    "Olympic-level strength",
+    "Politician",
+    "Reflexes",
+    "Scientist",
+    "Senses",
+    "Skilled hunter",
+    "Speed",
+    "Stamina",
+    "Strategist",
+    "Superhuman senses",
+    "Superhuman strength",
+    "Tracker",
+    "Trained acrobat",
+    "Uniform",
+    "Vibranium",
+    "Wields",
+    "Wields vibranium uniform"
+  ],
+  "ranking": {
+    "comicCount": 320,
+    "eventCount": 13,
+    "pageviewCount": 109552,
+    "serieCount": 101,
+    "storyCount": 468
+  },
+  "secretIdentities": [
+    "T'Challa"
+  ],
+  "species": [
+  ],
+  "superName": "Black Panther",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Fantastic Force",
+    "Fantastic Four",
+    "Illuminati",
+    "Ultimates",
+    "Ultimates (2015 team)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/5/black_panther",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Panther_(comics)"
+  }
+}

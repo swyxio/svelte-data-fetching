@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "The Zombie",
+    "Zombie"
+  ],
+  "authors": [
+    "Bill Everett",
+    "Stan Lee"
+  ],
+  "description": "War hero Simon Garth was turned into a zombie by his secretary, Layla, who was also a voodoo priestess, after being killed by his gardener, Gyps.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4c003937c9ba4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Zombie",
+  "partners": [
+  ],
+  "powers": [
+    "Magical healing",
+    "Super strength"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 707,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Simon William Garth"
+  ],
+  "species": [
+    "Zombie"
+  ],
+  "superName": "Zombie",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2678/zombie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zombie_(comics)"
+  }
+}

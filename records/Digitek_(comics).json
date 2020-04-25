@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Digitek",
+    "The Singularity"
+  ],
+  "authors": [
+    "Andy Lanning",
+    "Dermot Power",
+    "John Tomlinson"
+  ],
+  "description": "Digitek (Jonathan Bryant) is a fictional character appearing in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Digitek",
+  "partners": [
+  ],
+  "powers": [
+    "A vast amount of weapons",
+    "Can create armor",
+    "Create holograms",
+    "Energy analogue"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 171,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonathan Bryant"
+  ],
+  "species": [
+  ],
+  "superName": "Digitek",
+  "teams": [
+    "MI-13",
+    "Nakasoni Corporation",
+    "Psi-Key"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Digitek_(comics)"
+  }
+}

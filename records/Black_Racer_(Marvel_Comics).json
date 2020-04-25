@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Black Racer"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Tom Morgan"
+  ],
+  "description": "Black Racer (Ariana) is a fictional character, a supervillain in the Marvel Comics universe and member of the second Serpent Society.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1d/Black_racer_marvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Racer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 542,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ariana"
+  ],
+  "species": [
+  ],
+  "superName": "Black Racer",
+  "teams": [
+    "Serpent Society",
+    "Serpent Squad"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Racer_(Marvel_Comics)"
+  }
+}

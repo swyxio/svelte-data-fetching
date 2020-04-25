@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Vertigo"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Michael Golden"
+  ],
+  "description": "Vertigo is a native of the Savage Land who obtained superhuman powers at a young age by genetic engineering.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Vertigo236.jpg/250px-Vertigo236.jpg"
+  },
+  "mainColor": null,
+  "name": "Vertigo",
+  "partners": [
+  ],
+  "powers": [
+    "Nausea",
+    "Unconsciousness"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1416,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Savage Land Mutates"
+  ],
+  "superName": "Vertigo",
+  "teams": [
+    "Femizons",
+    "Marauders",
+    "Savage Land Mutates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Bloodstone",
+    "Cullen Bloodstone"
+  ],
+  "authors": [
+    "Dennis Hopeless",
+    "Kev Walker"
+  ],
+  "description": "Bloodstone (Cullen Bloodstone) is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Cullen_Bloodstone_Avengers_Arena_6.jpg/250px-Cullen_Bloodstone_Avengers_Arena_6.jpg"
+  },
+  "mainColor": null,
+  "name": "Cullen Bloodstone",
+  "partners": [
+  ],
+  "powers": [
+    "Glaratrox transformation",
+    "Healing factor",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 763,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cullen Bloodstone"
+  ],
+  "species": [
+  ],
+  "superName": "Cullen Bloodstone",
+  "teams": [
+    "Braddock Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cullen_Bloodstone"
+  }
+}

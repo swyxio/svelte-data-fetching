@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Agent of Hydra",
+    "Bob"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Reilly Brown"
+  ],
+  "description": "A cowardly young man, Bob was persuaded into joining the criminal organization HYDRA and has had numerous encounters with Deadpool and other Marvel heroes.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4ce5a4c2cd41b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Bob, Agent of Hydra",
+  "partners": [
+    "Deadpool"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 191754,
+    "serieCount": 5,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Robert"
+  ],
+  "species": [
+  ],
+  "superName": "Bob, Agent of Hydra",
+  "teams": [
+    "Agency X",
+    "Hydra"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/332/bob_agent_of_hydra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob,_Agent_of_Hydra"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Anthem"
+  ],
+  "authors": [
+    "Barry Kitson",
+    "Matt Fraction"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9b/Anthem_%28comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Anthem",
+  "partners": [
+  ],
+  "powers": [
+    "Blast power",
+    "Electricity control",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 126,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Anthem",
+  "teams": [
+    "The Order"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthem_(comics)"
+  }
+}

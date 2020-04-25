@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Tempus"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "John Buscema"
+  ],
+  "description": "Tempus is a fictional character in the Marvel Universe.Tempus is an enormous humanoid who dwells in Limbo and serves Immortus.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Tempuscomics.jpg/249px-Tempuscomics.jpg"
+  },
+  "mainColor": null,
+  "name": "Tempus",
+  "partners": [
+  ],
+  "powers": [
+    "Control over time",
+    "Endurance",
+    "Immortality",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 175,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tempus"
+  ],
+  "species": [
+  ],
+  "superName": "Tempus",
+  "teams": [
+    "Immortus"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tempus_(comics)"
+  }
+}

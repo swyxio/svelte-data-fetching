@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Death Adder"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio"
+  ],
+  "description": "Death Adder is the name of two supervillains in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Death_adder_2.jpg/150px-Death_adder_2.jpg"
+  },
+  "mainColor": null,
+  "name": "Death Adder",
+  "partners": [
+  ],
+  "powers": [
+    "Bionic tail with spikes",
+    "Poison-tipped talons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 678,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Roland Burroughs",
+    "Theodore Scott"
+  ],
+  "species": [
+  ],
+  "superName": "Death Adder",
+  "teams": [
+    "Savage Six",
+    "Serpent Society",
+    "Serpent Squad",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_Adder_(comics)"
+  }
+}

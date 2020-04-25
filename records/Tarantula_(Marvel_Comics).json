@@ -1,0 +1,70 @@
+{
+  "aliases": [
+    "Clay Rider",
+    "El Arana",
+    "La Tarantula",
+    "Mr. Valdez",
+    "Tarantula"
+  ],
+  "authors": [
+    "Alex Saviuk",
+    "Gerry Conway",
+    "Ross Andru"
+  ],
+  "description": "Alvarez replaced the original Tarantula after his death by the dictatorship Delvadian government.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg"
+  },
+  "mainColor": null,
+  "name": "Tarantula",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Anointed with drugs",
+    "Expert with a whip",
+    "Finger claws",
+    "Great athlete",
+    "High-level intellect",
+    "Incredible agility",
+    "Leaping",
+    "Peak level strength",
+    "Peak-level strength",
+    "Poisons",
+    "Reflexes",
+    "Skilled knife fighter",
+    "Skilled martial artist",
+    "Stamina",
+    "Superhuman strength",
+    "Usually envenomed",
+    "Wall crawling",
+    "Wrist blades"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 2,
+    "pageviewCount": 1807,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Anton Miguel Rodriguez",
+    "Clay Riley",
+    "Luis Alvarez",
+    "Maria Vasquez"
+  ],
+  "species": [
+  ],
+  "superName": "Tarantula",
+  "teams": [
+    "Boca Del Rios Fascist Government",
+    "Boca Del Rios Revolutionist Forces",
+    "Brand Corporation",
+    "Heroes for Hire"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2293/tarantula",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarantula_(Marvel_Comics)"
+  }
+}

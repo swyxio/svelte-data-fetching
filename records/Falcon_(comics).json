@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Blackbird",
+    "Blackwing",
+    "Captain America",
+    "Falcon",
+    "Sam Wilson",
+    "Samuel Wilson",
+    "Snap\" Wilson"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Stan Lee"
+  ],
+  "description": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a super hero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/537baa97aad94.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/537baa6b25323/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Falcon",
+  "partners": [
+    "Bucky",
+    "Captain America",
+    "Nomad",
+    "Redwing"
+  ],
+  "powers": [
+    "Excellent bird trainer",
+    "Flight via wing harness",
+    "Gymnast",
+    "Skilled martial artist"
+  ],
+  "ranking": {
+    "comicCount": 117,
+    "eventCount": 5,
+    "pageviewCount": 36090,
+    "serieCount": 56,
+    "storyCount": 116
+  },
+  "secretIdentities": [
+    "Sam",
+    "Samuel Thomas Wilson"
+  ],
+  "species": [
+  ],
+  "superName": "Falcon",
+  "teams": [
+    "All-New Invaders",
+    "Avengers",
+    "Avengers Unity Squad",
+    "Defenders",
+    "Defenders for a Day",
+    "Heroes for Hire",
+    "Mighty Avengers",
+    "S.H.I.E.L.D",
+    "The Mighty Avengers",
+    "Uncanny Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/18/falcon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Falcon_(comics)"
+  }
+}

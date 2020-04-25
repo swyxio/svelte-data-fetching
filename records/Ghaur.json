@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Ghaur",
+    "Lord Ghaur"
+  ],
+  "authors": [
+    "Peter B. Gillis",
+    "Sal Buscema"
+  ],
+  "description": "Ghaur (pronounced \"Gore\") is a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg"
+  },
+  "mainColor": null,
+  "name": "Ghaur",
+  "partners": [
+    "Kro",
+    "Llyra",
+    "Set"
+  ],
+  "powers": [
+    "Mind control",
+    "Of other deviants",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 360,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ghaur"
+  ],
+  "species": [
+  ],
+  "superName": "Ghaur",
+  "teams": [
+    "Deviant",
+    "Deviants",
+    "Father Set",
+    "Kro"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghaur"
+  }
+}

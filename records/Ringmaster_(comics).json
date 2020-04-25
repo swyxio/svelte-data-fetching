@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Circus Master of Ceremonies; Martin Thraller",
+    "The Ringmaster"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Ringmaster is a fictional character, a supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Ringmaster_%28Marvel_Comics%29.png/201px-Ringmaster_%28Marvel_Comics%29.png"
+  },
+  "mainColor": null,
+  "name": "Ringmaster",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 746,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maynard Tiboldt"
+  ],
+  "species": [
+  ],
+  "superName": "Ringmaster",
+  "teams": [
+    "Circus of Crime"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringmaster_(comics)"
+  }
+}

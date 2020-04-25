@@ -1,0 +1,79 @@
+{
+  "aliases": [
+    "Ben Grimm",
+    "Benjamin Jacob Grimm",
+    "Blackbeard",
+    "Blackbeard the Pirate",
+    "Breaker of Souls",
+    "Dr. Josiah Verpoorteen",
+    "El Morrito",
+    "Pirate",
+    "The Thing",
+    "Thing",
+    "the"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The radiation that mutated Reed Richards, Sue Storm and Johnny Storm into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque, rock-hided strongman dubbed the Thing.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/f0/537bcf70667a9.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/537bcf3c9ef1f/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Thing",
+  "partners": [
+  ],
+  "powers": [
+    "Above-average reflexes",
+    "Durability",
+    "Enhanced lung capacity",
+    "Excellent dexterity",
+    "Hand to hand combatant",
+    "Rock-like skin",
+    "Skilled street fighter",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 417,
+    "eventCount": 20,
+    "pageviewCount": 14157,
+    "serieCount": 170,
+    "storyCount": 485
+  },
+  "secretIdentities": [
+    "Ben",
+    "Benjamin Jacob Grimm"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Thing",
+  "teams": [
+    "Avengers West Coast",
+    "Fantastic Four",
+    "Fear Itself",
+    "Future Foundation",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "New Avengers",
+    "The New Avengers",
+    "The Worthy",
+    "Thunderiders",
+    "UCWF",
+    "Unlimited Class Wrestling Federation",
+    "West Coast Avengers",
+    "Yancy Street Gang"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/59/thing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thing_(comics)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Bolt",
+    "Bradley",
+    "Chris",
+    "Chris Bradley",
+    "Maverick"
+  ],
+  "authors": [
+    "Dan Lawlis",
+    "Dan Lawlis (co-artists)",
+    "Howard Mackie",
+    "Tom Grummett"
+  ],
+  "description": "Christopher Bradley, formerly known as Bolt and Maverick, is a fictional comic book character who appears in books published by Marvel Comics, in particular those featuring the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4c7c63f89c100/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Maverick (Chris Bradley)",
+  "partners": [
+  ],
+  "powers": [
+    "Able to generate",
+    "Control electricity"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4110,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Chris",
+    "Christopher Bradley"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Maverick",
+  "teams": [
+    "Gene Nation",
+    "Morlocks",
+    "New Mutants",
+    "New Warriors",
+    "Underground"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1405/maverick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Bradley"
+  }
+}

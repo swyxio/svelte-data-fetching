@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Griffin"
+  ],
+  "authors": [
+    "Steve Englehart",
+    "Tom Sutton"
+  ],
+  "description": "Griffin (Johnny Horton) is a fictional character, a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Griffin",
+  "partners": [
+    "Headlok"
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Endurance",
+    "Flight",
+    "Flight via wings",
+    "Reflexes",
+    "Resiliency",
+    "Sharp claws",
+    "Speed",
+    "Spiked prehensile tail",
+    "Superhuman strength",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1029,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Johnny Horton"
+  ],
+  "species": [
+  ],
+  "superName": "Griffin",
+  "teams": [
+    "Masters of Evil",
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Griffin_(Marvel_Comics)"
+  }
+}

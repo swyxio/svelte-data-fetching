@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Stone",
+    "Styx",
+    "Styx and Stone"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Todd McFarlane"
+  ],
+  "description": "Styx and Stone (Jacob Eishorn and Gerald Stone) are two fictional comic book characters in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Styx and Stone",
+  "partners": [
+  ],
+  "powers": [
+    "Lethal touch"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 600,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gerald Stone",
+    "Jacob Eishorn",
+    "Jacob Eishorn (Styx) and Gerald Stone"
+  ],
+  "species": [
+  ],
+  "superName": "Styx and Stone",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Styx_and_Stone"
+  }
+}

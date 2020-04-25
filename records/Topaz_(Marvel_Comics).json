@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Topaz"
+  ],
+  "authors": [
+    "Marv Wolfman",
+    "Mike Ploog"
+  ],
+  "description": "Topaz is a fictional character, a sorceress in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg"
+  },
+  "mainColor": null,
+  "name": "Topaz",
+  "partners": [
+    "Doctor Strange",
+    "Jack Russell",
+    "Werewolf by Night"
+  ],
+  "powers": [
+    "Demonic magic",
+    "Empathy",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 652,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Topaz",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Topaz_(Marvel_Comics)"
+  }
+}

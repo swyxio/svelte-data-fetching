@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Goblin Knight",
+    "Green Goblin",
+    "Hobgoblin",
+    "Phil Urich"
+  ],
+  "authors": [
+  ],
+  "description": "Philip Benjamin \"Phil\" Urich is a fictional character created by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Phil_Urich_Hobgoblin.jpg/250px-Phil_Urich_Hobgoblin.jpg"
+  },
+  "mainColor": null,
+  "name": "Phil Urich",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Enhanced intellect",
+    "Flaming sword",
+    "Paraphernalia",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Ultrasonic scream"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1474,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Phil",
+    "Philip Benjamin Urich"
+  ],
+  "species": [
+  ],
+  "superName": "Phil Urich",
+  "teams": [
+    "Daily Bugle",
+    "Goblin Nation",
+    "Loner",
+    "Loners",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Urich"
+  }
+}

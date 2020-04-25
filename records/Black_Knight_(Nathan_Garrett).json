@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Black Knight"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Stan Lee"
+  ],
+  "description": "Nathan Garrett, also known as the criminal Black Knight, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tales_of_Suspense_73.jpg/250px-Tales_of_Suspense_73.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Knight (Nathan Garrett)",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant biologist",
+    "Equestrian",
+    "Genius geneticist",
+    "Gifted intellect",
+    "Rides a flying horse",
+    "Use of advanced weaponry",
+    "Wears body armor"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 926,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nathan Garrett"
+  ],
+  "species": [
+  ],
+  "superName": "Black Knight",
+  "teams": [
+    "Legion of the Unliving",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_(Nathan_Garrett)"
+  }
+}

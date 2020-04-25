@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Tom Corsi"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Chris Claremont"
+  ],
+  "description": "Thomas \"Tom\" Corsi is a fictional character most often appearing in X-Men stories in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/41/Tomcorsi.jpg"
+  },
+  "mainColor": null,
+  "name": "Tom Corsi",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 220,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Corsi"
+  ],
+  "species": [
+  ],
+  "superName": "Tom Corsi",
+  "teams": [
+    "Muir Island X-Men",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Corsi"
+  }
+}

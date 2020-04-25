@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Blacklash",
+    "Leeann Foreman",
+    "Whiplash"
+  ],
+  "authors": [
+    "Erik Larsen",
+    "Gene Colan",
+    "Marc Guggenheim",
+    "Marko Djurdjević",
+    "Philipe Briones",
+    "Stan Lee"
+  ],
+  "description": "Whiplash is the name of multiple fictional characters in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MarvelTeam-Up145.jpg/250px-MarvelTeam-Up145.jpg"
+  },
+  "mainColor": null,
+  "name": "Whiplash",
+  "partners": [
+  ],
+  "powers": [
+    "Bulletproof",
+    "Costume",
+    "Skilled athlete",
+    "Wears a"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6297,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ivan Vanko",
+    "Leeann Foreman",
+    "Marco Scarlotti"
+  ],
+  "species": [
+    "Human",
+    "Mutant"
+  ],
+  "superName": "Whiplash",
+  "teams": [
+    "Band of Baddies",
+    "Death Squad",
+    "Femizons",
+    "Femme Fatales",
+    "Maggia",
+    "Masters of Evil",
+    "Sinister Syndicate"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Whiplash_(comics)"
+  }
+}

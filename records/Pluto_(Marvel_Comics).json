@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Aidoneus",
+    "Dis",
+    "Hayden P. Hellman",
+    "Mr. Pluto",
+    "Pluto"
+  ],
+  "authors": [
+    "Adapted from the mythological",
+    "Adapted from the mythological Hades by Stan Lee & Jack Kirby",
+    "Hades",
+    "Jack Kirby",
+    "Stan Lee",
+    "by"
+  ],
+  "description": "Pluto is a fictional deity in the Marvel Comics Universe based on the Greco-Roman god of the same name.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Hades2.png/250px-Hades2.png"
+  },
+  "mainColor": null,
+  "name": "Pluto",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy-draining touch",
+    "Immortality",
+    "Invisibility via helmet",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 876,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hades"
+  ],
+  "species": [
+  ],
+  "superName": "Pluto",
+  "teams": [
+    "Death Gods",
+    "Gods of Olympus",
+    "Olympians"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pluto_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Dr. Wrong",
+    "Mole Man"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Mole Man is a fictional character, a comic book supervillain that exists in Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/60/4c003d3176a50/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Mole Man",
+  "partners": [
+    "Hulk",
+    "Kala",
+    "Red Ghost",
+    "Thing"
+  ],
+  "powers": [
+    "Bōjutsu",
+    "Genius-level intellect",
+    "Highly developed",
+    "Martial art",
+    "Of",
+    "Radar",
+    "Radar senses"
+  ],
+  "ranking": {
+    "comicCount": 41,
+    "eventCount": 1,
+    "pageviewCount": 2344,
+    "serieCount": 26,
+    "storyCount": 35
+  },
+  "secretIdentities": [
+    "Harvey Rupert Elder"
+  ],
+  "species": [
+  ],
+  "superName": "Mole Man",
+  "teams": [
+    "Outcasts",
+    "Subterranea"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1484/mole_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mole_Man"
+  }
+}

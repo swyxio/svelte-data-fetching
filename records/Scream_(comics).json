@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Scream"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Ron Lim"
+  ],
+  "description": "Out of the five alien symbiotes that were forcefully extracted from Venom (while bonded with Eddie Brock) by the Life Foundation, Donna's is the only one still active today that is not bonded to Hybrid.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Scream_sym.jpg/200px-Scream_sym.jpg"
+  },
+  "mainColor": null,
+  "name": "Scream",
+  "partners": [
+  ],
+  "powers": [
+    "Alien symbiote",
+    "Symbiote"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2574,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Donna Diego"
+  ],
+  "species": [
+  ],
+  "superName": "Scream",
+  "teams": [
+    "Sinister Syndicate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2033/scream",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scream_(comics)"
+  }
+}

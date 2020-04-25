@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "KIA",
+    "MVP",
+    "MVP (sometimes written M.V.P.)",
+    "Scarlet Spiders",
+    "the"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Stefano Caselli"
+  ],
+  "description": "Michael \"Mike\" Ian Van Patrick is a fictional comic book character created by Dan Slott and Stefano Caselli.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MVPatrick.jpg/250px-MVPatrick.jpg"
+  },
+  "mainColor": null,
+  "name": "Michael Van Patrick",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Peak human intelligence",
+    "Reflexes",
+    "Speed",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 914,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Michael Ian Van Patrick"
+  ],
+  "species": [
+  ],
+  "superName": "Michael Van Patrick",
+  "teams": [
+    "Avengers Resistance",
+    "Counter Force",
+    "New Warriors",
+    "Shadow Initiative",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Van_Patrick"
+  }
+}

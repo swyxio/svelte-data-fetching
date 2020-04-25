@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Dr. Tyrone",
+    "Tyrannus"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Tyrannus (real name Romulus Augustulus) is an immortal supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/HulkVTyrannus.jpg/250px-HulkVTyrannus.jpg"
+  },
+  "mainColor": null,
+  "name": "Tyrannus",
+  "partners": [
+  ],
+  "powers": [
+    "Deviant weaponry",
+    "Immortality",
+    "Psychic powers",
+    "Use of roman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1031,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Romulus Augustulus"
+  ],
+  "species": [
+  ],
+  "superName": "Tyrannus",
+  "teams": [
+    "Brotherhood of They",
+    "Moloids"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyrannus_(comics)"
+  }
+}

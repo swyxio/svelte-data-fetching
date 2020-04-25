@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "(I) Torpedo Sue",
+    "Torpedo Sue",
+    "Turbo"
+  ],
+  "authors": [
+    "Dwight Coye",
+    "Evan Skolnick",
+    "James Brock"
+  ],
+  "description": "As Turbo, young journalist Michiko Musashi is the latest in a line of heroes who have worn the turbine-powered flying armor.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4c00322ddea0c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Turbo",
+  "partners": [
+  ],
+  "powers": [
+    "Air blasts",
+    "Energy disruption",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 650,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "(I) Michiko Musashi",
+    "(II) Michael Brent Jeffries",
+    "Michael Brent Jeffries",
+    "Michiko Musashi",
+    "Mickey",
+    "Mike"
+  ],
+  "species": [
+  ],
+  "superName": "Turbo",
+  "teams": [
+    "Avengers Academy",
+    "Loner",
+    "Loners",
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2417/turbo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turbo_(comics)"
+  }
+}

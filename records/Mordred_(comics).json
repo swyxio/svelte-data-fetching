@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Modred",
+    "Modred the Mystic",
+    "Mordred",
+    "Mordred of the Northern Isles",
+    "Mordred the Evil"
+  ],
+  "authors": [
+    "Joe Maneely",
+    "Stan Lee"
+  ],
+  "description": "Mordred the Evil is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mordred",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 335,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sir Mordred"
+  ],
+  "species": [
+  ],
+  "superName": "Mordred",
+  "teams": [
+    "Camelot"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mordred_(comics)"
+  }
+}

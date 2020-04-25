@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Reaper",
+    "The Man the Law Could Not Touch"
+  ],
+  "authors": [
+    "Al Avison",
+    "Stan Lee"
+  ],
+  "description": "The Reaper, the alias of Gunther Strauss, is a supervillain in the fictional shared universe of Marvel Comics, and an enemy of Captain America and Bucky.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png"
+  },
+  "mainColor": null,
+  "name": "Reaper (Gunther Strauss)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 90,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gunther Strauss"
+  ],
+  "species": [
+  ],
+  "superName": "Reaper",
+  "teams": [
+    "Nazis",
+    "Nazism"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Reaper_(Gunther_Strauss)"
+  }
+}

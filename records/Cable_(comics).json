@@ -1,0 +1,70 @@
+{
+  "aliases": [
+    "Askani'son",
+    "Cable",
+    "Chosen One",
+    "Nathan Dayspring",
+    "Nathan Winters",
+    "Soldier X",
+    "Traveler",
+    "X-Men"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Louise Simonson",
+    "Rob Liefeld"
+  ],
+  "description": "Cable (Nathan Summers) is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with X-Force and the X-Men.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/537ba51b565e4.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/537ba4b09db8e/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Cable",
+  "partners": [
+    "Deadpool",
+    "Domino",
+    "Hope Summers",
+    "Rachel Summers"
+  ],
+  "powers": [
+    "Expert",
+    "Marksman",
+    "Technopathy",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 285,
+    "eventCount": 12,
+    "pageviewCount": 36729,
+    "serieCount": 63,
+    "storyCount": 427
+  },
+  "secretIdentities": [
+    "Nathan Christopher Charles Summers"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Cable",
+  "teams": [
+    "Askani",
+    "Avengers Unity Division",
+    "New Mutants",
+    "Six Pack",
+    "The Twelve",
+    "The Underground",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/7/cable",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cable_(comics)"
+  }
+}

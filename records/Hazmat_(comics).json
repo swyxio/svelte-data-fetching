@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Hazmat"
+  ],
+  "authors": [
+  ],
+  "description": "Hazmat is a fictional character appearing in comic books from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hazmat",
+  "partners": [
+  ],
+  "powers": [
+    "Radiation generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1120,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jennifer Takeda"
+  ],
+  "species": [
+  ],
+  "superName": "Hazmat",
+  "teams": [
+    "Avengers Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hazmat_(comics)"
+  }
+}

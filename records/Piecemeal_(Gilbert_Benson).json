@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Kevin MacTaggert",
+    "Piecemeal",
+    "Proteus"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Guang Yap"
+  ],
+  "description": "Piecemeal (Gilbert Benson) is a fictional mutant character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
+  },
+  "mainColor": null,
+  "name": "Piecemeal (Gilbert Benson)",
+  "partners": [
+  ],
+  "powers": [
+    "Absorb energy frequencies"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 321,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gilbert Benson"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Piecemeal",
+  "teams": [
+    "Alliance of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Piecemeal_(Gilbert_Benson)"
+  }
+}

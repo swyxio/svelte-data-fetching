@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Risque"
+  ],
+  "authors": [
+    "Adam Pollina",
+    "Jeph Loeb"
+  ],
+  "description": "Risque (Gloria Dolores Muñoz) is a fictional character, a mutant in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/f0/4c7c645aa1623/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Risque",
+  "partners": [
+  ],
+  "powers": [
+    "Geometrically compress",
+    "Implode matter"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 1,
+    "pageviewCount": 487,
+    "serieCount": 4,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Gloria Dolores Muñoz"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Risque",
+  "teams": [
+    "X-Corporation",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1936/risque",
+    "wikipedia": "https://en.wikipedia.org/wiki/Risque_(comics)"
+  }
+}

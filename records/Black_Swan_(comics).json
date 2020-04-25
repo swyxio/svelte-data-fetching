@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Black Swan"
+  ],
+  "authors": [
+    "Gail Simone",
+    "Jonathan Hickman",
+    "Steve Epting",
+    "Udon Entertainment",
+    "Udon Studios"
+  ],
+  "description": "Black Swan is the name of two supervillain characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Black Swan",
+  "partners": [
+  ],
+  "powers": [
+    "Etc",
+    "Flight",
+    "Superhuman strength",
+    "Telepathy",
+    "The multiverse"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1797,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Yabbat Ummon Turru"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Black Swan",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Swan_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Letha"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio"
+  ],
+  "description": "Letha (Hellen Feliciano) is a supervillain in the Marvel Comics Universe and a former member of the female villain team the Grapplers.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Letha",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 801,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hellen Feliciano"
+  ],
+  "species": [
+  ],
+  "superName": "Letha",
+  "teams": [
+    "Grapplers",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Letha"
+  }
+}

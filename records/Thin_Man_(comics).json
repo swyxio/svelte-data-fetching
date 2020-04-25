@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Thin Man"
+  ],
+  "authors": [
+    "Klaus Nordling",
+    "Unknown writer"
+  ],
+  "description": "The Thin Man (Bruce Dickson) is a fictional, American comic book character in Marvel Comics' main shared universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg"
+  },
+  "mainColor": null,
+  "name": "Thin Man",
+  "partners": [
+  ],
+  "powers": [
+    "Elasticity",
+    "Eternal youth",
+    "Shapeshifting",
+    "Technology"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 610,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bruce Dickson"
+  ],
+  "species": [
+  ],
+  "superName": "Thin Man",
+  "teams": [
+    "Invaders",
+    "Liberty Legion",
+    "New Invaders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thin_Man_(comics)"
+  }
+}

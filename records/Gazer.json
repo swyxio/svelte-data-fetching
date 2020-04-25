@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Gazer",
+    "War"
+  ],
+  "authors": [
+    "Peter Milligan",
+    "Peter Milligan  Salvador Larroca",
+    "Salvador Larroca"
+  ],
+  "description": "Gazer is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png"
+  },
+  "mainColor": null,
+  "name": "Gazer",
+  "partners": [
+  ],
+  "powers": [
+    "Optic blasts",
+    "Physical resistance",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1449,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unrevealed"
+  ],
+  "species": [
+    "Human Mutant",
+    "Human Mutate"
+  ],
+  "superName": "Gazer",
+  "teams": [
+    "Four Horsemen of Apocalypse",
+    "Horsemen of Apocalypse",
+    "NASA"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gazer"
+  }
+}

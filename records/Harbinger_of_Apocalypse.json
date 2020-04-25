@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "The Harbinger of Apocalypse"
+  ],
+  "authors": [
+    "James Robinson",
+    "José Ladrönn"
+  ],
+  "description": "The Harbinger of Apocalypse is a fictional character that appears in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cb67cvr.jpg/250px-Cb67cvr.jpg"
+  },
+  "mainColor": null,
+  "name": "Harbinger of Apocalypse",
+  "partners": [
+  ],
+  "powers": [
+    "Adaptive powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 924,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Harbinger of Apocalypse",
+  "teams": [
+    "Apocalypse"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Harbinger_of_Apocalypse"
+  }
+}

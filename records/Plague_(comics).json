@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Pestilence",
+    "Plague"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Paul Smith"
+  ],
+  "description": "Plague was a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Plague",
+  "partners": [
+  ],
+  "powers": [
+    "Absorb any disease",
+    "Adapt to"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3905,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unrevealed"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Plague",
+  "teams": [
+    "Horsemen of Apocalypse",
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Plague_(comics)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Darkdevil"
+  ],
+  "authors": [
+    "Pat Olliffe",
+    "Tom DeFalco"
+  ],
+  "description": "Darkdevil (Reilly Tyne) is a fictional character, a superhero in the \"MC2\" future of the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png"
+  },
+  "mainColor": null,
+  "name": "Darkdevil",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Cling to any surface",
+    "Free style fighter",
+    "Superhuman strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 839,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Reilly Tyne"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Darkdevil",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkdevil"
+  }
+}

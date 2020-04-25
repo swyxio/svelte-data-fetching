@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Terrax",
+    "Terrax the Tamer",
+    "Tyros the Terrible"
+  ],
+  "authors": [
+    "Joe Sinnott",
+    "John Byrne",
+    "Marv Wolfman"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg"
+  },
+  "mainColor": null,
+  "name": "Terrax the Truly Enlightened",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy projection",
+    "Force field generation",
+    "Power cosmic",
+    "Reflexes",
+    "Stamina",
+    "Superhuman strength",
+    "Use of"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 115,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tyros"
+  ],
+  "species": [
+  ],
+  "superName": "Terrax the Truly Enlightened",
+  "teams": [
+    "Heralds of Galactus",
+    "Legion of the Unliving",
+    "Offenders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrax_the_Truly_Enlightened"
+  }
+}

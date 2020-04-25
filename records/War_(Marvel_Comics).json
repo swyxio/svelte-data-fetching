@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "War"
+  ],
+  "authors": [
+    "Frank Tieri  Clayton Henry",
+    "Louise Simonson",
+    "Walt Simonson",
+    "Walter Simonson"
+  ],
+  "description": "A young veteran wounded during the Vietnam War, Abraham Kieros was selected by Apocalypse to become the Horseman War.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Xfactor19_005.jpg/199px-Xfactor19_005.jpg"
+  },
+  "mainColor": null,
+  "name": "War",
+  "partners": [
+  ],
+  "powers": [
+    "Superhumanly strong"
+  ],
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 2,
+    "pageviewCount": 327,
+    "serieCount": 5,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+    "Abraham Lincoln Kieros"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "War",
+  "teams": [
+    "Four Horsemen of Apocalypse",
+    "Horsemen of Apocalypse",
+    "The Riders of the Dark"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2519/war",
+    "wikipedia": "https://en.wikipedia.org/wiki/War_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Boom-Boom",
+    "Boomer",
+    "Firecracker",
+    "Meltdown",
+    "Mutate #35",
+    "Tabitha Smith",
+    "Time Bomb"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Jim Shooter"
+  ],
+  "description": "Tabitha Smith is a fictional character, a mutant superhero appearing in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Meltdown01.jpg/250px-Meltdown01.jpg"
+  },
+  "mainColor": null,
+  "name": "Tabitha Smith",
+  "partners": [
+  ],
+  "powers": [
+    "Destructive force"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5274,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tabitha Smith"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tabitha Smith",
+  "teams": [
+    "Fallen Angels",
+    "New Mutants",
+    "Nextwave",
+    "Underground",
+    "X-Force",
+    "X-Men",
+    "X-Terminators"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tabitha_Smith"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Arno Stark",
+    "Iron Man 2020"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Tom DeFalco"
+  ],
+  "description": "Iron Man 2020 (real name Arno Stark) is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Iron Man 2020",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blasts",
+    "Flight",
+    "Physical resistance",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2320,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arno Stark"
+  ],
+  "species": [
+  ],
+  "superName": "Iron Man 2020",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Man_2020"
+  }
+}

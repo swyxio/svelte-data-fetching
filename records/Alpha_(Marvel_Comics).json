@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Alpha",
+    "Andrew \"Andy\" Maguire",
+    "Andy Maguire",
+    "Nova",
+    "Speedball"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Humberto Ramos"
+  ],
+  "description": "Alpha (Andrew \"Andy\" Maguire) is a fictional character in Marvel Comics who first appeared in The Amazing Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Alpha-Marvel.jpg/250px-Alpha-Marvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Alpha",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Force fields",
+    "Matter manipulation",
+    "Super speed",
+    "Super strength",
+    "Superhuman senses",
+    "Telekinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 647,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Andrew Maguire"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Alpha",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpha_(Marvel_Comics)"
+  }
+}

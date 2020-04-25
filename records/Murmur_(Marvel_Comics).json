@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Murmur"
+  ],
+  "authors": [
+    "Scott Clark",
+    "Scott Lobdell",
+    "Steven T. Seagle",
+    "Todd Dezago",
+    "Tom Grummett"
+  ],
+  "description": "Murmur is the name of two fictional characters who appear in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Murmur",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered",
+    "Mind control",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 361,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Allan Rennie",
+    "Arlette Truffaut"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Murmur",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Emplate's Hellions",
+    "Features of the Marvel Universe",
+    "Hellions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Murmur_(Marvel_Comics)"
+  }
+}

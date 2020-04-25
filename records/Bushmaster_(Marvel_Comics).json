@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Bushmaster",
+    "John Bushmaster",
+    "Power Master"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne",
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "Bushmaster is the name of two Marvel Comics supervillains.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bushmaster_Avengers_vs_XMen.jpg"
+  },
+  "mainColor": null,
+  "name": "Bushmaster",
+  "partners": [
+  ],
+  "powers": [
+    "Bionic arms",
+    "Durability",
+    "Energy absorption",
+    "Skilled street fighter",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1209,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John McIver",
+    "Quincy McIver"
+  ],
+  "species": [
+  ],
+  "superName": "Bushmaster",
+  "teams": [
+    "Maggia",
+    "Serpent Society",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)"
+  }
+}

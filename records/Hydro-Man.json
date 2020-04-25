@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Hydro-Man"
+  ],
+  "authors": [
+    "Dennis O'Neil",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Hydro-Man is a fictional character, a supervillain in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c003ec140c31/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hydro-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Expert street fighter",
+    "Superhuman strength",
+    "Water manipulation"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 2146,
+    "serieCount": 1,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Morris Bench"
+  ],
+  "species": [
+  ],
+  "superName": "Hydro-Man",
+  "teams": [
+    "Frightful Four",
+    "Masters of Evil",
+    "Sinister Six",
+    "Sinister Syndicate",
+    "Sinister Twelve"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1004/hydro-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hydro-Man"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Gus",
+    "Pulse",
+    "Pulsey"
+  ],
+  "authors": [
+    "Peter Milligan",
+    "Salvador Larroca"
+  ],
+  "description": "Pulse (Augustus), is a fictional character from the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Pulse (Augustus)",
+  "partners": [
+  ],
+  "powers": [
+    "Electronic systems",
+    "Telepathic intrusions"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 180,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Augustus"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Pulse",
+  "teams": [
+    "The 198",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pulse_(Augustus)"
+  }
+}

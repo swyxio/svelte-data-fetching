@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Kiber the Cruel",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Kiber the Cruel is a fictional supervillain published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kiber the Cruel",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 311,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frederick Kiber"
+  ],
+  "species": [
+  ],
+  "superName": "Kiber the Cruel",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiber_the_Cruel"
+  }
+}

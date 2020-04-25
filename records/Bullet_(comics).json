@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Bullet"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Bullet is a fictional character that has appeared in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Bullet",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Enhanced strength",
+    "Near superhuman strength",
+    "Proficient marksman",
+    "Speed",
+    "Stamina",
+    "Tactician",
+    "Weapons expert"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 533,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Buck Cashman"
+  ],
+  "species": [
+  ],
+  "superName": "Bullet",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bullet_(comics)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "aliases": [
+    "Murderworld"
+  ],
+  "authors": [
+    "Archie Goodwin"
+  ],
+  "description": "Murderworld is a fictional twisted amusement park designed by the Marvel supervillain known as Arcade as a place to sadistically murder others via using carnival-themed robotics and traps, in some ways this makes it similar to a Circus of Fear archetype but it is specifically designed to be an execution camp.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Marvel_Team-Up_66.jpg/250px-Marvel_Team-Up_66.jpg"
+  },
+  "mainColor": null,
+  "name": "Murderworld",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 395,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Murderworld",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Murderworld_(comics)"
+  }
+}

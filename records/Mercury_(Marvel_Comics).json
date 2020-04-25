@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Cessily Kincaid",
+    "Mercury"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Keron Grant",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Mercury (Cessily Kincaid) is a fictional character from Marvel Comic's X-Men series.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg"
+  },
+  "mainColor": null,
+  "name": "Mercury",
+  "partners": [
+  ],
+  "powers": [
+    "Mercury",
+    "Stretch at will",
+    "Which she can reshape"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1299,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cessily Kincaid"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mercury",
+  "teams": [
+    "Hellions",
+    "Hellions training squad",
+    "Jean Grey School Students",
+    "New X-Men",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercury_(Marvel_Comics)"
+  }
+}

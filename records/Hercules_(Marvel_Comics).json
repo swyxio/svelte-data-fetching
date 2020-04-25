@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Hercules",
+    "Incredible Hercules",
+    "The Prince of Power; The Lion of Olympus",
+    "The Prince of Power; The Lion of Olympus; Harry Cleese; Victor Tegler"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Hercules is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hercules",
+  "partners": [
+    "Amadeus Cho"
+  ],
+  "powers": [
+    "Demigod",
+    "Durability",
+    "Endurance",
+    "Hand-to-hand combatant",
+    "Healing factor",
+    "Hercules is immortal",
+    "Highly skilled archer",
+    "Immortality",
+    "Limited immunity to magic",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Use of mystical weapons",
+    "Wields adamantine mace"
+  ],
+  "ranking": {
+    "comicCount": 140,
+    "eventCount": 10,
+    "pageviewCount": 8554,
+    "serieCount": 68,
+    "storyCount": 141
+  },
+  "secretIdentities": [
+    "Heracles"
+  ],
+  "species": [
+    "Olympians"
+  ],
+  "superName": "Hercules",
+  "teams": [
+    "Avengers",
+    "Avengers Academy",
+    "Champions",
+    "Civil War",
+    "Damage Control",
+    "Defenders",
+    "God Squad",
+    "Heroes for Hire",
+    "Olympians",
+    "The Mighty Avengers",
+    "World War Hulk"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/952/hercules",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hercules_(Marvel_Comics)"
+  }
+}

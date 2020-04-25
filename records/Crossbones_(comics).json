@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Bingo",
+    "Crossbones",
+    "Frag",
+    "Mr. Bones"
+  ],
+  "authors": [
+    "Kieron Dwyer",
+    "Mark Gruenwald"
+  ],
+  "description": "Crossbones (Brock Rumlow) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Crossbones",
+  "partners": [
+    "Red Skull",
+    "Red Skull (Albert Malik)",
+    "Sin"
+  ],
+  "powers": [
+    "Combat",
+    "Driver",
+    "Expert marksman",
+    "Expert military tactician",
+    "Interrogator",
+    "Marksman",
+    "Pilot",
+    "Skilled martial artist",
+    "Skilled pilot",
+    "Torturer",
+    "Various forms of"
+  ],
+  "ranking": {
+    "comicCount": 35,
+    "eventCount": 2,
+    "pageviewCount": 43261,
+    "serieCount": 18,
+    "storyCount": 39
+  },
+  "secretIdentities": [
+    "Brock Rumlow"
+  ],
+  "species": [
+  ],
+  "superName": "Crossbones",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Skeleton Crew",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/473/crossbones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crossbones_(comics)"
+  }
+}

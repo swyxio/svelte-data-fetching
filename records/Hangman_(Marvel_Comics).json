@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Hangman"
+  ],
+  "authors": [
+    "Barry Smith",
+    "Gil Kane",
+    "Marv Wolfman",
+    "Roy Thomas"
+  ],
+  "description": "Hangman is the name of two fictional characters in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hangman",
+  "partners": [
+  ],
+  "powers": [
+    "Mind-link with satannish",
+    "Scythe",
+    "Skilled in use of rope"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 214,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Harlan Krueger",
+    "Jason Roland"
+  ],
+  "species": [
+  ],
+  "superName": "Hangman",
+  "teams": [
+    "Lethal Legion",
+    "Night Shift"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hangman_(Marvel_Comics)"
+  }
+}

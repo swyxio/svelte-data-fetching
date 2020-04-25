@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Ogress"
+  ],
+  "authors": [
+    "Peter David",
+    "Todd McFarlane"
+  ],
+  "description": "Ogress  is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ogress",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 341,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Diane Davids"
+  ],
+  "species": [
+  ],
+  "superName": "Ogress",
+  "teams": [
+    "Riot Squad"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ogress_(comics)"
+  }
+}

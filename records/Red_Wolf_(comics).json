@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Owayodata",
+    "Red Wolf"
+  ],
+  "authors": [
+    "Gardner Fox",
+    "Herb Trimpe",
+    "John Buscema",
+    "Mark Gruenwald",
+    "Roy Thomas",
+    "Syd Shores"
+  ],
+  "description": "Red Wolf is the name of a number of fictional characters in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Red Wolf",
+  "partners": [
+  ],
+  "powers": [
+    "Adept combat gymnast",
+    "Experienced wrestler",
+    "Sensory acuity",
+    "Skilled animal trainer",
+    "Superb archer",
+    "Superhuman strength",
+    "Tracker"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2322,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Johnny Wakely",
+    "Thomas Thunderhead",
+    "Wildrun"
+  ],
+  "species": [
+  ],
+  "superName": "Red Wolf",
+  "teams": [
+    "Anachronauts",
+    "The Anachronauts",
+    "The Rangers",
+    "The Sensational Seven"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Wolf_(comics)"
+  }
+}

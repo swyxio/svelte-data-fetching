@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Cutthroat"
+  ],
+  "authors": [
+    "(Nasser) and",
+    "Chris Claremont",
+    "Michael Netzer",
+    "Rich Buckler"
+  ],
+  "description": "Cutthroat (Daniel \"Danny\" Leighton) is a comic book character, a supervillain in Marvel Comics' main shared universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cutthroat",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 456,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Daniel Leighton",
+    "Danny"
+  ],
+  "species": [
+  ],
+  "superName": "Cutthroat",
+  "teams": [
+    "Skeleton Crew"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cutthroat_(comics)"
+  }
+}

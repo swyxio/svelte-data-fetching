@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Glenn Talbot",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Major Glenn Talbot was member of United States Air Force, United States Army and Hulkbusters.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Glenn Talbot",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 3482,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Glenn Talbot"
+  ],
+  "species": [
+  ],
+  "superName": "Glenn Talbot",
+  "teams": [
+    "United States Air Force",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2777/glenn_talbot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Talbot"
+  }
+}

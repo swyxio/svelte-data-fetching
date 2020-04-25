@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Kaluu"
+  ],
+  "authors": [
+    "Bill Everett",
+    "Dennis O'Neill",
+    "Denny O'Neill",
+    "Stan Lee"
+  ],
+  "description": "Kaluu is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kaluu",
+  "partners": [
+  ],
+  "powers": [
+    "Mastery of magic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2042,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kaluu"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Kaluu",
+  "teams": [
+    "The Mighty Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaluu"
+  }
+}

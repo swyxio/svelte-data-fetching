@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Justice",
+    "Justice Warrior Tensen",
+    "Net Prophet",
+    "Thor",
+    "the Justice Killer",
+    "the Prophet of",
+    "the Prophet of Thor"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Geof Isherwood"
+  ],
+  "description": "Justice (John Roger Tensen) is a character from the New Universe imprint of Marvel Comics, the protagonist of a 32-issue comic book series of the same name published from 1986 to 1989.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/90/4c0037678b4ff/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Justice (New Universe)",
+  "partners": [
+  ],
+  "powers": [
+    "Psionic \"swords"
+  ],
+  "ranking": {
+    "comicCount": 64,
+    "eventCount": 4,
+    "pageviewCount": 492,
+    "serieCount": 14,
+    "storyCount": 81
+  },
+  "secretIdentities": [
+    "John Roger Tensen"
+  ],
+  "species": [
+  ],
+  "superName": "Justice",
+  "teams": [
+    "DEA",
+    "Drug Enforcement Administration",
+    "Forsaken",
+    "NSA",
+    "National Security Agency"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1109/justice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justice_(New_Universe)"
+  }
+}

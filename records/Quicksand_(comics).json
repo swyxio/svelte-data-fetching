@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Quicksand"
+  ],
+  "authors": [
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "Quicksand is a fictional character, a supervillainess appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Cover_of_The_Mighty_Thor-392.jpg/250px-Cover_of_The_Mighty_Thor-392.jpg"
+  },
+  "mainColor": null,
+  "name": "Quicksand",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Enhanced strength",
+    "Mass manipulation",
+    "Reflexes",
+    "Shapeshifting",
+    "Size",
+    "Speed",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 442,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Quicksand",
+  "teams": [
+    "Femizons",
+    "Masters of Evil",
+    "Thunderbolts",
+    "Women Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Quicksand_(comics)"
+  }
+}

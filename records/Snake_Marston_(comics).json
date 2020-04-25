@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Snake Marston"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Sylvester \"Snake\" Marston is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Snake Marston",
+  "partners": [
+  ],
+  "powers": [
+    "Human contortionist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 212,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sylvester Marston"
+  ],
+  "species": [
+  ],
+  "superName": "Snake Marston",
+  "teams": [
+    "Enforcers",
+    "Satan Squad",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Snake_Marston_(comics)"
+  }
+}

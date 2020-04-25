@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Damage",
+    "Punisher"
+  ],
+  "authors": [
+    "Carl Potts",
+    "Jim Lee"
+  ],
+  "description": "Damage is a fictional supervillain, and enemy of the Marvel Comics antiheroes the Punisher and Wolverine.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/DamagePunisher.jpg/250px-DamagePunisher.jpg"
+  },
+  "mainColor": null,
+  "name": "Damage",
+  "partners": [
+  ],
+  "powers": [
+    "Cyborg enhancements"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 378,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jaime Ortiz"
+  ],
+  "species": [
+    "Human Cyborg"
+  ],
+  "superName": "Damage",
+  "teams": [
+    "Bunsen Burners"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Damage_(Marvel_Comics)"
+  }
+}

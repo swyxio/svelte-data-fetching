@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Red Raven"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Joe Simon",
+    "Joe Simon and Louis Cazeneuve",
+    "Louis Cazeneuve",
+    "Stan Lee"
+  ],
+  "description": "Red Raven is the name of three separate characters from Marvel Comics: the original Red Raven, a flying superhero, appeared in print once in 1940, then not again until 1968, and occasionally since then; the second Red Raven, named Dania, is a flying superhero and daughter of the original Red Raven, who first appeared in print in 1992, and occasionally since then; and Redford Raven, a Wild West villain who owned a set of mechanical wings, was also called Red Raven, and has appeared in print three times, in 1964, 1985, and 1987.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Red Raven",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 802,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Redford Raven"
+  ],
+  "species": [
+  ],
+  "superName": "Red Raven",
+  "teams": [
+    "Iron Mask's gang",
+    "Liberty Legion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Raven_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Master of Illusion",
+    "Mirage"
+  ],
+  "authors": [
+    "Len Wein",
+    "Ross Andru"
+  ],
+  "description": "Mirage is the name of two Marvel Comics villains.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mirage",
+  "partners": [
+  ],
+  "powers": [
+    "Carries a handgun",
+    "Genius electrician",
+    "Laser technologist",
+    "Physicist",
+    "Tranquilizer gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 319,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desmond Charne"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Mirage",
+  "teams": [
+    "Grapplers",
+    "Sinister Sixteen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)"
+  }
+}

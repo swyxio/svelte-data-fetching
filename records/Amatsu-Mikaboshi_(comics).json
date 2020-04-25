@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Ama-no-kagaseo",
+    "Chaos King",
+    "Mikaboshi"
+  ],
+  "authors": [
+    "Michael Avon Oeming",
+    "Michael Oeming",
+    "Scott Kolins"
+  ],
+  "description": "Amatsu-Mikaboshi  is a fictional character in the Marvel Comics Universe, a supervillain and demonic god of evil who is best known as an enemy of Hercules and Thor.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg"
+  },
+  "mainColor": null,
+  "name": "Amatsu-Mikaboshi",
+  "partners": [
+  ],
+  "powers": [
+    "Demonic mystical powers",
+    "Flight",
+    "Immortality",
+    "Including immortals",
+    "Invulnerability",
+    "Movement",
+    "Shapeshifting",
+    "Speed",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2949,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Amatsu-Mikaboshi"
+  ],
+  "species": [
+  ],
+  "superName": "Amatsu-Mikaboshi",
+  "teams": [
+    "God Squad"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Amatsu-Mikaboshi_(comics)"
+  }
+}

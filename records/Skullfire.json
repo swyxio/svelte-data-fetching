@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Skullfire"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Ron Lim"
+  ],
+  "description": "Skullfire (Timothy Fitzgerald) is a fictional character in Marvel Comics's 2099 universe, a look at superheroes in the year 2099.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Xmen2099-29.jpg/250px-Xmen2099-29.jpg"
+  },
+  "mainColor": null,
+  "name": "Skullfire",
+  "partners": [
+  ],
+  "powers": [
+    "Levitation",
+    "Made of pure energy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 312,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Timothy Fitzgerald"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Skullfire",
+  "teams": [
+    "Halo City Protectorate",
+    "Undead",
+    "X-Men 2099"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Skullfire"
+  }
+}

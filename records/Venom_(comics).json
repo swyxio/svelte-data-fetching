@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Alien Costume",
+    "Spider-Man",
+    "The Black Suit",
+    "Venom"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Mike Zeck",
+    "Randy Schueller",
+    "Randy Schueller (original costume idea)",
+    "Todd McFarlane"
+  ],
+  "description": "Venom, or the Venom Symbiote, is a fictional supervillain appearing in American comic books published by Marvel Comics, commonly in association with Spider-Man.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/537bc8f0d2c57.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/537bc8b154504/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Venom",
+  "partners": [
+  ],
+  "powers": [
+    "Camouflage",
+    "Invisibility",
+    "Limited",
+    "Limited shapeshifting",
+    "Shapeshifting",
+    "Spider-man",
+    "Through"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 21985,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Angelo Fortunato",
+    "Ann Weying",
+    "Eddie Brock",
+    "Flash Thompson",
+    "Mac Gargan",
+    "Patricia Robertson",
+    "Peter Parker",
+    "Spider-Man"
+  ],
+  "species": [
+    "Symbiote"
+  ],
+  "superName": "Venom",
+  "teams": [
+    "Spider-Man"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/63/venom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Venom_(comics)"
+  }
+}

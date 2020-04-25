@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Umar",
+    "Umar the Unrelenting"
+  ],
+  "authors": [
+    "Bill Everett",
+    "Roy Thomas"
+  ],
+  "description": "Umar and her sibling Dormammu gathered matter to themselves to increase their power, a practice anathema to their fellow Faltine who consider energy to be superior to matter.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/StrangeTales_150.jpg/240px-StrangeTales_150.jpg"
+  },
+  "mainColor": null,
+  "name": "Umar",
+  "partners": [
+    "Dormammu"
+  ],
+  "powers": [
+    "Cosmic energy",
+    "Vast control of magic"
+  ],
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 0,
+    "pageviewCount": 1363,
+    "serieCount": 4,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Umar"
+  ],
+  "species": [
+  ],
+  "superName": "Umar",
+  "teams": [
+    "Lords of the Splinter Realms"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2447/umar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Umar_(Marvel_Comics)"
+  }
+}

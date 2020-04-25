@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Avatar",
+    "Ego-Spawn",
+    "Franklin",
+    "Franklin Benjamin",
+    "Franklin Richards",
+    "Richard Franklin",
+    "Richards",
+    "Tattletale"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin may one day be the most powerful person on Earth. Right now, he's the son of a genius who finds adventure and fun around every corner.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Franklin Richards",
+  "partners": [
+  ],
+  "powers": [
+    "Manipulation",
+    "Molecular alteration",
+    "Precognition",
+    "Psionic powers",
+    "Psychokinesis",
+    "Reality warping",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 33,
+    "eventCount": 3,
+    "pageviewCount": 14428,
+    "serieCount": 23,
+    "storyCount": 41
+  },
+  "secretIdentities": [
+    "Franklin Benjamin Richards"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Franklin Richards",
+  "teams": [
+    "Daydreamers",
+    "Fantastic Force",
+    "Fantastic Four",
+    "Future Foundation",
+    "Generation X",
+    "Power Pack"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2705/franklin_richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Richards"
+  }
+}

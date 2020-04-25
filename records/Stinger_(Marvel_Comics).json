@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Stinger"
+  ],
+  "authors": [
+    "Bob Layton"
+  ],
+  "description": "Stinger (real name Wendy Sherman) is a fictional mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7a/XMEN_Stinger.jpg"
+  },
+  "mainColor": null,
+  "name": "Stinger",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 284,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wendy Sherman"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Stinger",
+  "teams": [
+    "Alliance of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stinger_(Marvel_Comics)"
+  }
+}

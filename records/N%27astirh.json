@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "N'astirh"
+  ],
+  "authors": [
+    "Jon Bogdanove",
+    "Louise Simonson"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NewMutants72.jpg/249px-NewMutants72.jpg"
+  },
+  "mainColor": null,
+  "name": "N'astirh",
+  "partners": [
+    "Belasco",
+    "Demons of",
+    "Limbo",
+    "Madelyne Pryor",
+    "Magik",
+    "N'asteris (subordinate demons)",
+    "S'ym"
+  ],
+  "powers": [
+    "Magical powers",
+    "Techno-organic virus"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 731,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "N'astirh"
+  ],
+  "species": [
+  ],
+  "superName": "N'astirh",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/N%27astirh"
+  }
+}

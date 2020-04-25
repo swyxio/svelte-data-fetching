@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Oya",
+    "The Girl Who Wouldn't Burn",
+    "The Third Light"
+  ],
+  "authors": [
+    "Joseph Effiom Livingstone",
+    "Kieron Gillen",
+    "Matt Fraction"
+  ],
+  "description": "Oya (Idie Okokon) is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b5/XMEN_Oya.jpg"
+  },
+  "mainColor": null,
+  "name": "Oya",
+  "partners": [
+  ],
+  "powers": [
+    "Temperature manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1455,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Oya",
+  "teams": [
+    "Hellfire Academy",
+    "Hellfire Club",
+    "Hope Summers",
+    "Jean Grey School Students",
+    "The Lights",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Oya_(comics)"
+  }
+}

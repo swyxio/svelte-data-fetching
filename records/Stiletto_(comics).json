@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Stiletto"
+  ],
+  "authors": [
+    "Billy Graham",
+    "Tony Isabella"
+  ],
+  "description": "Stiletto (Tom Stuart) is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Stiletto",
+  "partners": [
+    "Discus",
+    "Justin Hammer"
+  ],
+  "powers": [
+    "Use of knives"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 498,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tom Stuart"
+  ],
+  "species": [
+  ],
+  "superName": "Stiletto",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stiletto_(comics)"
+  }
+}

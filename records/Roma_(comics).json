@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Lady of the Northern Skies",
+    "Roma",
+    "the Goddess of the Northern Skies"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Fred Kida",
+    "Herb Trimpe"
+  ],
+  "description": "Roma is a fictional character featured in numerous Marvel Comics titles.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png"
+  },
+  "mainColor": null,
+  "name": "Roma",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation",
+    "Immortality",
+    "Mystic powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1463,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Roma"
+  ],
+  "species": [
+  ],
+  "superName": "Roma",
+  "teams": [
+    "Captain Britain Corps",
+    "Superior to the Captain Britain Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Roma_(comics)"
+  }
+}

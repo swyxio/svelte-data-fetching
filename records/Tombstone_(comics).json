@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Lonnie Tombstone",
+    "Tombstone"
+  ],
+  "authors": [
+    "Alex Saviuk",
+    "Gerry Conway"
+  ],
+  "description": "Known as Tombstone, Lonnie Lincoln filed his teeth to points to add to his already intimidating image and honed his fighting skills in numerous street fights.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003a981c496/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Tombstone",
+  "partners": [
+  ],
+  "powers": [
+    "Excellent street fighter",
+    "Highly skilled marksman",
+    "Razor sharp teeth",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 23,
+    "eventCount": 0,
+    "pageviewCount": 2981,
+    "serieCount": 8,
+    "storyCount": 25
+  },
+  "secretIdentities": [
+    "Lonnie Thompson Lincoln"
+  ],
+  "species": [
+  ],
+  "superName": "Tombstone",
+  "teams": [
+    "Hardcore",
+    "Hardcore's Untouchables",
+    "Sinister Six",
+    "Sinister Twelve",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2391/tombstone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tombstone_(comics)"
+  }
+}

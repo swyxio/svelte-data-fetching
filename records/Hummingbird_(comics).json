@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Hummingbird"
+  ],
+  "authors": [
+    "Christopher Yost",
+    "Ryan Stegman"
+  ],
+  "description": "Hummingbird is a fictional character, a superhero that appears in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png/240px-Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png"
+  },
+  "mainColor": null,
+  "name": "Hummingbird",
+  "partners": [
+  ],
+  "powers": [
+    "Hurtling sacred fire",
+    "Invoking",
+    "Manipulation of emotions",
+    "Self-powered levitation",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 704,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aracely Penalba"
+  ],
+  "species": [
+  ],
+  "superName": "Hummingbird",
+  "teams": [
+    "New Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hummingbird_(comics)"
+  }
+}

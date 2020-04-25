@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Cyclops",
+    "Donald Pierce",
+    "White Bishop",
+    "White King"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Donald Pierce is a comic book supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Pierce_uncanny.JPG/237px-Pierce_uncanny.JPG"
+  },
+  "mainColor": null,
+  "name": "Donald Pierce",
+  "partners": [
+  ],
+  "powers": [
+    "Cyborg body",
+    "Mechanical genius",
+    "Reflexes",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1311,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Donald Pierce"
+  ],
+  "species": [
+  ],
+  "superName": "Donald Pierce",
+  "teams": [
+    "Hellfire Club",
+    "Purifiers",
+    "Reavers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Pierce"
+  }
+}

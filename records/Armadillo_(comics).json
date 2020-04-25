@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "'Dillo",
+    "Armadillo",
+    "Awesome Armadillo",
+    "Mr. A",
+    "Tony"
+  ],
+  "authors": [
+    "Dennis Janke",
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "Armadillo (Antonio Rodriguez), is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4c0032754da02/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Armadillo",
+  "partners": [
+  ],
+  "powers": [
+    "Armored hide",
+    "Durability",
+    "Hardened claws",
+    "Hardened talons",
+    "Skilled street fighter",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 788,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Antonio Rodriguez"
+  ],
+  "species": [
+  ],
+  "superName": "Armadillo",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Rangers",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "The Rangers",
+    "Unlimited Class Wrestling Federation",
+    "Vil-Anon",
+    "teen"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/189/armadillo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armadillo_(comics)"
+  }
+}

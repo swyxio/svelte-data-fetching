@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Leviathan",
+    "Marrina Smallwood"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Marrina Smallwood is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Marrina.jpg/200px-Marrina.jpg"
+  },
+  "mainColor": null,
+  "name": "Marrina Smallwood",
+  "partners": [
+  ],
+  "powers": [
+    "Transformation",
+    "Underwater breathing"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 777,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Marrina Smallwood",
+  "teams": [
+    "Alpha Flight",
+    "Avengers",
+    "Beta Flight"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Marrina_Smallwood"
+  }
+}

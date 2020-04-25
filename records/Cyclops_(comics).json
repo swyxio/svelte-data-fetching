@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Cyclops",
+    "Dark Phoenix",
+    "Eric the Red",
+    "Mutate #007",
+    "Phoenix",
+    "Scott Summers",
+    "Slim",
+    "Slym Dayspring"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Cyclops is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/9/d0/537ba69f1b9b7.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Cyclops",
+  "partners": [
+  ],
+  "powers": [
+    "Optic force blasts",
+    "Spatial awareness"
+  ],
+  "ranking": {
+    "comicCount": 699,
+    "eventCount": 26,
+    "pageviewCount": 25934,
+    "serieCount": 215,
+    "storyCount": 757
+  },
+  "secretIdentities": [
+    "Scott Summers"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Cyclops",
+  "teams": [
+    "Cyclops",
+    "Phoenix Five",
+    "Phoenix Force",
+    "The Twelve",
+    "X-Factor",
+    "X-Force",
+    "X-Men",
+    "X-Terminators",
+    "Xavier's School for Gifted Youngsters"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/10/cyclops",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyclops_(comics)"
+  }
+}

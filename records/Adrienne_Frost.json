@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "White Queen"
+  ],
+  "authors": [
+    "Jay Faerber",
+    "Terry Dodson"
+  ],
+  "description": "Adrienne Frost is a fictional supervillain appearing in American comic books published by Marvel Universe, commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4b/Adriennefrost.jpg"
+  },
+  "mainColor": null,
+  "name": "Adrienne Frost",
+  "partners": [
+  ],
+  "powers": [
+    "Psychometry",
+    "Psychometry (paranormal)"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 923,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Adrienne Frost",
+  "teams": [
+    "Generation X",
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_Frost"
+  }
+}

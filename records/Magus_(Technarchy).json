@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Magus"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Chris Claremont"
+  ],
+  "description": "The Magus is a fictional character in the Marvel Universe.The Magus is a techno-organic patriarch of an alien civilization, and should not be confused with another character called Magus who is associated with Adam Warlock.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/67/Magus_%28Technarchy%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Magus (Technarchy)",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Shape shifting",
+    "Superhuman strength",
+    "Techno-organic being"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 737,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Magus"
+  ],
+  "species": [
+  ],
+  "superName": "Magus",
+  "teams": [
+    "Technarchy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Magus_(Technarchy)"
+  }
+}

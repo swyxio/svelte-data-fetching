@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "Bucky",
+    "Captain America",
+    "Winter Soldier"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Jack Kirby",
+    "Joe Simon",
+    "Steve Epting"
+  ],
+  "description": "Bucky is the name used by several different fictional superheroes appearing in American comic books published by Marvel Comics, usually as a sidekick to Captain America.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Bucky",
+  "partners": [
+    "Black Widow",
+    "Black Widow (Natalia Romanova)",
+    "Captain America",
+    "Falcon"
+  ],
+  "powers": [
+    "Emp discharger",
+    "Energy projection",
+    "Enhanced reaction time",
+    "Expert assassin",
+    "Gifted advance scout",
+    "Holographic projector",
+    "Martial artist",
+    "Spy",
+    "Superhuman strength",
+    "Throwing knives",
+    "Use of military weapons"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 48334,
+    "serieCount": 1,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "James Buchanan Barnes"
+  ],
+  "species": [
+  ],
+  "superName": "Bucky",
+  "teams": [
+    "Avengers",
+    "Department X",
+    "Invaders",
+    "Kid Commandos",
+    "Legion of the Unliving",
+    "Young Allies"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/363/bucky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bucky"
+  }
+}

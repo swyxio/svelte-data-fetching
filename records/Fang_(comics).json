@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Fang"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Fang is a fictional Marvel Comics extraterrestrial character who first appeared in Uncanny X-Men #107 in October 1977.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fang_%28comics%29.jpg/150px-Fang_%28comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Fang",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 262,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Lupak"
+  ],
+  "superName": "Fang",
+  "teams": [
+    "Brood",
+    "Imperial Guard",
+    "Shi'ar Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fang_(comics)"
+  }
+}

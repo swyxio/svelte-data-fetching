@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Grasshopper",
+    "Grasshopper II",
+    "Grasshopper III",
+    "Grasshopper IV",
+    "The All-New Grasshopper",
+    "The Ever-Gregarious Grasshopper"
+  ],
+  "authors": [
+    "Christos Gage",
+    "Dan Slott",
+    "Kieron Dwyer",
+    "Paul Pelletier",
+    "Ty Templeton"
+  ],
+  "description": "The Grasshopper is the name of multiple humorous Marvel Comics superheroes, all created by Dan Slott.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Grasshopper",
+  "partners": [
+  ],
+  "powers": [
+    "Insectroid sensors",
+    "Maximum jump",
+    "Shapeshifting",
+    "Zoom lenses"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 742,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Doug Taggert",
+    "Neil Shelton"
+  ],
+  "species": [
+    "Human",
+    "Skrull"
+  ],
+  "superName": "Grasshopper",
+  "teams": [
+    "Great Lakes Avengers",
+    "Roxxon Corporation",
+    "Roxxon Energy Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Grasshopper_(comics)"
+  }
+}

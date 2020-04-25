@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Edward Lavell",
+    "Eel",
+    "Eel I",
+    "Eel II",
+    "Leopold Stryke"
+  ],
+  "authors": [
+    "Denys Cowan",
+    "Kurt Busiek",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Eel is an alias used by two fictional characters in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg"
+  },
+  "mainColor": null,
+  "name": "Eel",
+  "partners": [
+    "Nightshade"
+  ],
+  "powers": [
+    "Use of various weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 672,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Edward Lavell",
+    "Leopold Stryke"
+  ],
+  "species": [
+  ],
+  "superName": "Eel",
+  "teams": [
+    "Emissaries of Evil",
+    "Enforcers",
+    "Fellowship of Fear",
+    "Maggia",
+    "Masters of Evil",
+    "New Enforcers",
+    "Serpent Squad",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Eel_(comics)"
+  }
+}

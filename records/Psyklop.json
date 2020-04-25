@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Psyklop"
+  ],
+  "authors": [
+    "Harlan Ellison",
+    "Jim Mooney",
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "Psyklop is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Psyklop",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Clawed digits",
+    "Double-jointed limbs",
+    "Durability",
+    "Endurance",
+    "Enhanced strength",
+    "Genius-level intellect",
+    "Project energy blasts",
+    "Sharpened canine teeth",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 245,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Psyklop",
+  "teams": [
+    "Dark Gods"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Psyklop"
+  }
+}

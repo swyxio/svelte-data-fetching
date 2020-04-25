@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Digger",
+    "Roderick Krupp"
+  ],
+  "authors": [
+  ],
+  "description": "Digger (Roderick Krupp) is a fictional comic book character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b9/DeadNight3Page1.jpg"
+  },
+  "mainColor": null,
+  "name": "Digger",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 176,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Roderick Krupp"
+  ],
+  "species": [
+  ],
+  "superName": "Digger",
+  "teams": [
+    "Night Shift"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Digger_(comics)"
+  }
+}

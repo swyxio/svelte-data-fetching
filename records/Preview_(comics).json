@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Preview"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Michael Ryan",
+    "Nunzio DeFilippis",
+    "Nunzio DeFilippis, Christina Weir, Michael Ryan"
+  ],
+  "description": "Preview (Jessica Vale) is a fictional character, a mutant appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ec/Preview_%28NXM_12%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Preview",
+  "partners": [
+  ],
+  "powers": [
+    "Precognition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 210,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jessica Vale",
+    "Jessie"
+  ],
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "superName": "Preview",
+  "teams": [
+    "Paragons",
+    "Paragons training squad",
+    "X-Mansion",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Preview_(comics)"
+  }
+}

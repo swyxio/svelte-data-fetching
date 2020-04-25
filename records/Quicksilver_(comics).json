@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Mateo Maximoff",
+    "Pietro Frank",
+    "Pietro Maximoff",
+    "Quicksilver"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Quicksilver (Pietro Maximoff) is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/537bc03c42b8f.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/b0/537bc0124d6b3/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "hexa": "17250B",
+    "red": 23
+  },
+  "name": "Quicksilver",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Cyclone",
+    "Enhanced strength",
+    "Fast metabolism",
+    "Highwind generation",
+    "Reflexes",
+    "Speed of light",
+    "Superhuman speed",
+    "Vibration induction"
+  ],
+  "ranking": {
+    "comicCount": 209,
+    "eventCount": 8,
+    "pageviewCount": 49040,
+    "serieCount": 92,
+    "storyCount": 212
+  },
+  "secretIdentities": [
+    "Pietro Django Maximoff",
+    "Pietro Django Maximoff <!--"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Quicksilver",
+  "teams": [
+    "Avengers",
+    "Brotherhood of Evil Mutants",
+    "Inhumans",
+    "X-Factor"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/44/quicksilver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quicksilver_(comics)"
+  }
+}

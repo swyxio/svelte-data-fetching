@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Abe Jenkins",
+    "Abner",
+    "Abner Jenkins",
+    "Beetle",
+    "Jenkins",
+    "MACH-1",
+    "MACH-2",
+    "MACH-3",
+    "MACH-IV",
+    "MACH-VII",
+    "Matthew Davis"
+  ],
+  "authors": [
+    "Carl Burgos",
+    "Stan Lee"
+  ],
+  "description": "Abner Ronald Jenkins (formerly known as the Beetle, MACH-1, MACH-2, MACH-3,  MACH-IV, MACH-V and later MACH-VII) is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Abner_Jenkins_Mach-VII.jpg/250px-Abner_Jenkins_Mach-VII.jpg"
+  },
+  "mainColor": null,
+  "name": "Abner Jenkins",
+  "partners": [
+    "Collector",
+    "Gladiator",
+    "Gladiator (Melvin Potter)",
+    "Justin Hammer"
+  ],
+  "powers": [
+    "Durability",
+    "Engineering",
+    "Highly intelligent",
+    "Powered armor",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1621,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Abner Ronald Jenkins"
+  ],
+  "species": [
+  ],
+  "superName": "Abner Jenkins",
+  "teams": [
+    "Commission on Superhuman Activities",
+    "Features of the Marvel Universe",
+    "Masters of Evil",
+    "Sinister Syndicate",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Abner_Jenkins"
+  }
+}

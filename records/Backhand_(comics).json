@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Backhand"
+  ],
+  "authors": [
+    "Brent Anderson",
+    "Peter B. Gillis"
+  ],
+  "description": "Backhand (Greg Mattingly) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Backhand",
+  "partners": [
+  ],
+  "powers": [
+    "Energy redirection",
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 101,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Greg Mattingly"
+  ],
+  "species": [
+  ],
+  "superName": "Backhand",
+  "teams": [
+    "Morituri"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Backhand_(comics)"
+  }
+}

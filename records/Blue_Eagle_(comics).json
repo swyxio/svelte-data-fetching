@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "American Eagle",
+    "Blue Eagle",
+    "Cap'n Hawk",
+    "Condor"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Blue Eagle is a fictional comic-book character in the Marvel Comics multiverse.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BlueEagle.jpg/250px-BlueEagle.jpg"
+  },
+  "mainColor": null,
+  "name": "Blue Eagle",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 489,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Dore Junior"
+  ],
+  "species": [
+  ],
+  "superName": "Blue Eagle",
+  "teams": [
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Eagle_(comics)"
+  }
+}

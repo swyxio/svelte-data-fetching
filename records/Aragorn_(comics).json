@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Aragorn",
+    "Hellhorse"
+  ],
+  "authors": [
+    "George Tuska",
+    "Roy Thomas"
+  ],
+  "description": "Aragorn was a fictional winged horse that has served as a mount for various characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/ValkyrieDefenders4.jpg/200px-ValkyrieDefenders4.jpg"
+  },
+  "mainColor": null,
+  "name": "Aragorn",
+  "partners": [
+    "Black Knight",
+    "Black Knight (Dane Whitman)",
+    "Valkyrie"
+  ],
+  "powers": [
+    "Enhanced intelligence",
+    "Experienced battle steed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 513,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aragorn"
+  ],
+  "species": [
+  ],
+  "superName": "Aragorn",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Aragorn_(comics)"
+  }
+}

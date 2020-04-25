@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Martinique Jason",
+    "Mastermind",
+    "The Goddess"
+  ],
+  "authors": [
+    "Jeph Loeb",
+    "Tim Sale"
+  ],
+  "description": "Martinique Jason (born Martinique Wyngarde), also known as Mastermind, is a fictional mutant supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Martinique.png/250px-Martinique.png"
+  },
+  "mainColor": null,
+  "name": "Mastermind (Martinique Jason)",
+  "partners": [
+  ],
+  "powers": [
+    "Casting",
+    "Illusion",
+    "Illusion casting",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 45,
+    "eventCount": 0,
+    "pageviewCount": 566,
+    "serieCount": 21,
+    "storyCount": 36
+  },
+  "secretIdentities": [
+    "Martinique Wyngarde"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mastermind",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Sisterhood of Mutants",
+    "X-Corps"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1395/mastermind",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mastermind_(Martinique_Jason)"
+  }
+}

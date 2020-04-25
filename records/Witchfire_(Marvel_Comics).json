@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Witchfire"
+  ],
+  "authors": [
+  ],
+  "description": "Witchfire (Ananym) is a fictional former superhero, now supervillain, and magician.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/XINFRNS003_COV_col.jpg/250px-XINFRNS003_COV_col.jpg"
+  },
+  "mainColor": null,
+  "name": "Witchfire",
+  "partners": [
+  ],
+  "powers": [
+    "Fire manipulation",
+    "Magic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 504,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ananym"
+  ],
+  "species": [
+  ],
+  "superName": "Witchfire",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Gamma Flight"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Witchfire_(Marvel_Comics)"
+  }
+}

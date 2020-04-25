@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Mauvais",
+    "Wendigo"
+  ],
+  "authors": [
+    "Frank Tieri",
+    "Sean Chen"
+  ],
+  "description": "Mauvais is a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mauvais",
+  "partners": [
+  ],
+  "powers": [
+    "Regeneration",
+    "Superhuman strength",
+    "Vast magical abilities"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 92,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jean-Pierre"
+  ],
+  "species": [
+  ],
+  "superName": "Mauvais",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauvais_(comics)"
+  }
+}

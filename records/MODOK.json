@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "MODOC",
+    "MODOC (Mobile Organism Designed Only for Computing)",
+    "MODOK"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "MODOK (also written as M.O.D.O.K.; acronym for Mental/Mobile/Mechanized Organism Designed Only for Killing) is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/eb/Modok.PNG"
+  },
+  "mainColor": null,
+  "name": "MODOK",
+  "partners": [
+  ],
+  "powers": [
+    "Powers",
+    "Psionic",
+    "Psionic powers",
+    "Superhuman intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9409,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "George Tarleton"
+  ],
+  "species": [
+  ],
+  "superName": "MODOK",
+  "teams": [
+    "AIM",
+    "Advanced Idea Mechanics",
+    "Headmen",
+    "Intelligencia",
+    "The Headmen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/MODOK"
+  }
+}

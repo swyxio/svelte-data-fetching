@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Major Mapleleaf"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Mark Pacella",
+    "Scott Lobdell"
+  ],
+  "description": "Major Mapleleaf is the name of two fictional superheroes appearing in books published by Marvel Comics, primarily in the series Alpha Flight, both of whom were created by writer Scott Lobdell.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Majormaple.png/250px-Majormaple.png"
+  },
+  "mainColor": null,
+  "name": "Major Mapleleaf",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 504,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lou",
+    "Louis Sadler",
+    "Louis Sadler Jr."
+  ],
+  "species": [
+  ],
+  "superName": "Major Mapleleaf",
+  "teams": [
+    "Alpha Flight",
+    "Invaders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Major_Mapleleaf"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "H.D. Steckley",
+    "Madame MacEvil",
+    "Moondragon"
+  ],
+  "authors": [
+    "Bill Everett",
+    "George Tuska",
+    "Jim Starlin",
+    "Mike Friedrich"
+  ],
+  "description": "Moondragon (Heather Douglas) is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d2ebd6c5/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Moondragon",
+  "partners": [
+  ],
+  "powers": [
+    "Engineer",
+    "Enormously powerful",
+    "Highly skilled geneticist",
+    "Low-level",
+    "Low-level telekinetic",
+    "Martial artist",
+    "Master",
+    "Master martial artist",
+    "Telekinetic",
+    "Telepath"
+  ],
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 2,
+    "pageviewCount": 6566,
+    "serieCount": 9,
+    "storyCount": 21
+  },
+  "secretIdentities": [
+    "Heather Douglas"
+  ],
+  "species": [
+  ],
+  "superName": "Moondragon",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Infinity Watch"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1500/moondragon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moondragon"
+  }
+}

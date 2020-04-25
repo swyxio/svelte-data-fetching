@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Deacon Frost",
+    "Whitehair"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Marv Wolfman"
+  ],
+  "description": "Deacon Frost is a fictional character appearing in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Deaconfrost.png/250px-Deaconfrost.png"
+  },
+  "mainColor": null,
+  "name": "Deacon Frost",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2194,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Vampire"
+  ],
+  "superName": "Deacon Frost",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Deacon_Frost"
+  }
+}

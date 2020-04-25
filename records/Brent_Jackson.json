@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Agent Jackson",
+    "Brent Jackson",
+    "Director Jackson"
+  ],
+  "authors": [
+    "Frank Tieri",
+    "Sean Chen"
+  ],
+  "description": "Brent Jackson is a fictional Marvel Comics character.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d2/Agent_Brent_Jackson.jpg"
+  },
+  "mainColor": null,
+  "name": "Brent Jackson",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 438,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brent Montgomery Jackson"
+  ],
+  "species": [
+  ],
+  "superName": "Brent Jackson",
+  "teams": [
+    "S.H.I.E.L.D",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Brent_Jackson"
+  }
+}

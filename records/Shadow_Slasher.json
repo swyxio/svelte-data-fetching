@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Shadow Slasher"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Gene Day",
+    "Mick Zeck"
+  ],
+  "description": "Shadow Slasher is a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Shadow Slasher",
+  "partners": [
+  ],
+  "powers": [
+    "Asian",
+    "Nunchaku",
+    "Other",
+    "Other asian weapons",
+    "Uses",
+    "Uses nunchaku",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 91,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Xi-shan Hao"
+  ],
+  "species": [
+  ],
+  "superName": "Shadow Slasher",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shadow_Slasher"
+  }
+}

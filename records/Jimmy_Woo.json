@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Jimmy Woo"
+  ],
+  "authors": [
+    "Al Feldstein",
+    "Joe Maneely"
+  ],
+  "description": "Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads the Agents of Atlas in the present.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Jimmy Woo",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 2,
+    "pageviewCount": 1162,
+    "serieCount": 4,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "James Woo"
+  ],
+  "species": [
+  ],
+  "superName": "Jimmy Woo",
+  "teams": [
+    "Agents of Atlas",
+    "G-Men",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2873/jimmy_woo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Woo"
+  }
+}

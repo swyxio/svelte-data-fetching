@@ -1,0 +1,40 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Bob Harras",
+    "Paul Neary"
+  ],
+  "description": "Al MacKenzie is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Al MacKenzie",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7028,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alphonso MacKenzie"
+  ],
+  "species": [
+  ],
+  "superName": "Al MacKenzie",
+  "teams": [
+    "C.I.A",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Al_MacKenzie"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Karnilla",
+    "The Norn Queen"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Karnilla is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg"
+  },
+  "mainColor": null,
+  "name": "Karnilla",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Casting",
+    "Elemental conversion",
+    "Endurance",
+    "Enhancement of physical",
+    "Force fields",
+    "Healing factor",
+    "Illusion",
+    "Illusion casting",
+    "Immunity to all diseases",
+    "Induce temporary",
+    "Inter-dimensional",
+    "Longevity",
+    "Or sleep",
+    "Paralysis",
+    "Sensory abilities",
+    "Shapeshifting",
+    "Superhuman strength",
+    "Telekinesis",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1153,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karnilla"
+  ],
+  "species": [
+  ],
+  "superName": "Karnilla",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Karnilla"
+  }
+}

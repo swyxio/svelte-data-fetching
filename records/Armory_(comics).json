@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Armory",
+    "Violet Lightner"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Stefano Caselli"
+  ],
+  "description": "Armory (Violet Lightner) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg"
+  },
+  "mainColor": null,
+  "name": "Armory",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 490,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Violet Lightner"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Armory",
+  "teams": [
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Armory_(comics)"
+  }
+}

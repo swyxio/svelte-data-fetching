@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Benjamin Russell",
+    "Shatterstar"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Shatterstar is Gaveedra Seven, the product of bio-engineering on an otherdimensional world, who was at one point merged with an Earth mutant named Benjamin Russell, the nature of whose genetic mutation remains unknown.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/70/4c003c21cd9e1/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Shatterstar",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced cognition"
+  ],
+  "ranking": {
+    "comicCount": 96,
+    "eventCount": 5,
+    "pageviewCount": 3721,
+    "serieCount": 25,
+    "storyCount": 116
+  },
+  "secretIdentities": [
+    "Gaveedra-Seven"
+  ],
+  "species": [
+    "Genetically engineered humanoid",
+    "Human Mutant"
+  ],
+  "superName": "Shatterstar",
+  "teams": [
+    "New Mutants",
+    "The Cadre Alliance",
+    "X-Factor Investigations",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2074/shatterstar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shatterstar"
+  }
+}

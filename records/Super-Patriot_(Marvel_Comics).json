@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Super-Patriot"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Herb Trimpe"
+  ],
+  "description": "Super-Patriot is a name used by two supervillains and a superhero in the universe of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg"
+  },
+  "mainColor": null,
+  "name": "Super-Patriot",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 272,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Super-Patriot",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Super-Patriot_(Marvel_Comics)"
+  }
+}

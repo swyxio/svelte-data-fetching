@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Skrull Queen",
+    "Spider-Woman",
+    "Sybil Dvorak",
+    "Veranke"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Jim Cheung"
+  ],
+  "description": "Veranke is a fictional character created by Marvel Comics who serves as the queen of the Skrull empire in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg"
+  },
+  "mainColor": null,
+  "name": "Veranke",
+  "partners": [
+  ],
+  "powers": [
+    "Shapeshifting",
+    "Spider-woman's powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2758,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Veranke"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "superName": "Veranke",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Mighty Avengers",
+    "New Avengers",
+    "S.H.I.E.L.D",
+    "Skrull",
+    "Skrull Empire",
+    "The Mighty Avengers",
+    "The New Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Veranke"
+  }
+}

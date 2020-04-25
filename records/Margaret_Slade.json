@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Margaret Slade"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Frank Tieri"
+  ],
+  "description": "Margaret Slade is a fictional character and mutant in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Margaret Slade",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 402,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Margaret Slade"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Margaret Slade",
+  "teams": [
+    "Clan Akkaba"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Slade"
+  }
+}

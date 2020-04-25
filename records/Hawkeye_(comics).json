@@ -1,0 +1,80 @@
+{
+  "aliases": [
+    "Captain America",
+    "Clint Barton",
+    "Golden Archer",
+    "Goliath",
+    "Hawkeye",
+    "Hawkeye vol. 1",
+    "Hawkeye vol. 2",
+    "Hawkeye vol. 3",
+    "Ronin"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "Hawkeye (Clint Barton) is a fictional superhero appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/537badd4a6ba8.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/537bad8219731/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 25,
+    "green": 11,
+    "hexa": "2A0B19",
+    "red": 42
+  },
+  "name": "Hawkeye",
+  "partners": [
+    "Black Widow",
+    "Black Widow (Natalia Romanova)",
+    "Hawkeye (Kate Bishop)",
+    "Kate Bishop",
+    "Mockingbird"
+  ],
+  "powers": [
+    "Durability",
+    "Expert tactician",
+    "Marksman",
+    "Martial artist",
+    "Mass manipulation",
+    "Master archer",
+    "Size",
+    "Superhuman strength",
+    "Trick arrows",
+    "Uses a variety of"
+  ],
+  "ranking": {
+    "comicCount": 222,
+    "eventCount": 14,
+    "pageviewCount": 34291,
+    "serieCount": 106,
+    "storyCount": 225
+  },
+  "secretIdentities": [
+    "Clint",
+    "Clinton Francis Barton"
+  ],
+  "species": [
+  ],
+  "superName": "Hawkeye",
+  "teams": [
+    "Avengers",
+    "Avengers Academy",
+    "Avengers Idea Mechanics",
+    "Defenders",
+    "Great Lakes Avengers",
+    "New Avengers",
+    "Secret Avengers",
+    "The New Avengers",
+    "Thunderbolts",
+    "West Coast Avengers",
+    "Wild Pack",
+    "World Counter-terrorism Agency"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/23/hawkeye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawkeye_(comics)"
+  }
+}

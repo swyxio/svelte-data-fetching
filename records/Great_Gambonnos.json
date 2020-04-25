@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Great Gambonnos",
+    "Kings of the High Trapeze",
+    "The Flying Gambonnos"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Great Gambonnos are fictional characters, two twin supervillains in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Great Gambonnos",
+  "partners": [
+  ],
+  "powers": [
+    "Aerialists",
+    "Expert acrobats"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 284,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ernesto",
+    "Ernesto and Luigi Gambonno",
+    "Luigi Gambonno"
+  ],
+  "species": [
+  ],
+  "superName": "Great Gambonnos",
+  "teams": [
+    "Circus of Crime",
+    "The Masters of Menace"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Gambonnos"
+  }
+}

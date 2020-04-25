@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Ben Reilly",
+    "Dusk",
+    "Hornet",
+    "Peter Parker",
+    "Prodigy",
+    "Ricochet",
+    "Scarlet Spider",
+    "Spider-Man",
+    "Spiderman",
+    "Spidey",
+    "Tiger",
+    "Wallcrawler",
+    "Web-slinger",
+    "Webhead"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/538cd33e15ab7/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Spider-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Genius",
+    "Genius-level intellect",
+    "Precognitive",
+    "Precognitive spider-sense",
+    "Speed",
+    "Spider-sense",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2593,
+    "eventCount": 29,
+    "pageviewCount": 89463,
+    "serieCount": 537,
+    "storyCount": 4197
+  },
+  "secretIdentities": [
+    "Peter Benjamin Parker"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Spider-Man",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Fantastic Four",
+    "Future Foundation",
+    "Heroes for Hire",
+    "The New Avengers",
+    "X-Mansion"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/54/spider-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man"
+  }
+}

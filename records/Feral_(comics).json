@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Feral"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Feral (Maria Callasantos) is a fictional character that appears in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Feral01.jpg/193px-Feral01.jpg"
+  },
+  "mainColor": null,
+  "name": "Feral",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced senses",
+    "Fangs",
+    "Fangs and",
+    "Feline",
+    "Feline appearance",
+    "Healing factor",
+    "Prehensile",
+    "Prehensile tail",
+    "Sharp claws",
+    "Tail"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3392,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maria Callasantos"
+  ],
+  "species": [
+    "Human ;",
+    "formerly human mutant"
+  ],
+  "superName": "Feral",
+  "teams": [
+    "Hellions",
+    "Morlocks",
+    "Mutant Liberation Front",
+    "New Hellions",
+    "New Mutants",
+    "Selene",
+    "Selene's undead mutants army",
+    "X-Corporation",
+    "X-Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Feral_(comics)"
+  }
+}

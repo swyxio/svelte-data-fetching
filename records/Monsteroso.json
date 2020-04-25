@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Monsteroso"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Monsteroso can refer to two different characters in the universe of Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Amazing_Adventures_5.png/200px-Amazing_Adventures_5.png"
+  },
+  "mainColor": null,
+  "name": "Monsteroso",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Growth",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 81,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Sturdian",
+    "unknown"
+  ],
+  "superName": "Monsteroso",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Monsteroso"
+  }
+}

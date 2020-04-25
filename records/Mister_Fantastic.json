@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Invincible Man",
+    "Mister Fantastic",
+    "Reed Benjamin"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Mister Fantastic (Reed Richards) is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg"
+  },
+  "mainColor": null,
+  "name": "Mister Fantastic",
+  "partners": [
+  ],
+  "powers": [
+    "Electricity",
+    "Endurance",
+    "Genius-level intellect",
+    "Malleability",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 13326,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Reed Richards"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Mister Fantastic",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Fantastic Four",
+    "Future Foundation",
+    "Illuminati"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Iron Fist",
+    "Junzo Muto"
+  ],
+  "authors": [
+    "Chris Renaud",
+    "Jay Faerber",
+    "Jay Faerber, Karl Kersche, and Chris Renaud",
+    "Karl Kersche"
+  ],
+  "description": "Junzo Muto  is a fictional character, featured in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Junzo_profile.jpg/250px-Junzo_profile.jpg"
+  },
+  "mainColor": null,
+  "name": "Junzo Muto",
+  "partners": [
+  ],
+  "powers": [
+    "Air manipulation",
+    "Earth manipulation",
+    "Enhanced speed",
+    "Fire manipulation",
+    "Teleportation",
+    "The iron fist",
+    "Water manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 350,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Junzo Muto"
+  ],
+  "species": [
+  ],
+  "superName": "Junzo Muto",
+  "teams": [
+    "Hand",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Junzo_Muto"
+  }
+}

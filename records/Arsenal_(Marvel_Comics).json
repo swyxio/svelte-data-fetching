@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Arsenal"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Keith Giffen"
+  ],
+  "description": "Arsenal is a fictional character, a robot that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/AvengersAnnual-9.jpg/250px-AvengersAnnual-9.jpg"
+  },
+  "mainColor": null,
+  "name": "Arsenal",
+  "partners": [
+    "Mother"
+  ],
+  "powers": [
+    "Advanced sensors",
+    "Air jets",
+    "Durability",
+    "Laser cannon",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1790,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Arsenal",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Arsenal_(Marvel_Comics)"
+  }
+}

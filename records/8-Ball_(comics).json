@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "8-Ball",
+    "Eightball",
+    "The Crook With the Jet-Propelled Cue-Stick"
+  ],
+  "authors": [
+    "Bob Budiansky",
+    "Bret Blevins"
+  ],
+  "description": "8-Ball is the name used by different characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg"
+  },
+  "mainColor": null,
+  "name": "8-Ball",
+  "partners": [
+  ],
+  "powers": [
+    "A cue stick",
+    "Brilliant engineer",
+    "Expert pool player",
+    "Fireworks",
+    "Flying miniature cameras",
+    "Gifted inventor",
+    "Skilled gymnast",
+    "Use of explosive grenades"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 689,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jeff Hagees"
+  ],
+  "species": [
+  ],
+  "superName": "8-Ball",
+  "teams": [
+    "8-Ball Gang"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/8-Ball_(comics)"
+  }
+}

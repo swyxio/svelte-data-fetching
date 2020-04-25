@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Ariel"
+  ],
+  "authors": [
+    "Jo Duffy",
+    "Kerry Gammill"
+  ],
+  "description": "Ariel is a fictional character, an extraterrestrial mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1c/ArielC.png"
+  },
+  "mainColor": null,
+  "name": "Ariel",
+  "partners": [
+  ],
+  "powers": [
+    "Psychic persuasion"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1193,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ariel"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Ariel",
+  "teams": [
+    "Fallen Angels",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ariel_(comics)"
+  }
+}

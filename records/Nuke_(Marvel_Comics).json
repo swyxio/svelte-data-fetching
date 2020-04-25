@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Agent Simpson",
+    "Frank Simpson",
+    "Nuke",
+    "Scourge",
+    "Scourge of the Underworld"
+  ],
+  "authors": [
+    "David Mazzucchelli",
+    "Frank Miller"
+  ],
+  "description": "Nuke (real name Frank Simpson) is a fictional supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4ce5a28ac1c48/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nuke",
+  "partners": [
+  ],
+  "powers": [
+    "Second heart",
+    "Speed",
+    "Stamina",
+    "Sturdiness"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 109709,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Frank Simpson"
+  ],
+  "species": [
+  ],
+  "superName": "Nuke",
+  "teams": [
+    "Thunderbolts",
+    "Weapon Plus"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1623/nuke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nuke_(Marvel_Comics)"
+  }
+}

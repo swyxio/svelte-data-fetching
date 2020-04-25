@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Tyler Stone"
+  ],
+  "authors": [
+    "Peter David",
+    "Rick Leonardi"
+  ],
+  "description": "Tyler Stone is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tyler Stone",
+  "partners": [
+  ],
+  "powers": [
+    "Normal human"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 320,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Tyler Stone",
+  "teams": [
+    "Alchemax"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Stone"
+  }
+}

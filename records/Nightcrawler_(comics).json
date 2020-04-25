@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Kurt Wagner",
+    "Nightcrawler"
+  ],
+  "authors": [
+    "Dave Cockrum",
+    "Len Wein"
+  ],
+  "description": "Nightcrawler (Kurt Wagner) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/40/526034979bc98/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nightcrawler",
+  "partners": [
+  ],
+  "powers": [
+    "Balance",
+    "Blend into shadows",
+    "Coordination",
+    "Dexterity",
+    "Enhanced flexibility",
+    "Night vision",
+    "Prehensile tail",
+    "Reflexes",
+    "Speed",
+    "Superb fencer",
+    "Superhuman agility",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 440,
+    "eventCount": 12,
+    "pageviewCount": 26709,
+    "serieCount": 121,
+    "storyCount": 524
+  },
+  "secretIdentities": [
+    "Kurt Wagner"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Nightcrawler",
+  "teams": [
+    "Archdiocese of New York",
+    "Excalibur",
+    "Holy See",
+    "Roman Catholic Archdiocese of New York",
+    "Vatican",
+    "X-Men",
+    "X-Treme Sanctions Executive"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1602/nightcrawler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightcrawler_(comics)"
+  }
+}

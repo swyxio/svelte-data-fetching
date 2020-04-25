@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Mind-Wave"
+  ],
+  "authors": [
+    "Bob Brown",
+    "Jim Mooney",
+    "Marv Wolfman"
+  ],
+  "description": "Mind-Wave is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mind-Wave",
+  "partners": [
+  ],
+  "powers": [
+    "Psionic powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 156,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Mind-Wave",
+  "teams": [
+    "Esper-Ts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mind-Wave"
+  }
+}

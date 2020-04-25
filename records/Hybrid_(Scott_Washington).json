@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Hybrid"
+  ],
+  "authors": [
+    "Evan Skolnick",
+    "Fabian Nicieza",
+    "Hybrid",
+    "Mark Bagley",
+    "Patrick Zircher",
+    "Scott Washington"
+  ],
+  "description": "Hybrid (real name Scott Washington) is a fictional anti-hero of the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hybrid (Scott Washington)",
+  "partners": [
+  ],
+  "powers": [
+    "Alien symbiote",
+    "Symbiote"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2300,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Scott Washington"
+  ],
+  "species": [
+  ],
+  "superName": "Hybrid",
+  "teams": [
+    "Guardsman",
+    "Guardsmen",
+    "NYPD",
+    "New Warriors",
+    "New York City Police Department"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hybrid_(Scott_Washington)"
+  }
+}

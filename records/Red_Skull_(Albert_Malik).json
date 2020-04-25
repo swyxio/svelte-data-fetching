@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Aleksander Lukin",
+    "Bettman P. Lyles",
+    "Cyrus Fenton",
+    "Dell Rusk",
+    "Der Rote Schädel (German name)",
+    "John Smith",
+    "Red Skull",
+    "Teacher",
+    "The Man (head of the People's Militia)",
+    "Tod March (president and owner of Galactic Pictures)",
+    "White Skull",
+    "the Agent of a Thousand Faces (impersonated in Europe during World War II)"
+  ],
+  "authors": [
+    "France Herron",
+    "Jack Kirby",
+    "Joe Simon"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Capa038.jpg/200px-Capa038.jpg"
+  },
+  "mainColor": null,
+  "name": "Red Skull (Albert Malik)",
+  "partners": [
+    "Baron Helmut Zemo",
+    "Baron Strucker",
+    "Crossbones",
+    "Sin",
+    "The Viper"
+  ],
+  "powers": [
+    "Captain america",
+    "Expert marksman",
+    "Political mastermind",
+    "Possesses cloned body of",
+    "Strategic genius"
+  ],
+  "ranking": {
+    "comicCount": 103,
+    "eventCount": 4,
+    "pageviewCount": 101,
+    "serieCount": 55,
+    "storyCount": 98
+  },
+  "secretIdentities": [
+    "Johann Schmidt"
+  ],
+  "species": [
+  ],
+  "superName": "Red Skull",
+  "teams": [
+    "AIM",
+    "Astonishing Avengers",
+    "Exiles",
+    "Hydra",
+    "Kronas Corporation",
+    "Nazi Germany",
+    "Skeleton Crew",
+    "ULTIMATUM"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1901/red_skull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Skull_(Albert_Malik)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Yellowjacket"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roger Stern"
+  ],
+  "description": "Rita DeMara, hoping to show off her talent of engineering, stole a copy of the Yellowjacket costume from the Avengers Mansion.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5398a8a4b8ca9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Yellowjacket (Rita DeMara)",
+  "partners": [
+  ],
+  "powers": [
+    "Cybernetics expert",
+    "High-speed flight",
+    "Size manipulation"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 1,
+    "pageviewCount": 2087,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Rita DeMara"
+  ],
+  "species": [
+  ],
+  "superName": "Yellowjacket",
+  "teams": [
+    "Avengers",
+    "Femizons",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)",
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2636/yellowjacket",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellowjacket_(Rita_DeMara)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Hunger",
+    "Lifeform",
+    "Night Stalker"
+  ],
+  "authors": [
+    "Mike Baron",
+    "Mike Baron and Neil Hansen",
+    "Neil Hansen"
+  ],
+  "description": "Lifeform is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg"
+  },
+  "mainColor": null,
+  "name": "Lifeform",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 141,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "George Prufrock"
+  ],
+  "species": [
+  ],
+  "superName": "Lifeform",
+  "teams": [
+    "Advanced Idea Mechanics"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lifeform_(comics)"
+  }
+}

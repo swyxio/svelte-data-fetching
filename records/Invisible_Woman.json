@@ -1,0 +1,62 @@
+{
+  "aliases": [
+    "Baroness Von Doom",
+    "Captain Universe",
+    "Invisible Girl",
+    "Invisible Woman",
+    "Malice",
+    "Mistress of Hate",
+    "Susan Benjamin",
+    "Susan Storm",
+    "Tabitha Deneuve"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Invisible Woman (Susan \"Sue\" Storm Richards), previously known as the Invisible Girl, is a fictional superheroine appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52695b9cd40b6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Invisible Woman",
+  "partners": [
+  ],
+  "powers": [
+    "Competent martial artist",
+    "Control",
+    "Force field",
+    "Invisibility",
+    "Invisible",
+    "Manipulate",
+    "Projected",
+    "Projected invisibility"
+  ],
+  "ranking": {
+    "comicCount": 390,
+    "eventCount": 17,
+    "pageviewCount": 10637,
+    "serieCount": 143,
+    "storyCount": 488
+  },
+  "secretIdentities": [
+    "Sue",
+    "Susan Storm Richards"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Invisible Woman",
+  "teams": [
+    "Avengers",
+    "Fantastic Four",
+    "Fantastic Four Incorporated",
+    "Future Foundation",
+    "Lady Liberators"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1047/invisible_woman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Invisible_Woman"
+  }
+}

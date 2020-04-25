@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Arkon",
+    "Arkon the Imperion",
+    "Arkon the Magnificent"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Arkon is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png"
+  },
+  "mainColor": null,
+  "name": "Arkon",
+  "partners": [
+    "Enchantress"
+  ],
+  "powers": [
+    "A shield",
+    "Agility",
+    "Durability",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Swordsman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1424,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Arkon",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Arkon"
+  }
+}

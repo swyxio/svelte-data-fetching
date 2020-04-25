@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Nikki"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Steve Gerber"
+  ],
+  "description": "Nicholette \"Nikki\" Gold is a fictional character, a woman in the Earth-691 timeline of the fictional Marvel Universe, genetically engineered to live on the planet Mercury.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Nikki",
+  "partners": [
+  ],
+  "powers": [
+    "Good acrobat",
+    "Sharpshooter",
+    "Ultraviolet radiation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 673,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nicholette Gold"
+  ],
+  "species": [
+  ],
+  "superName": "Nikki",
+  "teams": [
+    "Avengers",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikki_(comics)"
+  }
+}

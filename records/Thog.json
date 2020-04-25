@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Thog",
+    "Thog the Nether-Spawn, Overmaster of Sominus"
+  ],
+  "authors": [
+    "Rich Buckler",
+    "Steve Gerber"
+  ],
+  "description": "Thog the Nether-Spawn, Overmaster of Sominus is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Thog",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 609,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Thog",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thog"
+  }
+}

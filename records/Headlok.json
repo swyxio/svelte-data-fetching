@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Headlok"
+  ],
+  "authors": [
+    "Al Milgrom",
+    "Steve Englehart"
+  ],
+  "description": "Headlok is a fictional character from the Marvel Universe who first appeared in West Coast Avengers #10 in July 1986.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Headlok",
+  "partners": [
+  ],
+  "powers": [
+    "Mind control"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 136,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unrevealed"
+  ],
+  "species": [
+  ],
+  "superName": "Headlok",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Headlok"
+  }
+}

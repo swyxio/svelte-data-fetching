@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Tusk"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Jim Lee",
+    "Whilce Portacio"
+  ],
+  "description": "Tusk is a fictional supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tusk",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 562,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Tusk",
+  "teams": [
+    "Dark Riders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tusk_(comics)"
+  }
+}

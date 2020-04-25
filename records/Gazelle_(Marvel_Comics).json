@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Gazelle"
+  ],
+  "authors": [
+    "George Pérez",
+    "Len Wein"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gazelle",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 83,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Gazelle",
+  "teams": [
+    "Salem's Seven"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gazelle_(Marvel_Comics)"
+  }
+}

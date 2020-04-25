@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Adept"
+  ],
+  "authors": [
+    "Brent Anderson",
+    "Peter B. Gillis"
+  ],
+  "description": "Adept (Jelene Anderson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f4/Adept_Morituri.jpg"
+  },
+  "mainColor": null,
+  "name": "Adept",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 197,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jelene Anderson"
+  ],
+  "species": [
+  ],
+  "superName": "Adept",
+  "teams": [
+    "Morituri"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Adept_(comics)"
+  }
+}

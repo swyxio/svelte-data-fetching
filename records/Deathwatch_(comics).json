@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Deathwatch",
+    "Stephen Lords"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "Javier Saltares",
+    "and Javier Saltares"
+  ],
+  "description": "Deathwatch is a fictional character.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/Deathwatch_002.jpg"
+  },
+  "mainColor": null,
+  "name": "Deathwatch",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 517,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Extra Dimensional"
+  ],
+  "superName": "Deathwatch",
+  "teams": [
+    "International Contractors Unlimited",
+    "The Translords"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Deathwatch_(comics)"
+  }
+}

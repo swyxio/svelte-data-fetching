@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Yeti"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Yeti is the name of two fictional comic book characters from the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Yeti",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Razor sharp claws",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 391,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Yeti",
+  "teams": [
+    "Department K",
+    "First Line",
+    "Weapon P.R.I.M.E"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Yeti_(comics)"
+  }
+}

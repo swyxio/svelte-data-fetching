@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Golden Girl",
+    "Golden Woman"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Jack Kirby",
+    "Joe Simon",
+    "Roy Thomas"
+  ],
+  "description": "Not to be confused with \"The Golden Girls\".",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg"
+  },
+  "mainColor": null,
+  "name": "Golden Girl",
+  "partners": [
+  ],
+  "powers": [
+    "Energy",
+    "Light generation",
+    "Wears bulletproof cape"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2294,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Betsy Ross",
+    "Gwendolyne Lou Sabuki",
+    "Gwenny"
+  ],
+  "species": [
+  ],
+  "superName": "Golden Girl",
+  "teams": [
+    "All-Winners Squad",
+    "Kid Commandos",
+    "Penance Council",
+    "V-Battalion",
+    "Women's Army Corps",
+    "Women's Auxiliary Army Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_Girl"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Haywire"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Paul Ryan"
+  ],
+  "description": "Haywire is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Haywire.jpg/250px-Haywire.jpg"
+  },
+  "mainColor": null,
+  "name": "Haywire",
+  "partners": [
+  ],
+  "powers": [
+    "Tanglewire"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 232,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Harold Danforth"
+  ],
+  "species": [
+  ],
+  "superName": "Haywire",
+  "teams": [
+    "Redeemers",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Haywire_(comics)"
+  }
+}

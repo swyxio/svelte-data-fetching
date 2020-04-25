@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Abraham",
+    "Cornelius",
+    "Doctor Cornelius"
+  ],
+  "authors": [
+    "Barry Windsor-Smith"
+  ],
+  "description": "Doctor Abraham Cornelius is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/AbeCornelius.jpg"
+  },
+  "mainColor": null,
+  "name": "Abraham Cornelius",
+  "partners": [
+    "Fenris",
+    "Matsu'o Tsurayaba"
+  ],
+  "powers": [
+    "Scientific genius"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1195,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Abraham B. Cornelius"
+  ],
+  "species": [
+  ],
+  "superName": "Abraham Cornelius",
+  "teams": [
+    "The Hand",
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Cornelius"
+  }
+}

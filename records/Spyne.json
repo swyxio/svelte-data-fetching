@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Spyne"
+  ],
+  "authors": [
+  ],
+  "description": "Spyne is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Spyne",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Fangs",
+    "Hyper keen senses",
+    "Razor-sharp claws",
+    "Reflexes",
+    "Reptilian body",
+    "Speed",
+    "Spiked tail",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 347,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Spyne",
+  "teams": [
+    "Dark Riders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Spyne"
+  }
+}

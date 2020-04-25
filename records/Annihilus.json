@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Ahmyor",
+    "Annihilus",
+    "Lord of the Negative Zone",
+    "the Living Death that Walks"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Annihilus is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Annihilus",
+  "partners": [
+    "Blastaar"
+  ],
+  "powers": [
+    "Agility",
+    "Chitinous",
+    "Durability",
+    "Energy",
+    "Energy blasts",
+    "Exoskeleton",
+    "Flight",
+    "Molecular manipulation",
+    "Reflexes",
+    "Slowed aging process",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 33,
+    "eventCount": 0,
+    "pageviewCount": 4956,
+    "serieCount": 18,
+    "storyCount": 33
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Arthrosian"
+  ],
+  "superName": "Annihilus",
+  "teams": [
+    "Annihilation",
+    "Annihilation Wave"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/154/annihilus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annihilus"
+  }
+}

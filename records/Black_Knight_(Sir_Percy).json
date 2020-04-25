@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Black Knight"
+  ],
+  "authors": [
+    "Joe Maneely",
+    "Stan Lee"
+  ],
+  "description": "Sir Percy of Scandia, also known as the original Black Knight, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59ed1590a7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Knight (Sir Percy)",
+  "partners": [
+  ],
+  "powers": [
+    "Ebony blade",
+    "Hand to hand combatant",
+    "Helmet",
+    "Horseman",
+    "Invulnerability",
+    "Master swordsman",
+    "Musician",
+    "Singer",
+    "Talented poet",
+    "Wields enchanted"
+  ],
+  "ranking": {
+    "comicCount": 96,
+    "eventCount": 3,
+    "pageviewCount": 452,
+    "serieCount": 54,
+    "storyCount": 90
+  },
+  "secretIdentities": [
+    "Sir Percy of Scandia"
+  ],
+  "species": [
+  ],
+  "superName": "Black Knight",
+  "teams": [
+    "Knights of the Round Table"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/275/black_knight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_(Sir_Percy)"
+  }
+}

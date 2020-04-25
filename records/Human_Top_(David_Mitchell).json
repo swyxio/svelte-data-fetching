@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Human Top"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": "The Human Top (David Mitchell) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg"
+  },
+  "mainColor": null,
+  "name": "Human Top (David Mitchell)",
+  "partners": [
+  ],
+  "powers": [
+    "Balance",
+    "Coordination",
+    "Create small tornadoes",
+    "Reflexes",
+    "Superhuman agility"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 293,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "David Mitchell"
+  ],
+  "species": [
+  ],
+  "superName": "Human Top",
+  "teams": [
+    "Kid Commandos",
+    "Penance Council",
+    "V-Battalion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Top_(David_Mitchell)"
+  }
+}

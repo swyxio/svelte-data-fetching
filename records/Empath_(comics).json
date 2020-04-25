@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Empath",
+    "Mr. Roache"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Sal Buscema"
+  ],
+  "description": "Empath (Manuel Alfonso Rodrigo de la Rocha), is a fictional mutant in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/4ce59faf350ea/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Empath",
+  "partners": [
+  ],
+  "powers": [
+    "Psionic ability to sense"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 0,
+    "pageviewCount": 923,
+    "serieCount": 6,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Manuel Alfonso Rodrigo de la Rocha"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Empath",
+  "teams": [
+    "Hellfire Cult",
+    "Hellions",
+    "The 198",
+    "X-Corporation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/614/empath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Empath_(comics)"
+  }
+}

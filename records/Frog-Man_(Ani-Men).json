@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Croaker",
+    "Frog\" LeBlanc",
+    "Frog-Man",
+    "Frog-Man II"
+  ],
+  "authors": [
+    "Bob Powell",
+    "Stan Lee",
+    "Wally Wood"
+  ],
+  "description": "For the Marvel superhero, see Frog-Man.Frog-Man is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Frog-Man (Ani-Men)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Expert french kickboxer",
+    "Frog-like legs",
+    "Leaping",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 217,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Francois LeBlanc"
+  ],
+  "species": [
+  ],
+  "superName": "Frog-Man",
+  "teams": [
+    "Ani-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/740/frog-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frog-Man_(Ani-Men)"
+  }
+}

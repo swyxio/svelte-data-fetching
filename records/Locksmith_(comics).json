@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Locksmith"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "Brian Postman"
+  ],
+  "description": "The Locksmith is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Locksmith",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 148,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Locksmith",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Locksmith_(comics)"
+  }
+}

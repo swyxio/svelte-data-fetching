@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Black Jack Tarr"
+  ],
+  "authors": [
+    "Jim Starlin",
+    "Steve Englehart"
+  ],
+  "description": "\"Black\" Jack Tarr is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Black Jack Tarr",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 283,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Tarr"
+  ],
+  "species": [
+  ],
+  "superName": "Black Jack Tarr",
+  "teams": [
+    "Freelance Restorations"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Jack_Tarr"
+  }
+}

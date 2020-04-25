@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Leper Queen"
+  ],
+  "authors": [
+    "Peter Milligan",
+    "Salvador Larroca"
+  ],
+  "description": "The Leper Queen is a fictional villain of the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/XFORCE013_cov.jpg/250px-XFORCE013_cov.jpg"
+  },
+  "mainColor": null,
+  "name": "Leper Queen",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled fighter",
+    "Transmode virus"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 457,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Page",
+    "Page (first name unknown)"
+  ],
+  "species": [
+  ],
+  "superName": "Leper Queen",
+  "teams": [
+    "Purifiers",
+    "Sapien League"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Leper_Queen"
+  }
+}

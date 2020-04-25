@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Ringer",
+    "Strikeback",
+    "The Ringer"
+  ],
+  "authors": [
+    "David Kraft",
+    "Keith Giffen"
+  ],
+  "description": "Ringer is the name of multiple comic book supervillains in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg"
+  },
+  "mainColor": null,
+  "name": "Ringer",
+  "partners": [
+    "Beetle",
+    "The Beetle"
+  ],
+  "powers": [
+    "Energy projection",
+    "Engineer",
+    "Levitation",
+    "Skilled inventor",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 484,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Anthony Davis",
+    "Tony"
+  ],
+  "species": [
+  ],
+  "superName": "Ringer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringer_(comics)"
+  }
+}

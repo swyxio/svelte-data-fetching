@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Biogeneral",
+    "Ford",
+    "Tucker",
+    "Tucker Ford"
+  ],
+  "authors": [
+    "Howard Chaykin",
+    "Marco Turini"
+  ],
+  "description": "Tucker Ford, known as Biogeneral is a fictional character, a superhero that appears in comic books published by Marvel Comics created for the purposes of filling the Tony Stark role in the Supremeverse version of S.H.I.E.L.D. and the Ultimates.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tucker Ford",
+  "partners": [
+  ],
+  "powers": [
+    "Bio-suit of armour",
+    "Super-intelligence"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 86,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tucker Ford"
+  ],
+  "species": [
+  ],
+  "superName": "Tucker Ford",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tucker_Ford"
+  }
+}

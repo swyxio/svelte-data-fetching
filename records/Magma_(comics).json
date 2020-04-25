@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Alison Crestmere",
+    "Allison Crestmere",
+    "Amara Juliana Olivians Aquilla",
+    "Magma"
+  ],
+  "authors": [
+    "Bob McLeod",
+    "Chris Claremont"
+  ],
+  "description": "Magma (real name Amara Juliana Olivians Aquilla; also known as Alison Crestmere) is a fictional character in the Marvel Comics series New Mutants, also associated with various X-Men-related comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c003d55e4ce8/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Magma",
+  "partners": [
+  ],
+  "powers": [
+    "Control lava",
+    "Earth manipulation",
+    "Fire manipulation",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 34,
+    "eventCount": 3,
+    "pageviewCount": 2595,
+    "serieCount": 15,
+    "storyCount": 31
+  },
+  "secretIdentities": [
+    "Amara Juliana Olivians Aquilla"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Magma",
+  "teams": [
+    "Hellions",
+    "New Hellions",
+    "New Mutants",
+    "The 198",
+    "X-Corporation",
+    "X-Men",
+    "X-Treme Sanctions Executive"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1328/magma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magma_(comics)"
+  }
+}

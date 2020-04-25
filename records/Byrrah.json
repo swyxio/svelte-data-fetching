@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Byrrah",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Bill Everett",
+    "Jimmy Thompson"
+  ],
+  "description": "Byrrah is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Byrrah",
+  "partners": [
+  ],
+  "powers": [
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 428,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Homo mermanus"
+  ],
+  "superName": "Byrrah",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Byrrah"
+  }
+}

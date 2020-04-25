@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "White Tiger"
+  ],
+  "authors": [
+    "Christos Gage",
+    "Tom Raney"
+  ],
+  "description": "White Tiger (Ava Ayala) is a fictional superheroine from Marvel Comics created by Christos Gage and Tom Raney, first appearing in Avengers Academy #20 (December 2011).",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Avengers_Academy_24.jpg/250px-Avengers_Academy_24.jpg"
+  },
+  "mainColor": null,
+  "name": "White Tiger (Ava Ayala)",
+  "partners": [
+  ],
+  "powers": [
+    "Razor sharp claws"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4673,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ava Ayala"
+  ],
+  "species": [
+  ],
+  "superName": "White Tiger",
+  "teams": [
+    "Avengers Academy",
+    "Avengers Idea Mechanics",
+    "Heroes for Hire",
+    "Mighty Avengers",
+    "The Mighty Avengers",
+    "The New Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Ava_Ayala)"
+  }
+}

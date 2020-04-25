@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Betsy Braddock",
+    "Captain Britain",
+    "Elizabeth Braddock",
+    "Lady Briton",
+    "Lady Mandarin",
+    "Psylocke"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Herb Trimpe"
+  ],
+  "description": "Psylocke (Elizabeth \"Betsy\" Braddock) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/537bbf4294dbf.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/537bbf150acc9/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "hexa": "23192A",
+    "red": 35
+  },
+  "name": "Psylocke",
+  "partners": [
+  ],
+  "powers": [
+    "Empathy",
+    "Katana",
+    "Knife",
+    "Martial arts",
+    "Precognition",
+    "Psychic",
+    "Psychic katana",
+    "Psychokinesis",
+    "Telekinesis",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 257,
+    "eventCount": 15,
+    "pageviewCount": 74254,
+    "serieCount": 70,
+    "storyCount": 287
+  },
+  "secretIdentities": [
+    "Betsy",
+    "Elizabeth Braddock"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Psylocke",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Captain Britain Corps",
+    "Crimson Dawn",
+    "Excalibur",
+    "Exiles",
+    "Features of the Marvel Universe",
+    "Hellfire Club",
+    "Horsemen of Apocalypse",
+    "S.T.R.I.K.E",
+    "The Hand",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/42/psylocke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Psylocke"
+  }
+}

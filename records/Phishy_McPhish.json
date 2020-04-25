@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Phishy McPhish"
+  ],
+  "authors": [
+  ],
+  "description": "Phishy McPhish is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Phishy McPhish",
+  "partners": [
+  ],
+  "powers": [
+    "Unknown"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 61,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "McPhish"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Phishy McPhish",
+  "teams": [
+    "Brotherhood of Mutants"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Phishy_McPhish"
+  }
+}

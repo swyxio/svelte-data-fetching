@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Nightshade",
+    "Nightside"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Nightside is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/Nightsidewiki.jpg"
+  },
+  "mainColor": null,
+  "name": "Nightside",
+  "partners": [
+  ],
+  "powers": [
+    "Darkforce",
+    "Natural"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 260,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nightside",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightside_(comics)"
+  }
+}

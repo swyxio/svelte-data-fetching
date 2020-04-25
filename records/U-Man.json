@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "U-Man",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": "U-Man (Meranno) is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Invaders-39.jpg/225px-Invaders-39.jpg"
+  },
+  "mainColor": null,
+  "name": "U-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Able to move",
+    "Breathe underwater",
+    "Durability",
+    "Endurance",
+    "Superhuman strength",
+    "Trained in warfare"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 405,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Meranno"
+  ],
+  "species": [
+    "Homo mermanus"
+  ],
+  "superName": "U-Man",
+  "teams": [
+    "Super-Axis"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/U-Man"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Squid"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "John Romita Jr."
+  ],
+  "description": "Squid is the name of four Marvel Comics villains.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Squid-comics.jpg/249px-Squid-comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Squid",
+  "partners": [
+  ],
+  "powers": [
+    "Body"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 398,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Don Callahan"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Squid",
+  "teams": [
+    "Masters of Evil",
+    "Sinister Six",
+    "Sinister Sixteen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Squid_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Lodestone"
+  ],
+  "authors": [
+    "Danny Fingeroth",
+    "Mike Manley"
+  ],
+  "description": "Lodestone is a Marvel Comics supervillain, who first appears in Darkhawk #7.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Lode_stone-1-.jpg/200px-Lode_stone-1-.jpg"
+  },
+  "mainColor": null,
+  "name": "Lodestone",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 180,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Andrea"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Lodestone",
+  "teams": [
+    "Masters of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lodestone_(comics)"
+  }
+}

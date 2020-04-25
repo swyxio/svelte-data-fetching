@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Box",
+    "Gemini",
+    "Madison Jeffries"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Madison Jeffries is a fictional character, a mutant superhero in the Marvel Comics Universe with the ability to reshape plastic, metal, and glass to any shape desired.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Madison Jeffries",
+  "partners": [
+  ],
+  "powers": [
+    "Metal",
+    "Robots",
+    "Such as machines"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1391,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Madison Jeffries"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Madison Jeffries",
+  "teams": [
+    "Alpha Flight",
+    "Gamma Flight",
+    "Weapon X",
+    "X-Club",
+    "X-Men",
+    "Zodiac"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Jeffries"
+  }
+}

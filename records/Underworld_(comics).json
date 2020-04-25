@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Underworld"
+  ],
+  "authors": [
+    "Frank Tieri",
+    "Staz Johnson"
+  ],
+  "description": "Underworld (Jackie Dio) is a fictional character, a supervillain in publications from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg"
+  },
+  "mainColor": null,
+  "name": "Underworld",
+  "partners": [
+  ],
+  "powers": [
+    "A titanium-lined coat",
+    "Adamantium",
+    "Bullets",
+    "Healing factor",
+    "Regenerative",
+    "Titanium",
+    "Weapons with"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 447,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jackie Dio"
+  ],
+  "species": [
+  ],
+  "superName": "Underworld",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Underworld_(comics)"
+  }
+}

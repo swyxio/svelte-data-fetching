@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Cory Sutter",
+    "Daisy Johnson",
+    "Gabrielle Wewer",
+    "Quake",
+    "Skye"
+  ],
+  "authors": [
+    "Brian Michael Bendis",
+    "Gabriele Dell'Otto"
+  ],
+  "description": "Daisy Louise Johnson, also known as Quake and Skye, is a fictional superhero appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Secret_Warriors_22_textless.jpg/250px-Secret_Warriors_22_textless.jpg"
+  },
+  "mainColor": null,
+  "name": "Daisy Johnson",
+  "partners": [
+  ],
+  "powers": [
+    "Earthquake generation",
+    "Psychic shielding"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 27488,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Daisy Louise Johnson"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Daisy Johnson",
+  "teams": [
+    "Avengers",
+    "S.H.I.E.L.D",
+    "Secret Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Daisy_Johnson"
+  }
+}

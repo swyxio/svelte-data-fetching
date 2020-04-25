@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Death-Shield"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Jerry Bingham"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Death-Shield",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 0,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Timothy Karlskin"
+  ],
+  "species": [
+  ],
+  "superName": "Death-Shield",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Death-Shield"
+  }
+}

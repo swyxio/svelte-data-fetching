@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Ahab",
+    "Famine"
+  ],
+  "authors": [
+    "Jackson Guice",
+    "Walt Simonson"
+  ],
+  "description": "Ahab (Dr. Roderick \"Rory\" Campbell), a fictional supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/XMEN_04122005_0001.jpg"
+  },
+  "mainColor": null,
+  "name": "Ahab",
+  "partners": [
+  ],
+  "powers": [
+    "Energy harpoons",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1916,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Roderick Campbell",
+    "Rory"
+  ],
+  "species": [
+  ],
+  "superName": "Ahab",
+  "teams": [
+    "Excalibur",
+    "Horsemen of Apocalypse",
+    "Hounds",
+    "MI-13",
+    "Sentinels"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahab_(comics)"
+  }
+}

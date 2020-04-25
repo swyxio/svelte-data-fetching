@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Herald of the New Age",
+    "Wundarr the Aquarian"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio",
+    "Steve Gerber",
+    "Val Mayerik"
+  ],
+  "description": "Wundarr the Aquarian is a Marvel Comics character created by Steve Gerber and Val Mayerik in Adventure into Fear #17.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wundarr_the_Aquarian.png"
+  },
+  "mainColor": null,
+  "name": "Wundarr the Aquarian",
+  "partners": [
+  ],
+  "powers": [
+    "Energy projection",
+    "Entropy field",
+    "Leaping",
+    "Limited flight",
+    "Superhuman strength",
+    "Vast knowledge"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 517,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wundarr"
+  ],
+  "species": [
+  ],
+  "superName": "Wundarr the Aquarian",
+  "teams": [
+    "Features of the Marvel Universe",
+    "Fifty State Initiative",
+    "Initiative",
+    "Project Pegasus",
+    "The Command"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wundarr_the_Aquarian"
+  }
+}

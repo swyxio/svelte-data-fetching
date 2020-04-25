@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Kala",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Robert Bernstein",
+    "Stan Lee"
+  ],
+  "description": "Kala is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Kala%2C_Queen_of_the_Netherworld1.jpg/207px-Kala%2C_Queen_of_the_Netherworld1.jpg"
+  },
+  "mainColor": null,
+  "name": "Kala",
+  "partners": [
+    "Mole Man"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 251,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Kala",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kala_(comics)"
+  }
+}

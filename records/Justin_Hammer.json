@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Justin Hammer"
+  ],
+  "authors": [
+    "Bob Layton",
+    "David Michelinie",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Justin Hammer is a fictional character that has appeared in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/e/e0/4ce18ab1be1f6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Justin Hammer",
+  "partners": [
+  ],
+  "powers": [
+    "Expert strategist",
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4705,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Justin Hammer"
+  ],
+  "species": [
+  ],
+  "superName": "Justin Hammer",
+  "teams": [
+    "Hammer Industries"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2910/justin_hammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Hammer"
+  }
+}

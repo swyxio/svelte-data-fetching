@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Darkoth",
+    "Death Demon"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Rich Buckler"
+  ],
+  "description": "Darkoth (a.k.a.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Darkoth",
+  "partners": [
+  ],
+  "powers": [
+    "Density control",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 161,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desmond Pitt"
+  ],
+  "species": [
+  ],
+  "superName": "Darkoth",
+  "teams": [
+    "NASA",
+    "United States Air Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkoth"
+  }
+}

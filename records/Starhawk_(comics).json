@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Giver of Light",
+    "One Who Knows",
+    "One Who Knows, Giver of Light",
+    "Starhawk"
+  ],
+  "authors": [
+    "Sal Buscema",
+    "Steve Gerber"
+  ],
+  "description": "Though best known as a 31st century hero in the alternate Reality-691 timeline, the enigmatic, space-faring Starhawk originated a millennium earlier.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg"
+  },
+  "mainColor": null,
+  "name": "Starhawk",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation",
+    "Flight",
+    "Invulnerability",
+    "Precognition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2074,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Stakar of the House of Ogord"
+  ],
+  "species": [
+    "enhanced humanoid",
+    "human"
+  ],
+  "superName": "Starhawk",
+  "teams": [
+    "Avengers",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2204/starhawk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Starhawk_(comics)"
+  }
+}

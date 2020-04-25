@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "The Presence"
+  ],
+  "authors": [
+    "David Anthony Kraft",
+    "Keith Giffen"
+  ],
+  "description": "Sergei Krylov is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Presence",
+  "partners": [
+    "Starlight"
+  ],
+  "powers": [
+    "Energy blasts",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 516,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sergei Krylov"
+  ],
+  "species": [
+  ],
+  "superName": "Presence",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Presence_(Marvel_Comics)"
+  }
+}

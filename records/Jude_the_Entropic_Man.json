@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Jude the Entropic Man"
+  ],
+  "authors": [
+    "Ralph Macchio",
+    "Sal Buscema"
+  ],
+  "description": "Jude the Entropic Man is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Jude_the_Entropic_Man.jpg/225px-Jude_the_Entropic_Man.jpg"
+  },
+  "mainColor": null,
+  "name": "Jude the Entropic Man",
+  "partners": [
+  ],
+  "powers": [
+    "Death-based entrancing",
+    "Psychic powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 491,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Jude the Entropic Man",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jude_the_Entropic_Man"
+  }
+}

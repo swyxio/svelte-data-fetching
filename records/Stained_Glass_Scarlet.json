@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Stained Glass Scarlet"
+  ],
+  "authors": [
+    "Bill Sienkiewicz",
+    "Doug Moench",
+    "Jim Shooter"
+  ],
+  "description": "Stained Glass Scarlet (real name Scarlet Fasinera) is a fictional character appearing in the Marvel Comics universe created by Doug Moench, Bill Sienkiewicz, and Jim Shooter.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Stained_Glass_Scarlet_001.jpg/200px-Stained_Glass_Scarlet_001.jpg"
+  },
+  "mainColor": null,
+  "name": "Stained Glass Scarlet",
+  "partners": [
+  ],
+  "powers": [
+    "Bond with",
+    "Expert in martial art",
+    "Moon knight",
+    "Mysterious",
+    "Psychic",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 358,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Scarlet Fasinera"
+  ],
+  "species": [
+  ],
+  "superName": "Stained Glass Scarlet",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stained_Glass_Scarlet"
+  }
+}

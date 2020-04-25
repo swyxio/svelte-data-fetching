@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Merlin"
+  ],
+  "authors": [
+    "Dan Berry"
+  ],
+  "description": "Merlin is the name of multiple fictional characters in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Merlin",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 794,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Merlin"
+  ],
+  "species": [
+  ],
+  "superName": "Merlin",
+  "teams": [
+    "Court of King Arthur"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Merlin_(Marvel_Comics)"
+  }
+}

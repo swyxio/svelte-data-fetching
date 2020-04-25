@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Synch"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Everett Thomas was a founding member of Generation X.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
+  },
+  "mainColor": null,
+  "name": "Synch",
+  "partners": [
+  ],
+  "powers": [
+    "Sense",
+    "Track superpowered beings"
+  ],
+  "ranking": {
+    "comicCount": 14,
+    "eventCount": 1,
+    "pageviewCount": 1059,
+    "serieCount": 9,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Everett Thomas"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Synch",
+  "teams": [
+    "Generation X"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2278/synch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Synch_(comics)"
+  }
+}

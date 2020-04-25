@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Bi-Beast",
+    "Skull-Brother"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Steve Englehart"
+  ],
+  "description": "The Bi-Beast is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/H-169.jpg/250px-H-169.jpg"
+  },
+  "mainColor": null,
+  "name": "Bi-Beast",
+  "partners": [
+    "Avians",
+    "Man-Beast",
+    "Red Raven"
+  ],
+  "powers": [
+    "Culture",
+    "Durability",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1000,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Bi-Beast",
+  "teams": [
+    "Masters of Evil",
+    "Sinister Six",
+    "Sinister Sixteen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bi-Beast"
+  }
+}

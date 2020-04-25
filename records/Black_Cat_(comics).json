@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Black Cat",
+    "Felicia Harmon",
+    "Felicity Harmon",
+    "Leesh",
+    "Party Hardy"
+  ],
+  "authors": [
+    "Keith Pollard",
+    "Marv Wolfman"
+  ],
+  "description": "The Black Cat (Felicia Hardy) is a fictional antiheroine that appears in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Black Cat",
+  "partners": [
+    "Spider-Man"
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Excellent street fighter",
+    "Expert burglar",
+    "Night vision",
+    "Probability manipulation",
+    "Retractable claws",
+    "Retractable talons",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 76,
+    "eventCount": 4,
+    "pageviewCount": 13165,
+    "serieCount": 31,
+    "storyCount": 84
+  },
+  "secretIdentities": [
+    "Felicia Hardy"
+  ],
+  "species": [
+  ],
+  "superName": "Black Cat",
+  "teams": [
+    "Black Cat's Gang",
+    "Defenders",
+    "Heroes for Hire"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/271/black_cat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Cat_(comics)"
+  }
+}

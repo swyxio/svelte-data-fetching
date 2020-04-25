@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Ripcord",
+    "Stacy X"
+  ],
+  "authors": [
+    "Joe Casey",
+    "Tom Raney"
+  ],
+  "description": "Stacy X (real name Miranda Leevald) is a fictional character appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png"
+  },
+  "mainColor": null,
+  "name": "Stacy X",
+  "partners": [
+  ],
+  "powers": [
+    "Protective skin",
+    "Scaly"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1518,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Miranda Leevald"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Stacy X",
+  "teams": [
+    "New Warriors",
+    "X-Men",
+    "X-Ranch"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacy_X"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Midnight's Fire",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Midnightsfire.png/160px-Midnightsfire.png"
+  },
+  "mainColor": null,
+  "name": "Midnight's Fire",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced speed",
+    "Expert martial artist",
+    "Sensory perception",
+    "Strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 296,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aaron Chord"
+  ],
+  "species": [
+  ],
+  "superName": "Midnight's Fire",
+  "teams": [
+    "Folding Circle"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Midnight%27s_Fire"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Nightwatch"
+  ],
+  "authors": [
+  ],
+  "description": "Nightwatch is a fictional super hero who has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/67/Nightwatch_HCV.jpg"
+  },
+  "mainColor": null,
+  "name": "Nightwatch",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced strength",
+    "Reflexes. invisibility",
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 465,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Kevin Trench"
+  ],
+  "species": [
+  ],
+  "superName": "Nightwatch",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightwatch_(comics)"
+  }
+}

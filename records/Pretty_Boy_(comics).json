@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Pretty Boy"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "Pretty Boy is a super villain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
+  },
+  "mainColor": null,
+  "name": "Pretty Boy",
+  "partners": [
+  ],
+  "powers": [
+    "Cybernetic body",
+    "Robotic weaponry"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 348,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Pretty Boy",
+  "teams": [
+    "Reavers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2740/pretty_boy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Boy_(comics)"
+  }
+}

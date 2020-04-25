@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Cheshire",
+    "Cheshire Cat"
+  ],
+  "authors": [
+    "Ed Hannigan",
+    "Marv Wolfman",
+    "Ron Wilson"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Cheshire Cat",
+  "partners": [
+  ],
+  "powers": [
+    "Intangibility",
+    "Invisibility",
+    "Teleporting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 0,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Cheshire Cat",
+  "teams": [
+    "Flashmob"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheshire_Cat_(comics)"
+  }
+}

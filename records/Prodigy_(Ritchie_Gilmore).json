@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Prodigy"
+  ],
+  "authors": [
+    "Adam Pollina",
+    "Joseph Harris"
+  ],
+  "description": "Prodigy (Ritchie Gilmore) is a fictional character, a superhero in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Prodigy_Gilmore.jpg/250px-Prodigy_Gilmore.jpg"
+  },
+  "mainColor": null,
+  "name": "Prodigy (Ritchie Gilmore)",
+  "partners": [
+  ],
+  "powers": [
+    "Adept wrestler",
+    "Gliding via cape",
+    "Near-flight leaping",
+    "Speed",
+    "Stamina",
+    "Vast superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 3,
+    "pageviewCount": 941,
+    "serieCount": 4,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Ritchie Gilmore"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Prodigy",
+  "teams": [
+    "Fifty State Initiative",
+    "Heavy Hitters",
+    "Initiative",
+    "New Warriors",
+    "Slingers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1805/prodigy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prodigy_(Ritchie_Gilmore)"
+  }
+}

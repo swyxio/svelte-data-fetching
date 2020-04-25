@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Shiva",
+    "The Destroyer"
+  ],
+  "authors": [
+    "Larry Hama",
+    "Marc Silvestri"
+  ],
+  "description": "Shiva, a program that manifests itself as an armored robot, was designed to eliminate rogue survivors of the Weapon X program.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Shiva",
+  "partners": [
+  ],
+  "powers": [
+    "Adaptive evolution",
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 804,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Shiva",
+  "teams": [
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Shiva_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Paris"
+  ],
+  "authors": [
+    "Dale Keown",
+    "Peter David"
+  ],
+  "description": "Paris is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Paris",
+  "partners": [
+  ],
+  "powers": [
+    "Empath"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 99,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nathan Taylor"
+  ],
+  "species": [
+  ],
+  "superName": "Paris",
+  "teams": [
+    "Pantheon"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Eden Fesi",
+    "Manifold"
+  ],
+  "authors": [
+    "Jonathan Hickman",
+    "Stefano Caselli"
+  ],
+  "description": "Eden Fesi, also known as Manifold, is a fictional, mutant superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c1/Eden_Fesi_AvengersVol5No5_Variant.jpg"
+  },
+  "mainColor": null,
+  "name": "Eden Fesi",
+  "partners": [
+  ],
+  "powers": [
+    "Allowing him to",
+    "Allowing him to teleport",
+    "Bending reality",
+    "Teleport"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1761,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eden Fesi"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Eden Fesi",
+  "teams": [
+    "Avengers",
+    "Secret Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Eden_Fesi"
+  }
+}

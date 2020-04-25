@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Fenris Wolf"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Fenris Wolf is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Cover_of_Warriors_Three-3.jpg/250px-Cover_of_Warriors_Three-3.jpg"
+  },
+  "mainColor": null,
+  "name": "Fenris Wolf",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 803,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Fenris Wolf",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fenris_Wolf_(Marvel_Comics)"
+  }
+}

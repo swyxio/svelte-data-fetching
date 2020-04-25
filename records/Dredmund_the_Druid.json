@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Dredmund Druid",
+    "Druid",
+    "Starwolf"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Dredmund Druid is a fictional character in the Marvel Universe.Dredmund Druid, also simply known as the Druid, was a subversive cult leader with knowledge of alchemy and advanced technology.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Dredmund the Druid",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 176,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dredmund Cromwell"
+  ],
+  "species": [
+  ],
+  "superName": "Dredmund the Druid",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dredmund_the_Druid"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Don Fortunato"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "John Romita Jr.",
+    "John Romita, Jr."
+  ],
+  "description": "Vincente Fortunato is an elderly crime boss and enemy of the Marvel Comics superhero Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Don Fortunato",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 255,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Vincente Fortunato"
+  ],
+  "species": [
+  ],
+  "superName": "Don Fortunato",
+  "teams": [
+    "HYDRA",
+    "Hydra",
+    "Maggia"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_Fortunato"
+  }
+}

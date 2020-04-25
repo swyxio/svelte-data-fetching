@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Bambi",
+    "Chondu the Magician",
+    "Chondu the Mystic",
+    "Chondu the Yogi",
+    "Nighthawk"
+  ],
+  "authors": [
+    "Doug Wildley",
+    "George Evans",
+    "George Evans (cartoonist)",
+    "Sal Buscema",
+    "Steve Gerber"
+  ],
+  "description": "Chondu the Mystic, sometimes known as Chondu the Yogi, is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Chondu the Mystic",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Minor magic manipulation",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 365,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Harvey Schlemerman"
+  ],
+  "species": [
+  ],
+  "superName": "Chondu the Mystic",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Circus of Crime",
+    "Headmen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chondu_the_Mystic"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Box",
+    "Sasquatch",
+    "Tanaraq",
+    "Wanda Langkowski"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Sasquatch (Walter Langkowski) is a fictional character, a superhero in Marvel Comics' universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Walter_Langkowski_.jpg/250px-Walter_Langkowski_.jpg"
+  },
+  "mainColor": null,
+  "name": "Sasquatch",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant scientific mind",
+    "Durability",
+    "Endurance",
+    "Healing factor",
+    "Orange-furred form",
+    "Regenerative",
+    "Sharp claws",
+    "Stamina",
+    "Superhuman strength",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2012,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Walter Langkowski"
+  ],
+  "species": [
+  ],
+  "superName": "Sasquatch",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Gamma Flight",
+    "Omega Flight"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sasquatch_(comics)"
+  }
+}

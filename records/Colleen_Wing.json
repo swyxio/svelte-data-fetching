@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Colleen Wing"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Larry Hama"
+  ],
+  "description": "Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Colleen Wing",
+  "partners": [
+    "Iron Fist",
+    "Luke Cage",
+    "Misty Knight"
+  ],
+  "powers": [
+    "Accelerated healing",
+    "Detective",
+    "Enhanced strength",
+    "High resistance to injury",
+    "Master",
+    "Master samurai",
+    "Samurai",
+    "Skilled",
+    "Skilled detective",
+    "Talented swordswoman"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 2,
+    "pageviewCount": 7817,
+    "serieCount": 7,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Colleen Wing"
+  ],
+  "species": [
+  ],
+  "superName": "Colleen Wing",
+  "teams": [
+    "Daughters of the Dragon",
+    "Heroes for Hire",
+    "Nightwing Restorations Ltd",
+    "The Hand",
+    "The Nail"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2805/colleen_wing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colleen_Wing"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Anelle"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Anelle",
+  "partners": [
+  ],
+  "powers": [
+    "Shapeshifting"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 618,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Anelle"
+  ],
+  "species": [
+  ],
+  "superName": "Anelle",
+  "teams": [
+    "Empire",
+    "Skrull"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Anelle"
+  }
+}

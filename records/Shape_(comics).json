@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Shape"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Often clashing with the heroes of the Squadron Supreme, the Shape was later subjected to the mind-altering behavior modification device used as part of the Squadron Supreme's \"Utopia Program.\"",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/e0/4c0038c68a450/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Shape",
+  "partners": [
+  ],
+  "powers": [
+    "Blob",
+    "Malleable",
+    "Putty-like body",
+    "Putty-like bodyblob"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 242,
+    "serieCount": 4,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Raleigh Lund"
+  ],
+  "species": [
+  ],
+  "superName": "Shape",
+  "teams": [
+    "Institute of Evil",
+    "Redeemers",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2068/shape",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shape_(comics)"
+  }
+}

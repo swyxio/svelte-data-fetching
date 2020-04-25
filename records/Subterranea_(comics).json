@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Subterranea"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jack Kirby",
+    "Roy Thomas",
+    "Stan Lee"
+  ],
+  "description": "Moloids redirect here.Subterranea is a fictional realm far beneath the Earth's surface in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Subterranea",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 652,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Subterraneans"
+  ],
+  "superName": "Subterranea",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Subterranea_(comics)"
+  }
+}

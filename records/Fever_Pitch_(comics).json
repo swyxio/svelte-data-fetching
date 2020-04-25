@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Fever Pitch"
+  ],
+  "authors": [
+    "Jay Faerber",
+    "Terry Dodson"
+  ],
+  "description": "Fever Pitch is a fictional villain created by Marvel comics as a member of the second incarnation of the mutant terrorist organization Gene Nation and later as a member of X-Corps.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Fever Pitch",
+  "partners": [
+  ],
+  "powers": [
+    "Fire bursts",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 422,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Fever Pitch",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Gene Nation",
+    "Morlocks",
+    "The 198",
+    "X-Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fever_Pitch_(comics)"
+  }
+}

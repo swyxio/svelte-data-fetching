@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Hyperion",
+    "King Hyperion",
+    "Mr. Kant"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Sal Buscema"
+  ],
+  "description": "Hyperion is a fictional character that appears in publications published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Hyperionmarvel.png/250px-Hyperionmarvel.png"
+  },
+  "mainColor": null,
+  "name": "Hyperion",
+  "partners": [
+  ],
+  "powers": [
+    "Atomic vision",
+    "Durability",
+    "Flight",
+    "Great longevity",
+    "Skilled journalist",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 10121,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Hyperion",
+  "teams": [
+    "Avengers",
+    "Squadron Sinister",
+    "Squadron Supreme",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyperion_(comics)"
+  }
+}

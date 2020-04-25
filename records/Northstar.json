@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Jean-Paul Martin",
+    "Northstar"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Northstar (Jean-Paul Beaubier) is a fictional superhero who appears in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c003d15985a0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Northstar",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Flight",
+    "Light manipulation",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 67,
+    "eventCount": 5,
+    "pageviewCount": 6567,
+    "serieCount": 22,
+    "storyCount": 76
+  },
+  "secretIdentities": [
+    "Jean-Paul Beaubier"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Northstar",
+  "teams": [
+    "Alpha Flight",
+    "Alpha Squadron",
+    "Children of the Vault",
+    "Dawn of White Light",
+    "Defenders",
+    "FLQ",
+    "Front de libération du Québec",
+    "HYDRA",
+    "Hydra",
+    "Secret Defenders",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1618/northstar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northstar"
+  }
+}

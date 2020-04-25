@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Living Laser",
+    "The Living Laser"
+  ],
+  "authors": [
+    "Art Simek",
+    "Artie Simek",
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "The Living Laser is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg"
+  },
+  "mainColor": null,
+  "name": "Living Laser",
+  "partners": [
+  ],
+  "powers": [
+    "Energy absorption",
+    "Genius level intellect",
+    "Gifted research scientist",
+    "Illusion generation",
+    "Limited telepathy",
+    "Projection",
+    "Travel at light speeds"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1435,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arthur Parks"
+  ],
+  "species": [
+  ],
+  "superName": "Living Laser",
+  "teams": [
+    "Legion Accursed",
+    "Lethal Legion",
+    "Mandarin's Minions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Living_Laser"
+  }
+}

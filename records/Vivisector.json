@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Vivisector"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "This article is about the Marvel Comics character.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg"
+  },
+  "mainColor": null,
+  "name": "Vivisector",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Senses",
+    "Sharp claws",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 402,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Myles Alfred"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Vivisector",
+  "teams": [
+    "X-Force",
+    "X-Statix"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivisector"
+  }
+}

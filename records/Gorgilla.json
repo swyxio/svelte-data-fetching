@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Gorgilla"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Gorgilla is a fictional character that appears in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/TTA-12.jpg/250px-TTA-12.jpg"
+  },
+  "mainColor": null,
+  "name": "Gorgilla",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 229,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gorgilla"
+  ],
+  "species": [
+  ],
+  "superName": "Gorgilla",
+  "teams": [
+    "Fin Fang Four"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorgilla"
+  }
+}

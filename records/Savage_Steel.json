@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Savage Steel"
+  ],
+  "authors": [
+    "Danny Fingeroth",
+    "Mike Manley"
+  ],
+  "description": "Savage Steel is an identity used by several fictional characters in the Marvel Universe, most notably Jimmy Zafar.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Original_Savage_Steel_Armor.jpg/250px-Original_Savage_Steel_Armor.jpg"
+  },
+  "mainColor": null,
+  "name": "Savage Steel",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation",
+    "Enhanced durability",
+    "Flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 212,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "(I) Harry Lennox",
+    "(II) Arthur Vale",
+    "(III) James Zafar",
+    "(IV) Unknown",
+    "Arthur Vale",
+    "Harry Lennox",
+    "James Zafar",
+    "Jimmy",
+    "Unknown"
+  ],
+  "species": [
+    "Human Technology User"
+  ],
+  "superName": "Savage Steel",
+  "teams": [
+    "Darkhawk",
+    "the Cabal",
+    "the Cabal, Darkhawk"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Savage_Steel"
+  }
+}

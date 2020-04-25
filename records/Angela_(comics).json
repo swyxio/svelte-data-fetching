@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Angela",
+    "The Hunter"
+  ],
+  "authors": [
+    "Neil Gaiman",
+    "Todd McFarlane"
+  ],
+  "description": "Angela is a fictional comic book superhero created by author Neil Gaiman and artist Todd McFarlane.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/80/545a831f39a18.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/00/545a82f59dd73/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Angela",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Ant",
+    "Endurance",
+    "Flight",
+    "Hand-to-hand combat",
+    "Immortality",
+    "Master",
+    "Reflexes",
+    "Reflexes and",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8515,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Angela Odinsdottir"
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Angela",
+  "teams": [
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3455/angela",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angela_(comics)"
+  }
+}

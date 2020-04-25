@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Stonewall"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Chris Claremont"
+  ],
+  "description": "Stonewall is the codename of two characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Secret_Warriors_Vol_1_12.jpg/250px-Secret_Warriors_Vol_1_12.jpg"
+  },
+  "mainColor": null,
+  "name": "Stonewall",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1323,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jerry Sledge",
+    "Louis Hamilton"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Stonewall",
+  "teams": [
+    "Freedom Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_(comics)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Plasma",
+    "Tracker"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "Rich Buckler"
+  ],
+  "description": "Plasma is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Plasma",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 199,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Leila O'Toole"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Plasma",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Plasma_(comics)"
+  }
+}

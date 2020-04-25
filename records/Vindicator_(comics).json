@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Guardian",
+    "Vindicator"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Heather McNeil-Hudson married James Hudson, founder of Canadian super-team, Alpha Flight, and donned a version of his Vindicator armor after his death.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Vindicator",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 27,
+    "eventCount": 1,
+    "pageviewCount": 1442,
+    "serieCount": 9,
+    "storyCount": 26
+  },
+  "secretIdentities": [
+    "Heather MacNeil Hudson"
+  ],
+  "species": [
+  ],
+  "superName": "Vindicator",
+  "teams": [
+    "Alpha Flight",
+    "Alpha Prime",
+    "Alpha Strike",
+    "Department H",
+    "Features of the Marvel Universe"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2493/vindicator",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vindicator_(comics)"
+  }
+}

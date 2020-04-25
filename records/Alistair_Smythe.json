@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Spider-Slayer",
+    "The Ultimate Spider Slayer"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Mary Wilshire"
+  ],
+  "description": "Alistair Smythe is a comic book supervillain, owned by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg"
+  },
+  "mainColor": null,
+  "name": "Alistair Smythe",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Bird-like talons",
+    "Cybernetics",
+    "Durability",
+    "Expert robotics",
+    "Geneticist",
+    "Speed",
+    "Superhuman strength",
+    "Web-shooter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3001,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alistair Alphonso Smythe"
+  ],
+  "species": [
+  ],
+  "superName": "Alistair Smythe",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Alistair_Smythe"
+  }
+}

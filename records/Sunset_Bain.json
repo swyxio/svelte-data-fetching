@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Madame Menace",
+    "Sunset Bain"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Sunset Bain is a fictional villainess in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sunset Bain",
+  "partners": [
+  ],
+  "powers": [
+    "Genius intellect",
+    "Skilled inventor"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 360,
+    "serieCount": 1,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Sunset Bain"
+  ],
+  "species": [
+  ],
+  "superName": "Sunset Bain",
+  "teams": [
+    "New Enforcers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1312/sunset_bain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunset_Bain"
+  }
+}

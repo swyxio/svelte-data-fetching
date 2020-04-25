@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Forever Man",
+    "Joshua Lord",
+    "Master of Life",
+    "Master of Time",
+    "Master of the World"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Master of the World (real name Eshu) is a fictional character, a supervillain appearing in publications from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Avengersv3-045pic2.png/300px-Avengersv3-045pic2.png"
+  },
+  "mainColor": null,
+  "name": "Master of the World",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Genius-level intellect",
+    "Reflexes",
+    "Repressed aging",
+    "Stamina",
+    "Strength",
+    "Superhuman speed",
+    "Weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 456,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eshu"
+  ],
+  "species": [
+  ],
+  "superName": "Master of the World",
+  "teams": [
+    "Omega Flight"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_of_the_World_(comics)"
+  }
+}

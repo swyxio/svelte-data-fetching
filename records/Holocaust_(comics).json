@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Holocaust"
+  ],
+  "authors": [
+    "Roger Cruz",
+    "Scott Lobdell"
+  ],
+  "description": "The character is not to be confused with the Milestone and DC Comics villain Holocaust.Holocaust is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/47/Holocaust_comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Holocaust",
+  "partners": [
+  ],
+  "powers": [
+    "Absorption",
+    "Durability",
+    "Energy blasts",
+    "Life-force",
+    "Life-force absorption",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3126,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Rolfson"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Holocaust",
+  "teams": [
+    "Dark Descendants",
+    "Exiles",
+    "Horsemen of Apocalypse"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Holocaust_(comics)"
+  }
+}

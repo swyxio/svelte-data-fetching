@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Red Shift"
+  ],
+  "authors": [
+    "Jon J. Muth",
+    "Louise Simonson"
+  ],
+  "description": "Red Shift is a fictional supervillain in the Marvel Comics universe and was a herald of Galactus.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Red_Shift.jpg/250px-Red_Shift.jpg"
+  },
+  "mainColor": null,
+  "name": "Red Shift",
+  "partners": [
+  ],
+  "powers": [
+    "Power cosmic",
+    "Use of",
+    "Use of power cosmic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 636,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+  ],
+  "superName": "Red Shift",
+  "teams": [
+    "Annihilation",
+    "Galactus",
+    "Heralds of Galactus",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Shift_(comics)"
+  }
+}

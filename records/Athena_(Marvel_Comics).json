@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Agent Sexton",
+    "Athena",
+    "Minerva",
+    "Miranda Minerva"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Athena is a fictional deity in the Marvel Comics Universe based on the Greek Goddess of the same name.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Athena_in_Hercules.jpg/159px-Athena_in_Hercules.jpg"
+  },
+  "mainColor": null,
+  "name": "Athena",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Flight",
+    "Immortality",
+    "Limited transmutation",
+    "Speed",
+    "Stamina",
+    "Super-genius intellect",
+    "Superhuman strength",
+    "Their descendants"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 758,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Pallas Athena"
+  ],
+  "species": [
+  ],
+  "superName": "Athena",
+  "teams": [
+    "Council of God-Heads",
+    "Olympian Gods",
+    "Olympians"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Athena_(Marvel_Comics)"
+  }
+}

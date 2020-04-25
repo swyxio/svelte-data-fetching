@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Algrim the Strong",
+    "Kurse",
+    "Valgoth"
+  ],
+  "authors": [
+    "Walt Simonson",
+    "Walter Simonson"
+  ],
+  "description": "Kurse is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg"
+  },
+  "mainColor": null,
+  "name": "Kurse",
+  "partners": [
+    "Malekith the Accursed",
+    "Thor"
+  ],
+  "powers": [
+    "Durability",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3778,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Algrim"
+  ],
+  "species": [
+  ],
+  "superName": "Kurse",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurse"
+  }
+}

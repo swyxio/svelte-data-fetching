@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Roboduck"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "Roboduck is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Roboduck",
+  "partners": [
+  ],
+  "powers": [
+    "Arm-mounted",
+    "Cannons",
+    "Flight",
+    "Plasma",
+    "Powerful plasma burp"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 78,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Robot"
+  ],
+  "superName": "Roboduck",
+  "teams": [
+    "A.P.N.G",
+    "A.P.N.G., Gabriel",
+    "Gabriel"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Roboduck"
+  }
+}

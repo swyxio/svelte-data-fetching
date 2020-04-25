@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Dr. Karl Malus"
+  ],
+  "authors": [
+    "Jim Mooney",
+    "Michael Fleisher",
+    "Steve Leialoha"
+  ],
+  "description": "Dr. Karl Malus is a fictional mad scientist and criminal in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Karl Malus",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant surgeon",
+    "Genetic manipulation",
+    "Gifted intellect",
+    "Radiology"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1140,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karl Malus"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Karl Malus",
+  "teams": [
+    "Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Malus"
+  }
+}

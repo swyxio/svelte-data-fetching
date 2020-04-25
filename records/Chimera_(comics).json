@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Chimera"
+  ],
+  "authors": [
+    "Adam Kubert",
+    "Larry Hama"
+  ],
+  "description": "Chimera is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg"
+  },
+  "mainColor": null,
+  "name": "Chimera",
+  "partners": [
+    "Dirtnap",
+    "Emplate"
+  ],
+  "powers": [
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 825,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Extradimensional Mutate"
+  ],
+  "superName": "Chimera",
+  "teams": [
+    "Brotherhood of Mutants",
+    "Marauders",
+    "Sisterhood of Mutants"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chimera_(comics)"
+  }
+}

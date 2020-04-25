@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Bling!"
+  ],
+  "authors": [
+    "Peter Milligan",
+    "Salvador Larroca"
+  ],
+  "description": "Bling! (Roxanne \"Roxy\" Washington) is a fictional character, a mutant appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Bling%28x-men%29.jpg/200px-Bling%28x-men%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Bling!",
+  "partners": [
+  ],
+  "powers": [
+    "Diamond form",
+    "Superhuman durability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 417,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Roxanne Washington",
+    "Roxy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Bling!",
+  "teams": [
+    "Chevaliers training squad",
+    "Jean Grey School Students",
+    "X-Men",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bling!"
+  }
+}

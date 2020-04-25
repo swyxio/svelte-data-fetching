@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Flint Marko",
+    "Quarryman",
+    "Sandman",
+    "Sylvester Mann"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Sandman (William Baker a.k.a.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg"
+  },
+  "mainColor": null,
+  "name": "Sandman",
+  "partners": [
+  ],
+  "powers": [
+    "Density control",
+    "Durability",
+    "Earth manipulation",
+    "Endurance",
+    "Flight",
+    "Mass manipulation",
+    "Shapeshifting",
+    "Size",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7802,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Baker"
+  ],
+  "species": [
+  ],
+  "superName": "Sandman",
+  "teams": [
+    "Avengers",
+    "Enforcers",
+    "Frightful Four",
+    "Sinister Six",
+    "The Intruders",
+    "The Outlaws",
+    "Wild Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)"
+  }
+}

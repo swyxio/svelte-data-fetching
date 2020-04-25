@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Minotaur"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Esad Ribić",
+    "Jason Aaron",
+    "Johnny Craig"
+  ],
+  "description": "Minotaur is the name of different characters appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Minotaur",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 591,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dario Agger",
+    "Myklos Vryolak"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Minotaur",
+  "teams": [
+    "Roxxon Energy Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Minotaur_(comics)"
+  }
+}

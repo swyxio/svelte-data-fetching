@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "James Madrox",
+    "Jamie Madrox",
+    "John Maddox",
+    "Madrox the Multiple Man",
+    "Multiple",
+    "Multiple Man",
+    "Reverend",
+    "Reverend John Maddox"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Buscema",
+    "Len Wein",
+    "with",
+    "with Chris Claremont"
+  ],
+  "description": "James \"Jamie\" Madrox, also called the Multiple Man, is a fictional character appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/MultipleMan01.jpg/250px-MultipleMan01.jpg"
+  },
+  "mainColor": null,
+  "name": "Jamie Madrox",
+  "partners": [
+  ],
+  "powers": [
+    "Self-duplication"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3807,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Arthur Madrox",
+    "Jamie"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Jamie Madrox",
+  "teams": [
+    "Dead X-Men",
+    "Fallen Angels",
+    "HYDRA",
+    "Hydra",
+    "Muir Island X-Men",
+    "Nasty Boys",
+    "S.H.I.E.L.D",
+    "X-Corporation",
+    "X-Corps",
+    "X-Factor",
+    "X-Factor Investigations",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Madrox"
+  }
+}

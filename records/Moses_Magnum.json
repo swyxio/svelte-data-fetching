@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Moses Magnum"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Ross Andru"
+  ],
+  "description": "Moses Magnum is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg"
+  },
+  "mainColor": null,
+  "name": "Moses Magnum",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4256,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Moses Magnum"
+  ],
+  "species": [
+  ],
+  "superName": "Moses Magnum",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Moses_Magnum"
+  }
+}

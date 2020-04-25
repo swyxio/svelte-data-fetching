@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "The Wisp",
+    "Will o' the Wisp"
+  ],
+  "authors": [
+    "Len Wein",
+    "Ross Andru"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/WillO_Wisp.jpg/250px-WillO_Wisp.jpg"
+  },
+  "mainColor": null,
+  "name": "Will o' the Wisp",
+  "partners": [
+    "Jonas Harrow",
+    "Molten Man",
+    "Scarecrow"
+  ],
+  "powers": [
+    "Density control",
+    "Durability",
+    "Flight",
+    "Hypnosis",
+    "Scientific genius",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 490,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jackson Arvad"
+  ],
+  "species": [
+  ],
+  "superName": "Will o' the Wisp",
+  "teams": [
+    "Exterminators[http://www.marvunapp.com/Appendix4/exterminatorschamln.htm]",
+    "Roxxon Energy Corporation",
+    "The Outlaws"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_o%27_the_Wisp_(comics)"
+  }
+}

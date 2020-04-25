@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Maggott"
+  ],
+  "authors": [
+    "Joe Madureira",
+    "Scott Lobdell"
+  ],
+  "description": "Maggott (Japheth), is a Marvel Comics superhero who was briefly a member of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg"
+  },
+  "mainColor": null,
+  "name": "Maggott",
+  "partners": [
+  ],
+  "powers": [
+    "Psychometry"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1178,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Japheth"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Maggott",
+  "teams": [
+    "Generation X",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Maggott"
+  }
+}

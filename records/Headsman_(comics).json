@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Green Goblin",
+    "Headsman"
+  ],
+  "authors": [
+    "Kurt Busiek",
+    "Pat Olliffe"
+  ],
+  "description": "Headsman is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Headsman",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 462,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cleavon Twain"
+  ],
+  "species": [
+  ],
+  "superName": "Headsman",
+  "teams": [
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Headsman_(comics)"
+  }
+}

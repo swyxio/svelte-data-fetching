@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Bliss"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Kieron Dwyer"
+  ],
+  "description": "Bliss is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/98/XMEN-Bliss.jpg"
+  },
+  "mainColor": null,
+  "name": "Bliss",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 207,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Bliss",
+  "teams": [
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bliss_(Marvel_Comics)"
+  }
+}

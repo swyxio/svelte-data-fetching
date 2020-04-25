@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Ravage"
+  ],
+  "authors": [
+    "Glenn Greenberg"
+  ],
+  "description": "Ravage (Doctor Geoffrey Crawford) is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ravage",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Great leaping",
+    "Healing factor",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 507,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Geoffrey Crawford"
+  ],
+  "species": [
+  ],
+  "superName": "Ravage",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravage_(Marvel_Comics)"
+  }
+}

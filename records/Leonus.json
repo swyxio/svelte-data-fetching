@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Leonus"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Marie Severin"
+  ],
+  "description": "Leonus is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Leonus",
+  "partners": [
+  ],
+  "powers": [
+    "Lion-like attributes"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 329,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Leonus",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonus"
+  }
+}

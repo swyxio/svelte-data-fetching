@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Blazing Skull",
+    "Skull the Slayer"
+  ],
+  "authors": [
+    "Marv Wolfman",
+    "Steve Gan"
+  ],
+  "description": "Skull the Slayer (James Patrick Scully) is a fictional Marvel Comics character that debuted in his own book in August, 1975.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Skull_the_Slayer_no_1.jpeg/200px-Skull_the_Slayer_no_1.jpeg"
+  },
+  "mainColor": null,
+  "name": "Skull the Slayer",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 467,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jim Scully"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Skull the Slayer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Skull_the_Slayer"
+  }
+}

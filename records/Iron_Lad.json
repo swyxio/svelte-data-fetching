@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Iron Lad",
+    "Kang the Conqueror",
+    "Kid Immortus"
+  ],
+  "authors": [
+    "Allan Heinberg",
+    "Jack Kirby",
+    "Jim Cheung",
+    "Kang the Conqueror",
+    "Stan Lee",
+    "by"
+  ],
+  "description": "Iron Lad (Nathaniel \"Nate\" Richards) is a fictional superhero appearing in books published by Marvel Comics, in particular Young Avengers, a team of which Iron Lad is a member.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Iron Lad",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blast projection",
+    "Flight",
+    "Magnetic field creation",
+    "Shapeshifting",
+    "Superhuman strength",
+    "Time travel"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 4794,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Nathaniel Richards"
+  ],
+  "species": [
+  ],
+  "superName": "Iron Lad",
+  "teams": [
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1051/iron_lad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Lad"
+  }
+}

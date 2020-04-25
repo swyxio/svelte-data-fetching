@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Deathlok",
+    "Siege"
+  ],
+  "authors": [
+    "Dwayne McDuffie",
+    "Gregory Wright"
+  ],
+  "description": "Siege (John Kelly) is a fictional character, owned by Marvel Comics, who exists in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Siege (John Kelly)",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Superhuman durability",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 299,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Kelly"
+  ],
+  "species": [
+    "Human Cyborg"
+  ],
+  "superName": "Siege",
+  "teams": [
+    "Fifty State Initiative",
+    "S.H.I.E.L.D"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Siege_(John_Kelly)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Controller",
+    "The Controller"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "George Tuska"
+  ],
+  "description": "The Controller, real name Basil Sandhurst, is a fictional character, a supervillain appearing in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c003923719ff/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Controller",
+  "partners": [
+  ],
+  "powers": [
+    "Duplicate their abilities",
+    "Endurance",
+    "Flight via boot jets",
+    "Highly skilled chemist",
+    "Limited psychokinesis",
+    "Mechanical engineer",
+    "Mind control",
+    "Superhuman strength",
+    "Telepathy",
+    "Wields control discs"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 716,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Basil Sandhurst"
+  ],
+  "species": [
+  ],
+  "superName": "Controller",
+  "teams": [
+    "New Enforcers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/458/controller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Controller_(Marvel_Comics)"
+  }
+}

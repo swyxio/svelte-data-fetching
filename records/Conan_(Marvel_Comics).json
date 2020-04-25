@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Conan"
+  ],
+  "authors": [
+    "Barry Smith",
+    "Roy Thomas"
+  ],
+  "description": "Conan is a fictional character based on Robert E.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Savagesword24_07.jpg/250px-Savagesword24_07.jpg"
+  },
+  "mainColor": null,
+  "name": "Conan",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1214,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Conan",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Conan_(Marvel_Comics)"
+  }
+}

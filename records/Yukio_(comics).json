@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Yukio"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Frank Miller"
+  ],
+  "description": "Yukio (雪緒) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg"
+  },
+  "mainColor": null,
+  "name": "Yukio",
+  "partners": [
+    "Amiko Kobayashi",
+    "Gambit",
+    "Mariko Yashida",
+    "Storm",
+    "Wolverine"
+  ],
+  "powers": [
+    "Death precognition",
+    "Film only",
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3413,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Yukio"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Yukio",
+  "teams": [
+    "Mutant Underground"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Yukio_(comics)"
+  }
+}

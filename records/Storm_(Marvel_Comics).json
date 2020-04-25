@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Beautiful Windrider",
+    "Goddess",
+    "High Priestess",
+    "Le Reine Storm",
+    "Mistress of the Elements",
+    "Mutate #20",
+    "Ororo Iquadi T'Challa",
+    "Ororo Komos Wakandas",
+    "Ororo Munroe",
+    "Princess of N'Dare",
+    "Queen of Wakanda",
+    "Storm",
+    "The Weather Witch"
+  ],
+  "authors": [
+    "Dave Cockrum",
+    "Len Wein"
+  ],
+  "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/90/537bc6087eb62.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/c0/537bc5db7c77d/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "hexa": "23192A",
+    "red": 35
+  },
+  "name": "Storm",
+  "partners": [
+    "Black Panther",
+    "Forge"
+  ],
+  "powers": [
+    "Ecological empathy",
+    "Flight",
+    "Weather manipulation"
+  ],
+  "ranking": {
+    "comicCount": 599,
+    "eventCount": 21,
+    "pageviewCount": 30624,
+    "serieCount": 154,
+    "storyCount": 695
+  },
+  "secretIdentities": [
+    "Ororo Munroe"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Storm",
+  "teams": [
+    "Avengers",
+    "Fantastic Four",
+    "Hellfire Club",
+    "Lady Liberators",
+    "Morlocks",
+    "The Twelve",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "X-Treme X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/57/storm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+  }
+}

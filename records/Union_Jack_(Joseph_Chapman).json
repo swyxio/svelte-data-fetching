@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Union Jack"
+  ],
+  "authors": [
+    "John Byrne",
+    "Roger Stern"
+  ],
+  "description": "Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c0038d27694a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Union Jack (Joseph Chapman)",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Endurance;",
+    "Hand-to-hand combatant",
+    "Handgun",
+    "Martial arts",
+    "Speed"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 0,
+    "pageviewCount": 657,
+    "serieCount": 10,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Joe",
+    "Joseph Chapman"
+  ],
+  "species": [
+  ],
+  "superName": "Union Jack",
+  "teams": [
+    "Invaders",
+    "Knights of Pendragon",
+    "MI-13",
+    "MI5",
+    "New Invaders"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2451/union_jack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Union_Jack_(Joseph_Chapman)"
+  }
+}

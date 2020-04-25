@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Pterorist",
+    "Sigrid"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Gerry Conway",
+    "Jack Kirby",
+    "Jim Aparo",
+    "Joe Simon",
+    "Roy Thomas"
+  ],
+  "description": "Agent Axis is the name of three fictional comic book supervillains, two from DC Comics and the other from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Agent Axis",
+  "partners": [
+  ],
+  "powers": [
+    "Combat ability",
+    "Combined knowledge",
+    "Skills"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 321,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aldo Malvagio",
+    "Berthold Volker",
+    "Hiroyuki Kanegawa"
+  ],
+  "species": [
+  ],
+  "superName": "Agent Axis",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Agent_Axis"
+  }
+}

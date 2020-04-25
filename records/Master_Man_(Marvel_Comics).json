@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Master Man"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Frank Robbins",
+    "John Byrne",
+    "Roy Thomas",
+    "Steve Epting"
+  ],
+  "description": "Master Man is the name of three fictional characters that appear in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Invaders-16.jpg/250px-Invaders-16.jpg"
+  },
+  "mainColor": null,
+  "name": "Master Man",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Flight",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 614,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "(I)Wilhelm Lohmer",
+    "(II)Axl Nacht",
+    "(III)Max Lohmer",
+    "Axl Nacht",
+    "Max Lohmer",
+    "Wilhelm Lohmer"
+  ],
+  "species": [
+  ],
+  "superName": "Master Man",
+  "teams": [
+    "Super-Axis"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Man_(Marvel_Comics)"
+  }
+}

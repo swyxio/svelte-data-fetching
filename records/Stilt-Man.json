@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Stilt-Man",
+    "Stiltman",
+    "Stunt-Master"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Wally Wood"
+  ],
+  "description": "Stilt-Man is the name of different supervillains in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Stiltman.jpg/250px-Stiltman.jpg"
+  },
+  "mainColor": null,
+  "name": "Stilt-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Competent engineer",
+    "Devices",
+    "Inventor",
+    "Spider webs",
+    "Superhuman strength",
+    "Telescopic legs"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2013,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wilbur Day"
+  ],
+  "species": [
+  ],
+  "superName": "Stilt-Man",
+  "teams": [
+    "Emissaries of Evil",
+    "Gang of Four"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Stilt-Man"
+  }
+}

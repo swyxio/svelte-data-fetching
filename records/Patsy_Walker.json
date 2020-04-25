@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Hellcat",
+    "Patricia Walker",
+    "Patsy Walker"
+  ],
+  "authors": [
+  ],
+  "description": "Hellcat (Patricia \"Patsy\" Walker) is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d751d6b1bc7d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hellcat (Patsy Walker)",
+  "partners": [
+  ],
+  "powers": [
+    "Force field generation",
+    "Grappling hooks",
+    "Gymnast",
+    "Psychic senses"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 0,
+    "pageviewCount": 88849,
+    "serieCount": 15,
+    "storyCount": 25
+  },
+  "secretIdentities": [
+    "Patricia Walker",
+    "Patsy"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Hellcat",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Lady Liberators",
+    "Legion of the Unliving"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/939/hellcat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patsy_Walker"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Sandra Deel",
+    "Shriek"
+  ],
+  "authors": [
+    "Jerry Bingham",
+    "Mark Bagley",
+    "Mike W. Barr",
+    "Ron Lim",
+    "Terry Kavanagh",
+    "Tom DeFalco"
+  ],
+  "description": "Shriek became a groupie for a rock band and a drug dealer on the side until the vigilantes Cloak and Dagger happened by during one of her deals.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/528d36b054844/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Shriek",
+  "partners": [
+    "Carnage",
+    "Caroline le Fay",
+    "Carrion",
+    "Demogoblin",
+    "Doppelganger"
+  ],
+  "powers": [
+    "Anger",
+    "Flight",
+    "Sound manipulation"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 1,
+    "pageviewCount": 2270,
+    "serieCount": 2,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Frances Louise Barrison"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Shriek",
+  "teams": [
+    "Carnage Family",
+    "Doom Maidens",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "teen"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2086/shriek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shriek_(comics)"
+  }
+}

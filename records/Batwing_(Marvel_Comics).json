@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Batwing",
+    "James \"Jimmy\" Santini"
+  ],
+  "authors": [
+    "Kurt Busiek",
+    "Pat Olliffe"
+  ],
+  "description": "Batwing (James \"Jimmy\" Santini) is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Untold_spiderm2.jpg/250px-Untold_spiderm2.jpg"
+  },
+  "mainColor": null,
+  "name": "Batwing",
+  "partners": [
+  ],
+  "powers": [
+    "Echolocation",
+    "Enhanced hearing",
+    "Fangs",
+    "Flight via bat wings",
+    "Night vision",
+    "Sharp claws",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 702,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Santini",
+    "Jimmy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Batwing",
+  "teams": [
+    "Avengers Academy",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Batwing_(Marvel_Comics)"
+  }
+}

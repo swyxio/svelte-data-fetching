@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Daniel Ketch",
+    "Danny Ketch",
+    "Ghost Rider",
+    "The Spirit of Vengeance"
+  ],
+  "authors": [
+    "Howard Mackie",
+    "Javier Saltares"
+  ],
+  "description": "Ghost Rider (Daniel \"Danny\" Ketch) is a fictional comic book character, a supernatural superhero in Marvel Comics' main shared universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ghost Rider (Danny Ketch)",
+  "partners": [
+  ],
+  "powers": [
+    "Along any surface",
+    "Durability",
+    "Ethereal flame",
+    "Penance stare",
+    "Rides flaming motorcycle",
+    "Superhuman strength",
+    "Wields magical chain"
+  ],
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 2,
+    "pageviewCount": 2273,
+    "serieCount": 5,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Daniel Ketch",
+    "Danny"
+  ],
+  "species": [
+  ],
+  "superName": "Ghost Rider",
+  "teams": [
+    "Defenders",
+    "Midnight Sons",
+    "New Fantastic Four",
+    "Secret Defenders"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Rider_(Danny_Ketch)"
+  }
+}

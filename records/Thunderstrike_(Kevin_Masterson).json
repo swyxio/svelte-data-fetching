@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Thunderstrike"
+  ],
+  "authors": [
+    "Ron Frenz",
+    "Tom DeFalco"
+  ],
+  "description": "Kevin Masterson is a fictional character that appeared in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ThunderstrikeHA.jpg/250px-ThunderstrikeHA.jpg"
+  },
+  "mainColor": null,
+  "name": "Thunderstrike (Kevin Masterson)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Dimensional travel",
+    "Durability",
+    "Endurance",
+    "Flight",
+    "Great leaping",
+    "Reflexes",
+    "Sonic blasts",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 725,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kevin Masterson"
+  ],
+  "species": [
+  ],
+  "superName": "Thunderstrike",
+  "teams": [
+    "A-Next",
+    "Avengers Academy"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderstrike_(Kevin_Masterson)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Coal Tiger"
+  ],
+  "authors": [
+    "Brent Anderson",
+    "Tom DeFalco"
+  ],
+  "description": "Coal Tiger (Prince T'Chaka II) is a fictional character who appeared in the Marvel Comics' MC2 series A-Next.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Coaltiger.jpg/250px-Coaltiger.jpg"
+  },
+  "mainColor": null,
+  "name": "Coal Tiger",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced senses",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 418,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "T'Chaka"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Coal Tiger",
+  "teams": [
+    "A-Next"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Coal_Tiger"
+  }
+}

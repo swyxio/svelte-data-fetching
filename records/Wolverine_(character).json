@@ -1,0 +1,98 @@
+{
+  "aliases": [
+    "Agent Ten",
+    "Black Dragon",
+    "Captain Terror",
+    "Death",
+    "Emilio Garra",
+    "Experiment X",
+    "James Howlett",
+    "Jim Logan",
+    "John Logan",
+    "Logan",
+    "Logan Howlett",
+    "Mai' keth",
+    "Mutate #9601",
+    "Patch",
+    "Peter Richards",
+    "Weapon Chi",
+    "Weapon X",
+    "Weapon X (Ten)",
+    "Wolverine"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "John Romita Sr.",
+    "John Romita, Sr.",
+    "Len Wein",
+    "Roy Thomas"
+  ],
+  "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537bcb2289d3a.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Wolverine",
+  "partners": [
+  ],
+  "powers": [
+    "Adamantium",
+    "Animal-like attributes",
+    "Extended",
+    "Extended longevity",
+    "Healing factor",
+    "Longevity",
+    "Master martial artist",
+    "Reflexes",
+    "Regenerative",
+    "Retractable claws",
+    "Superhuman senses"
+  ],
+  "ranking": {
+    "comicCount": 1816,
+    "eventCount": 33,
+    "pageviewCount": 53754,
+    "serieCount": 440,
+    "storyCount": 2468
+  },
+  "secretIdentities": [
+    "James Howlett"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Wolverine",
+  "teams": [
+    "Alpha Flight",
+    "Avengers",
+    "Canadian Army",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Horsemen of Apocalypse",
+    "Hydra",
+    "Lake",
+    "Landau",
+    "Luckman",
+    "S.H.I.E.L.D",
+    "Team X",
+    "The Hand",
+    "The New Avengers",
+    "Uncanny Avengers",
+    "Weapon Plus",
+    "Weapon X",
+    "X-Force",
+    "X-Mansion",
+    "X-Men",
+    "X-Treme Sanctions Executive"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/66/wolverine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+  }
+}

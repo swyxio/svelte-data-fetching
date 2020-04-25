@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Anomaly",
+    "Cosmic Assassin",
+    "Cosmic Assassin<!--It was what he was called from issues 2 to 21 of QUASAR before his true identity had been revealed; and in issue 23",
+    "Maelstrom",
+    "Malcolm Stromberg"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio",
+    "Ron Wilson"
+  ],
+  "description": "Maelstrom is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://i.annihil.us/u/prod/marvel/i/mg/f/20/4c003114d6700/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Maelstrom",
+  "partners": [
+  ],
+  "powers": [
+    "Cosmic awareness",
+    "Geneticist",
+    "Genius biologist"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 1154,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Deviant",
+    "Inhuman hybrid"
+  ],
+  "superName": "Maelstrom",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1320/maelstrom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maelstrom_(comics)"
+  }
+}

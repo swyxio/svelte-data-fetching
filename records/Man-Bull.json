@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Bull Taurus",
+    "Man-Bull"
+  ],
+  "authors": [
+    "Gary Friedrich",
+    "Gerry Conway"
+  ],
+  "description": "Man-Bull is a fictional character, a supervillain from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Man-Bull",
+  "partners": [
+    "Matador"
+  ],
+  "powers": [
+    "Agility",
+    "Endurance",
+    "Set of horns",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 904,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Taurens"
+  ],
+  "species": [
+  ],
+  "superName": "Man-Bull",
+  "teams": [
+    "Death Squad",
+    "Frightful Four",
+    "Vil-Anon"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Bull"
+  }
+}

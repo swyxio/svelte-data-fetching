@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Living Diamond"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Werner Roth"
+  ],
+  "description": "Living Diamond is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Living Diamond",
+  "partners": [
+  ],
+  "powers": [
+    "Diamond form",
+    "Perspicuity",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 209,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Winters"
+  ],
+  "species": [
+  ],
+  "superName": "Living Diamond",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Living_Diamond"
+  }
+}

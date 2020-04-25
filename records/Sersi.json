@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Circe",
+    "Mesmer",
+    "Sersi",
+    "Sorceress",
+    "Sylvia Sersi"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sersi",
+  "partners": [
+  ],
+  "powers": [
+    "Atomic manipulation",
+    "Durability",
+    "Flight",
+    "Immortality",
+    "Molecular",
+    "Psionic powers",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 1,
+    "pageviewCount": 3280,
+    "serieCount": 18,
+    "storyCount": 26
+  },
+  "secretIdentities": [
+    "Sersi"
+  ],
+  "species": [
+    "Eternal"
+  ],
+  "superName": "Sersi",
+  "teams": [
+    "Avengers",
+    "Eternals",
+    "God Squad",
+    "Heroes for Hire",
+    "New Breed"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2053/sersi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sersi"
+  }
+}

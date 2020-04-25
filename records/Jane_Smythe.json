@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Jane Smythe"
+  ],
+  "authors": [
+  ],
+  "description": "Jane/Dick Smythe is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jane Smythe",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 160,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jane Smythe"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Jane Smythe",
+  "teams": [
+    "Brotherhood of Mutants"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Smythe"
+  }
+}

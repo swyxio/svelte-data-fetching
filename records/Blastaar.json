@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Blasstaar",
+    "Blastaar",
+    "Living Bomb-Burst"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Blastaar, sometimes called the Living Bomb-Burst and Blasstaar, is a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/e0/52695222c22e0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Blastaar",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Energy blasts",
+    "Enhanced durability",
+    "Highly trained in warfare",
+    "Resistance to injury",
+    "Self-propelled flight",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 1,
+    "pageviewCount": 1498,
+    "serieCount": 15,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Blastaar"
+  ],
+  "species": [
+    "Baluurians"
+  ],
+  "superName": "Blastaar",
+  "teams": [
+    "Aliens of the Negative Zone",
+    "Frightful Four",
+    "Legion Accursed",
+    "Negative Zone"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/298/blastaar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blastaar"
+  }
+}

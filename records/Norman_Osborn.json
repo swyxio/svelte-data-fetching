@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Goblin King",
+    "Green Goblin",
+    "Iron Patriot",
+    "Mason Banks",
+    "Norman Osborn"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Norman Osborn is a fictional supervillain that appears in American comic books published by Marvel Comics.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/538cf0c2acdd9/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "hexa": "17250B",
+    "red": 23
+  },
+  "name": "Norman Osborn",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Genius-level intellect",
+    "Goblin formula",
+    "Healing factor",
+    "Martial arts",
+    "Regenerative",
+    "Stamina",
+    "Super-adaptoid",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 126,
+    "eventCount": 6,
+    "pageviewCount": 9250,
+    "serieCount": 54,
+    "storyCount": 135
+  },
+  "secretIdentities": [
+    "Norman Virgil Osborn"
+  ],
+  "species": [
+  ],
+  "superName": "Norman Osborn",
+  "teams": [
+    "Cabal",
+    "Commission on Superhuman Activities",
+    "Daily Bugle",
+    "Dark Avengers",
+    "Features of the Marvel Universe",
+    "Goblin Nation",
+    "H.A.M.M.E.R",
+    "Hellfire Club",
+    "Oscorp",
+    "Sinister Six",
+    "Sinister Twelve",
+    "Thunderbolts",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2712/norman_osborn_green_goblin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Osborn"
+  }
+}

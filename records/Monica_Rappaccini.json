@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Monica Rappaccini"
+  ],
+  "authors": [
+    "Fred Van Lente",
+    "Leonard Kirk"
+  ],
+  "description": "Monica Rappaccini is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Monica Rappaccini",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 467,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Monica Rappacini"
+  ],
+  "species": [
+  ],
+  "superName": "Monica Rappaccini",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Rappaccini"
+  }
+}

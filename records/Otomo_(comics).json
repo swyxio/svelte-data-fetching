@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Otomo"
+  ],
+  "authors": [
+  ],
+  "description": "Otomo is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Otomo",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 64,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Otomo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Otomo",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Otomo_(comics)"
+  }
+}

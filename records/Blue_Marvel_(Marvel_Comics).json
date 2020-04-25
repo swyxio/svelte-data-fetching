@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Blue Marvel",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Kevin Grevioux"
+  ],
+  "description": "Blue Marvel is the alias of Adam Bernard Brashear, a fictional character who is a comic book superhero published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg"
+  },
+  "mainColor": null,
+  "name": "Blue Marvel",
+  "partners": [
+  ],
+  "powers": [
+    "Antimatter manipulation",
+    "Durability",
+    "Energy generation",
+    "Flight",
+    "Genius engineer",
+    "Light creation",
+    "Molecular manipulation",
+    "Nigh-invulnerability",
+    "Physicist",
+    "Reflexes",
+    "Senses",
+    "Stamina",
+    "Superhuman speed",
+    "Vast superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5686,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Adam Bernard Brashear"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Blue Marvel",
+  "teams": [
+    "Mighty Avengers",
+    "The Mighty Avengers",
+    "Ultimates",
+    "Ultimates (2015 team)",
+    "United States Marine Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Marvel_(Marvel_Comics)"
+  }
+}

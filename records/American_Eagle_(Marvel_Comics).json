@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "American Eagle"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Ron Wilson"
+  ],
+  "description": "American Eagle (Jason Strongbow) is a fictional character, a Native American superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "American Eagle",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Enhanced senses",
+    "Speed",
+    "Stamina",
+    "Sturdiness",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 782,
+    "serieCount": 1,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Jason Strongbow"
+  ],
+  "species": [
+  ],
+  "superName": "American Eagle",
+  "teams": [
+    "H.A.M.M.E.R",
+    "Navajo Nation Division of Public Safety"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/132/american_eagle",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Eagle_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "aliases": [
+    "'Berto",
+    "Black King",
+    "Black Rook",
+    "Lord Imperial",
+    "Sunspot"
+  ],
+  "authors": [
+    "Bob McLeod",
+    "Chris Claremont"
+  ],
+  "description": "Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Sunspot",
+  "partners": [
+  ],
+  "powers": [
+    "Concussive blasts",
+    "Flight",
+    "Heat",
+    "Light projection",
+    "Rechanneling",
+    "Solar absorption",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 151,
+    "eventCount": 10,
+    "pageviewCount": 7235,
+    "serieCount": 48,
+    "storyCount": 162
+  },
+  "secretIdentities": [
+    "Bobby",
+    "Roberto da Costa"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Sunspot",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Avengers",
+    "Costa International",
+    "Fallen Angels",
+    "Hellfire Club",
+    "Mutant Liberation Front",
+    "New Avengers",
+    "New Mutants",
+    "The New Avengers",
+    "X-Corporation",
+    "X-Force",
+    "X-Men",
+    "Young X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2252/sunspot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunspot_(comics)"
+  }
+}

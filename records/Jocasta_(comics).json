@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Bride of Ultron",
+    "Jocasta"
+  ],
+  "authors": [
+    "George Pérez",
+    "Jim Shooter"
+  ],
+  "description": "Jocasta is a fictional, comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Jocasta",
+  "partners": [
+    "Hank Pym",
+    "Ultron"
+  ],
+  "powers": [
+    "Computer integration",
+    "Enhanced senses",
+    "Force field generation",
+    "Optic cannons",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 54,
+    "eventCount": 5,
+    "pageviewCount": 2880,
+    "serieCount": 9,
+    "storyCount": 53
+  },
+  "secretIdentities": [
+    "Jocasta"
+  ],
+  "species": [
+    "Mechanoid"
+  ],
+  "superName": "Jocasta",
+  "teams": [
+    "Avengers",
+    "Avengers Academy",
+    "Fifty State Initiative",
+    "Mavericks",
+    "Mighty Avengers",
+    "The Mighty Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1095/jocasta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jocasta_(comics)"
+  }
+}

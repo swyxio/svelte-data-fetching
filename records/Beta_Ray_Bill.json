@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Beta Ray Bill",
+    "Beta Ray Thor",
+    "Simon Walters"
+  ],
+  "authors": [
+    "Walt Simonson"
+  ],
+  "description": "Beta Ray Bill is a fictional superhero that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Beta_Ray_Bill.jpg/250px-Beta_Ray_Bill.jpg"
+  },
+  "mainColor": null,
+  "name": "Beta Ray Bill",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Electric manipulation",
+    "Flight",
+    "Longevity",
+    "Speed",
+    "Superhuman strength",
+    "Weather manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7547,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Simon Walters"
+  ],
+  "species": [
+  ],
+  "superName": "Beta Ray Bill",
+  "teams": [
+    "Annihilators",
+    "Asgard",
+    "Omega Flight",
+    "Star Masters",
+    "Thor Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Beta_Ray_Bill"
+  }
+}

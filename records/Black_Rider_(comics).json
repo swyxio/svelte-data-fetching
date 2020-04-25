@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Black Mask",
+    "The Black Rider",
+    "The Cactus Kid"
+  ],
+  "authors": [
+    "Syd Shores"
+  ],
+  "description": "The Black Rider is a fictional Western character in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Black Rider",
+  "partners": [
+  ],
+  "powers": [
+    "Marksman",
+    "Skilled horseman"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 934,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Doc",
+    "Matthew Masters"
+  ],
+  "species": [
+  ],
+  "superName": "Black Rider",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Rider_(comics)"
+  }
+}

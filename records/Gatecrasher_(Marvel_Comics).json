@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Gatecrasher"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Jamie Delano"
+  ],
+  "description": "Gatecrasher is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gatecrasher",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 297,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Gatecrasher",
+  "teams": [
+    "Technet"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gatecrasher_(Marvel_Comics)"
+  }
+}

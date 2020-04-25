@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Tether"
+  ],
+  "authors": [
+  ],
+  "description": "Tether is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tether",
+  "partners": [
+  ],
+  "powers": [
+    "Claws",
+    "Depowered",
+    "Electrified tail",
+    "Razor-sharp fangs",
+    "Reptilian appearance"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 110,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tether",
+  "teams": [
+    "Gene Nation",
+    "Morlocks"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tether_(comics)"
+  }
+}

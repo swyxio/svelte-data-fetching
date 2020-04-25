@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Danny Vincent",
+    "Junta"
+  ],
+  "authors": [
+    "Christopher Priest",
+    "Dan Fraga"
+  ],
+  "description": "Junta is a fictional antihero in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4c002e5a298b8/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Junta",
+  "partners": [
+  ],
+  "powers": [
+    "Gravity control"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 366,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Manuel Diego Armand Vicente"
+  ],
+  "species": [
+  ],
+  "superName": "Junta",
+  "teams": [
+    "C.I.A",
+    "Central Intelligence Agency",
+    "Defenders",
+    "The Crew"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1108/junta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Junta_(comics)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Kraven the Hunter"
+  ],
+  "authors": [
+    "Joe Kelly",
+    "Marc Guggenheim",
+    "Mike McKone",
+    "Phil Jimenez"
+  ],
+  "description": "Ana Kravinoff, also known as the third Kraven the Hunter, is a Marvel Comics supervillainess.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Ana_Tatiana_Kravinoff.jpg/200px-Ana_Tatiana_Kravinoff.jpg"
+  },
+  "mainColor": null,
+  "name": "Kraven the Hunter (Ana Kravinoff)",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant intellect",
+    "Expert martial artist",
+    "Good medical knowledge",
+    "Speed",
+    "Tracker",
+    "Use of various weapons"
+  ],
+  "ranking": {
+    "comicCount": 23,
+    "eventCount": 0,
+    "pageviewCount": 569,
+    "serieCount": 18,
+    "storyCount": 27
+  },
+  "secretIdentities": [
+    "Ana",
+    "Anastasia Tatiana Kravinoff"
+  ],
+  "species": [
+  ],
+  "superName": "Kraven the Hunter",
+  "teams": [
+    "Kravinoff Family"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1174/kraven_the_hunter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_(Ana_Kravinoff)"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "19",
+    "19X",
+    "Nate Grey",
+    "Shaman of the Mutant Tribe",
+    "X-Man"
+  ],
+  "authors": [
+    "Jeph Loeb",
+    "Steve Skroce"
+  ],
+  "description": "Nathaniel \"Nate\" Grey (X-Man) is a fictional comic book superhero appearing in books published by Marvel Comics, in particular those related to the X-Men franchise.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/X-man1-1995.jpg/200px-X-man1-1995.jpg"
+  },
+  "mainColor": null,
+  "name": "Nate Grey",
+  "partners": [
+    "Madelyne Pryor",
+    "Threnody"
+  ],
+  "powers": [
+    "Cross-",
+    "Cross-dimensional travel",
+    "Dimensional",
+    "Precognition",
+    "Psychometry",
+    "Telekinesis",
+    "Telepathy",
+    "Travel"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8773,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nathaniel Grey"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Nate Grey",
+  "teams": [
+    "Brotherhood of Mutants",
+    "New Mutants",
+    "Outcasts",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nate_Grey"
+  }
+}

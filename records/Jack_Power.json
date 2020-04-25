@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Counterweight",
+    "Destroyer",
+    "Jack Power",
+    "Mass Master"
+  ],
+  "authors": [
+    "June Brigman",
+    "Louise Simonson"
+  ],
+  "description": "Jack Power, currently known as Mass Master, formerly Counterweight and Destroyer, is a fictional character in Marvel Comics' universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/24/MassMasterCloud1.jpg"
+  },
+  "mainColor": null,
+  "name": "Jack Power",
+  "partners": [
+  ],
+  "powers": [
+    "Density",
+    "Disintegration",
+    "Energy absorption",
+    "Gravity manipulation",
+    "Healing powers",
+    "Projection",
+    "Size manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 619,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Power"
+  ],
+  "species": [
+  ],
+  "superName": "Jack Power",
+  "teams": [
+    "Power Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Power"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Iron Monger",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Dennis O'Neil",
+    "Luke McDonnell"
+  ],
+  "description": "The Iron Monger is an identity used by several fictional supervillains published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg"
+  },
+  "mainColor": null,
+  "name": "Iron Monger",
+  "partners": [
+  ],
+  "powers": [
+    "Champion chess player",
+    "Durability",
+    "Energy blasts",
+    "Genius-level intellect",
+    "Laser beam",
+    "Subsonic flight",
+    "Superhuman strength",
+    "Use of circuits breaker"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5931,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Obadiah Stane"
+  ],
+  "species": [
+  ],
+  "superName": "Iron Monger",
+  "teams": [
+    "Stane International",
+    "Stark Industries",
+    "The Chessmen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Monger"
+  }
+}

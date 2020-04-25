@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Lancaster Sneed",
+    "Shockwave"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Paul Gulacy",
+    "Tom Sutton"
+  ],
+  "description": "Lancaster Sneed was a secret agent working for the United Kingdom’s MI:6, but no one esteemed him as highly as himself, and despite his pride, he was wounded in an explosion on his first field assignment and forced to undergo a radical surgery that grafted metal plates and cybernetic systems to his body.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c0035c193fc3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Shockwave",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Enhanced strength",
+    "Master martial artist",
+    "Reflexes",
+    "Skilled demolition worker",
+    "Speed",
+    "Stamina",
+    "Wears exoskeleton"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 469,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lancaster Sneed"
+  ],
+  "species": [
+  ],
+  "superName": "Shockwave",
+  "teams": [
+    "Golden Dagger Sect",
+    "MI6",
+    "Masters of Evil",
+    "Oriental Expediters",
+    "S.H.I.E.L.D",
+    "Secret Intelligence Service"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2082/shockwave",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shockwave_(comics)"
+  }
+}

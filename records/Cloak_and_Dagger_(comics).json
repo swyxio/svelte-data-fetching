@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Cloak",
+    "Cloak and Dagger",
+    "Dagger"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Ed Hannigan"
+  ],
+  "description": "Cloak (Tyrone \"Ty\" Johnson) and Dagger (Tandy Bowen) are a fictional comic book superhero duo appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Cloak and Dagger",
+  "partners": [
+  ],
+  "powers": [
+    "Daggers",
+    "Darkforce",
+    "Intangibility",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8779,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tandy Bowen",
+    "Ty",
+    "Tyrone Johnson"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Cloak and Dagger",
+  "teams": [
+    "Brides of Set",
+    "Brides of Set (Dagger)",
+    "Civil War",
+    "Dark X-Men",
+    "Defenders",
+    "Marvel Knights",
+    "New Warriors",
+    "Runaways",
+    "Secret Avengers (Civil War)",
+    "Secret Defenders",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(comics)"
+  }
+}

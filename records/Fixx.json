@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Fixx",
+    "Jane Doe"
+  ],
+  "authors": [
+    "Howard Mackie"
+  ],
+  "description": "Fixx is a fictional mutant character in the Marvel Comics Universe from an alternate future.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Fixx.jpg/200px-Fixx.jpg"
+  },
+  "mainColor": null,
+  "name": "Fixx",
+  "partners": [
+  ],
+  "powers": [
+    "Psionic energy sprites"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 388,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Fixx",
+  "teams": [
+    "X-Factor",
+    "Xavier's Security Enforcers",
+    "Xavier's Underground Enforcers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Fixx"
+  }
+}

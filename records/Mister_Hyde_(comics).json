@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Mister Hyde",
+    "Thor"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "Mister Hyde (Calvin Zabo) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/MisterHyde.png/250px-MisterHyde.png"
+  },
+  "mainColor": null,
+  "name": "Mister Hyde",
+  "partners": [
+    "Batroc",
+    "Batroc the Leaper",
+    "Cobra",
+    "Jester",
+    "Mac Gargan",
+    "Scorpion"
+  ],
+  "powers": [
+    "Durability",
+    "Genius-level intellect",
+    "Resistance to injury",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8273,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Calvin Zabo"
+  ],
+  "species": [
+  ],
+  "superName": "Mister Hyde",
+  "teams": [
+    "Lethal Legion",
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Hyde_(comics)"
+  }
+}

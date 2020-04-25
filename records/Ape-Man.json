@@ -1,0 +1,59 @@
+{
+  "aliases": [
+    "Ape-Man",
+    "Ape-Man II",
+    "Ape-Man III",
+    "Gort",
+    "Monk Keefer"
+  ],
+  "authors": [
+    "Don Heck",
+    "Gene Colan",
+    "Jo Duffy",
+    "Roger McKenzie",
+    "Stan Lee"
+  ],
+  "description": "Ape-Man is the name of three characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg"
+  },
+  "mainColor": null,
+  "name": "Ape-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Ape-like appearance",
+    "Considerable strength",
+    "Durability",
+    "Enhanced agility",
+    "Excellent boxer",
+    "Reflexes",
+    "Superhuman strength",
+    "Use of t-ray gun",
+    "Wrestler"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 365,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gordon Keefer",
+    "Roy McVey"
+  ],
+  "species": [
+  ],
+  "superName": "Ape-Man",
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ape-Man"
+  }
+}

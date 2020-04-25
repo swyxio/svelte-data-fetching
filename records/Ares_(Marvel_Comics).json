@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    "Ares",
+    "God of War",
+    "John Aaron",
+    "Mars",
+    "Mister Talon",
+    "The Warhawk"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Ares is a fictional character, a deity in the Marvel Comics Universe based on the Greek god of the same name.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/535ff3daea603/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Ares",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Immunity to all diseases",
+    "Infections",
+    "Magic manipulation",
+    "Shapeshifting",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Virtual immortality"
+  ],
+  "ranking": {
+    "comicCount": 41,
+    "eventCount": 4,
+    "pageviewCount": 3193,
+    "serieCount": 17,
+    "storyCount": 43
+  },
+  "secretIdentities": [
+    "Ares"
+  ],
+  "species": [
+  ],
+  "superName": "Ares",
+  "teams": [
+    "Dark Avengers",
+    "Gods of Olympus",
+    "Mighty Avengers",
+    "Olympians",
+    "The Mighty Avengers",
+    "Warhawks"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/183/ares",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ares_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Cipher"
+  ],
+  "authors": [
+    "Salvador Larroca",
+    "Warren Ellis"
+  ],
+  "description": "Cipher (Jennifer Swann) is a character from the newuniversal imprint of Marvel Comics, and is one of the four initial superhumans created by the White Event in 2006 (the others being Justice, Nightmask, and Star Brand). newuniversal, designated Earth-555 in the Marvel Comics multiverse, is a re-imagining of the New Universe imprint from the late 1980s.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Shockfront2.jpg/250px-Shockfront2.jpg"
+  },
+  "mainColor": null,
+  "name": "Cipher (newuniversal)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 200,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jennifer Swann"
+  ],
+  "species": [
+  ],
+  "superName": "Cipher",
+  "teams": [
+    "NSA",
+    "Project Spitfire",
+    "Spitfire (New Universe)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cipher_(newuniversal)"
+  }
+}

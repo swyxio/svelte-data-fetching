@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Warrior Woman"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": "Warrior Woman is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg"
+  },
+  "mainColor": null,
+  "name": "Warrior Woman",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Hypnotism",
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 415,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Julia Frieda Koenig Lohmer"
+  ],
+  "species": [
+  ],
+  "superName": "Warrior Woman",
+  "teams": [
+    "Super-Axis"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Warrior_Woman_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Emil Burbank",
+    "Master Menace"
+  ],
+  "authors": [
+    "J. Michael Straczynski",
+    "Roy Thomas",
+    "Wayne Boring"
+  ],
+  "description": "Dr. Emil Burbank, also known as Master Menace, is a fictional Marvel Comics character.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Master Menace",
+  "partners": [
+  ],
+  "powers": [
+    "Genius level",
+    "Genius level inventor",
+    "Inventor",
+    "Powered armor",
+    "Powered exoskeleton",
+    "Superhuman intelligence",
+    "Various weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 315,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Emil Zebediah Burbank"
+  ],
+  "species": [
+  ],
+  "superName": "Master Menace",
+  "teams": [
+    "America Redeemers",
+    "Redeemers",
+    "Squadron Supreme",
+    "Squadron Supreme (Supreme Power)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Menace"
+  }
+}

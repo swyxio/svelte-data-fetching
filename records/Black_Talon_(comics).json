@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Black Talon"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Gerry Conway",
+    "John Buscema",
+    "Len Wein"
+  ],
+  "description": "The Black Talon is the name of a number of fictional characters, supervillains in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png"
+  },
+  "mainColor": null,
+  "name": "Black Talon",
+  "partners": [
+    "Grim Reaper",
+    "Mama Limbo"
+  ],
+  "powers": [
+    "Control zombies"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 631,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desmond Drew",
+    "Samuel David Barone"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Black Talon",
+  "teams": [
+    "Lethal Legion",
+    "Masters of Evil",
+    "X-Humed"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Talon_(comics)"
+  }
+}

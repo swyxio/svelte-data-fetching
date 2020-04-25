@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Dr. Ruhart Gnaan",
+    "Gorilla-Man"
+  ],
+  "authors": [
+    "Bob Powell",
+    "Jack Kirby",
+    "Larry Liebery",
+    "Robert Q. Sale",
+    "Robert Q. Sale (artist)",
+    "Stan Lee"
+  ],
+  "description": "Gorilla-Man is the name of three fictional characters appearing in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg"
+  },
+  "mainColor": null,
+  "name": "Gorilla-Man",
+  "partners": [
+  ],
+  "powers": [
+    "Expert transplant surgeon",
+    "Immortality",
+    "Inventor",
+    "Weapons expert"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 942,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arthur Nagan",
+    "Franz Radzik",
+    "Kenneth Hale"
+  ],
+  "species": [
+  ],
+  "superName": "Gorilla-Man",
+  "teams": [
+    "Advanced Idea Mechanics",
+    "Agents of Atlas",
+    "Circus of Crime",
+    "Headmen",
+    "Lethal Legion",
+    "Nick Fury's Howling Commandos"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorilla-Man"
+  }
+}

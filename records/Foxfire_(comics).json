@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Foxfire",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Foxfire is a fictional character from Marvel Comics' original Squadron Supreme series.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Foxfire",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 322,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Olivia Underwood"
+  ],
+  "species": [
+  ],
+  "superName": "Foxfire",
+  "teams": [
+    "America Redeemers",
+    "Institute of Evil",
+    "Redeemers",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Foxfire_(comics)"
+  }
+}

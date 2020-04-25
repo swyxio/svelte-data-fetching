@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Paladin",
+    "Paul Denning",
+    "Paul Dennis"
+  ],
+  "authors": [
+    "Carmine Infantino",
+    "Jim Shooter"
+  ],
+  "description": "Paladin is a Marvel Comics character, a mercenary.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/535ff3bef14c1/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Paladin",
+  "partners": [
+  ],
+  "powers": [
+    "Actor",
+    "Agility",
+    "Bodyguard",
+    "Detective",
+    "Durability",
+    "Espionage agent",
+    "Reflexes",
+    "Skilled marksman",
+    "Speed",
+    "Stamina",
+    "Use of stun gun"
+  ],
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 2,
+    "pageviewCount": 1914,
+    "serieCount": 8,
+    "storyCount": 18
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Paladin",
+  "teams": [
+    "Defenders",
+    "Heroes for Hire",
+    "The Intruders",
+    "Thunderbolts",
+    "Wild Pack"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1687/paladin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paladin_(comics)"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": [
+    "Agent R-1",
+    "Crazy Max",
+    "Grizzly"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Fabian Nicieza",
+    "Gene Colan",
+    "Gerry Conway",
+    "Joe Sinnott",
+    "Rob Liefeld",
+    "Ross Andru",
+    "Stan Lee"
+  ],
+  "description": "Grizzly is the name of four unrelated fictional characters from the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Amazing_Spider-Man_139.jpg/250px-Amazing_Spider-Man_139.jpg"
+  },
+  "mainColor": null,
+  "name": "Grizzly",
+  "partners": [
+    "Jackal"
+  ],
+  "powers": [
+    "Adept wrestler",
+    "Durability",
+    "Fangs",
+    "Razor sharp claws",
+    "Senses",
+    "Size",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Use of a laser pistol"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1388,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ace Fenton",
+    "Maxwell Markham",
+    "Theodore Wyatt Winchester",
+    "Unrevealed"
+  ],
+  "species": [
+    "Human",
+    "Mutant"
+  ],
+  "superName": "Grizzly",
+  "teams": [
+    "Advanced Idea Mechanics",
+    "Six Pack",
+    "Thunderbolts",
+    "Weapon P.R.I.M.E"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Grizzly_(comics)"
+  }
+}

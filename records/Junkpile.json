@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Junkpile"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Ron Lim"
+  ],
+  "description": "Junkpile is a fictional character in Marvel Comics's 2099 universe, a look at superheroes in the year 2099.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Xmen2099-23.jpg/250px-Xmen2099-23.jpg"
+  },
+  "mainColor": null,
+  "name": "Junkpile",
+  "partners": [
+  ],
+  "powers": [
+    "Stamina"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 249,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Junkpile",
+  "teams": [
+    "Greater Nevada Syndicate",
+    "Lawless",
+    "Lawless, Greater Nevada Syndicate",
+    "S.H.I.E.L.D",
+    "SHIELD",
+    "X-Men 2099"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Junkpile"
+  }
+}

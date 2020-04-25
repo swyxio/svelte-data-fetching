@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Ayesha",
+    "Her",
+    "J'Ridia Starduster",
+    "Kismet",
+    "Paragon",
+    "She Who Must be Obeyed",
+    "She Whose Trail Dusts Hope"
+  ],
+  "authors": [
+    "David Anthony Kraft",
+    "David Kraft",
+    "Herb Trimpe",
+    "Len Wein"
+  ],
+  "description": "Kismet, also known as Paragon and  Her, is a fictional superheroine that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kismet",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Energy blasts",
+    "Flight",
+    "Regeneration",
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 694,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "N/A"
+  ],
+  "species": [
+  ],
+  "superName": "Kismet",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kismet_(Marvel_Comics)"
+  }
+}

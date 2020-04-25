@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Delphyne Gorgon"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Fred Van Lente",
+    "Greg Pak"
+  ],
+  "description": "Delphyne Gorgon is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1c/Delphyne.jpg"
+  },
+  "mainColor": null,
+  "name": "Delphyne Gorgon",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled combatant"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 619,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Delphyne Gorgon"
+  ],
+  "species": [
+    "Human-Gorgon hybrid"
+  ],
+  "superName": "Delphyne Gorgon",
+  "teams": [
+    "Amazons"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Delphyne_Gorgon"
+  }
+}

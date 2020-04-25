@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Ms. Marvel",
+    "Superia"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Rik Levins"
+  ],
+  "description": "Superia (Dr. Deidre Wentworth) is a fictional character, a supervillain and criminal scientist in the Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Superia_of_AIM_High_Council.jpg/225px-Superia_of_AIM_High_Council.jpg"
+  },
+  "mainColor": null,
+  "name": "Superia",
+  "partners": [
+  ],
+  "powers": [
+    "Concussive blasts",
+    "Genius scientist",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1197,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Deidre Wentworth"
+  ],
+  "species": [
+  ],
+  "superName": "Superia",
+  "teams": [
+    "A.I.M",
+    "Advanced Idea Mechanics",
+    "Dark Avengers",
+    "Femizons",
+    "H.A.M.M.E.R"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Superia"
+  }
+}

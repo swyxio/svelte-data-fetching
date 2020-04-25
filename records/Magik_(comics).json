@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Darkchylde",
+    "Lightchylde",
+    "Magik",
+    "Redflag #133",
+    "the Darkchilde Archimage"
+  ],
+  "authors": [
+  ],
+  "description": "Magik (Illyana Nikolievna Rasputina - typically anglicized to Rasputin) is a fictional superhero appearing in comic books published by Marvel Comics, most often in relation to the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/52695ca8391cc/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Magik",
+  "partners": [
+  ],
+  "powers": [
+    "Magic",
+    "Mystic armor",
+    "Mystic soulsword"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 3,
+    "pageviewCount": 9335,
+    "serieCount": 12,
+    "storyCount": 16
+  },
+  "secretIdentities": [
+    "Illyana Nikolaevna Alexandria Rasputin",
+    "Illyana Nikolaevna Alexandria Rasputina"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Magik",
+  "teams": [
+    "Hellions",
+    "New Mutants",
+    "Phoenix Five",
+    "Phoenix Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1325/magik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magik_(comics)"
+  }
+}

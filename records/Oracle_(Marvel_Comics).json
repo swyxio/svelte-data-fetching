@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Oracle"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Oracle is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/4c003d0361454/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Oracle",
+  "partners": [
+  ],
+  "powers": [
+    "High-level telepathy"
+  ],
+  "ranking": {
+    "comicCount": 19,
+    "eventCount": 0,
+    "pageviewCount": 1157,
+    "serieCount": 12,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Sybil"
+  ],
+  "species": [
+  ],
+  "superName": "Oracle",
+  "teams": [
+    "Imperial Guard"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1659/oracle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oracle_(Marvel_Comics)"
+  }
+}

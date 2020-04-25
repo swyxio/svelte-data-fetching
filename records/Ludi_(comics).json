@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Ludi"
+  ],
+  "authors": [
+    "Ralph Macchio",
+    "Roger Stern",
+    "Tom Sutton"
+  ],
+  "description": "Ludi is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ludi",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 72,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Ludi",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludi_(comics)"
+  }
+}

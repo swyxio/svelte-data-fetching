@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Master of the Staff",
+    "Sais",
+    "The Weapons Master",
+    "Zaran",
+    "Zaran II"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Mike Zeck",
+    "Paul Gulacy"
+  ],
+  "description": "Zaran is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Zaran",
+  "partners": [
+  ],
+  "powers": [
+    "Possesses various weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 295,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maximillian Zaran"
+  ],
+  "species": [
+  ],
+  "superName": "Zaran",
+  "teams": [
+    "Batroc the Leaper",
+    "Batroc's Brigade",
+    "MI-6",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Zaran"
+  }
+}

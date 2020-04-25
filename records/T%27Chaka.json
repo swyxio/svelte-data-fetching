@@ -1,0 +1,72 @@
+{
+  "aliases": [
+    "Black Leopard",
+    "Black Panther",
+    "Luke Charles",
+    "Mr. Okonkwo"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/Jungleaction23.png"
+  },
+  "mainColor": null,
+  "name": "T'Chaka",
+  "partners": [
+    "Storm"
+  ],
+  "powers": [
+    "Agility",
+    "Boots",
+    "Durability",
+    "Equipment",
+    "Genius-level intellect",
+    "Gymnast",
+    "Healing",
+    "Inventor",
+    "Martial artist",
+    "Politician",
+    "Reflexes",
+    "Scientist",
+    "Senses",
+    "Skilled hunter",
+    "Speed",
+    "Stamina",
+    "Strategist",
+    "Superhuman strength",
+    "Tracker",
+    "Trained acrobat",
+    "Uniform",
+    "Vibranium",
+    "Wields"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 127,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "T'Challa"
+  ],
+  "species": [
+  ],
+  "superName": "T'Chaka",
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Fantastic Force",
+    "Fantastic Four",
+    "Illuminati",
+    "Ultimates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/T%27Chaka"
+  }
+}

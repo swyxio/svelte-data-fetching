@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Solarr"
+  ],
+  "authors": [
+    "Sal Buscema",
+    "Steve Englehart"
+  ],
+  "description": "Solarr is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Solarr",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 364,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Silas King"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Solarr",
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Solarr"
+  }
+}

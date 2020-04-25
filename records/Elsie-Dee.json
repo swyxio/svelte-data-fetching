@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Elsie-Dee"
+  ],
+  "authors": [
+    "Larry Hama",
+    "Marc Silvestri"
+  ],
+  "description": "Elsie-Dee is a fictional character appearing in Marvel Comics, and an ally of Wolverine.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg"
+  },
+  "mainColor": null,
+  "name": "Elsie-Dee",
+  "partners": [
+  ],
+  "powers": [
+    "Analytical",
+    "Creative reasoning",
+    "Strength",
+    "Superhuman computational"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 376,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Elsie-Dee"
+  ],
+  "species": [
+  ],
+  "superName": "Elsie-Dee",
+  "teams": [
+    "Reavers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsie-Dee"
+  }
+}

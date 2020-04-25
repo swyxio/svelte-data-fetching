@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Agent X",
+    "Agent X Nijo Minamiyori",
+    "Alex Hayden"
+  ],
+  "authors": [
+    "Alvin Lee",
+    "Gail Simone"
+  ],
+  "description": "Originally a partner of the mind-altering assassin Black Swan, Nijo spied on Deadpool as part of the Swan's plan to exact revenge for Deadpool falsely taking credit for the Swan's assassination of the Four Winds crime family, which included Nijo's brother.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a9/Agent_X_03_Udon_Studios.jpg"
+  },
+  "mainColor": null,
+  "name": "Agent X",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Coordination",
+    "Endurance",
+    "Expert marksman",
+    "Healing factor",
+    "Reflexes&reactions",
+    "Regenerative",
+    "Speed",
+    "Superhuman ambidexterity"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 8714,
+    "serieCount": 3,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Nijo Minamiyori"
+  ],
+  "species": [
+  ],
+  "superName": "Agent X",
+  "teams": [
+    "Agency X"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/101/agent_x",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agent_X_(Marvel_Comics)"
+  }
+}

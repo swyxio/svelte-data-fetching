@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Apex"
+  ],
+  "authors": [
+    "Dennis Hopeless",
+    "Kev Walker"
+  ],
+  "description": "Apex (Katy Bashir) is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Apex",
+  "partners": [
+  ],
+  "powers": [
+    "Technopath"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 515,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Katy Bashir"
+  ],
+  "species": [
+  ],
+  "superName": "Apex",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Apex_(comics)"
+  }
+}

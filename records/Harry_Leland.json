@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Black Bishop",
+    "Harry Leland"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Harry Leland, also known as the Black Bishop, is a Marvel Comics supervillain and an adversary of the X-Men.Leland possesses the mutant ability to increase the mass of an object or person, making it extremely heavy.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c8/Harry_Leland.jpg"
+  },
+  "mainColor": null,
+  "name": "Harry Leland",
+  "partners": [
+  ],
+  "powers": [
+    "Able to increase mass"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 857,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Harold Leland"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Harry Leland",
+  "teams": [
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Leland"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "aliases": [
+    "Erik Lehnsherr",
+    "Erik Lensherr",
+    "Erik the Red",
+    "Magneto",
+    "Magnus",
+    "Max Eisenhardt",
+    "Michael Xavier",
+    "The Creator",
+    "White King  of the Hellfire Club",
+    "White Pilgrim"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Magneto is a fictional character appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/537bb51cc0937.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5261a7e53f827/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "hexa": "23192A",
+    "red": 35
+  },
+  "name": "Magneto",
+  "partners": [
+  ],
+  "powers": [
+    "Magnetism",
+    "Magnetism manipulation",
+    "Manipulation"
+  ],
+  "ranking": {
+    "comicCount": 252,
+    "eventCount": 16,
+    "pageviewCount": 31062,
+    "serieCount": 111,
+    "storyCount": 252
+  },
+  "secretIdentities": [
+    "Max Eisenhardt"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Magneto",
+  "teams": [
+    "Acolytes",
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Excalibur",
+    "Hellfire Club",
+    "New Mutants",
+    "Savage Land Mutates",
+    "The Twelve",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/35/magneto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magneto_(comics)"
+  }
+}

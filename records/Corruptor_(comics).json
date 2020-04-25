@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Corruptor"
+  ],
+  "authors": [
+    "Marv Wolfman",
+    "Sal Buscema"
+  ],
+  "description": "The Corruptor (real name Jackson Day) is a fictional character, a supervillain appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Corruptor",
+  "partners": [
+  ],
+  "powers": [
+    "Eye beams",
+    "Superhuman strength",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 237,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jackson Day"
+  ],
+  "species": [
+  ],
+  "superName": "Corruptor",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Corruptor_(comics)"
+  }
+}

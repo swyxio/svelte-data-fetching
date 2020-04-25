@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Starfox"
+  ],
+  "authors": [
+    "Jim Starlin",
+    "Mike Friedrich"
+  ],
+  "description": "The youngest son of Mentor and Sui-San, Eros had the natural ability to excite pleasure in others, but his power had no effect upon his mutant older brother, Thanos, who worshiped the cosmic embodiment of Death and led an army against Titan.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0030cbcba98/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Starfox",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Flight",
+    "Halted aging",
+    "Healing factor",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 11,
+    "eventCount": 0,
+    "pageviewCount": 4989,
+    "serieCount": 6,
+    "storyCount": 12
+  },
+  "secretIdentities": [
+    "Eros of Titan",
+    "originally Eron"
+  ],
+  "species": [
+  ],
+  "superName": "Starfox",
+  "teams": [
+    "Avengers",
+    "Eternals"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2203/starfox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Starfox_(comics)"
+  }
+}

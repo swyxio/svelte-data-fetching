@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Radius"
+  ],
+  "authors": [
+    "Scott Clark",
+    "Steven Seagle",
+    "Steven T. Seagle"
+  ],
+  "description": "Radius (Jared Corbo) is a fictional character, a superhero in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Radius",
+  "partners": [
+  ],
+  "powers": [
+    "Force-field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 178,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jared Corbo"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Radius",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Department H",
+    "Features of the Marvel Universe",
+    "Hellhouse",
+    "X-Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Radius_(comics)"
+  }
+}

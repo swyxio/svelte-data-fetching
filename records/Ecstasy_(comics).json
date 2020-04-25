@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Ecstasy",
+    "Madame Deladier",
+    "Renee Deladier"
+  ],
+  "authors": [
+    "Peter B. Gillis"
+  ],
+  "description": "Ecstasy (Renee Deladier) is a super villain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/93/Ecstasy_%28Renee_Deladier%29.png"
+  },
+  "mainColor": null,
+  "name": "Ecstasy",
+  "partners": [
+  ],
+  "powers": [
+    "Darkforce",
+    "Darkforce manipulation",
+    "Manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 312,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Renee Deladier"
+  ],
+  "species": [
+  ],
+  "superName": "Ecstasy",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecstasy_(comics)"
+  }
+}

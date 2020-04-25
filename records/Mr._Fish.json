@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Mort",
+    "Mr. Fish"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "George Tuska"
+  ],
+  "description": "Mr. Fish is the name of two Marvel Comics supervillains.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg"
+  },
+  "mainColor": null,
+  "name": "Mr. Fish",
+  "partners": [
+  ],
+  "powers": [
+    "Amphibious physiology",
+    "Enhanced strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 466,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bill Norris",
+    "Mortimer George Norris"
+  ],
+  "species": [
+  ],
+  "superName": "Mr. Fish",
+  "teams": [
+    "Flashmob",
+    "Maggia"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mr._Fish"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Hate Monger",
+    "Man-Beast",
+    "Rex Carpenter",
+    "Super-Beast"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Man-Beast is a fictional character who appears in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Thor-135.jpg/249px-Thor-135.jpg"
+  },
+  "mainColor": null,
+  "name": "Man-Beast",
+  "partners": [
+    "Exodus"
+  ],
+  "powers": [
+    "Durability",
+    "Enhanced senses",
+    "Gadgets",
+    "Intelligence",
+    "Psychic powers",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 782,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Uplifted red wolf"
+  ],
+  "superName": "Man-Beast",
+  "teams": [
+    "Legion of Light",
+    "New Men",
+    "United Nations"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Beast"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "aliases": [
+    "Black Widow",
+    "Laura Matthers",
+    "Mary Farrell",
+    "Natalia Alianovna Romanova",
+    "Natalie Rushman",
+    "Natasha Romanoff",
+    "Oktober",
+    "Yelena Belova"
+  ],
+  "authors": [
+    "Don Heck",
+    "Don Rico",
+    "Stan Lee"
+  ],
+  "description": null,
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/537ba452ba274.gif",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Black_Widow_1.jpg/250px-Black_Widow_1.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Black Widow (Natasha Romanova)",
+  "partners": [
+    "Boris Turgenov",
+    "Captain America",
+    "Daredevil",
+    "Hawkeye",
+    "Winter Soldier"
+  ],
+  "powers": [
+    "Enhanced immune system",
+    "Expert",
+    "Explosives",
+    "Grappling hook",
+    "Knock out gas",
+    "Martial artist",
+    "Radio transmitter",
+    "Secret agent",
+    "Slowed aging",
+    "Tactician",
+    "Taser",
+    "Tear gas pellets"
+  ],
+  "ranking": {
+    "comicCount": 294,
+    "eventCount": 8,
+    "pageviewCount": 21296,
+    "serieCount": 125,
+    "storyCount": 307
+  },
+  "secretIdentities": [
+    "Natalia Alianovna Romanova",
+    "Natasha"
+  ],
+  "species": [
+  ],
+  "superName": "Black Widow",
+  "teams": [
+    "Avengers",
+    "Champions",
+    "Heroes for Hire",
+    "KGB",
+    "Lady Liberators",
+    "Marvel Knights",
+    "Mighty Avengers",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/6/black_widow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Mark Hazzard",
+    "Merc"
+  ],
+  "authors": [
+    "Archie Goodwin"
+  ],
+  "description": "Mark Hazzard: Merc was a comic book series published by Marvel Comics under their New Universe imprint.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Mark Hazzard: Merc",
+  "partners": [
+  ],
+  "powers": [
+    "Combat experience",
+    "Graduate",
+    "West point",
+    "Years of"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 195,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mark Hazzard"
+  ],
+  "species": [
+  ],
+  "superName": "Mark Hazzard: Merc",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Hazzard:_Merc"
+  }
+}

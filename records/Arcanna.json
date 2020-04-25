@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Arcanna",
+    "Moonglow"
+  ],
+  "authors": [
+    "Don Perlin",
+    "Gary Frank",
+    "J. M. DeMatteis",
+    "J. Michael Straczynski"
+  ],
+  "description": "Arcanna is the name of two different fictional comic book characters in the Marvel Comics multiverse.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Arcanna",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Magic abilities",
+    "Psychic awareness"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 684,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arcanna Jones"
+  ],
+  "species": [
+  ],
+  "superName": "Arcanna",
+  "teams": [
+    "Squadron Supreme (Earth-31916)",
+    "Squadron Supreme (Earth-712)"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Arcanna"
+  }
+}

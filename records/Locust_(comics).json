@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Locust"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Werner Roth"
+  ],
+  "description": "The Locust was a one-time supervillain foe of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Locust",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 105,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "August Hopper"
+  ],
+  "species": [
+  ],
+  "superName": "Locust",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Locust_(comics)"
+  }
+}

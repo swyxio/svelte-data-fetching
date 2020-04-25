@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Bethany Cabe",
+    "Big M",
+    "Krissy",
+    "Kristine Longfellow",
+    "Kristine Longfellow<!--",
+    "Madame Masque",
+    "the Director"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Stan Lee"
+  ],
+  "description": "Madame Masque, real name Whitney Frost and also known as Masque, is a fictional character, a supervillain that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/4ce5a251c1100/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Madame Masque",
+  "partners": [
+    "Hood"
+  ],
+  "powers": [
+    "Expert markswoman",
+    "Master strategist",
+    "Organizer",
+    "Proficiency with robotics"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 1,
+    "pageviewCount": 6368,
+    "serieCount": 5,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Giulietta Nefaria",
+    "Giulietta Nefaria (originally)",
+    "Whitney Frost",
+    "Whitney Frost (legally changed)"
+  ],
+  "species": [
+  ],
+  "superName": "Madame Masque",
+  "teams": [
+    "Inner Guard",
+    "Maggia"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2798/madame_masque",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madame_Masque"
+  }
+}

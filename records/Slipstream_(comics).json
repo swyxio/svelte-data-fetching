@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Slipstream"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Salvador Larroca"
+  ],
+  "description": "Australian mutant siblings Heather and Davis Cameron were sent to live in Surfer's Paradise by their father in an effort to spare them from his life as Viceroy, godfather of Australian organized crime.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Slipstream_%28Davis_Cameron%29.png"
+  },
+  "mainColor": null,
+  "name": "Slipstream",
+  "partners": [
+  ],
+  "powers": [
+    "Psychic navigation"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 789,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Davis Cameron"
+  ],
+  "species": [
+    "Depowered Human Mutant",
+    "Shi'ar hybrid"
+  ],
+  "superName": "Slipstream",
+  "teams": [
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2143/slipstream",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slipstream_(comics)"
+  }
+}

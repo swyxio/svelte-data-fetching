@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Merlin",
+    "Merlyn",
+    "Myrdh",
+    "Myrrdin",
+    "Myrrdin and many more",
+    "many more",
+    "the Magus"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Fred Kida",
+    "Herb Trimpe"
+  ],
+  "description": "Merlyn is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Merlyn",
+  "partners": [
+  ],
+  "powers": [
+    "Immortality",
+    "Vast magical powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1188,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Merlyn"
+  ],
+  "species": [
+  ],
+  "superName": "Merlyn",
+  "teams": [
+    "Captain Britain Corps"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Merlyn_(Marvel_Comics)"
+  }
+}

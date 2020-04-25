@@ -1,0 +1,68 @@
+{
+  "aliases": [
+    "Adam Clayton",
+    "Frank Harper",
+    "Hurricane",
+    "Jake Curtiss",
+    "Mac Curry",
+    "Major Mercury",
+    "Makkari",
+    "Mark Curry",
+    "Mercury",
+    "Michael Gray",
+    "Mike Khary",
+    "Thoth"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Makkari, formerly known as Hurricane and Mercury, is a member of the Eternals, a fictional race of superhumans in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Makkari_1.jpg/250px-Makkari_1.jpg"
+  },
+  "mainColor": null,
+  "name": "Makkari",
+  "partners": [
+  ],
+  "powers": [
+    "Accelerated",
+    "Dreaming celestial",
+    "Durability",
+    "Energy blasts",
+    "Flight",
+    "Healing factor",
+    "Illusion generation",
+    "Immortality",
+    "Matter transmutation",
+    "Psychokinesis",
+    "Speed",
+    "Strength",
+    "Superhuman speed",
+    "Superhuman strength",
+    "Telekinesis",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1167,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Makkari"
+  ],
+  "species": [
+  ],
+  "superName": "Makkari",
+  "teams": [
+    "Eternals",
+    "First Line",
+    "Monster Hunters"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Makkari_(comics)"
+  }
+}

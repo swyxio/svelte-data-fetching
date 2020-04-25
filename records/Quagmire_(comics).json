@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Quagmire"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Quagmire (Jerome Meyers) is a fictional character, owned by Marvel Comics who is a native of the universe of the Squadron Supreme.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Quagmire",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 342,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jerome Meyers"
+  ],
+  "species": [
+  ],
+  "superName": "Quagmire",
+  "teams": [
+    "Institute of Evil",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Quagmire_(comics)"
+  }
+}

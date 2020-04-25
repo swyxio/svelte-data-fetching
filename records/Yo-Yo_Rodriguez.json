@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Slingshot"
+  ],
+  "authors": [
+    "Alex Maleev",
+    "Brian Michael Bendis"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Secret_Warriors_Vol_1_12.jpg/250px-Secret_Warriors_Vol_1_12.jpg"
+  },
+  "mainColor": null,
+  "name": "Yo-Yo Rodriguez",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1714,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Yo-Yo Rodriguez",
+  "teams": [
+    "Secret Warriors"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Yo-Yo_Rodriguez"
+  }
+}

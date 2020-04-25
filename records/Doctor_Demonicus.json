@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Doctor Demonicus"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Tom Sutton"
+  ],
+  "description": "Doctor Demonicus (Douglas Birely) is a fictional character, a supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg"
+  },
+  "mainColor": null,
+  "name": "Doctor Demonicus",
+  "partners": [
+  ],
+  "powers": [
+    "Scientific genius"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 223,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Douglas Birely"
+  ],
+  "species": [
+  ],
+  "superName": "Doctor Demonicus",
+  "teams": [
+    "Pacific Overlords"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Demonicus"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Firewall",
+    "Silk Fever",
+    "Theary"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": "Silk Fever is a villain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Silk Fever",
+  "partners": [
+  ],
+  "powers": [
+    "Pyrokinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 207,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Min Li Ng"
+  ],
+  "species": [
+  ],
+  "superName": "Silk Fever",
+  "teams": [
+    "Folding Circle",
+    "Force of Nature",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Silk_Fever"
+  }
+}

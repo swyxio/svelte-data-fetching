@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Clor",
+    "Project Lightning",
+    "Ragnarok",
+    "Ragnarök",
+    "Thor"
+  ],
+  "authors": [
+    "Mark Millar",
+    "Steve McNiven",
+    "Steve Mcniven"
+  ],
+  "description": "Ragnarok is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ragnarok_Civil_War.jpg/250px-Ragnarok_Civil_War.jpg"
+  },
+  "mainColor": null,
+  "name": "Ragnarok",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Energy absorption",
+    "Flight",
+    "Longevity",
+    "Projection",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 19717,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Cloning",
+    "Cyborg"
+  ],
+  "superName": "Ragnarok",
+  "teams": [
+    "Dark Avengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ragnarok_(comics)"
+  }
+}

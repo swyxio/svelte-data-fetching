@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Bible John",
+    "John Carik"
+  ],
+  "authors": [
+    "Douglas H. Wheatley",
+    "Ian Edginton"
+  ],
+  "description": "John Carik is a fictional character who was featured as the main supporting character in the mid-1990s American comic book series Blade: The Vampire Hunter, published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/BladeVH4BibleJohn.jpg"
+  },
+  "mainColor": null,
+  "name": "John Carik",
+  "partners": [
+  ],
+  "powers": [
+    "Precognition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 240,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "John Carik",
+  "teams": [
+    "Blade",
+    "Cathari",
+    "Cathari, occasional partner of",
+    "occasional partner of Blade"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Carik"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Darkhawk",
+    "Edge-Man",
+    "Falconer",
+    "The Powell"
+  ],
+  "authors": [
+    "Mike Manley",
+    "Tom DeFalco"
+  ],
+  "description": "Darkhawk (Christopher Powell) is a fictional comic book superhero who first appeared in Marvel Age #97 (Feb. 1991).",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Darkhawk",
+  "partners": [
+  ],
+  "powers": [
+    "Claw cable",
+    "Energy blasts",
+    "Energy shield",
+    "Flight",
+    "Night vision",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 2708,
+    "serieCount": 2,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Chris",
+    "Christopher Powell"
+  ],
+  "species": [
+  ],
+  "superName": "Darkhawk",
+  "teams": [
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Loner",
+    "Loners",
+    "New Warriors",
+    "Project Pegasus",
+    "Secret Defenders",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/509/darkhawk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkhawk"
+  }
+}

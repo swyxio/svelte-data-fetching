@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Terrible Tinkerer",
+    "Tinkerer"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Tinkerer is an ordinary man who has an extraordinary talent for anything mechanical.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c002e3aaf52e/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Tinkerer",
+  "partners": [
+  ],
+  "powers": [
+    "Expert weapons designer",
+    "Genius intellect",
+    "Manufacturer"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1972,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Phineas Mason"
+  ],
+  "species": [
+  ],
+  "superName": "Tinkerer",
+  "teams": [
+    "Tinkerer Repair Shop"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2381/tinkerer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tinkerer"
+  }
+}

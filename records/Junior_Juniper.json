@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Junior Juniper"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Jonathan \"Junior\" Juniper is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Juniper_Junior_Howling_Commandos_1.jpg/180px-Juniper_Junior_Howling_Commandos_1.jpg"
+  },
+  "mainColor": null,
+  "name": "Junior Juniper",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 649,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonathan Juniper"
+  ],
+  "species": [
+  ],
+  "superName": "Junior Juniper",
+  "teams": [
+    "Howling Commandos"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Junior_Juniper"
+  }
+}

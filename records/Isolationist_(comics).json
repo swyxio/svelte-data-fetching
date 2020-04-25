@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Isolationist"
+  ],
+  "authors": [
+    "Pablo Raimondi",
+    "Peter David"
+  ],
+  "description": "The Isolationist (Josef Huber) is a fictional character in the Marvel Comics Universe, created by Peter David and Pablo Raimondi.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d0/Isolationist.jpg"
+  },
+  "mainColor": null,
+  "name": "Isolationist",
+  "partners": [
+  ],
+  "powers": [
+    "Mutants"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 194,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Josef Huber"
+  ],
+  "species": [
+    "unknown"
+  ],
+  "superName": "Isolationist",
+  "teams": [
+    "Damian Tryp",
+    "Singularity Investigations",
+    "X-Cell"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Isolationist_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Nemesis"
+  ],
+  "authors": [
+    "James D. Hudnall",
+    "James Hudnall",
+    "John Byrne",
+    "Scott Lobdell"
+  ],
+  "description": "Nemesis is the name of three fictional superheroines appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Nemesis (Alpha Flight)",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Teleportation",
+    "Time travel",
+    "Use of a magical blade"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 437,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Nemesis",
+  "teams": [
+    "Alpha Flight",
+    "Children of the Night",
+    "Gamma Flight"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nemesis_(Alpha_Flight)"
+  }
+}

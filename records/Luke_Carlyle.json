@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Carlyle Calamari",
+    "Luke Carlyle"
+  ],
+  "authors": [
+    "J. Michael Straczynski",
+    "John Romita Jr.",
+    "John Romita, Jr"
+  ],
+  "description": "Luke Carlyle is a fictional character from Marvel Comics, created by J. Michael Straczynski and first appeared in The Amazing Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Luke Carlyle",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 234,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lucas Carlyle",
+    "Luke"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Luke Carlyle",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Carlyle"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Lt. Ethan Warren"
+  ],
+  "authors": [
+    "Brian K. Vaughan",
+    "Eduardo Risso"
+  ],
+  "description": "Lt.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lt. Ethan Warren",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 76,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ethan Warren"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Lt. Ethan Warren",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lt._Ethan_Warren"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Hecate",
+    "Kang-Nebula",
+    "Nebula",
+    "Ravonna",
+    "Temptress",
+    "Terminatrix"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "Ravonna Lexus Renslayer, also known as Terminatrix, is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ravonna",
+  "partners": [
+    "Kang the Conqueror"
+  ],
+  "powers": [
+    "None inherent"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 606,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ravonna Lexus Renslayer"
+  ],
+  "species": [
+  ],
+  "superName": "Ravonna",
+  "teams": [
+    "Anachronauts",
+    "The Council of Kangs"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravonna"
+  }
+}

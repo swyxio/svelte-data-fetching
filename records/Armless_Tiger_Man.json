@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Armless Tiger Man"
+  ],
+  "authors": [
+    "Al Bellman",
+    "Paul Gustavson"
+  ],
+  "description": "Armless Tiger Man is a supervillain in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Armless Tiger Man",
+  "partners": [
+  ],
+  "powers": [
+    "Bite people",
+    "Nimble tasks of agility",
+    "Swing on a rope"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 438,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gustav Hertz"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Armless Tiger Man",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Armless_Tiger_Man"
+  }
+}

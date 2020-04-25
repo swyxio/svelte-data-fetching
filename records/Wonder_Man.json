@@ -1,0 +1,69 @@
+{
+  "aliases": [
+    "Hal Canutt",
+    "Mr. Muscles",
+    "Wonder Man",
+    "Wonder man"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Wonder Man",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Capable industrialist",
+    "Enhanced vision",
+    "Experienced stuntman",
+    "Extended life span",
+    "Flight",
+    "Hearing",
+    "Ionic-energy empowered",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Talented actor",
+    "Virtual invulnerability"
+  ],
+  "ranking": {
+    "comicCount": 172,
+    "eventCount": 7,
+    "pageviewCount": 9753,
+    "serieCount": 70,
+    "storyCount": 215
+  },
+  "secretIdentities": [
+    "Simon Williams"
+  ],
+  "species": [
+  ],
+  "superName": "Wonder Man",
+  "teams": [
+    "Avengers",
+    "Avengers Unity Squad",
+    "Defenders",
+    "Force Works",
+    "Legion of the Unliving",
+    "Lethal Legion",
+    "Masters of Evil",
+    "Revengers",
+    "S.H.I.E.L.D",
+    "The Mighty Avengers",
+    "Uncanny Avengers",
+    "West Coast Avengers",
+    "Williams Innovations"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2594/wonder_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wonder_Man"
+  }
+}

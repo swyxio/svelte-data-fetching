@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Tyrant"
+  ],
+  "authors": [
+    "Ron Lim",
+    "Ron Marz",
+    "Tom Christopher"
+  ],
+  "description": "Tyrant is a extraterrestrial character appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/TyrantCosmic49iyxwh.jpg/250px-TyrantCosmic49iyxwh.jpg"
+  },
+  "mainColor": null,
+  "name": "Tyrant",
+  "partners": [
+  ],
+  "powers": [
+    "Biospheric",
+    "Durability",
+    "Energy manipulation",
+    "Immortality",
+    "Superhuman strength",
+    "Technopathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1363,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Tyrant",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyrant_(Marvel_Comics)"
+  }
+}

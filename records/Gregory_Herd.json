@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Gregory Herd",
+    "Override",
+    "Shadrac"
+  ],
+  "authors": [
+    "Jimmy Palmiotti",
+    "Sal Buscema",
+    "Todd Dezago"
+  ],
+  "description": "Dr. Gregory Herd is a fictional character, a supervillain who appears in the comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG"
+  },
+  "mainColor": null,
+  "name": "Gregory Herd",
+  "partners": [
+  ],
+  "powers": [
+    "All electronic devices",
+    "Mystical burning flames"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 159,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gregory Herd"
+  ],
+  "species": [
+  ],
+  "superName": "Gregory Herd",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Herd"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Joseph",
+    "Magneto"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Magneto",
+    "Roger Cruz",
+    "Scott Lobdell",
+    "Stan Lee",
+    "by"
+  ],
+  "description": "Joseph is a Marvel Comics character who was briefly a member of the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/00/5260339868b8c/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Joseph",
+  "partners": [
+  ],
+  "powers": [
+    "Generation"
+  ],
+  "ranking": {
+    "comicCount": 36,
+    "eventCount": 1,
+    "pageviewCount": 934,
+    "serieCount": 9,
+    "storyCount": 42
+  },
+  "secretIdentities": [
+    "Joseph"
+  ],
+  "species": [
+    "Human Mutant",
+    "clone"
+  ],
+  "superName": "Joseph",
+  "teams": [
+    "Acolytes",
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1099/joseph",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_(comics)"
+  }
+}

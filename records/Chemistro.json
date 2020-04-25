@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Chemistro",
+    "Chemistro II",
+    "Chemistro III",
+    "High-Tech"
+  ],
+  "authors": [
+    "Ernie Chan",
+    "George Tuska",
+    "Kurt Busiek",
+    "Marv Wolfman",
+    "Ron Wilson",
+    "Steve Englehart"
+  ],
+  "description": "Three people have taken the moniker of the supervillain Chemistro in the fictional Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Chemistro",
+  "partners": [
+  ],
+  "powers": [
+    "A rifle",
+    "Gifted research scientist",
+    "Highly skilled inventor",
+    "Nullifier",
+    "Use of various devices",
+    "Wields alchemy gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 777,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Archibald Morton",
+    "Calvin Carr",
+    "Curtis Carr"
+  ],
+  "species": [
+  ],
+  "superName": "Chemistro",
+  "teams": [
+    "Stark Industries"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chemistro"
+  }
+}

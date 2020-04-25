@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Nova"
+  ],
+  "authors": [
+    "(writer) and",
+    "George Pérez",
+    "Roy Thomas"
+  ],
+  "description": "Nova is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/f0/53176fd93dbc9/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Nova (Frankie Raye)",
+  "partners": [
+  ],
+  "powers": [
+    "Power cosmic",
+    "Use of",
+    "Use of power cosmic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2269,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frankie Raye"
+  ],
+  "species": [
+  ],
+  "superName": "Nova",
+  "teams": [
+    "Fantastic Four",
+    "Galactus",
+    "Heralds of Galactus"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1010956/nova_frankie_raye/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nova_(Frankie_Raye)"
+  }
+}

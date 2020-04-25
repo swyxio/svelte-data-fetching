@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "Batroc the Leaper",
+    "The Leaper"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Batroc (Georges Batroc) is a fictional supervillain appearing in publications from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce59eb840da5/standard_xlarge.gif"
+  },
+  "mainColor": null,
+  "name": "Batroc the Leaper",
+  "partners": [
+  ],
+  "powers": [
+    "Experienced thief",
+    "Extraordinary agility",
+    "Flexibility",
+    "Master french kickboxer",
+    "Olympic level athlete",
+    "Peak physical condition",
+    "Reflexes",
+    "Smuggler",
+    "Weightlifter"
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 5261,
+    "serieCount": 6,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Georges Batroc"
+  ],
+  "species": [
+  ],
+  "superName": "Batroc the Leaper",
+  "teams": [
+    "Batroc's Brigade",
+    "Legion Accursed",
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/246/batroc_the_leaper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Batroc_the_Leaper"
+  }
+}

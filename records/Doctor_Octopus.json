@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Bowrey Bum",
+    "Doc Ock",
+    "Doctor Octopus",
+    "Master Planner",
+    "Master Programmer",
+    "Prisoner #4756689",
+    "Superior Spider-Man"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Doctor Octopus (real name Dr. Otto Gunther Octavius), also known as Doc Ock, Doc Octopus, and the Superior Spider-Man, is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/528d31b62eaba/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Doctor Octopus",
+  "partners": [
+  ],
+  "powers": [
+    "Abilities",
+    "Brilliant engineer",
+    "Carbonadium",
+    "Charismatic leader",
+    "Enhanced lenses",
+    "Equipment",
+    "Feet",
+    "Genius",
+    "Genius-level intellect",
+    "Inventor",
+    "Memories",
+    "Plating over his neck",
+    "Skull",
+    "Split-toed footwear",
+    "Superb strategist",
+    "Talons on his hands",
+    "Wears super-strong"
+  ],
+  "ranking": {
+    "comicCount": 71,
+    "eventCount": 1,
+    "pageviewCount": 9348,
+    "serieCount": 32,
+    "storyCount": 69
+  },
+  "secretIdentities": [
+    "Otto Gunther Octavius"
+  ],
+  "species": [
+  ],
+  "superName": "Doctor Octopus",
+  "teams": [
+    "Avengers",
+    "Horizon Labs",
+    "Legion Accursed",
+    "Masters of Evil",
+    "Mighty Avengers",
+    "Parker Industries",
+    "Sinister Six",
+    "Spiderlings",
+    "Superior Six",
+    "The Mighty Avengers",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/565/doctor_octopus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+  }
+}

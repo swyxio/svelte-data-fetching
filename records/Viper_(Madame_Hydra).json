@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Green Queen",
+    "Leona Hiss",
+    "Madame Hydra",
+    "Merriem Drew",
+    "Mrs. Smith",
+    "Viper",
+    "Viper (Madame Hydra)",
+    "Warrior White Princess"
+  ],
+  "authors": [
+    "Bob Harras",
+    "Jim Steranko",
+    "Paul Neary"
+  ],
+  "description": "Viper, formerly known as Madame Hydra, is a fictional supervillain appearing in American comic books published by Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6e/Madame_Hydra_Viper.JPG"
+  },
+  "mainColor": null,
+  "name": "Viper (Madame Hydra)",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced lifespan",
+    "Excellent strategist",
+    "Marksman",
+    "Markswoman",
+    "Skilled martial artist",
+    "Swordswoman",
+    "Tactician",
+    "Teleportation",
+    "Toxins"
+  ],
+  "ranking": {
+    "comicCount": 40,
+    "eventCount": 1,
+    "pageviewCount": 7979,
+    "serieCount": 19,
+    "storyCount": 34
+  },
+  "secretIdentities": [
+    "Ophelia Sarkissian"
+  ],
+  "species": [
+  ],
+  "superName": "Viper",
+  "teams": [
+    "H.A.M.M.E.R",
+    "Hellfire Club",
+    "Hydra",
+    "Madripoor",
+    "Secret Empire",
+    "Serpent Squad",
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2495/viper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viper_(Madame_Hydra)"
+  }
+}

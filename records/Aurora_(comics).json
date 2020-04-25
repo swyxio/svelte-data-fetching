@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Aurora",
+    "Jeanne-Marie Beaubier"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Aurora (Jeanne-Marie Beaubier) is a fictional character, a Canadian superheroine in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c004203f1072/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Aurora",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Light projection",
+    "Superhuman durability",
+    "Superhuman speed"
+  ],
+  "ranking": {
+    "comicCount": 53,
+    "eventCount": 4,
+    "pageviewCount": 2924,
+    "serieCount": 14,
+    "storyCount": 59
+  },
+  "secretIdentities": [
+    "Jeanne-Marie Beaubier"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Aurora",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Brotherhood of Mutants",
+    "Children of the Vault",
+    "Gamma Flight",
+    "The 198",
+    "The Children",
+    "Weapon X",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/221/aurora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aurora_(comics)"
+  }
+}

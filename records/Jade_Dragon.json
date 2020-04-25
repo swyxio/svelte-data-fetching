@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Jade Dragon"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Jim Lee"
+  ],
+  "description": "Jade Dragon (Dei Guan) is a fictional character, a mutant in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jade Dragon",
+  "partners": [
+  ],
+  "powers": [
+    "Fire-breath"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 187,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dei Guan"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Jade Dragon",
+  "teams": [
+    "Alpha Flight",
+    "Mutant Liberation Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jade_Dragon"
+  }
+}

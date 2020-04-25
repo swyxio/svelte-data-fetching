@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Occult",
+    "Peeper",
+    "Peepers"
+  ],
+  "authors": [
+    "Jack Kirby"
+  ],
+  "description": "Peepers is a fictional character in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Peepers",
+  "partners": [
+  ],
+  "powers": [
+    "Eye beams",
+    "X-ray vision"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 492,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter Quinn"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Peepers",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Mutant Force",
+    "Resistants",
+    "Secret Empire",
+    "The 198"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Peepers"
+  }
+}

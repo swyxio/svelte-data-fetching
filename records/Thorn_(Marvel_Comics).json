@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Sal",
+    "Sal Carbone",
+    "Thorn"
+  ],
+  "authors": [
+    "Chuck Dixon",
+    "John Romita, Jr."
+  ],
+  "description": "Thorn is a fictional supervillain, and enemy of the Marvel Comics antihero the Punisher.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/ThornPunisher.jpg/250px-ThornPunisher.jpg"
+  },
+  "mainColor": null,
+  "name": "Thorn",
+  "partners": [
+  ],
+  "powers": [
+    "Immunity to pain"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 310,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Salvatore Carbone"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "superName": "Thorn",
+  "teams": [
+    "Carbone Family"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Thorn_(Marvel_Comics)"
+  }
+}

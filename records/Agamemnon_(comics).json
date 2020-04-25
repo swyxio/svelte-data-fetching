@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Agamemnon",
+    "James",
+    "Vali Halfling"
+  ],
+  "authors": [
+    "Dale Keown",
+    "Peter David"
+  ],
+  "description": "Agamemnon is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg"
+  },
+  "mainColor": null,
+  "name": "Agamemnon",
+  "partners": [
+  ],
+  "powers": [
+    "Genius analyzer",
+    "Immortality",
+    "Master battle strategist",
+    "Skilled magician",
+    "Spell caster"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 710,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Half-Asgardian"
+  ],
+  "superName": "Agamemnon",
+  "teams": [
+    "Pantheon"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Agamemnon_(comics)"
+  }
+}

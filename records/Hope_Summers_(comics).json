@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Generation Hope",
+    "Hope",
+    "Hope Summers",
+    "MeMe",
+    "Mutant Messiah",
+    "Summers",
+    "White Phoenix of the Crown"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Matt Fraction",
+    "Mike Carey"
+  ],
+  "description": "Hope Summers is a superheroine appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/511155f5015e0/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Hope Summers",
+  "partners": [
+    "Cable"
+  ],
+  "powers": [
+    "Empathetic power mimicry",
+    "Phoenix force",
+    "Power activation",
+    "Power mimicry"
+  ],
+  "ranking": {
+    "comicCount": 66,
+    "eventCount": 5,
+    "pageviewCount": 9495,
+    "serieCount": 12,
+    "storyCount": 88
+  },
+  "secretIdentities": [
+    "Hope Summers",
+    "Hope Summers (born Spalding)"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Hope Summers",
+  "teams": [
+    "Jean Grey School Students",
+    "The Lights",
+    "X-Force",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/24/hope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hope_Summers_(comics)"
+  }
+}

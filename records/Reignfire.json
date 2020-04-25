@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Project Nineteen",
+    "Reignfire",
+    "Sunspot"
+  ],
+  "authors": [
+    "& Matt Broome",
+    "Fabian Nicieza",
+    "Fabian Nicieza & Matt Broome"
+  ],
+  "description": "Reignfire is a fictional character and villain created by Marvel Comics for their series X-Force.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Xforce43.jpg/250px-Xforce43.jpg"
+  },
+  "mainColor": null,
+  "name": "Reignfire",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Projection of heat",
+    "Rechanneling",
+    "Solar absorption",
+    "Super strength",
+    "Telepathic link",
+    "With genetic host"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 401,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Molecular cloning",
+    "Mutant"
+  ],
+  "superName": "Reignfire",
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Reignfire"
+  }
+}

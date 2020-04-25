@@ -1,0 +1,83 @@
+{
+  "aliases": [
+    "Iron Man",
+    "The Invincible Iron Man",
+    "Tony Stark"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jack Kirby",
+    "Larry Lieber",
+    "Stan Lee"
+  ],
+  "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/90/537bb1f94fa4f.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/55b6a25e654e6/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "hexa": "3F0606",
+    "red": 63
+  },
+  "name": "Iron Man",
+  "partners": [
+    "Pepper Potts",
+    "Rescue",
+    "War Machine"
+  ],
+  "powers": [
+    "Businessperson",
+    "Cyberpathic",
+    "Durability",
+    "Energy repulsors",
+    "Engineer",
+    "Genius",
+    "Genius-level intellect",
+    "Life support",
+    "Missile",
+    "Missiles",
+    "Powered armored suit",
+    "Regenerative",
+    "Regenerative life support",
+    "Superhuman strength",
+    "Via"
+  ],
+  "ranking": {
+    "comicCount": 1980,
+    "eventCount": 24,
+    "pageviewCount": 133366,
+    "serieCount": 447,
+    "storyCount": 2903
+  },
+  "secretIdentities": [
+    "Anthony Edward Stark",
+    "Tony"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Iron Man",
+  "teams": [
+    "Avengers",
+    "Department of Defense",
+    "Force Works",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Illuminati",
+    "New Avengers",
+    "S.H.I.E.L.D",
+    "Stark Industries",
+    "Stark Resilient",
+    "The Mighty Avengers",
+    "The New Avengers",
+    "Thunderbolts",
+    "United States Department of Defense",
+    "West Coast Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/29/iron_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Man"
+  }
+}

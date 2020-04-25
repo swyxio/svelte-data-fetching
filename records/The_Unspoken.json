@@ -1,0 +1,40 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Christos N. Gage",
+    "Dan Slott",
+    "Khoi Pham"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "The Unspoken",
+  "partners": [
+  ],
+  "powers": [
+    "Living",
+    "Terrigenesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "The Unspoken",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Unspoken"
+  }
+}

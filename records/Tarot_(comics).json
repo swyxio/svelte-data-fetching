@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Marie-Ange Colbert",
+    "Tarot"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Sal Buscema"
+  ],
+  "description": "Tarot (Marie-Ange Colbert) is a fictional character, a mutant in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8b/TarotXM.jpg"
+  },
+  "mainColor": null,
+  "name": "Tarot",
+  "partners": [
+  ],
+  "powers": [
+    "Psychometric precognition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 463,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Marie-Ange Colbert"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Tarot",
+  "teams": [
+    "Hellions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarot_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Ion"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Ion (Voletta Todd) is a fictional supervillain character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Ion",
+  "partners": [
+  ],
+  "powers": [
+    "Can manipulate",
+    "Electromagnetic",
+    "Energy",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 189,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Voletta Todd"
+  ],
+  "species": [
+  ],
+  "superName": "Ion",
+  "teams": [
+    "Femizons"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ion_(Marvel_Comics)"
+  }
+}

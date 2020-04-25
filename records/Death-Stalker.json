@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Death's-Head",
+    "Death-Stalker",
+    "Exterminator"
+  ],
+  "authors": [
+    "; (Death-Stalker)",
+    "Bob Brown",
+    "Gene Colan",
+    "Gene Colan;",
+    "Stan Lee",
+    "Steve Gerber"
+  ],
+  "description": "The Death-Stalker is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Death-stalker.jpg/250px-Death-stalker.jpg"
+  },
+  "mainColor": null,
+  "name": "Death-Stalker",
+  "partners": [
+  ],
+  "powers": [
+    "Interdimensional travel"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1235,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Philip Wallace Sterling"
+  ],
+  "species": [
+  ],
+  "superName": "Death-Stalker",
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Death-Stalker"
+  }
+}

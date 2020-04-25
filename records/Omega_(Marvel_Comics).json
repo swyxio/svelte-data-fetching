@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Omega"
+  ],
+  "authors": [
+    "Ross Andru",
+    "Roy Thomas"
+  ],
+  "description": "Omega is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Omega",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 201,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Omega",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Omega_(Marvel_Comics)"
+  }
+}

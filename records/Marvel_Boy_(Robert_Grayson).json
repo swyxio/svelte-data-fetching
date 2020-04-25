@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Blue Marvel",
+    "Marvel Boy",
+    "The Crusader",
+    "the Uranian"
+  ],
+  "authors": [
+    "Russ Heath",
+    "Stan Lee"
+  ],
+  "description": "Marvel Boy (Robert Grayson), also known as The Uranian, is a fictional character, a superhero in the Marvel Comics Universe, one of several to use the name \"Marvel Boy\".",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/AOATLAS003.jpg"
+  },
+  "mainColor": null,
+  "name": "Marvel Boy (Robert Grayson)",
+  "partners": [
+  ],
+  "powers": [
+    "Accomplished athlete",
+    "Durability",
+    "Expert pilot",
+    "Light blasts",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 38,
+    "eventCount": 4,
+    "pageviewCount": 679,
+    "serieCount": 22,
+    "storyCount": 76
+  },
+  "secretIdentities": [
+    "Robert Grayson"
+  ],
+  "species": [
+  ],
+  "superName": "Marvel Boy",
+  "teams": [
+    "Agents of Atlas"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1377/marvel_boy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvel_Boy_(Robert_Grayson)"
+  }
+}

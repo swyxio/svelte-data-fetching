@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Roulette"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Sal Buscema"
+  ],
+  "description": "Roulette (real name: Jennifer Stavros) is a fictional character, a mutant in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Roulette_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Roulette",
+  "partners": [
+  ],
+  "powers": [
+    "Bad luck",
+    "Good luck"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 243,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jennifer Stavros"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Roulette",
+  "teams": [
+    "Hellions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Roulette_(Marvel_Comics)"
+  }
+}

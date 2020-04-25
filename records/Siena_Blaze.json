@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Siena Blaze"
+  ],
+  "authors": [
+    "Jason Pearson",
+    "Scott Lobdell",
+    "Tom Grummett"
+  ],
+  "description": "Siena Blaze (also spelled Sienna Blaze) is a mutant in Marvel Comics's X-Men comics series.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b6/Siena_Blaze.jpg"
+  },
+  "mainColor": null,
+  "name": "Siena Blaze",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 457,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Siena Blaze"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Siena Blaze",
+  "teams": [
+    "All New Exiles",
+    "Exiles",
+    "Upstarts"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Siena_Blaze"
+  }
+}

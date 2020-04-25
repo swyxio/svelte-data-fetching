@@ -1,0 +1,37 @@
+{
+  "aliases": [
+    "Caleb Hammer"
+  ],
+  "authors": [
+  ],
+  "description": "Caleb Hammer is a fictional comic book character owned by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/CalebHammer.jpg/225px-CalebHammer.jpg"
+  },
+  "mainColor": null,
+  "name": "Caleb Hammer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 174,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Caleb Hammer"
+  ],
+  "species": [
+  ],
+  "superName": "Caleb Hammer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Hammer"
+  }
+}

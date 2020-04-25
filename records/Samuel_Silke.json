@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Sammy Silke"
+  ],
+  "authors": [
+    "Alex Maleev",
+    "Brian Michael Bendis"
+  ],
+  "description": "Samuel 'Sammy' Silke is a fictional character in the Marvel Comics universe, appearing in the series Daredevil.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/83/SammySilke.jpg"
+  },
+  "mainColor": null,
+  "name": "Samuel Silke",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 179,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Silke"
+  ],
+  "species": [
+  ],
+  "superName": "Samuel Silke",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Silke"
+  }
+}

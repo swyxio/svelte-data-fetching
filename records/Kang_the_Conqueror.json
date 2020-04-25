@@ -1,0 +1,63 @@
+{
+  "aliases": [
+    "Immortus",
+    "Iron Lad",
+    "Kang the Conqueror",
+    "Rama-Tut",
+    "Scarlet Centurion",
+    "Victor Timely"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Kang the Conqueror is a fictional supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Uncanny_Avengers_Vol_1%2C12.jpg/250px-Uncanny_Avengers_Vol_1%2C12.jpg"
+  },
+  "mainColor": null,
+  "name": "Kang the Conqueror",
+  "partners": [
+  ],
+  "powers": [
+    "2592000.0",
+    "30 day supply of air",
+    "Energy",
+    "Engineer",
+    "Enhanced strength",
+    "Expert historical scholar",
+    "Food",
+    "Force-field projection",
+    "Genius-level intellect",
+    "Hand to hand combatant",
+    "Hologram",
+    "Master physicist",
+    "Resistance to radiation",
+    "Tactician",
+    "Technician",
+    "Ultra-diode",
+    "Use of ray-gun"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 26110,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nathaniel Richards"
+  ],
+  "species": [
+  ],
+  "superName": "Kang the Conqueror",
+  "teams": [
+    "Council of Kangs",
+    "Cross-Time Kangs"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+  }
+}

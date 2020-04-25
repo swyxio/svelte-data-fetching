@@ -1,0 +1,58 @@
+{
+  "aliases": [
+    "Drax the Destroyer",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Jim Starlin",
+    "Mike Friedrich"
+  ],
+  "description": "Drax the Destroyer (Arthur Douglas) is a fictional superhero appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a4/Drax.PNG"
+  },
+  "mainColor": null,
+  "name": "Drax the Destroyer",
+  "partners": [
+  ],
+  "powers": [
+    "' location",
+    "Endurance",
+    "Energy blast projection",
+    "Energy blasts",
+    "Flight",
+    "High speed flight",
+    "Resistance to injury",
+    "Stamina",
+    "Superhuman strength",
+    "Thanos"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 16851,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arthur Sampson Douglas"
+  ],
+  "species": [
+  ],
+  "superName": "Drax the Destroyer",
+  "teams": [
+    "Annihilation",
+    "Defenders",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
+    "Infinity Watch",
+    "Legion of the Unliving",
+    "Secret Defenders",
+    "United Front"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Drax_the_Destroyer"
+  }
+}

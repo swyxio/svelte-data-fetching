@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Mangog",
+    "Odin"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Mangog is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Mangog.jpg/250px-Mangog.jpg"
+  },
+  "mainColor": null,
+  "name": "Mangog",
+  "partners": [
+    "Thanos"
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Immortality",
+    "Shapeshifting",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1216,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Mangog",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mangog"
+  }
+}

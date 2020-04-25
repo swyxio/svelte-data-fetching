@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Director Colcord",
+    "The Director"
+  ],
+  "authors": [
+    "Frank Tieri",
+    "Sean Chen"
+  ],
+  "description": "Malcolm Colcord, also known as The Director, is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg"
+  },
+  "mainColor": null,
+  "name": "Malcolm Colcord",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 557,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Malcolm Colcord"
+  ],
+  "species": [
+  ],
+  "superName": "Malcolm Colcord",
+  "teams": [
+    "Weapon X"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Colcord"
+  }
+}

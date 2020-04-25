@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Woodgod"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Keith Giffen"
+  ],
+  "description": "Woodgod is a fictional character in the Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodgod.jpg/249px-Woodgod.jpg"
+  },
+  "mainColor": null,
+  "name": "Woodgod",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced senses",
+    "Immunity to nerve gas",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 216,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Woodgod"
+  ],
+  "species": [
+    "Genetic Construct"
+  ],
+  "superName": "Woodgod",
+  "teams": [
+    "The Community of the Changelings"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodgod"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Ice Queen",
+    "Lorelei",
+    "Melodi",
+    "Valkyrie"
+  ],
+  "authors": [
+    "Walt Simonson",
+    "Walter Simonson"
+  ],
+  "description": "Lorelei is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Lorelei_and_Loki_Thor_-359.jpg/225px-Lorelei_and_Loki_Thor_-359.jpg"
+  },
+  "mainColor": null,
+  "name": "Lorelei (Asgardian)",
+  "partners": [
+    "Loki",
+    "Pluto"
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Longevity",
+    "Mostly love charms",
+    "Potions",
+    "Some knowledge of sorcery",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4777,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lorelei"
+  ],
+  "species": [
+    "Asgard"
+  ],
+  "superName": "Lorelei",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorelei_(Asgardian)"
+  }
+}

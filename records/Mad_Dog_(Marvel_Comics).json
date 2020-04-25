@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Mad-Dog"
+  ],
+  "authors": [
+    "Steve Englehart",
+    "Tom Sutton"
+  ],
+  "description": "Mad-Dog (Robert \"Buzz\" Baxter) is a fictional character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg"
+  },
+  "mainColor": null,
+  "name": "Mad Dog",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced senses",
+    "Physical abilities"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 753,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Buzz",
+    "Robert Baxter"
+  ],
+  "species": [
+  ],
+  "superName": "Mad Dog",
+  "teams": [
+    "Mutant Force",
+    "Resistants",
+    "Roxxon Energy Corporation",
+    "Roxxon Oil",
+    "Secret Empire",
+    "United States Air Force"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mad_Dog_(Marvel_Comics)"
+  }
+}

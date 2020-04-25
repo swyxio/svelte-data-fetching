@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Postmortem"
+  ],
+  "authors": [
+    "Doug Wheatley",
+    "Douglas H. Wheatley",
+    "Fish Police",
+    "Steve Moncuse",
+    "Terry Kavanagh"
+  ],
+  "description": "Postmortem is a fictional cyborg supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Postmortem_%28comics%29.png/200px-Postmortem_%28comics%29.png"
+  },
+  "mainColor": null,
+  "name": "Postmortem",
+  "partners": [
+  ],
+  "powers": [
+    "Knives",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 251,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Postmortem",
+  "teams": [
+    "Dracula"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Postmortem_(comics)"
+  }
+}

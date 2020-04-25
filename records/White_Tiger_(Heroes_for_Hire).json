@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Tiger",
+    "White Tiger"
+  ],
+  "authors": [
+    "Pascual Ferry",
+    "Pasqual Ferry",
+    "Roger Stern"
+  ],
+  "description": "White Tiger is a fictional character that appeared in the Marvel Comics series Heroes for Hire.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WhiteTigerH4H4.jpg/250px-WhiteTigerH4H4.jpg"
+  },
+  "mainColor": null,
+  "name": "White Tiger (Heroes for Hire)",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Cat-like speed",
+    "Martial arts skills",
+    "Reflexes"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 534,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "White Tiger",
+  "teams": [
+    "Heroes for Hire",
+    "U-Foes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Heroes_for_Hire)"
+  }
+}

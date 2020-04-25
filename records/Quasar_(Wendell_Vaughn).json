@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Marvel Boy",
+    "Marvel Man",
+    "Quasar",
+    "Quasr Wendell Vaughn"
+  ],
+  "authors": [
+    "Don Glut",
+    "Donald F. Glut",
+    "John Buscema",
+    "Roy Thomas"
+  ],
+  "description": "Quasar (Wendell Elvis Vaughn) is a fictional superhero that appears in comic books which are set in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52741155a2994/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Quasar (Wendell Vaughn)",
+  "partners": [
+  ],
+  "powers": [
+    "Energy manipulation",
+    "Flight",
+    "Solid light constructs",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 2,
+    "pageviewCount": 2297,
+    "serieCount": 6,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Wendell Elvis Vaughn"
+  ],
+  "species": [
+  ],
+  "superName": "Quasar",
+  "teams": [
+    "Annihilators",
+    "Avengers",
+    "Defenders",
+    "Defenders for a Day",
+    "Features of the Marvel Universe",
+    "Pegasus",
+    "S.H.I.E.L.D",
+    "Star Masters",
+    "The Avengers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Quasar_(Wendell_Vaughn)"
+  }
+}

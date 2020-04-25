@@ -1,0 +1,53 @@
+{
+  "aliases": [
+    "David Alleyne",
+    "Prodigy"
+  ],
+  "authors": [
+    "Christina Weir",
+    "Keron Grant",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Prodigy (David Alleyne) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg/200px-Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg"
+  },
+  "mainColor": null,
+  "name": "Prodigy (David Alleyne)",
+  "partners": [
+  ],
+  "powers": [
+    "High-level intellect",
+    "Including the x-men",
+    "M-day"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 3,
+    "pageviewCount": 2317,
+    "serieCount": 4,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "David Alleyne"
+  ],
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "superName": "Prodigy",
+  "teams": [
+    "New Mutants",
+    "New Mutants training squad",
+    "New X-Men",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute",
+    "Young Avengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1805/prodigy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prodigy_(David_Alleyne)"
+  }
+}

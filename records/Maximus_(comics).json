@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Maximus",
+    "Maximus the Mad",
+    "Maximus the Magnificent"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Maximus is a fictional character, a supervillain and genius appearing in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52740f7c6f0b7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Maximus",
+  "partners": [
+  ],
+  "powers": [
+    "Biology",
+    "Genius-level intellect",
+    "Mechanics",
+    "Mental powers",
+    "Mind control",
+    "Superhuman intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5564,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maximus Boltagon"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "superName": "Maximus",
+  "teams": [
+    "Cabal"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1407/maximus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximus_(comics)"
+  }
+}

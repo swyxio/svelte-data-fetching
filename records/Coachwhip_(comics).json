@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Coachwhip"
+  ],
+  "authors": [
+    "Kieron Dwyer",
+    "Mark Gruenwald"
+  ],
+  "description": "Coachwhip is a fictional character.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/41/Coachwhip1.jpg"
+  },
+  "mainColor": null,
+  "name": "Coachwhip",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 280,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Beatrix Keener"
+  ],
+  "species": [
+  ],
+  "superName": "Coachwhip",
+  "teams": [
+    "Serpent Society"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Coachwhip_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Aqueduct",
+    "Water Wizard"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jim Shooter"
+  ],
+  "description": "Aqueduct (Peter van Zante), originally known as Water Wizard, is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Aqueduct",
+  "partners": [
+  ],
+  "powers": [
+    "Water manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 512,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter van Zante"
+  ],
+  "species": [
+  ],
+  "superName": "Aqueduct",
+  "teams": [
+    "Force of Nature",
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/169/aqueduct",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aqueduct_(comics)"
+  }
+}

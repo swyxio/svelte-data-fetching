@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Absorbing Man",
+    "Breaker of Wills",
+    "Harold",
+    "Lightningbolt",
+    "Rocky Davis"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Absorbing Man (Carl \"Crusher\" Creel) is a fictional supervillain that appears in comic books published by Marvel Comics.Debuting in the Silver Age of Comic Books, the Absorbing Man has featured in over four decades of Marvel continuity and other Marvel-endorsed products such as animated television series, video games, and merchandise such as trading cards.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/b0/5269678709fb7/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Absorbing Man",
+  "partners": [
+    "Titania"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 43,
+    "eventCount": 4,
+    "pageviewCount": 7477,
+    "serieCount": 28,
+    "storyCount": 43
+  },
+  "secretIdentities": [
+    "Carl Creel",
+    "Crusher"
+  ],
+  "species": [
+  ],
+  "superName": "Absorbing Man",
+  "teams": [
+    "Astonishing Avengers",
+    "Fear Itself",
+    "Legion Accursed",
+    "Masters of Evil",
+    "They Who Wield Power",
+    "Worthy"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/84/absorbing_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Absorbing_Man"
+  }
+}

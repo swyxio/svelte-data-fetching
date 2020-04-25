@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Longshot"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "Art Adams",
+    "Arthur Adams"
+  ],
+  "description": "Longshot is a fictional superhero appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003d6176aa1/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Longshot",
+  "partners": [
+  ],
+  "powers": [
+    "Ant",
+    "Bladed weaponry",
+    "Expert",
+    "Firearms",
+    "Hand-to-hand combat",
+    "Healing factor",
+    "Probability manipulation",
+    "Proficient in the use of",
+    "Psychometry",
+    "Superhuman agility"
+  ],
+  "ranking": {
+    "comicCount": 69,
+    "eventCount": 5,
+    "pageviewCount": 4411,
+    "serieCount": 21,
+    "storyCount": 82
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mojoverse slave race",
+    "mutant"
+  ],
+  "superName": "Longshot",
+  "teams": [
+    "Exiles",
+    "New Excalibur",
+    "Wildways Rebellion",
+    "X-Factor Investigations",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1275/longshot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Longshot"
+  }
+}

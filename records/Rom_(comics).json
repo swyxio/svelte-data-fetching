@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Rom",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Bing McCoy",
+    "Bing McCoy (toy design)",
+    "Sal Buscema"
+  ],
+  "description": "Rom (also known as Rom The Space Knight or Rom: SpaceKnight) is a fictional character, a cosmic superhero in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg"
+  },
+  "mainColor": null,
+  "name": "Rom",
+  "partners": [
+  ],
+  "powers": [
+    "Extreme durability",
+    "Flight",
+    "Self-repair capabilities",
+    "Space",
+    "Superhuman strength",
+    "Use of high tech weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7362,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Artour",
+    "Rom of Galador",
+    "Rom of Galador/Artour"
+  ],
+  "species": [
+  ],
+  "superName": "Rom",
+  "teams": [
+    "Spaceknights"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rom_(comics)"
+  }
+}

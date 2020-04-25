@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Mojo"
+  ],
+  "authors": [
+    "Ann Nocenti",
+    "Art Adams",
+    "Arthur Adams"
+  ],
+  "description": "Mojo is a fictional character, a super villain appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003d3444dce/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Mojo",
+  "partners": [
+    "Major Domo",
+    "Spiral"
+  ],
+  "powers": [
+    "Mystical powers"
+  ],
+  "ranking": {
+    "comicCount": 31,
+    "eventCount": 2,
+    "pageviewCount": 2985,
+    "serieCount": 20,
+    "storyCount": 31
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Spineless Ones"
+  ],
+  "superName": "Mojo",
+  "teams": [
+    "Baby Badies",
+    "Exile Legal Eagles",
+    "Mighty 'Vengers (revolted)",
+    "Spineless Ones",
+    "Wildways",
+    "X-Babies (revolted)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1482/mojo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mojo_(comics)"
+  }
+}

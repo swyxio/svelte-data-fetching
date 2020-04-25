@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Creepy Crawley",
+    "Diamond Lil"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Diamond Lil (Lillian Crawley-Jeffries) is a fictional mutant character created by writer and artist John Byrne for the ongoing comic book series Alpha Flight published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5e/XMN_DiamondLil.jpg"
+  },
+  "mainColor": null,
+  "name": "Diamond Lil",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 649,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lillian Crawley-Jeffries"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Diamond Lil",
+  "teams": [
+    "Alpha Flight",
+    "Gamma Flight",
+    "Omega Flight",
+    "The 198"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Diamond_Lil_(comics)"
+  }
+}

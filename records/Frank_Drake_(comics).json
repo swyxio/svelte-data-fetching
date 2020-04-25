@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Frank Drake"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Gerry Conway"
+  ],
+  "description": "Frank Drake is a fictional character appearing in publications from Marvel Comics, most notably the Tomb of Dracula series created by Gerry Conway.Frank Drake was a direct descendant of Count Dracula, resulting from one of Dracula's wives prior to him becoming a vampire.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Frank Drake",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 779,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frank Drake"
+  ],
+  "species": [
+  ],
+  "superName": "Frank Drake",
+  "teams": [
+    "Midnight Sons",
+    "Nightstalkers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Drake_(comics)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Black Queen"
+  ],
+  "authors": [
+    "Carlos Pacheco",
+    "Ken Lashley",
+    "Ken Lashley (AoA version)",
+    "Warren Ellis"
+  ],
+  "description": "Miss Steed (Emma Steed), also known as Black Queen is a fictional character created by Warren Ellis and Carlos Pacheco, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/MsSteed2.jpg/200px-MsSteed2.jpg"
+  },
+  "mainColor": null,
+  "name": "Emma Steed",
+  "partners": [
+  ],
+  "powers": [
+    "Immunity to telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 489,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Emma Steed"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Emma Steed",
+  "teams": [
+    "Hellfire Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Steed"
+  }
+}

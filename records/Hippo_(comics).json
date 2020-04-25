@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Hippo",
+    "Mrs. Fluffy Lumpkins"
+  ],
+  "authors": [
+    "Brian Reed",
+    "Chris Bachalo",
+    "Tim Townsend"
+  ],
+  "description": "Hippo is the name of a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hippo",
+  "partners": [
+  ],
+  "powers": [
+    "Hard hide",
+    "Superhuman strength",
+    "Water adaptation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 304,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Uplifted Hippopotamus"
+  ],
+  "superName": "Hippo",
+  "teams": [
+    "Menagerie",
+    "Redeemers"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippo_(comics)"
+  }
+}

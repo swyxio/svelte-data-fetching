@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Barney Barton",
+    "Hawkeye",
+    "Trickshot"
+  ],
+  "authors": [
+    "Gene Colan",
+    "Roy Thomas"
+  ],
+  "description": "Barney Barton is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b5/Barney_Barton.jpg"
+  },
+  "mainColor": null,
+  "name": "Barney Barton",
+  "partners": [
+  ],
+  "powers": [
+    "Exceptional athlete",
+    "Highly skilled archer",
+    "Proficient marksman",
+    "Trick arrows",
+    "Uses a variety of"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1702,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Barney",
+    "Charles Bernard Barton"
+  ],
+  "species": [
+  ],
+  "superName": "Barney Barton",
+  "teams": [
+    "Dark Avengers",
+    "Federal Bureau of Investigation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Barney_Barton"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Rev",
+    "The Rev"
+  ],
+  "authors": [
+    "Klaus Janson",
+    "Mike Baron"
+  ],
+  "description": "The Rev is a fictional supervillain, and enemy of the Marvel Comics antihero the Punisher.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg"
+  },
+  "mainColor": null,
+  "name": "Rev",
+  "partners": [
+    "Jigsaw"
+  ],
+  "powers": [
+    "Healing"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 368,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Smith"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Rev",
+  "teams": [
+    "Church of the Saved"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rev_(comics)"
+  }
+}

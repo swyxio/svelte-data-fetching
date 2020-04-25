@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Kazann",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Clayton Crain",
+    "Garth Ennis"
+  ],
+  "description": "Kazann is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Kazann",
+  "partners": [
+  ],
+  "powers": [
+    "Exact limits undefined",
+    "Naturally bodiless"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 209,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Micah"
+  ],
+  "species": [
+  ],
+  "superName": "Kazann",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kazann"
+  }
+}

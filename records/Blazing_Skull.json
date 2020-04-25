@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Blazing Skull",
+    "Koos",
+    "Richard Stetson",
+    "Skull",
+    "Smoking Head",
+    "Steve Valiant"
+  ],
+  "authors": [
+  ],
+  "description": "The Blazing Skull (Mark Anthony Todd) is a fictional superhero appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a37a830a3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Blazing Skull",
+  "partners": [
+  ],
+  "powers": [
+    "Flame generation",
+    "Immunity to fire",
+    "Projection",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 1372,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Mark Anthony Todd"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Blazing Skull",
+  "teams": [
+    "Defenders",
+    "Invaders"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2837/blazing_skull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blazing_Skull"
+  }
+}

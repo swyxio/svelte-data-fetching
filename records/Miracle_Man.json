@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Brother Joshua",
+    "Miracle Man",
+    "Professor"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Miracle Man is a supervillain featured in Marvel Comics, created by Stan Lee and Jack Kirby as one of the first enemies of the Fantastic Four.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg"
+  },
+  "mainColor": null,
+  "name": "Miracle Man",
+  "partners": [
+  ],
+  "powers": [
+    "Animate matter",
+    "Hypnotism"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 785,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Miracle Man",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Miracle_Man"
+  }
+}

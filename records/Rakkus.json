@@ -1,0 +1,41 @@
+{
+  "aliases": [
+    "Rakkus"
+  ],
+  "authors": [
+  ],
+  "description": "Rakkus (David Anthony Rice) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Rakkus",
+  "partners": [
+  ],
+  "powers": [
+    "Endurance",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 117,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "David Anthony Rice"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Rakkus",
+  "teams": [
+    "Acolytes"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rakkus"
+  }
+}

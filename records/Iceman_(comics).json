@@ -1,0 +1,66 @@
+{
+  "aliases": [
+    "Bobby Drake",
+    "Drake Roberts",
+    "Frosty",
+    "Iceman",
+    "Mister Friese"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Iceman (Robert \"Bobby\" Drake) is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/50/537bb12caf103.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/537bb08ab56d8/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "hexa": "121F39",
+    "red": 18
+  },
+  "name": "Iceman",
+  "partners": [
+  ],
+  "powers": [
+    "Cold generation",
+    "Durability in ice form",
+    "Generating ice",
+    "Ice",
+    "Snow",
+    "Superhuman strength",
+    "Thermal vision"
+  ],
+  "ranking": {
+    "comicCount": 397,
+    "eventCount": 17,
+    "pageviewCount": 16420,
+    "serieCount": 120,
+    "storyCount": 466
+  },
+  "secretIdentities": [
+    "Bobby",
+    "Robert Louis Drake"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Iceman",
+  "teams": [
+    "All-New X-Men",
+    "Cataclysm Keys",
+    "Champions",
+    "Defenders",
+    "The Twelve",
+    "X-Factor",
+    "X-Mansion",
+    "X-Men",
+    "X-Terminators"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/27/iceman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iceman_(comics)"
+  }
+}

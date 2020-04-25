@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Beast",
+    "Black Beast",
+    "Dark Beast",
+    "Doc McCoy",
+    "McCoy"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Roger Cruz",
+    "Scott Lobdell",
+    "Stan Lee",
+    "by",
+    "original character"
+  ],
+  "description": "Dark Beast (Henry Philip McCoy), sometimes known as the Black Beast, is a Marvel Comics supervillain, an alternate reality evil version of the X-Men’s Beast.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52602f32efdab/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Dark Beast",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Claws",
+    "Coordination",
+    "Endurance",
+    "Flexibility",
+    "Gray fur coat",
+    "Intelligence",
+    "Pointed ears",
+    "Reflexes/reactions",
+    "Senses",
+    "Sharp fangs",
+    "Speed",
+    "Strength",
+    "Superhuman dexterity"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 2375,
+    "serieCount": 1,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Henry Philip McCoy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Dark Beast",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Dark X-Men",
+    "Excalibur",
+    "Gene Nation",
+    "Genoshan Excalibur",
+    "Morlocks",
+    "Onslaught's Dark Descendants",
+    "The 198",
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2848/dark_beast",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_Beast"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "aliases": [
+    "Curt Connors",
+    "The Lizard"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Lizard (a.k.a.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/528d33efe2cae/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Lizard",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Genius-level intellect",
+    "Hardened scale-like skin",
+    "Leaping ability",
+    "Razor-sharp claws",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Teeth"
+  ],
+  "ranking": {
+    "comicCount": 54,
+    "eventCount": 1,
+    "pageviewCount": 5774,
+    "serieCount": 18,
+    "storyCount": 62
+  },
+  "secretIdentities": [
+    "Curt",
+    "Curtis Connors"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Lizard",
+  "teams": [
+    "Sinister Six",
+    "Sinister Twelve"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1260/lizard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lizard_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Princess Python"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Princess Python is the name of two characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg"
+  },
+  "mainColor": null,
+  "name": "Princess Python",
+  "partners": [
+  ],
+  "powers": [
+    "Carries a hand held",
+    "Electric cattle prod",
+    "Handler",
+    "Trained athlete"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 837,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zelda DuBois"
+  ],
+  "species": [
+  ],
+  "superName": "Princess Python",
+  "teams": [
+    "Circus of Crime",
+    "Femizons",
+    "Serpent Society",
+    "Serpent Squad"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Princess_Python"
+  }
+}

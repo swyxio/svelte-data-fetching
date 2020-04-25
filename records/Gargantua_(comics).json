@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Edward Cobert",
+    "Gargantua",
+    "Leviathan"
+  ],
+  "authors": [
+    "Alan Kupperberg",
+    "J.M. DeMatteis"
+  ],
+  "description": "Gargantua (Edward Cobert) is a fictional character from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Gargantua",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Mass manipulation",
+    "Size",
+    "Size-shifting",
+    "Skilled biochemist",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 372,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Edward Cobert"
+  ],
+  "species": [
+  ],
+  "superName": "Gargantua",
+  "teams": [
+    "Masters of Evil",
+    "S.H.I.E.L.D",
+    "Secret Empire"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gargantua_(comics)"
+  }
+}

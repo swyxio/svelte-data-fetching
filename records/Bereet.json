@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Bereet"
+  ],
+  "authors": [
+    "Doug Moench",
+    "Walt Simonson"
+  ],
+  "description": "Bereet is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg"
+  },
+  "mainColor": null,
+  "name": "Bereet",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 888,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Bereet",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bereet"
+  }
+}

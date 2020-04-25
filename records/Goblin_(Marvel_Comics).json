@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    "Goblin"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Goblins are goblin-themed characters from Marvel Comics who are usually supervillains and enemies of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f2/Superior-Spider-Man-26.jpg"
+  },
+  "mainColor": null,
+  "name": "Goblin",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 755,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Goblin",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Goblin_(Marvel_Comics)"
+  }
+}

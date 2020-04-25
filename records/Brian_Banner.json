@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Brian Banner"
+  ],
+  "authors": [
+    "Bill Mantlo",
+    "Sal Buscema"
+  ],
+  "description": "Brian Banner is a fictional villain from the Marvel Comics Universe created by Bill Mantlo and Sal Buscema and first appearing in print in early 1982.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BrianBanner.JPG/170px-BrianBanner.JPG"
+  },
+  "mainColor": null,
+  "name": "Brian Banner",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2362,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Banner"
+  ],
+  "species": [
+  ],
+  "superName": "Brian Banner",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Banner"
+  }
+}

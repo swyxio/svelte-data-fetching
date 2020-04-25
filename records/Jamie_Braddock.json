@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Jamie Braddock"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Fred Kida",
+    "Herb Trimpe"
+  ],
+  "description": "James \"Jamie\" Braddock Jr. is a fictional character appearing in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Jamie_Braddock.jpg/200px-Jamie_Braddock.jpg"
+  },
+  "mainColor": null,
+  "name": "Jamie Braddock",
+  "partners": [
+    "Foursaken",
+    "Psylocke",
+    "Sat-Yr-9"
+  ],
+  "powers": [
+    "Reality warping"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1024,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Braddock Jr.",
+    "Jamie"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Jamie Braddock",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Braddock"
+  }
+}

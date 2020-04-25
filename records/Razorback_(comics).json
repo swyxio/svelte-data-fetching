@@ -1,0 +1,51 @@
+{
+  "aliases": [
+    "Razorback"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Bill Mantlo",
+    "Sal Buscema"
+  ],
+  "description": "Razorback (Buford Hollis) is a fictional Marvel Comics superhero.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Razorback",
+  "partners": [
+  ],
+  "powers": [
+    "Considerable strength",
+    "Drive any vehicle",
+    "Electrically charged mane",
+    "Endurance",
+    "Excellent street fighter",
+    "Innate ability to operate",
+    "Pilot",
+    "Self-taught engineer",
+    "Skilled mechanic"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 309,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Buford T. Hollis"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Razorback",
+  "teams": [
+    "Fifty State Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Razorback_(comics)"
+  }
+}

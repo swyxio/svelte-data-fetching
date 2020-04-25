@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Lady Bullseye"
+  ],
+  "authors": [
+    "Clay Mann",
+    "Ed Brubaker",
+    "Marko Djurdjevic",
+    "Marko Djurdjević"
+  ],
+  "description": "Lady Bullseye is a fictional character, a supervillainess in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a67d44f61/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Lady Bullseye",
+  "partners": [
+  ],
+  "powers": [
+    "Master martial artist",
+    "Skilled lawyer"
+  ],
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 1480,
+    "serieCount": 3,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Maki Matsumoto"
+  ],
+  "species": [
+  ],
+  "superName": "Lady Bullseye",
+  "teams": [
+    "The Hand"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1196/lady_bullseye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Bullseye"
+  }
+}

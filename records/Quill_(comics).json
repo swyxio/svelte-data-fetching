@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Quill",
+    "Quills"
+  ],
+  "authors": [
+    "Alan Davis",
+    "Chris Claremont",
+    "Christina Weir",
+    "Igor Kordey",
+    "Jamie Delano",
+    "Kieron Dwyer",
+    "Mark Gruenwald",
+    "Nunzio DeFilippis"
+  ],
+  "description": "Quill has been the name of four different fictional comic book characters in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/91/Quill%28comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Quill",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2005,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Max",
+    "Maxwell Jordan"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Quill",
+  "teams": [
+    "Arena (disambiguation)",
+    "Cherub",
+    "Cherubim",
+    "Resistants",
+    "Warpies",
+    "X-Mansion"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Quill_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Jetstream"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Sal Buscema"
+  ],
+  "description": "Jetstream (Haroum ibn Sallah al-Rashid) is a fictional Moroccan mutant character that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Jetstream",
+  "partners": [
+  ],
+  "powers": [
+    "Direct his flight path"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 223,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Haroum ibn Sallah al-Rashid"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Jetstream",
+  "teams": [
+    "Hellions"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jetstream_(comics)"
+  }
+}

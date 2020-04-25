@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Agent One",
+    "Lucifer",
+    "Prince of Darkness",
+    "Prince of Lies"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Lucifer is the name of two unrelated comic book characters from Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lucifer",
+  "partners": [
+  ],
+  "powers": [
+    "Immense demonic power",
+    "Immortality",
+    "Ionic manipulation",
+    "Superhuman strength",
+    "Telepathy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1250,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Lucifer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucifer_(Marvel_Comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Wildcard"
+  ],
+  "authors": [
+    "Brent Anderson",
+    "Peter B. Gillis"
+  ],
+  "description": "Wildcard (John Crenella) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wildcard_comics.jpg"
+  },
+  "mainColor": null,
+  "name": "Wildcard",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "Power mimicry"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 100,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Crenella"
+  ],
+  "species": [
+  ],
+  "superName": "Wildcard",
+  "teams": [
+    "Morituri"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wildcard_(comics)"
+  }
+}

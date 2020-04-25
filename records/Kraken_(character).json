@@ -1,0 +1,36 @@
+{
+  "aliases": [
+  ],
+  "authors": [
+    "Various"
+  ],
+  "description": "The Kraken is a name given to several aquatic monsters inspired by the legend of Kraken and several characters that have appeared primarily in DC Comics and Marvel Comics publications.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Kraken8.jpg/240px-Kraken8.jpg"
+  },
+  "mainColor": null,
+  "name": "Kraken",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1803,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Kraken",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kraken_(character)"
+  }
+}

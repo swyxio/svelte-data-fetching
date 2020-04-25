@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Base"
+  ],
+  "authors": [
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif"
+  },
+  "mainColor": null,
+  "name": "Base",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 107,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hiro Sokuto"
+  ],
+  "species": [
+  ],
+  "superName": "Base",
+  "teams": [
+    "Genetix"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Base_(comics)"
+  }
+}

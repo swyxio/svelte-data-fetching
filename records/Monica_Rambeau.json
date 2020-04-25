@@ -1,0 +1,61 @@
+{
+  "aliases": [
+    "Captain Marvel",
+    "Daystar",
+    "Lady of Light",
+    "Monica Marvel",
+    "Monica Rambeau",
+    "Photon",
+    "Pulsar",
+    "Sceptre",
+    "Spectrum",
+    "Sun Goddess"
+  ],
+  "authors": [
+    "John Romita Jr.",
+    "John Romita, Jr.",
+    "Roger Stern"
+  ],
+  "description": "Monica Rambeau is a fictional character, a comic book superheroine in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0030bee8c86/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Captain Marvel (Monica Rambeau)",
+  "partners": [
+  ],
+  "powers": [
+    "Absorption & manipulation",
+    "Energy absorption",
+    "Energy generation",
+    "Generation",
+    "Manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6047,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Monica Rambeau"
+  ],
+  "species": [
+  ],
+  "superName": "Captain Marvel",
+  "teams": [
+    "Avengers",
+    "Mighty Avengers",
+    "New Orleans Harbor Patrol",
+    "Nextwave",
+    "The Mighty Avengers",
+    "Ultimates",
+    "Ultimates (2015 team)"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/9/captain_marvel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Rambeau"
+  }
+}

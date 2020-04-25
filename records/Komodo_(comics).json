@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Komodo"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Stefano Caselli"
+  ],
+  "description": "Komodo is the name of two fictional characters in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/535ff55a6d8f6/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Komodo",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Claws",
+    "Genetics",
+    "Genius chemist",
+    "Hardened scales",
+    "Healing factor",
+    "Prehensile tail",
+    "Razor sharp teeth",
+    "Reflexes",
+    "Regenerative",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 3,
+    "pageviewCount": 845,
+    "serieCount": 2,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+    "Melati Kusuma"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "superName": "Komodo",
+  "teams": [
+    "<BR/>",
+    "Desert Stars",
+    "Shadow Initiative",
+    "The Initiative",
+    "The InitiativeDesert Stars"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1162/komodo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Komodo_(comics)"
+  }
+}

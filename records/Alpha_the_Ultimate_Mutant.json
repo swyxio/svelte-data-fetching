@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Alpha the Ultimate Mutant",
+    "actual identities the character uses"
+  ],
+  "authors": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "description": "Alpha the Ultimate Mutant is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/AlphaMutant.jpg/250px-AlphaMutant.jpg"
+  },
+  "mainColor": null,
+  "name": "Alpha the Ultimate Mutant",
+  "partners": [
+  ],
+  "powers": [
+    "Force field",
+    "Force field generation",
+    "Generation",
+    "Psychokinesis",
+    "Telekinesis",
+    "Telepathy",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 983,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alpha"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Alpha the Ultimate Mutant",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpha_the_Ultimate_Mutant"
+  }
+}

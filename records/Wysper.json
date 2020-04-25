@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Wysper"
+  ],
+  "authors": [
+    "Dan Slott",
+    "John Calimee"
+  ],
+  "description": "Wysper (Jennifer Stewart) is a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Wysper",
+  "partners": [
+    "Edwin Cord"
+  ],
+  "powers": [
+    "Energy blast projection",
+    "Flight",
+    "Sonic weapons"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 186,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jennifer Stewart"
+  ],
+  "species": [
+  ],
+  "superName": "Wysper",
+  "teams": [
+    "The Jury",
+    "Vault Guardsmen"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Wysper"
+  }
+}

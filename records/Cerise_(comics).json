@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Cerise"
+  ],
+  "authors": [
+    "Alan Davis"
+  ],
+  "description": "Cerise is a fictional character, a superhero appearing in books published by Marvel Comics, in particular those featuring Excalibur  and other books of the X-Men franchise.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg"
+  },
+  "mainColor": null,
+  "name": "Cerise",
+  "partners": [
+  ],
+  "powers": [
+    "Red spectrum energy"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 793,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cerise"
+  ],
+  "species": [
+    "Mutant",
+    "Shi'ar"
+  ],
+  "superName": "Cerise",
+  "teams": [
+    "Excalibur",
+    "The Graces"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerise_(comics)"
+  }
+}

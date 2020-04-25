@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Pasco"
+  ],
+  "authors": [
+    "Clayton Henry",
+    "Mike Carey"
+  ],
+  "description": "Pasco is a fictional character, a mutant in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Pasco",
+  "partners": [
+    "Sabretooth"
+  ],
+  "powers": [
+    "Depowered",
+    "Force field generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 78,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Pasco"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Pasco",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pasco_(comics)"
+  }
+}

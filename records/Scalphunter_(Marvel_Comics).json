@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "John Riverwind",
+    "Scalphunter"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Marc Silvestri"
+  ],
+  "description": "Scalphunter (John Greycrow) is a fictional mutant villain character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4ce5a473b81b3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Scalphunter",
+  "partners": [
+  ],
+  "powers": [
+    "Master marksmanship"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 716,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Greycrow"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Scalphunter",
+  "teams": [
+    "Marauders",
+    "United States Army"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2007/scalphunter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scalphunter_(Marvel_Comics)"
+  }
+}

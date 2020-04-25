@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Anaconda"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Ralph Macchio"
+  ],
+  "description": "Anaconda (Blanche Sitznski) is a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3f/Anaconda_Battle_Scars.jpg"
+  },
+  "mainColor": null,
+  "name": "Anaconda",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Excellent swimmer",
+    "Limb elongation",
+    "Rapid regeneration",
+    "Skilled street fighter",
+    "Superhuman strength",
+    "Underwater breathing"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1032,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Blanche Sitznski"
+  ],
+  "species": [
+    "Mutated Human"
+  ],
+  "superName": "Anaconda",
+  "teams": [
+    "Femizons",
+    "Legion Accursed",
+    "Serpent Society",
+    "Serpent Squad",
+    "Six Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Anaconda_(comics)"
+  }
+}

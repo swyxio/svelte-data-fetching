@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Foreigner",
+    "Kris Keating"
+  ],
+  "authors": [
+    "Peter David"
+  ],
+  "description": "The Foreigner is a fictional comic book supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg"
+  },
+  "mainColor": null,
+  "name": "Foreigner",
+  "partners": [
+  ],
+  "powers": [
+    "Master assassin",
+    "Minor hypnotic abilities",
+    "Peak physical condition"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 546,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Foreigner",
+  "teams": [
+    "1400",
+    "1400 Club"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Foreigner_(comics)"
+  }
+}

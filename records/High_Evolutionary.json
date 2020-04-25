@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "HE",
+    "High Evolutionary"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The High Evolutionary is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "High Evolutionary",
+  "partners": [
+  ],
+  "powers": [
+    "Sentient",
+    "Superhuman intelligence",
+    "Telekinesis",
+    "Telepathy",
+    "Wears a"
+  ],
+  "ranking": {
+    "comicCount": 24,
+    "eventCount": 2,
+    "pageviewCount": 6464,
+    "serieCount": 18,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+    "Herbert Edgar Wyndham"
+  ],
+  "species": [
+  ],
+  "superName": "High Evolutionary",
+  "teams": [
+    "New Men",
+    "New Men/Knights of Wundagore"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2936/high_evolutionary",
+    "wikipedia": "https://en.wikipedia.org/wiki/High_Evolutionary"
+  }
+}

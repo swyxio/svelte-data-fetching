@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Mikhail Rasputin"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Mikhail Nikolaievitch Rasputin is a Marvel Comics supervillain, older brother of Colossus of the X-Men and Magik of the New Mutants.Rasputin is a mutant with substance-altering and dimension-hopping abilities.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Mikhail_Rasputin.jpg"
+  },
+  "mainColor": null,
+  "name": "Mikhail Rasputin",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blast",
+    "Energy blasts",
+    "Matter manipulation",
+    "Portal creation",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2526,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mikhail Nikolaievitch Rasputin"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Mikhail Rasputin",
+  "teams": [
+    "Astronaut",
+    "Gene Nation",
+    "Morlocks",
+    "Russian Cosmonaut program",
+    "The Twelve"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Rasputin"
+  }
+}

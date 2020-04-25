@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Redneck",
+    "Skybolt"
+  ],
+  "authors": [
+    "Frank Quitely",
+    "Grant Morrison"
+  ],
+  "description": "Vincent Stewart, codenamed Redneck and later Skybolt is a fictional mutant character in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg"
+  },
+  "mainColor": null,
+  "name": "Redneck",
+  "partners": [
+  ],
+  "powers": [
+    "Depowered",
+    "Heat generation",
+    "The beetle",
+    "Uses weaponry"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 494,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Vin",
+    "Vincent Stewart"
+  ],
+  "species": [
+  ],
+  "superName": "Redneck",
+  "teams": [
+    "New Warriors",
+    "Omega Gang",
+    "Quentin Quire",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Redneck_(comics)"
+  }
+}

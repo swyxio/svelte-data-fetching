@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Lupo",
+    "Timberius"
+  ],
+  "authors": [
+    "Neal Adams",
+    "Roy Thomas"
+  ],
+  "description": "Lupo is a fictional character, a mutate in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lupo",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 112,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unrevealed"
+  ],
+  "species": [
+    "Savage Land Mutates"
+  ],
+  "superName": "Lupo",
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lupo_(comics)"
+  }
+}

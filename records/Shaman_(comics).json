@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Shaman",
+    "Talisman",
+    "The Binder of Spirits",
+    "The Breaker of Dark Spells",
+    "The Promised One"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Dr. Michael Twoyoungmen was a surgeon who found that modern science was insufficient to accomplish everything he wished to do, and so he turned to mysticism that his grandfather told him about.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg"
+  },
+  "mainColor": null,
+  "name": "Shaman",
+  "partners": [
+  ],
+  "powers": [
+    "Carries a",
+    "Medicine bag"
+  ],
+  "ranking": {
+    "comicCount": 47,
+    "eventCount": 2,
+    "pageviewCount": 1044,
+    "serieCount": 11,
+    "storyCount": 51
+  },
+  "secretIdentities": [
+    "Michael Twoyoungmen"
+  ],
+  "species": [
+  ],
+  "superName": "Shaman",
+  "teams": [
+    "Alpha Flight"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2064/shaman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaman_(comics)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Controller X",
+    "Desert Ghost",
+    "Xi'an"
+  ],
+  "authors": [
+    "John Francis Moore",
+    "Ron Lim"
+  ],
+  "description": null,
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Xmen2099-22.jpg/250px-Xmen2099-22.jpg"
+  },
+  "mainColor": null,
+  "name": "Xi'an",
+  "partners": [
+  ],
+  "powers": [
+    "Biological healing",
+    "Matter disintegration"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 355,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Xi'an Chi Xan"
+  ],
+  "species": [
+  ],
+  "superName": "Xi'an",
+  "teams": [
+    "Lawless",
+    "Theatre of Pain",
+    "X-Men 2099"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Xi%27an_(comics)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Jackpot"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Phil Jimenez"
+  ],
+  "description": "Jackpot is the hero name shared by two fictional comic book characters, Sara Ehret and Alana Jobson, owned by Marvel Comics and primarily appearing in Spider-Man's stories.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG"
+  },
+  "mainColor": null,
+  "name": "Jackpot",
+  "partners": [
+  ],
+  "powers": [
+    "Alana jobson",
+    "Dramatic gymnast",
+    "Sara ehret",
+    "Stamina",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 510,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alana Jobson",
+    "Sara Ehret"
+  ],
+  "species": [
+  ],
+  "superName": "Jackpot",
+  "teams": [
+    "Fifty State Initiative",
+    "The Initiative"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackpot_(comics)"
+  }
+}

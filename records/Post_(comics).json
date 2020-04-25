@@ -1,0 +1,50 @@
+{
+  "aliases": [
+    "Post"
+  ],
+  "authors": [
+    "Andy Kubert",
+    "Scott Lobdell"
+  ],
+  "description": "Post is a fictional character and mutant in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Post",
+  "partners": [
+  ],
+  "powers": [
+    "A variety of other powers",
+    "Able to manipulate energy",
+    "Durability",
+    "Durability;",
+    "Genius",
+    "Superhuman strength",
+    "Teleporter"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 322,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kevin Tremain"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Post",
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
+    "Dark Descendants"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Post_(comics)"
+  }
+}

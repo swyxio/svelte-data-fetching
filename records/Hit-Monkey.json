@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Hit-Monkey"
+  ],
+  "authors": [
+    "Dalibor Talijic",
+    "Daniel Way"
+  ],
+  "description": "Hit-Monkey is a fictional comic book character appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Hitmonkey1.jpg/250px-Hitmonkey1.jpg"
+  },
+  "mainColor": null,
+  "name": "Hit-Monkey",
+  "partners": [
+  ],
+  "powers": [
+    "Expert marksman",
+    "Incredible agility",
+    "Martial artist",
+    "Reflexes"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1125,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Japanese macaque"
+  ],
+  "superName": "Hit-Monkey",
+  "teams": [
+    "Howling Commandos",
+    "S.T.A.K.E"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hit-Monkey"
+  }
+}

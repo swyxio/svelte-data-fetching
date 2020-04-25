@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "General John Ryker"
+  ],
+  "authors": [
+    "Mike McKone",
+    "Paul Jenkins",
+    "Ron Garney"
+  ],
+  "description": "General John Ryker is a fictional comic book antagonist who appears in books published by Marvel Comics, usually as an enemy of the Hulk.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/John_Ryker.jpg/100px-John_Ryker.jpg"
+  },
+  "mainColor": null,
+  "name": "John Ryker",
+  "partners": [
+  ],
+  "powers": [
+    "Adept deceiver",
+    "Genius strategist",
+    "Master manipulator"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 549,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "General John Ryker"
+  ],
+  "species": [
+  ],
+  "superName": "John Ryker",
+  "teams": [
+    "Gamma Corps",
+    "Origins Corporation"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ryker"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "aliases": [
+    "Captain Universe",
+    "Laura X",
+    "Talon",
+    "Wolverine",
+    "X-23"
+  ],
+  "authors": [
+    "Christopher Yost",
+    "Craig Kyle"
+  ],
+  "description": "A clone of the mutant Wolverine, X-23 was trained as a living weapon by a secretive government agency.  Now residing with the X-Men, she strives to recover her stolen youth and become a fully realized person.",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/f0/537bcb887e624.gif",
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/d0/537bcb4edd0bc/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "X-23",
+  "partners": [
+  ],
+  "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Demolitioner",
+    "Educated multi-lingual",
+    "Endurance",
+    "Expert assassin",
+    "Explosives",
+    "Feet",
+    "Martial artist",
+    "Reflexes/reactions",
+    "Senses",
+    "Sniper",
+    "Speed",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 81,
+    "eventCount": 4,
+    "pageviewCount": 16989,
+    "serieCount": 24,
+    "storyCount": 84
+  },
+  "secretIdentities": [
+    "Laura Kinney"
+  ],
+  "species": [
+    "Molecular cloning",
+    "Mutant"
+  ],
+  "superName": "X-23",
+  "teams": [
+    "Avengers Academy",
+    "New X-Men",
+    "The Facility",
+    "Weapon X",
+    "X-Force",
+    "X-Mansion",
+    "X-Men",
+    "X-Men-In-Training",
+    "Xavier Institute"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/67/x-23",
+    "wikipedia": "https://en.wikipedia.org/wiki/X-23"
+  }
+}

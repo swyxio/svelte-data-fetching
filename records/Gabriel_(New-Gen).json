@@ -1,0 +1,49 @@
+{
+  "aliases": [
+    "Gabriel"
+  ],
+  "authors": [
+    "Chris Matonti",
+    "J.D. Matonti",
+    "Julia Coppola"
+  ],
+  "description": "John Gabriel is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg"
+  },
+  "mainColor": null,
+  "name": "Gabriel (New-Gen)",
+  "partners": [
+  ],
+  "powers": [
+    "Energy blast",
+    "Energy blasts",
+    "Genius level intellect",
+    "Space",
+    "Superhuman strength",
+    "Technopathy",
+    "Telekinesis"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 45,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Gabriel"
+  ],
+  "species": [
+    "Human"
+  ],
+  "superName": "Gabriel",
+  "teams": [
+    "A.P.N.G"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_(New-Gen)"
+  }
+}

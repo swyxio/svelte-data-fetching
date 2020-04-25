@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    "Lamprey"
+  ],
+  "authors": [
+    "Mark Gruenwald"
+  ],
+  "description": "Lamprey (Donald McGuiggin) is a fictional character from Marvel Comics' original Squadron Supreme series.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Lamprey",
+  "partners": [
+  ],
+  "powers": [
+    "Absorption of energy",
+    "Intellect",
+    "Super-powers"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 144,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Donald McGuiggin"
+  ],
+  "species": [
+  ],
+  "superName": "Lamprey",
+  "teams": [
+    "Institute of Evil",
+    "Squadron Supreme"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamprey_(comics)"
+  }
+}

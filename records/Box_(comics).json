@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Box",
+    "Omega"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Box (Roger Bochs) is a fictional comic book superhero appearing in books published by Marvel Comics, specifically Alpha Flight, of which Box was a member.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Box",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to",
+    "Into the box-armor",
+    "Mechanical genius",
+    "Merge with it",
+    "Phase",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 447,
+    "serieCount": 2,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Roger Bochs"
+  ],
+  "species": [
+  ],
+  "superName": "Box",
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Gamma Flight"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/346/box",
+    "wikipedia": "https://en.wikipedia.org/wiki/Box_(comics)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Honey Lemon"
+  ],
+  "authors": [
+    "Duncan Rouleau",
+    "Steven T. Seagle"
+  ],
+  "description": "Honey Lemon (Aiko Miyazaki) is a Marvel Comics superhero, associated with the Japanese team known as Big Hero 6.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg"
+  },
+  "mainColor": null,
+  "name": "Honey Lemon",
+  "partners": [
+  ],
+  "powers": [
+    "Brilliant scientist",
+    "Pull any item out of it"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4426,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aiko Miyazaki"
+  ],
+  "species": [
+  ],
+  "superName": "Honey Lemon",
+  "teams": [
+    "Big Hero 6"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Honey_Lemon"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "aliases": [
+    "Frank Costa",
+    "Olivier"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Bernie Wrightson",
+    "Christopher Golden",
+    "Thomas E. Sniegoski",
+    "Tony DeZuniga"
+  ],
+  "description": "Olivier is a fictional supervillain, and enemy of the Marvel Comics antihero of the Punisher.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg"
+  },
+  "mainColor": null,
+  "name": "Olivier",
+  "partners": [
+  ],
+  "powers": [
+    "Disease",
+    "Hellfire projection",
+    "Illusion creation",
+    "Immunity to age",
+    "Injuries",
+    "Manipulation",
+    "Portal generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1079,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Olivier",
+  "teams": [
+    "Costa Family",
+    "Hell-lords",
+    "Lucifer's Inner Circle"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivier_(comics)"
+  }
+}

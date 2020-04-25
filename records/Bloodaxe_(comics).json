@@ -1,0 +1,46 @@
+{
+  "aliases": [
+    "Bloodaxe",
+    "Executioner"
+  ],
+  "authors": [
+    "Pat Olliffe",
+    "Tom DeFalco"
+  ],
+  "description": "Bloodaxe (Jackie Lukus) is a fictional character, owned by Marvel Comics who exists in that company's Marvel Universe as a foe of Thor and Thunderstrike.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg"
+  },
+  "mainColor": null,
+  "name": "Bloodaxe",
+  "partners": [
+  ],
+  "powers": [
+    "Durability",
+    "Endurance",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Wields enchanted"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 472,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jackie Lukus"
+  ],
+  "species": [
+  ],
+  "superName": "Bloodaxe",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloodaxe_(comics)"
+  }
+}

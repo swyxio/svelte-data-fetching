@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    "Hijacker"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Larry Lieber",
+    "Stan Lee"
+  ],
+  "description": "Hijacker is a fictional American comic book character owned by Marvel Comics who exists in that company's Marvel Universe.Hijacker was a gimmick-laden villain who specialized in stealing technology for later resale in criminal auctions.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Hijacker",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 200,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Howard Mitchell"
+  ],
+  "species": [
+  ],
+  "superName": "Hijacker",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hijacker_(comics)"
+  }
+}

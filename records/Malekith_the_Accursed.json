@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Angel",
+    "Balder",
+    "Dark Elf",
+    "Malcolm Keith",
+    "Malekith the Accursed",
+    "Master of the Hounds"
+  ],
+  "authors": [
+    "Walt Simonson"
+  ],
+  "description": "Malekith the Accursed is a fictional character, a supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Malekith_the_Accursed_Profile.jpg/250px-Malekith_the_Accursed_Profile.jpg"
+  },
+  "mainColor": null,
+  "name": "Malekith the Accursed",
+  "partners": [
+    "Loki",
+    "Surtur"
+  ],
+  "powers": [
+    "Agility",
+    "Durability",
+    "Intellect",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Wields dark faerie magic",
+    "Wild hunt"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7605,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Malekith"
+  ],
+  "species": [
+    "Dark Elf"
+  ],
+  "superName": "Malekith the Accursed",
+  "teams": [
+    "Dark Council"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Malekith_the_Accursed"
+  }
+}

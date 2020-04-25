@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    "Tommy",
+    "Tracer"
+  ],
+  "authors": [
+    "Mike Wieringo",
+    "Peter David"
+  ],
+  "description": "Tracer is a fictional character, a supervillain in the Marvel Comics Universe, in which he is an enemy of Spider-Man.",
+  "images": {
+    "background": null,
+    "thumbnail": null
+  },
+  "mainColor": null,
+  "name": "Tracer",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 151,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Tracer",
+  "teams": [
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracer_(Marvel_Comics)"
+  }
+}

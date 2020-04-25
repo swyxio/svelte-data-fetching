@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    "Vermin"
+  ],
+  "authors": [
+    "J. M. DeMatteis",
+    "Mike Zeck"
+  ],
+  "description": "Edward Whelan was found roaming the streets of New York by Baron Helmut Zemo, who subjected Whelan to Zemo's genetic experiments, which granted him superhuman strength, but, in the process of the mutation, he manifested a rat-like physical appearance, and was called Vermin.",
+  "images": {
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/528d3638185cb/standard_xlarge.jpg"
+  },
+  "mainColor": null,
+  "name": "Vermin",
+  "partners": [
+    "Armin Zola",
+    "Arnim Zola",
+    "Baron Zemo"
+  ],
+  "powers": [
+    "Accomplished geneticist",
+    "Claws",
+    "Durability",
+    "Extremely acute senses",
+    "Peak level agility",
+    "Razor sharp teeth",
+    "Reflexes",
+    "Senses",
+    "Sharp teeth",
+    "Speed",
+    "Stamina",
+    "Stray dogs",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 0,
+    "pageviewCount": 1103,
+    "serieCount": 4,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Edward Whelan"
+  ],
+  "species": [
+  ],
+  "superName": "Vermin",
+  "teams": [
+    "New Revengers"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2482/vermin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vermin_(comics)"
+  }
+}

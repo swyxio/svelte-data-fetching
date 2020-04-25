@@ -1,0 +1,47 @@
+{
+  "aliases": [
+    "Deadpool",
+    "Madcap"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Paul Neary"
+  ],
+  "description": "Madcap is a fictional supervillain appearing in American comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Madcap_Roland_Boschi.jpg/250px-Madcap_Roland_Boschi.jpg"
+  },
+  "mainColor": null,
+  "name": "Madcap",
+  "partners": [
+  ],
+  "powers": [
+    "Healing factor",
+    "Immortality",
+    "Insanity inducement"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3297,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "superName": "Madcap",
+  "teams": [
+    "Ghost Rider Assassination League",
+    "Masters of Evil",
+    "Mercs for Money",
+    "Unkillables",
+    "Wild Pack"
+  ],
+  "urls": {
+    "marvel": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Madcap_(comics)"
+  }
+}

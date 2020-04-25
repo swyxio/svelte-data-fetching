@@ -1,0 +1,54 @@
+{
+  "aliases": [
+    "Ariel",
+    "Katherine Pryde",
+    "Kitty Pryde",
+    "Shadowcat",
+    "Sprite",
+    "Star-Lady",
+    "Star-Lord"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Katherine Anne \"Kitty\" Pryde is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/537bb347d768c.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/537bb31597487/standard_xlarge.jpg"
+  },
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "hexa": "3A2409",
+    "red": 58
+  },
+  "name": "Kitty Pryde",
+  "partners": [
+  ],
+  "powers": [
+    "Intangibility"
+  ],
+  "ranking": {
+    "comicCount": 151,
+    "eventCount": 7,
+    "pageviewCount": 23999,
+    "serieCount": 60,
+    "storyCount": 163
+  },
+  "secretIdentities": [
+    "Katherine Anne Pryde",
+    "Kitty"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "superName": "Kitty Pryde",
+  "teams": [
+    "X-Men"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/32/kitty_pryde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kitty_Pryde"
+  }
+}
