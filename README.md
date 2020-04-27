@@ -6,8 +6,9 @@ You can also make them with **a lot less code**.
 
 ## Demo
 
-- https://svelte-data-fetching.netlify.app/
-- https://github.com/sw-yx/svelte-data-fetching
+- Live Demo: https://svelte-data-fetching.netlify.app/
+- Repo: https://github.com/sw-yx/svelte-data-fetching
+- YouTube talk: https://www.youtube.com/watch?v=nR8XRpin4OI&feature=youtu.be
 - Given at conference: https://sveltesociety.dev/
 
 ![sveltetalk](https://user-images.githubusercontent.com/6764957/80290785-6fd1c600-877a-11ea-9878-1a7c2191fb49.gif)
